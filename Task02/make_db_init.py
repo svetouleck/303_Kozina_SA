@@ -1,3 +1,6 @@
+#!/usr/local/bin/python
+# coding: utf-8
+
 import re    
 
 def parse_line(s):
@@ -64,7 +67,7 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
     print("INSERT INTO movies (id, title, year, genres)", end="\n", file=fout)
     print(f"VALUES", end=" ", file=fout)
 
-    with open("..\dataset\movies.csv", "r", encoding="utf-8") as f:
+    with open("movies.csv", "r", encoding="utf-8") as f:
         file = f.readlines()[1:]
         #data = []
         for i in range(len(file)):
@@ -81,7 +84,7 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
     print("INSERT INTO ratings (id, user_id, movie_id, rating, timestamp)", end="\n", file=fout)
     print(f"VALUES", end=" ", file=fout)
     
-    with open("../dataset/ratings.csv", "r") as fl:
+    with open("ratings.csv", "r") as fl:
         file = fl.readlines()[1:]
         for i in range(len(file)):
             item = file[i][:-1].split(",")
@@ -96,7 +99,7 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
     print("INSERT INTO tags (id, user_id, movie_id, tag, timestamp)", end="\n", file=fout)
     print(f"VALUES", end=" ", file=fout)
     
-    with open("../dataset/tags.csv", "r") as fl:
+    with open("tags.csv", "r") as fl:
         file = fl.readlines()[1:]
         for i in range(len(file)):
             item = file[i][:-1]
@@ -113,7 +116,7 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
     print("INSERT INTO users (id, name, email, gender, register_date, occupation)", end="\n", file=fout)
     print(f"VALUES", end=" ", file=fout)
     
-    with open("../dataset/users.txt", "r") as fl:
+    with open("users.txt", "r") as fl:
         file = fl.readlines()[1:]
         for i in range(len(file)):
             item = file[i][:-1]
