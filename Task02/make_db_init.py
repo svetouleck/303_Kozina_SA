@@ -4,39 +4,34 @@
 import re    
 
 def parse_line(s):
-    s+="#"
-    mass = []
-    
-    # выделение поля id
-    e1 = re.match(r'\d*', s).end()
-    mass.append(s[:e1])
-    s=s[e1+1:]
-    e2 = 0
-    
-    # выделение поля genres
-    if re.search(r'(no genres listed)', s) is None:
-        e2=s.rfind(",")
-        mass.append(s[e2+1:-1])
-        s = s[:e2]
+    #выделение id
+    id_end = re.match(r'\d*', s).end()
+    id = s[:id_end]
+    #выделение year
+    year = "NULL"
+    title = "NULL"
+    genres = "NULL"
+    if re.search(r'[(]\d\d\d\d[)]',s) is None:
+        if re.search(r'(no genres listed)', s) is None:
+            title_end = s.rfind(",")
+            title = s[id_end+1: title_end]
+            genres = s[title_end+1:]
+        else:
+            title = s[id_end+1:]
     else:
-        mass.append("NULL")
-        e2 = re.search(r'(no genres listed)', s).start()
-        s = s[:e2-2]
-        
-    # выделение поля year
-    if re.search(r'[(].*\d\d\d\d[)]', s) is None:
-        mass.append("NULL")
-    else:
-        e2 = re.search(r'[(].*\d\d\d\d[)]', s).start()
-        e3 = re.search(r'[(].*\d\d\d\d[)]', s).end()
-        x=s[e2+1:e3-1]
-        mass.append(re.search(r'\d\d\d\d', x).group(0))
-        s=s[:e2]
-        
-    # всё остальное - поле title
-    s=s.replace("\"", "")
-    mass.append(s.replace("'", "‘"))
-    return(mass)
+        #выделение year
+        year_end = re.search(r'[(]\d\d\d\d[)]',s).end()
+        year_start = re.search(r'[(]\d\d\d\d[)]',s).start()
+        year = s[year_start+1:year_end-1]
+        #выделение genres  
+        genres = s[year_end+1:]
+        #выделение title 
+        title = s[id_end+1:year_start-1]
+
+    title = title.replace("'", "‘")
+    if title[-1] == " ":
+        title = title[:-1]
+    return [id, title, year, genres]
 
 
 
@@ -73,10 +68,12 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
         for i in range(len(file)):
             #data.append(parse_line(row[:-1]))
             item = parse_line(file[i][:-1])
+            item[1] = item[1].replace("\"", "")
+            item[3] = item[3].replace(",", "")
             if i != len(file)-1:
-                print(f"({item[0]}, '{item[3]}', {item[2]}, '{item[1]}'),\n", file=fout)
+                print(f"({item[0]}, '{item[1]}', {item[2]}, '{item[3]}'),\n", file=fout)
             else:
-                print(f"({item[0]}, '{item[3]}', {item[2]}, '{item[1]}');\n", file=fout) 
+                print(f"({item[0]}, '{item[1]}', {item[2]}, '{item[3]}');\n", file=fout) 
                 
                 
                 
@@ -117,15 +114,15 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
     print(f"VALUES", end=" ", file=fout)
     
     with open("users.txt", "r") as fl:
-        file = fl.readlines()[1:]
+        file = fl.readlines()
         for i in range(len(file)):
             item = file[i][:-1]
             item = item.replace("'", "‘")
             item = item.split("|")
             if i != len(file)-1:
-                print(f"( {item[0]}, '{item[1]}', '{item[2]}', '{item[3]}', {item[4]}, '{item[5]}'),\n", file=fout)
+                print(f"( {item[0]}, '{item[1]}', '{item[2]}', '{item[3]}', '{item[4]}', '{item[5]}'),\n", file=fout)
             else:
-                print(f"( {item[0]}, '{item[1]}', '{item[2]}', '{item[3]}', {item[4]}, '{item[5]}');\n", file=fout) 
+                print(f"( {item[0]}, '{item[1]}', '{item[2]}', '{item[3]}', '{item[4]}', '{item[5]}');\n", file=fout) 
                 
                 
                 
