@@ -39,7 +39,7 @@ VALUES
 
 (10, 'GoldenEye', 1995, 'Action|Adventure|Thriller'),
 
-(11, '"American President, The', 1995, 'Comedy|Drama|Romance'),
+(11, 'American President, The', 1995, 'Comedy|Drama|Romance'),
 
 (12, 'Dracula: Dead and Loving It', 1995, 'Comedy|Horror'),
 
@@ -75,7 +75,7 @@ VALUES
 
 (28, 'Persuasion', 1995, 'Drama|Romance'),
 
-(29, '"City of Lost Children, The (Cité des enfants perdus, La)', 1995, 'Adventure|Drama|Fantasy|Mystery|Sci-Fi'),
+(29, 'City of Lost Children, The (Cité des enfants perdus, La)', 1995, 'Adventure|Drama|Fantasy|Mystery|Sci-Fi'),
 
 (30, 'Shanghai Triad (Yao a yao yao dao waipo qiao)', 1995, 'Crime|Drama'),
 
@@ -91,7 +91,7 @@ VALUES
 
 (39, 'Clueless', 1995, 'Comedy|Romance'),
 
-(40, '"Cry, the Beloved Country', 1995, 'Drama'),
+(40, 'Cry, the Beloved Country', 1995, 'Drama'),
 
 (41, 'Richard III', 1995, 'Drama|War'),
 
@@ -111,21 +111,21 @@ VALUES
 
 (49, 'When Night Is Falling', 1995, 'Drama|Romance'),
 
-(50, '"Usual Suspects, The', 1995, 'Crime|Mystery|Thriller'),
+(50, 'Usual Suspects, The', 1995, 'Crime|Mystery|Thriller'),
 
 (52, 'Mighty Aphrodite', 1995, 'Comedy|Drama|Romance'),
 
 (53, 'Lamerica', 1994, 'Adventure|Drama'),
 
-(54, '"Big Green, The', 1995, 'Children|Comedy'),
+(54, 'Big Green, The', 1995, 'Children|Comedy'),
 
 (55, 'Georgia', 1995, 'Drama'),
 
 (57, 'Home for the Holidays', 1995, 'Drama'),
 
-(58, '"Postman, The (Postino, Il)', 1994, 'Comedy|Drama|Romance'),
+(58, 'Postman, The (Postino, Il)', 1994, 'Comedy|Drama|Romance'),
 
-(60, '"Indian in the Cupboard, The', 1995, 'Adventure|Children|Fantasy'),
+(60, 'Indian in the Cupboard, The', 1995, 'Adventure|Children|Fantasy'),
 
 (61, 'Eye for an Eye', 1996, 'Drama|Thriller'),
 
@@ -149,7 +149,7 @@ VALUES
 
 (72, 'Kicking and Screaming', 1995, 'Comedy|Drama'),
 
-(73, '"Misérables, Les', 1995, 'Drama|War'),
+(73, 'Misérables, Les', 1995, 'Drama|War'),
 
 (74, 'Bed of Roses', 1996, 'Drama|Romance'),
 
@@ -159,11 +159,11 @@ VALUES
 
 (77, 'Nico Icon', 1995, 'Documentary'),
 
-(78, '"Crossing Guard, The', 1995, 'Action|Crime|Drama|Thriller'),
+(78, 'Crossing Guard, The', 1995, 'Action|Crime|Drama|Thriller'),
 
-(79, '"Juror, The', 1996, 'Drama|Thriller'),
+(79, 'Juror, The', 1996, 'Drama|Thriller'),
 
-(80, '"White Balloon, The (Badkonake sefid)', 1995, 'Children|Drama'),
+(80, 'White Balloon, The (Badkonake sefid)', 1995, 'Children|Drama'),
 
 (81, 'Things to Do in Denver When You‘re Dead', 1995, 'Crime|Drama|Romance'),
 
@@ -191,7 +191,7 @@ VALUES
 
 (96, 'In the Bleak Midwinter', 1995, 'Comedy|Drama'),
 
-(97, '"Hate (Haine, La)', 1995, 'Crime|Drama'),
+(97, 'Hate (Haine, La)', 1995, 'Crime|Drama'),
 
 (99, 'Heidi Fleiss: Hollywood Madam', 1995, 'Documentary'),
 
@@ -205,7 +205,7 @@ VALUES
 
 (104, 'Happy Gilmore', 1996, 'Comedy'),
 
-(105, '"Bridges of Madison County, The', 1995, 'Drama|Romance'),
+(105, 'Bridges of Madison County, The', 1995, 'Drama|Romance'),
 
 (106, 'Nobody Loves Me (Keiner liebt mich)', 1994, 'Comedy|Drama'),
 
@@ -223,13 +223,13 @@ VALUES
 
 (116, 'Anne Frank Remembered', 1995, 'Documentary'),
 
-(117, '"Young Poisoner‘s Handbook, The', 1995, 'Crime|Drama'),
+(117, 'Young Poisoner‘s Handbook, The', 1995, 'Crime|Drama'),
 
 (118, 'If Lucy Fell', 1996, 'Comedy|Romance'),
 
-(119, '"Steal Big, Steal Little', 1995, 'Comedy'),
+(119, 'Steal Big, Steal Little', 1995, 'Comedy'),
 
-(121, '"Boys of St. Vincent, The', 1992, 'Drama'),
+(121, 'Boys of St. Vincent, The', 1992, 'Drama'),
 
 (122, 'Boomerang', 1992, 'Comedy|Romance'),
 
@@ -237,7 +237,7 @@ VALUES
 
 (125, 'Flirting With Disaster', 1996, 'Comedy'),
 
-(126, '"NeverEnding Story III, The', 1994, 'Adventure|Children|Fantasy'),
+(126, 'NeverEnding Story III, The', 1994, 'Adventure|Children|Fantasy'),
 
 (128, 'Jupiter‘s Wife', 1994, 'Documentary'),
 
@@ -251,17 +251,17 @@ VALUES
 
 (140, 'Up Close and Personal', 1996, 'Drama|Romance'),
 
-(141, '"Birdcage, The', 1996, 'Comedy'),
+(141, 'Birdcage, The', 1996, 'Comedy'),
 
-(144, '"Brothers McMullen, The', 1995, 'Comedy'),
+(144, 'Brothers McMullen, The', 1995, 'Comedy'),
 
 (145, 'Bad Boys', 1995, 'Action|Comedy|Crime|Drama|Thriller'),
 
-(146, '"Amazing Panda Adventure, The', 1995, 'Adventure|Children'),
+(146, 'Amazing Panda Adventure, The', 1995, 'Adventure|Children'),
 
-(147, '"Basketball Diaries, The', 1995, 'Drama'),
+(147, 'Basketball Diaries, The', 1995, 'Drama'),
 
-(148, '"Awfully Big Adventure, An', 1995, 'Drama'),
+(148, 'Awfully Big Adventure, An', 1995, 'Drama'),
 
 (149, 'Amateur', 1994, 'Crime|Drama|Thriller'),
 
@@ -269,7 +269,7 @@ VALUES
 
 (151, 'Rob Roy', 1995, 'Action|Drama|Romance|War'),
 
-(152, '"Addiction, The', 1995, 'Drama|Horror'),
+(152, 'Addiction, The', 1995, 'Drama|Horror'),
 
 (153, 'Batman Forever', 1995, 'Action|Adventure|Comedy|Crime'),
 
@@ -297,7 +297,7 @@ VALUES
 
 (165, 'Die Hard: With a Vengeance', 1995, 'Action|Crime|Thriller'),
 
-(166, '"Doom Generation, The', 1995, 'Comedy|Crime|Drama'),
+(166, 'Doom Generation, The', 1995, 'Comedy|Crime|Drama'),
 
 (168, 'First Knight', 1995, 'Action|Drama|Romance'),
 
@@ -331,19 +331,19 @@ VALUES
 
 (184, 'Nadja', 1994, 'Drama'),
 
-(185, '"Net, The', 1995, 'Action|Crime|Thriller'),
+(185, 'Net, The', 1995, 'Action|Crime|Thriller'),
 
 (186, 'Nine Months', 1995, 'Comedy|Romance'),
 
 (187, 'Party Girl', 1995, 'Comedy'),
 
-(188, '"Prophecy, The', 1995, 'Fantasy|Horror|Mystery'),
+(188, 'Prophecy, The', 1995, 'Fantasy|Horror|Mystery'),
 
 (189, 'Reckless', 1995, 'Comedy|Fantasy'),
 
 (190, 'Safe', 1995, 'Thriller'),
 
-(191, '"Scarlet Letter, The', 1995, 'Drama|Romance'),
+(191, 'Scarlet Letter, The', 1995, 'Drama|Romance'),
 
 (193, 'Showgirls', 1995, 'Drama'),
 
@@ -355,13 +355,13 @@ VALUES
 
 (198, 'Strange Days', 1995, 'Action|Crime|Drama|Mystery|Sci-Fi|Thriller'),
 
-(199, '"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)', 1964, 'Drama|Musical|Romance'),
+(199, 'Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)', 1964, 'Drama|Musical|Romance'),
 
 (201, 'Three Wishes', 1995, 'Drama|Fantasy'),
 
 (202, 'Total Eclipse', 1995, 'Drama|Romance'),
 
-(203, '"To Wong Foo, Thanks for Everything! Julie Newmar', 1995, 'Comedy'),
+(203, 'To Wong Foo, Thanks for Everything! Julie Newmar', 1995, 'Comedy'),
 
 (204, 'Under Siege 2: Dark Territory', 1995, 'Action'),
 
@@ -369,7 +369,7 @@ VALUES
 
 (206, 'Unzipped', 1995, 'Documentary'),
 
-(207, '"Walk in the Clouds, A', 1995, 'Drama|Romance'),
+(207, 'Walk in the Clouds, A', 1995, 'Drama|Romance'),
 
 (208, 'Waterworld', 1995, 'Action|Adventure|Sci-Fi'),
 
@@ -377,7 +377,7 @@ VALUES
 
 (210, 'Wild Bill', 1995, 'Western'),
 
-(211, '"Browning Version, The', 1994, 'Drama'),
+(211, 'Browning Version, The', 1994, 'Drama'),
 
 (212, 'Bushwhacked', 1995, 'Adventure|Comedy|Crime|Mystery'),
 
@@ -389,11 +389,11 @@ VALUES
 
 (216, 'Billy Madison', 1995, 'Comedy'),
 
-(217, '"Babysitter, The', 1995, 'Drama|Thriller'),
+(217, 'Babysitter, The', 1995, 'Drama|Thriller'),
 
 (218, 'Boys on the Side', 1995, 'Comedy|Drama'),
 
-(219, '"Cure, The', 1995, 'Drama'),
+(219, 'Cure, The', 1995, 'Drama'),
 
 (220, 'Castle Freak', 1995, 'Horror'),
 
@@ -429,7 +429,7 @@ VALUES
 
 (238, 'Far From Home: The Adventures of Yellow Dog', 1995, 'Adventure|Children'),
 
-(239, '"Goofy Movie, A', 1995, 'Animation|Children|Comedy|Romance'),
+(239, 'Goofy Movie, A', 1995, 'Animation|Children|Comedy|Romance'),
 
 (240, 'Hideaway', 1995, 'Thriller'),
 
@@ -449,7 +449,7 @@ VALUES
 
 (250, 'Heavyweights (Heavy Weights)', 1995, 'Children|Comedy'),
 
-(251, '"Hunted, The', 1995, 'Action'),
+(251, 'Hunted, The', 1995, 'Action'),
 
 (252, 'I.Q.', 1994, 'Comedy|Romance'),
 
@@ -457,13 +457,13 @@ VALUES
 
 (254, 'Jefferson in Paris', 1995, 'Drama'),
 
-(255, '"Jerky Boys, The', 1995, 'Comedy'),
+(255, 'Jerky Boys, The', 1995, 'Comedy'),
 
 (256, 'Junior', 1994, 'Comedy|Sci-Fi'),
 
 (257, 'Just Cause', 1995, 'Mystery|Thriller'),
 
-(258, '"Kid in King Arthur‘s Court, A', 1995, 'Adventure|Children|Comedy|Fantasy|Romance'),
+(258, 'Kid in King Arthur‘s Court, A', 1995, 'Adventure|Children|Comedy|Fantasy|Romance'),
 
 (259, 'Kiss of Death', 1995, 'Crime|Drama|Thriller'),
 
@@ -471,7 +471,7 @@ VALUES
 
 (261, 'Little Women', 1994, 'Drama'),
 
-(262, '"Little Princess, A', 1995, 'Children|Drama'),
+(262, 'Little Princess, A', 1995, 'Children|Drama'),
 
 (263, 'Ladybird Ladybird', 1994, 'Drama'),
 
@@ -487,7 +487,7 @@ VALUES
 
 (271, 'Losing Isaiah', 1995, 'Drama'),
 
-(272, '"Madness of King George, The', 1994, 'Comedy|Drama'),
+(272, 'Madness of King George, The', 1994, 'Comedy|Drama'),
 
 (273, 'Mary Shelley‘s Frankenstein (Frankenstein)', 1994, 'Drama|Horror|Sci-Fi'),
 
@@ -529,9 +529,9 @@ VALUES
 
 (293, 'Léon: The Professional (a.k.a. The Professional) (Léon)', 1994, 'Action|Crime|Drama|Thriller'),
 
-(294, '"Perez Family, The', 1995, 'Comedy|Romance'),
+(294, 'Perez Family, The', 1995, 'Comedy|Romance'),
 
-(295, '"Pyromaniac‘s Love Story, A', 1995, 'Comedy|Romance'),
+(295, 'Pyromaniac‘s Love Story, A', 1995, 'Comedy|Romance'),
 
 (296, 'Pulp Fiction', 1994, 'Comedy|Crime|Drama|Thriller'),
 
@@ -543,9 +543,9 @@ VALUES
 
 (301, 'Picture Bride (Bijo photo)', 1994, 'Drama|Romance'),
 
-(302, '"Queen Margot (Reine Margot, La)', 1994, 'Drama|Romance'),
+(302, 'Queen Margot (Reine Margot, La)', 1994, 'Drama|Romance'),
 
-(303, '"Quick and the Dead, The', 1995, 'Action|Thriller|Western'),
+(303, 'Quick and the Dead, The', 1995, 'Action|Thriller|Western'),
 
 (304, 'Roommates', 1995, 'Comedy|Drama'),
 
@@ -563,17 +563,17 @@ VALUES
 
 (312, 'Stuart Saves His Family', 1995, 'Comedy'),
 
-(313, '"Swan Princess, The', 1994, 'Animation|Children'),
+(313, 'Swan Princess, The', 1994, 'Animation|Children'),
 
-(314, '"Secret of Roan Inish, The', 1994, 'Children|Drama|Fantasy|Mystery'),
+(314, 'Secret of Roan Inish, The', 1994, 'Children|Drama|Fantasy|Mystery'),
 
-(315, '"Specialist, The', 1994, 'Action|Drama|Thriller'),
+(315, 'Specialist, The', 1994, 'Action|Drama|Thriller'),
 
 (316, 'Stargate', 1994, 'Action|Adventure|Sci-Fi'),
 
-(317, '"Santa Clause, The', 1994, 'Comedy|Drama|Fantasy'),
+(317, 'Santa Clause, The', 1994, 'Comedy|Drama|Fantasy'),
 
-(318, '"Shawshank Redemption, The', 1994, 'Crime|Drama'),
+(318, 'Shawshank Redemption, The', 1994, 'Crime|Drama'),
 
 (319, 'Shallow Grave', 1994, 'Comedy|Drama|Thriller'),
 
@@ -583,7 +583,7 @@ VALUES
 
 (322, 'Swimming with Sharks', 1995, 'Comedy|Drama'),
 
-(324, '"Sum of Us, The', 1994, 'Comedy|Drama'),
+(324, 'Sum of Us, The', 1994, 'Comedy|Drama'),
 
 (325, 'National Lampoon‘s Senior Trip', 1995, 'Comedy'),
 
@@ -607,7 +607,7 @@ VALUES
 
 (335, 'Underneath', 1995, 'Mystery|Thriller'),
 
-(336, '"Walking Dead, The', 1995, 'Drama|War'),
+(336, 'Walking Dead, The', 1995, 'Drama|War'),
 
 (337, 'What‘s Eating Gilbert Grape', 1993, 'Drama'),
 
@@ -615,17 +615,17 @@ VALUES
 
 (339, 'While You Were Sleeping', 1995, 'Comedy|Romance'),
 
-(340, '"War, The', 1994, 'Adventure|Drama|War'),
+(340, 'War, The', 1994, 'Adventure|Drama|War'),
 
 (341, 'Double Happiness', 1994, 'Drama'),
 
 (342, 'Muriel‘s Wedding', 1994, 'Comedy'),
 
-(343, '"Baby-Sitters Club, The', 1995, 'Children'),
+(343, 'Baby-Sitters Club, The', 1995, 'Children'),
 
 (344, 'Ace Ventura: Pet Detective', 1994, 'Comedy'),
 
-(345, '"Adventures of Priscilla, Queen of the Desert, The', 1994, 'Comedy|Drama'),
+(345, 'Adventures of Priscilla, Queen of the Desert, The', 1994, 'Comedy|Drama'),
 
 (346, 'Backbeat', 1993, 'Drama|Musical'),
 
@@ -635,17 +635,17 @@ VALUES
 
 (349, 'Clear and Present Danger', 1994, 'Action|Crime|Drama|Thriller'),
 
-(350, '"Client, The', 1994, 'Drama|Mystery|Thriller'),
+(350, 'Client, The', 1994, 'Drama|Mystery|Thriller'),
 
-(351, '"Corrina, Corrina', 1994, 'Comedy|Drama|Romance'),
+(351, 'Corrina, Corrina', 1994, 'Comedy|Drama|Romance'),
 
 (352, 'Crooklyn', 1994, 'Comedy|Drama'),
 
-(353, '"Crow, The', 1994, 'Action|Crime|Fantasy|Thriller'),
+(353, 'Crow, The', 1994, 'Action|Crime|Fantasy|Thriller'),
 
 (354, 'Cobb', 1994, 'Drama'),
 
-(355, '"Flintstones, The', 1994, 'Children|Comedy|Fantasy'),
+(355, 'Flintstones, The', 1994, 'Children|Comedy|Fantasy'),
 
 (356, 'Forrest Gump', 1994, 'Comedy|Drama|Romance|War'),
 
@@ -659,17 +659,17 @@ VALUES
 
 (361, 'It Could Happen to You', 1994, 'Comedy|Drama|Romance'),
 
-(362, '"Jungle Book, The', 1994, 'Adventure|Children|Romance'),
+(362, 'Jungle Book, The', 1994, 'Adventure|Children|Romance'),
 
-(363, '"Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die)', 1993, 'Documentary'),
+(363, 'Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die)', 1993, 'Documentary'),
 
-(364, '"Lion King, The', 1994, 'Adventure|Animation|Children|Drama|Musical|IMAX'),
+(364, 'Lion King, The', 1994, 'Adventure|Animation|Children|Drama|Musical|IMAX'),
 
 (365, 'Little Buddha', 1993, 'Drama'),
 
-(366, '"Wes Craven‘s New Nightmare (Nightmare on Elm Street Part 7: Freddy‘s Finale, A)', 1994, 'Drama|Horror|Mystery|Thriller'),
+(366, 'Wes Craven‘s New Nightmare (Nightmare on Elm Street Part 7: Freddy‘s Finale, A)', 1994, 'Drama|Horror|Mystery|Thriller'),
 
-(367, '"Mask, The', 1994, 'Action|Comedy|Crime|Fantasy'),
+(367, 'Mask, The', 1994, 'Action|Comedy|Crime|Fantasy'),
 
 (368, 'Maverick', 1994, 'Adventure|Comedy|Western'),
 
@@ -677,7 +677,7 @@ VALUES
 
 (370, 'Naked Gun 33 1/3: The Final Insult', 1994, 'Action|Comedy'),
 
-(371, '"Paper, The', 1994, 'Comedy|Drama'),
+(371, 'Paper, The', 1994, 'Comedy|Drama'),
 
 (372, 'Reality Bites', 1994, 'Comedy|Drama|Romance'),
 
@@ -685,7 +685,7 @@ VALUES
 
 (374, 'Richie Rich', 1994, 'Children|Comedy'),
 
-(376, '"River Wild, The', 1994, 'Action|Thriller'),
+(376, 'River Wild, The', 1994, 'Action|Thriller'),
 
 (377, 'Speed', 1994, 'Action|Romance|Thriller'),
 
@@ -703,15 +703,15 @@ VALUES
 
 (384, 'Bad Company', 1995, 'Action|Crime|Drama'),
 
-(385, '"Man of No Importance, A', 1994, 'Drama'),
+(385, 'Man of No Importance, A', 1994, 'Drama'),
 
 (386, 'S.F.W.', 1994, 'Drama'),
 
-(387, '"Low Down Dirty Shame, A', 1994, 'Action|Comedy'),
+(387, 'Low Down Dirty Shame, A', 1994, 'Action|Comedy'),
 
 (388, 'Boys Life', 1995, 'Drama'),
 
-(389, '"Colonel Chabert, Le', 1994, 'Drama|Romance|War'),
+(389, 'Colonel Chabert, Le', 1994, 'Drama|Romance|War'),
 
 (390, 'Faster Pussycat! Kill! Kill!', 1965, 'Action|Crime|Drama'),
 
@@ -731,11 +731,11 @@ VALUES
 
 (410, 'Addams Family Values', 1993, 'Children|Comedy|Fantasy'),
 
-(412, '"Age of Innocence, The', 1993, 'Drama'),
+(412, 'Age of Innocence, The', 1993, 'Drama'),
 
 (413, 'Airheads', 1994, 'Comedy'),
 
-(414, '"Air Up There, The', 1994, 'Comedy'),
+(414, 'Air Up There, The', 1994, 'Comedy'),
 
 (415, 'Another Stakeout', 1993, 'Comedy|Thriller'),
 
@@ -745,7 +745,7 @@ VALUES
 
 (418, 'Being Human', 1993, 'Drama'),
 
-(419, '"Beverly Hillbillies, The', 1993, 'Comedy'),
+(419, 'Beverly Hillbillies, The', 1993, 'Comedy'),
 
 (420, 'Beverly Hills Cop III', 1994, 'Action|Comedy|Crime|Thriller'),
 
@@ -763,7 +763,7 @@ VALUES
 
 (427, 'Boxing Helena', 1993, 'Drama|Mystery|Romance|Thriller'),
 
-(428, '"Bronx Tale, A', 1993, 'Drama'),
+(428, 'Bronx Tale, A', 1993, 'Drama'),
 
 (429, 'Cabin Boy', 1994, 'Comedy'),
 
@@ -783,7 +783,7 @@ VALUES
 
 (437, 'Cops and Robbersons', 1994, 'Comedy'),
 
-(438, '"Cowboy Way, The', 1994, 'Action|Comedy|Drama'),
+(438, 'Cowboy Way, The', 1994, 'Action|Comedy|Drama'),
 
 (440, 'Dave', 1993, 'Comedy|Romance'),
 
@@ -809,17 +809,17 @@ VALUES
 
 (453, 'For Love or Money', 1993, 'Comedy|Romance'),
 
-(454, '"Firm, The', 1993, 'Drama|Thriller'),
+(454, 'Firm, The', 1993, 'Drama|Thriller'),
 
 (455, 'Free Willy', 1993, 'Adventure|Children|Drama'),
 
 (456, 'Fresh', 1994, 'Crime|Drama|Thriller'),
 
-(457, '"Fugitive, The', 1993, 'Thriller'),
+(457, 'Fugitive, The', 1993, 'Thriller'),
 
 (458, 'Geronimo: An American Legend', 1993, 'Drama|Western'),
 
-(459, '"Getaway, The', 1994, 'Action|Adventure|Crime|Drama|Romance|Thriller'),
+(459, 'Getaway, The', 1994, 'Action|Adventure|Crime|Drama|Romance|Thriller'),
 
 (460, 'Getting Even with Dad', 1994, 'Comedy'),
 
@@ -831,13 +831,13 @@ VALUES
 
 (467, 'Live Nude Girls', 1995, 'Comedy'),
 
-(468, '"Englishman Who Went Up a Hill But Came Down a Mountain, The', 1995, 'Comedy|Romance'),
+(468, 'Englishman Who Went Up a Hill But Came Down a Mountain, The', 1995, 'Comedy|Romance'),
 
-(469, '"House of the Spirits, The', 1993, 'Drama|Romance'),
+(469, 'House of the Spirits, The', 1993, 'Drama|Romance'),
 
 (470, 'House Party 3', 1994, 'Comedy'),
 
-(471, '"Hudsucker Proxy, The', 1994, 'Comedy'),
+(471, 'Hudsucker Proxy, The', 1994, 'Comedy'),
 
 (472, 'I‘ll Do Anything', 1994, 'Comedy|Drama'),
 
@@ -847,7 +847,7 @@ VALUES
 
 (475, 'In the Name of the Father', 1993, 'Drama'),
 
-(476, '"Inkwell, The', 1994, 'Comedy|Drama'),
+(476, 'Inkwell, The', 1994, 'Comedy|Drama'),
 
 (477, 'What‘s Love Got to Do with It?', 1993, 'Drama|Musical'),
 
@@ -875,7 +875,7 @@ VALUES
 
 (490, 'Malice', 1993, 'Thriller'),
 
-(491, '"Man Without a Face, The', 1993, 'Drama'),
+(491, 'Man Without a Face, The', 1993, 'Drama'),
 
 (492, 'Manhattan Murder Mystery', 1993, 'Comedy|Mystery'),
 
@@ -895,7 +895,7 @@ VALUES
 
 (501, 'Naked', 1993, 'Drama'),
 
-(502, '"Next Karate Kid, The', 1994, 'Action|Children|Romance'),
+(502, 'Next Karate Kid, The', 1994, 'Action|Children|Romance'),
 
 (504, 'No Escape', 1994, 'Action|Drama|Sci-Fi'),
 
@@ -903,29 +903,29 @@ VALUES
 
 (506, 'Orlando', 1992, 'Drama|Fantasy|Romance'),
 
-(507, '"Perfect World, A', 1993, 'Crime|Drama|Thriller'),
+(507, 'Perfect World, A', 1993, 'Crime|Drama|Thriller'),
 
 (508, 'Philadelphia', 1993, 'Drama'),
 
-(509, '"Piano, The', 1993, 'Drama|Romance'),
+(509, 'Piano, The', 1993, 'Drama|Romance'),
 
 (510, 'Poetic Justice', 1993, 'Drama'),
 
-(511, '"Program, The', 1993, 'Action|Drama'),
+(511, 'Program, The', 1993, 'Action|Drama'),
 
-(512, '"Puppet Masters, The', 1994, 'Horror|Sci-Fi'),
+(512, 'Puppet Masters, The', 1994, 'Horror|Sci-Fi'),
 
 (513, 'Radioland Murders', 1994, 'Comedy|Mystery|Romance'),
 
-(514, '"Ref, The', 1994, 'Comedy'),
+(514, 'Ref, The', 1994, 'Comedy'),
 
-(515, '"Remains of the Day, The', 1993, 'Drama|Romance'),
+(515, 'Remains of the Day, The', 1993, 'Drama|Romance'),
 
 (516, 'Renaissance Man', 1994, 'Comedy|Drama'),
 
 (517, 'Rising Sun', 1993, 'Action|Drama|Mystery'),
 
-(518, '"Road to Wellville, The', 1994, 'Comedy'),
+(518, 'Road to Wellville, The', 1994, 'Comedy'),
 
 (519, 'RoboCop 3', 1993, 'Action|Crime|Drama|Sci-Fi|Thriller'),
 
@@ -939,25 +939,25 @@ VALUES
 
 (524, 'Rudy', 1993, 'Drama'),
 
-(526, '"Savage Nights (Nuits fauves, Les)', 1992, 'Drama'),
+(526, 'Savage Nights (Nuits fauves, Les)', 1992, 'Drama'),
 
 (527, 'Schindler‘s List', 1993, 'Drama|War'),
 
-(528, '"Scout, The', 1994, 'Comedy|Drama'),
+(528, 'Scout, The', 1994, 'Comedy|Drama'),
 
 (529, 'Searching for Bobby Fischer', 1993, 'Drama'),
 
-(531, '"Secret Garden, The', 1993, 'Children|Drama'),
+(531, 'Secret Garden, The', 1993, 'Children|Drama'),
 
 (532, 'Serial Mom', 1994, 'Comedy|Crime|Horror'),
 
-(533, '"Shadow, The', 1994, 'Action|Adventure|Fantasy|Mystery'),
+(533, 'Shadow, The', 1994, 'Action|Adventure|Fantasy|Mystery'),
 
 (534, 'Shadowlands', 1993, 'Drama|Romance'),
 
 (535, 'Short Cuts', 1993, 'Drama'),
 
-(536, '"Simple Twist of Fate, A', 1994, 'Drama'),
+(536, 'Simple Twist of Fate, A', 1994, 'Drama'),
 
 (537, 'Sirens', 1994, 'Drama'),
 
@@ -985,17 +985,17 @@ VALUES
 
 (550, 'Threesome', 1994, 'Comedy|Romance'),
 
-(551, '"Nightmare Before Christmas, The', 1993, 'Animation|Children|Fantasy|Musical'),
+(551, 'Nightmare Before Christmas, The', 1993, 'Animation|Children|Fantasy|Musical'),
 
-(552, '"Three Musketeers, The', 1993, 'Action|Adventure|Comedy|Romance'),
+(552, 'Three Musketeers, The', 1993, 'Action|Adventure|Comedy|Romance'),
 
 (553, 'Tombstone', 1993, 'Action|Drama|Western'),
 
 (555, 'True Romance', 1993, 'Crime|Thriller'),
 
-(556, '"War Room, The', 1993, 'Documentary'),
+(556, 'War Room, The', 1993, 'Documentary'),
 
-(558, '"Pagemaster, The', 1994, 'Action|Adventure|Animation|Children|Fantasy'),
+(558, 'Pagemaster, The', 1994, 'Action|Adventure|Animation|Children|Fantasy'),
 
 (562, 'Welcome to the Dollhouse', 1995, 'Comedy|Drama'),
 
@@ -1009,23 +1009,23 @@ VALUES
 
 (569, 'Little Big League', 1994, 'Comedy|Drama'),
 
-(573, '"Ciao, Professore! (Io speriamo che me la cavo)', 1992, 'Drama'),
+(573, 'Ciao, Professore! (Io speriamo che me la cavo)', 1992, 'Drama'),
 
 (574, 'Spanking the Monkey', 1994, 'Comedy|Drama'),
 
-(575, '"Little Rascals, The', 1994, 'Children|Comedy'),
+(575, 'Little Rascals, The', 1994, 'Children|Comedy'),
 
 (577, 'Andre', 1994, 'Adventure|Children|Drama'),
 
-(579, '"Escort, The (Scorta, La)', 1993, 'Crime|Thriller'),
+(579, 'Escort, The (Scorta, La)', 1993, 'Crime|Thriller'),
 
 (580, 'Princess Caraboo', 1994, 'Drama'),
 
-(581, '"Celluloid Closet, The', 1995, 'Documentary'),
+(581, 'Celluloid Closet, The', 1995, 'Documentary'),
 
 (583, 'Dear Diary (Caro Diario)', 1994, 'Comedy|Drama'),
 
-(585, '"Brady Bunch Movie, The', 1995, 'Comedy'),
+(585, 'Brady Bunch Movie, The', 1995, 'Comedy'),
 
 (586, 'Home Alone', 1990, 'Children|Comedy'),
 
@@ -1039,7 +1039,7 @@ VALUES
 
 (592, 'Batman', 1989, 'Action|Crime|Thriller'),
 
-(593, '"Silence of the Lambs, The', 1991, 'Crime|Horror|Thriller'),
+(593, 'Silence of the Lambs, The', 1991, 'Crime|Horror|Thriller'),
 
 (594, 'Snow White and the Seven Dwarfs', 1937, 'Animation|Children|Drama|Fantasy|Musical'),
 
@@ -1049,11 +1049,11 @@ VALUES
 
 (597, 'Pretty Woman', 1990, 'Comedy|Romance'),
 
-(599, '"Wild Bunch, The', 1969, 'Adventure|Western'),
+(599, 'Wild Bunch, The', 1969, 'Adventure|Western'),
 
 (600, 'Love and a .45', 1994, 'Action|Comedy|Crime'),
 
-(602, '"Great Day in Harlem, A', 1994, 'Documentary'),
+(602, 'Great Day in Harlem, A', 1994, 'Documentary'),
 
 (605, 'One Fine Day', 1996, 'Drama|Romance'),
 
@@ -1067,23 +1067,23 @@ VALUES
 
 (611, 'Hellraiser: Bloodline', 1996, 'Action|Horror|Sci-Fi'),
 
-(612, '"Pallbearer, The', 1996, 'Comedy'),
+(612, 'Pallbearer, The', 1996, 'Comedy'),
 
 (613, 'Jane Eyre', 1996, 'Drama|Romance'),
 
 (615, 'Bread and Chocolate (Pane e cioccolata)', 1973, 'Comedy|Drama'),
 
-(616, '"Aristocats, The', 1970, 'Animation|Children'),
+(616, 'Aristocats, The', 1970, 'Animation|Children'),
 
-(617, '"Flower of My Secret, The (La flor de mi secreto)', 1995, 'Comedy|Drama'),
+(617, 'Flower of My Secret, The (La flor de mi secreto)', 1995, 'Comedy|Drama'),
 
 (618, 'Two Much', 1995, 'Comedy|Romance'),
 
 (619, 'Ed', 1996, 'Comedy'),
 
-(626, '"Thin Line Between Love and Hate, A', 1996, 'Comedy'),
+(626, 'Thin Line Between Love and Hate, A', 1996, 'Comedy'),
 
-(627, '"Last Supper, The', 1995, 'Drama|Thriller'),
+(627, 'Last Supper, The', 1995, 'Drama|Thriller'),
 
 (628, 'Primal Fear', 1996, 'Crime|Drama|Mystery|Thriller'),
 
@@ -1095,7 +1095,7 @@ VALUES
 
 (634, 'Theodore Rex', 1995, 'Comedy'),
 
-(635, '"Family Thing, A', 1996, 'Comedy|Drama'),
+(635, 'Family Thing, A', 1996, 'Comedy|Drama'),
 
 (636, 'Frisk', 1995, 'Drama'),
 
@@ -1133,7 +1133,7 @@ VALUES
 
 (668, 'Song of the Little Road (Pather Panchali)', 1955, 'Drama'),
 
-(670, '"World of Apu, The (Apur Sansar)', 1959, 'Drama'),
+(670, 'World of Apu, The (Apur Sansar)', 1959, 'Drama'),
 
 (671, 'Mystery Science Theater 3000: The Movie', 1996, 'Comedy|Sci-Fi'),
 
@@ -1143,9 +1143,9 @@ VALUES
 
 (678, 'Some Folks Call It a Sling Blade', 1993, 'Drama|Thriller'),
 
-(679, '"Run of the Country, The', 1995, 'Drama'),
+(679, 'Run of the Country, The', 1995, 'Drama'),
 
-(680, '"Alphaville (Alphaville, une étrange aventure de Lemmy Caution)', 1965, 'Drama|Mystery|Romance|Sci-Fi|Thriller'),
+(680, 'Alphaville (Alphaville, une étrange aventure de Lemmy Caution)', 1965, 'Drama|Mystery|Romance|Sci-Fi|Thriller'),
 
 (685, 'It‘s My Party', 1996, 'Drama'),
 
@@ -1155,7 +1155,7 @@ VALUES
 
 (692, 'Solo', 1996, 'Action|Sci-Fi|Thriller'),
 
-(694, '"Substitute, The', 1996, 'Action|Crime|Drama'),
+(694, 'Substitute, The', 1996, 'Action|Crime|Drama'),
 
 (695, 'True Crime', 1996, 'Mystery|Thriller'),
 
@@ -1167,13 +1167,13 @@ VALUES
 
 (703, 'Boys', 1996, 'Drama'),
 
-(704, '"Quest, The', 1996, 'Action|Adventure'),
+(704, 'Quest, The', 1996, 'Action|Adventure'),
 
 (706, 'Sunset Park', 1996, 'Drama'),
 
 (707, 'Mulholland Falls', 1996, 'Crime|Drama|Thriller'),
 
-(708, '"Truth About Cats & Dogs, The', 1996, 'Comedy|Romance'),
+(708, 'Truth About Cats & Dogs, The', 1996, 'Comedy|Romance'),
 
 (709, 'Oliver & Company', 1988, 'Adventure|Animation|Children|Comedy|Musical'),
 
@@ -1183,19 +1183,19 @@ VALUES
 
 (714, 'Dead Man', 1995, 'Drama|Mystery|Western'),
 
-(715, '"Horseman on the Roof, The (Hussard sur le toit, Le)', 1995, 'Drama|Romance'),
+(715, 'Horseman on the Roof, The (Hussard sur le toit, Le)', 1995, 'Drama|Romance'),
 
-(718, '"Visitors, The (Visiteurs, Les)', 1993, 'Comedy|Fantasy|Sci-Fi'),
+(718, 'Visitors, The (Visiteurs, Les)', 1993, 'Comedy|Fantasy|Sci-Fi'),
 
 (719, 'Multiplicity', 1996, 'Comedy'),
 
 (720, 'Wallace & Gromit: The Best of Aardman Animation', 1996, 'Adventure|Animation|Comedy'),
 
-(722, '"Haunted World of Edward D. Wood Jr., The', 1996, 'Documentary'),
+(722, 'Haunted World of Edward D. Wood Jr., The', 1996, 'Documentary'),
 
-(724, '"Craft, The', 1996, 'Drama|Fantasy|Horror|Thriller'),
+(724, 'Craft, The', 1996, 'Drama|Fantasy|Horror|Thriller'),
 
-(725, '"Great White Hype, The', 1996, 'Comedy'),
+(725, 'Great White Hype, The', 1996, 'Comedy'),
 
 (726, 'Last Dance', 1996, 'Drama'),
 
@@ -1203,7 +1203,7 @@ VALUES
 
 (731, 'Heaven‘s Prisoners', 1996, 'Crime|Thriller'),
 
-(733, '"Rock, The', 1996, 'Action|Adventure|Thriller'),
+(733, 'Rock, The', 1996, 'Action|Adventure|Thriller'),
 
 (735, 'Cemetery Man (Dellamorte Dellamore)', 1994, 'Horror'),
 
@@ -1219,9 +1219,9 @@ VALUES
 
 (745, 'Wallace & Gromit: A Close Shave', 1995, 'Animation|Children|Comedy'),
 
-(747, '"Stupids, The', 1996, 'Comedy'),
+(747, 'Stupids, The', 1996, 'Comedy'),
 
-(748, '"Arrival, The', 1996, 'Action|Sci-Fi|Thriller'),
+(748, 'Arrival, The', 1996, 'Action|Sci-Fi|Thriller'),
 
 (750, 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', 1964, 'Comedy|War'),
 
@@ -1231,7 +1231,7 @@ VALUES
 
 (760, 'Stalingrad', 1993, 'Drama|War'),
 
-(761, '"Phantom, The', 1996, 'Action|Adventure'),
+(761, 'Phantom, The', 1996, 'Action|Adventure'),
 
 (762, 'Striptease', 1996, 'Comedy|Crime'),
 
@@ -1253,27 +1253,27 @@ VALUES
 
 (781, 'Stealing Beauty', 1996, 'Drama'),
 
-(782, '"Fan, The', 1996, 'Drama|Thriller'),
+(782, 'Fan, The', 1996, 'Drama|Thriller'),
 
-(783, '"Hunchback of Notre Dame, The', 1996, 'Animation|Children|Drama|Musical|Romance'),
+(783, 'Hunchback of Notre Dame, The', 1996, 'Animation|Children|Drama|Musical|Romance'),
 
-(784, '"Cable Guy, The', 1996, 'Comedy|Thriller'),
+(784, 'Cable Guy, The', 1996, 'Comedy|Thriller'),
 
 (785, 'Kingpin', 1996, 'Comedy'),
 
 (786, 'Eraser', 1996, 'Action|Drama|Thriller'),
 
-(788, '"Nutty Professor, The', 1996, 'Comedy|Fantasy|Romance|Sci-Fi'),
+(788, 'Nutty Professor, The', 1996, 'Comedy|Fantasy|Romance|Sci-Fi'),
 
-(790, '"Unforgettable Summer, An (Un été inoubliable)', 1994, 'Drama'),
+(790, 'Unforgettable Summer, An (Un été inoubliable)', 1994, 'Drama'),
 
-(791, '"Last Klezmer: Leopold Kozlowski, His Life and Music, The', 1994, 'Documentary'),
+(791, 'Last Klezmer: Leopold Kozlowski, His Life and Music, The', 1994, 'Documentary'),
 
 (795, 'Somebody to Love', 1994, 'Drama'),
 
 (798, 'Daylight', 1996, 'Action|Adventure|Drama|Thriller'),
 
-(799, '"Frighteners, The', 1996, 'Comedy|Horror|Thriller'),
+(799, 'Frighteners, The', 1996, 'Comedy|Horror|Thriller'),
 
 (800, 'Lone Star', 1996, 'Drama|Mystery|Western'),
 
@@ -1285,7 +1285,7 @@ VALUES
 
 (804, 'She‘s the One', 1996, 'Comedy|Romance'),
 
-(805, '"Time to Kill, A', 1996, 'Drama|Thriller'),
+(805, 'Time to Kill, A', 1996, 'Drama|Thriller'),
 
 (806, 'American Buffalo', 1996, 'Crime|Drama'),
 
@@ -1297,17 +1297,17 @@ VALUES
 
 (813, 'Larger Than Life', 1996, 'Comedy'),
 
-(818, '"Very Brady Sequel, A', 1996, 'Comedy'),
+(818, 'Very Brady Sequel, A', 1996, 'Comedy'),
 
-(823, '"Collector, The (La collectionneuse)', 1967, 'Drama'),
+(823, 'Collector, The (La collectionneuse)', 1967, 'Drama'),
 
 (824, 'Kaspar Hauser', 1993, 'Drama|Mystery'),
 
-(828, '"Adventures of Pinocchio, The', 1996, 'Adventure|Children'),
+(828, 'Adventures of Pinocchio, The', 1996, 'Adventure|Children'),
 
 (829, 'Joe‘s Apartment', 1996, 'Comedy|Fantasy|Musical'),
 
-(830, '"First Wives Club, The', 1996, 'Comedy'),
+(830, 'First Wives Club, The', 1996, 'Comedy'),
 
 (832, 'Ransom', 1996, 'Crime|Thriller'),
 
@@ -1321,15 +1321,15 @@ VALUES
 
 (838, 'Emma', 1996, 'Comedy|Drama|Romance'),
 
-(839, '"Crow: City of Angels, The', 1996, 'Action|Thriller'),
+(839, 'Crow: City of Angels, The', 1996, 'Action|Thriller'),
 
 (840, 'House Arrest', 1996, 'Children|Comedy'),
 
-(841, '"Eyes Without a Face (Yeux sans visage, Les)', 1959, 'Horror'),
+(841, 'Eyes Without a Face (Yeux sans visage, Les)', 1959, 'Horror'),
 
 (842, 'Tales from the Crypt Presents: Bordello of Blood', 1996, 'Comedy|Horror'),
 
-(848, '"Spitfire Grill, The', 1996, 'Drama'),
+(848, 'Spitfire Grill, The', 1996, 'Drama'),
 
 (849, 'Escape from L.A.', 1996, 'Action|Adventure|Sci-Fi|Thriller'),
 
@@ -1337,7 +1337,7 @@ VALUES
 
 (852, 'Tin Cup', 1996, 'Comedy|Drama|Romance'),
 
-(858, '"Godfather, The', 1972, 'Crime|Drama'),
+(858, 'Godfather, The', 1972, 'Crime|Drama'),
 
 (861, 'Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha)', 1992, 'Action|Comedy|Crime|Thriller'),
 
@@ -1353,13 +1353,13 @@ VALUES
 
 (876, 'Supercop 2 (Project S) (Chao ji ji hua)', 1993, 'Action|Comedy|Crime|Thriller'),
 
-(879, '"Relic, The', 1997, 'Horror|Thriller'),
+(879, 'Relic, The', 1997, 'Horror|Thriller'),
 
-(880, '"Island of Dr. Moreau, The', 1996, 'Sci-Fi|Thriller'),
+(880, 'Island of Dr. Moreau, The', 1996, 'Sci-Fi|Thriller'),
 
 (881, 'First Kid', 1996, 'Children|Comedy'),
 
-(882, '"Trigger Effect, The', 1996, 'Drama|Thriller'),
+(882, 'Trigger Effect, The', 1996, 'Drama|Thriller'),
 
 (885, 'Bogus', 1996, 'Children|Drama|Fantasy'),
 
@@ -1379,11 +1379,11 @@ VALUES
 
 (897, 'For Whom the Bell Tolls', 1943, 'Adventure|Drama|Romance|War'),
 
-(898, '"Philadelphia Story, The', 1940, 'Comedy|Drama|Romance'),
+(898, 'Philadelphia Story, The', 1940, 'Comedy|Drama|Romance'),
 
 (899, 'Singin‘ in the Rain', 1952, 'Comedy|Musical|Romance'),
 
-(900, '"American in Paris, An', 1951, 'Musical|Romance'),
+(900, 'American in Paris, An', 1951, 'Musical|Romance'),
 
 (901, 'Funny Face', 1957, 'Comedy|Musical'),
 
@@ -1397,11 +1397,11 @@ VALUES
 
 (906, 'Gaslight', 1944, 'Drama|Thriller'),
 
-(907, '"Gay Divorcee, The', 1934, 'Comedy|Musical|Romance'),
+(907, 'Gay Divorcee, The', 1934, 'Comedy|Musical|Romance'),
 
 (908, 'North by Northwest', 1959, 'Action|Adventure|Mystery|Romance|Thriller'),
 
-(909, '"Apartment, The', 1960, 'Comedy|Drama|Romance'),
+(909, 'Apartment, The', 1960, 'Comedy|Drama|Romance'),
 
 (910, 'Some Like It Hot', 1959, 'Comedy|Crime'),
 
@@ -1409,7 +1409,7 @@ VALUES
 
 (912, 'Casablanca', 1942, 'Drama|Romance'),
 
-(913, '"Maltese Falcon, The', 1941, 'Film-Noir|Mystery'),
+(913, 'Maltese Falcon, The', 1941, 'Film-Noir|Mystery'),
 
 (914, 'My Fair Lady', 1964, 'Comedy|Drama|Musical|Romance'),
 
@@ -1417,11 +1417,11 @@ VALUES
 
 (916, 'Roman Holiday', 1953, 'Comedy|Drama|Romance'),
 
-(917, '"Little Princess, The', 1939, 'Children|Drama'),
+(917, 'Little Princess, The', 1939, 'Children|Drama'),
 
 (918, 'Meet Me in St. Louis', 1944, 'Musical'),
 
-(919, '"Wizard of Oz, The', 1939, 'Adventure|Children|Fantasy|Musical'),
+(919, 'Wizard of Oz, The', 1939, 'Adventure|Children|Fantasy|Musical'),
 
 (920, 'Gone with the Wind', 1939, 'Drama|Romance|War'),
 
@@ -1435,7 +1435,7 @@ VALUES
 
 (926, 'All About Eve', 1950, 'Drama'),
 
-(927, '"Women, The', 1939, 'Comedy'),
+(927, 'Women, The', 1939, 'Comedy'),
 
 (928, 'Rebecca', 1940, 'Drama|Mystery|Romance|Thriller'),
 
@@ -1445,13 +1445,13 @@ VALUES
 
 (931, 'Spellbound', 1945, 'Mystery|Romance|Thriller'),
 
-(932, '"Affair to Remember, An', 1957, 'Drama|Romance'),
+(932, 'Affair to Remember, An', 1957, 'Drama|Romance'),
 
 (933, 'To Catch a Thief', 1955, 'Crime|Mystery|Romance|Thriller'),
 
 (934, 'Father of the Bride', 1950, 'Comedy'),
 
-(935, '"Band Wagon, The', 1953, 'Comedy|Musical'),
+(935, 'Band Wagon, The', 1953, 'Comedy|Musical'),
 
 (936, 'Ninotchka', 1939, 'Comedy|Romance'),
 
@@ -1459,13 +1459,13 @@ VALUES
 
 (938, 'Gigi', 1958, 'Musical'),
 
-(940, '"Adventures of Robin Hood, The', 1938, 'Action|Adventure|Romance'),
+(940, 'Adventures of Robin Hood, The', 1938, 'Action|Adventure|Romance'),
 
-(941, '"Mark of Zorro, The', 1940, 'Adventure'),
+(941, 'Mark of Zorro, The', 1940, 'Adventure'),
 
 (942, 'Laura', 1944, 'Crime|Film-Noir|Mystery'),
 
-(943, '"Ghost and Mrs. Muir, The', 1947, 'Drama|Fantasy|Romance'),
+(943, 'Ghost and Mrs. Muir, The', 1947, 'Drama|Fantasy|Romance'),
 
 (944, 'Lost Horizon', 1937, 'Drama'),
 
@@ -1479,7 +1479,7 @@ VALUES
 
 (949, 'East of Eden', 1955, 'Drama'),
 
-(950, '"Thin Man, The', 1934, 'Comedy|Crime'),
+(950, 'Thin Man, The', 1934, 'Comedy|Crime'),
 
 (951, 'His Girl Friday', 1940, 'Comedy|Romance'),
 
@@ -1497,13 +1497,13 @@ VALUES
 
 (961, 'Little Lord Fauntleroy', 1936, 'Drama'),
 
-(963, '"Inspector General, The', 1949, 'Musical'),
+(963, 'Inspector General, The', 1949, 'Musical'),
 
-(965, '"39 Steps, The', 1935, 'Drama|Mystery|Thriller'),
+(965, '39 Steps, The', 1935, 'Drama|Mystery|Thriller'),
 
 (968, 'Night of the Living Dead', 1968, 'Horror|Sci-Fi|Thriller'),
 
-(969, '"African Queen, The', 1951, 'Adventure|Comedy|Romance|War'),
+(969, 'African Queen, The', 1951, 'Adventure|Comedy|Romance|War'),
 
 (970, 'Beat the Devil', 1953, 'Adventure|Comedy|Crime|Drama|Romance'),
 
@@ -1511,7 +1511,7 @@ VALUES
 
 (973, 'Meet John Doe', 1941, 'Comedy|Drama'),
 
-(976, '"Farewell to Arms, A', 1932, 'Romance|War'),
+(976, 'Farewell to Arms, A', 1932, 'Romance|War'),
 
 (979, 'Nothing Personal', 1995, 'Drama|War'),
 
@@ -1519,7 +1519,7 @@ VALUES
 
 (982, 'Picnic', 1955, 'Drama'),
 
-(984, '"Pompatus of Love, The', 1996, 'Comedy|Drama'),
+(984, 'Pompatus of Love, The', 1996, 'Comedy|Drama'),
 
 (986, 'Fly Away Home', 1996, 'Adventure|Children'),
 
@@ -1543,37 +1543,37 @@ VALUES
 
 (1003, 'Extreme Measures', 1996, 'Drama|Thriller'),
 
-(1004, '"Glimmer Man, The', 1996, 'Action|Thriller'),
+(1004, 'Glimmer Man, The', 1996, 'Action|Thriller'),
 
 (1005, 'D3: The Mighty Ducks', 1996, 'Children|Comedy'),
 
-(1006, '"Chamber, The', 1996, 'Drama'),
+(1006, 'Chamber, The', 1996, 'Drama'),
 
-(1007, '"Apple Dumpling Gang, The', 1975, 'Children|Comedy|Western'),
+(1007, 'Apple Dumpling Gang, The', 1975, 'Children|Comedy|Western'),
 
-(1008, '"Davy Crockett, King of the Wild Frontier', 1955, 'Adventure|Western'),
+(1008, 'Davy Crockett, King of the Wild Frontier', 1955, 'Adventure|Western'),
 
 (1009, 'Escape to Witch Mountain', 1975, 'Adventure|Children|Fantasy'),
 
-(1010, '"Love Bug, The', 1969, 'Children|Comedy'),
+(1010, 'Love Bug, The', 1969, 'Children|Comedy'),
 
 (1011, 'Herbie Rides Again', 1974, 'Children|Comedy|Fantasy|Romance'),
 
 (1012, 'Old Yeller', 1957, 'Children|Drama'),
 
-(1013, '"Parent Trap, The', 1961, 'Children|Comedy|Romance'),
+(1013, 'Parent Trap, The', 1961, 'Children|Comedy|Romance'),
 
 (1014, 'Pollyanna', 1960, 'Children|Comedy|Drama'),
 
 (1015, 'Homeward Bound: The Incredible Journey', 1993, 'Adventure|Children|Drama'),
 
-(1016, '"Shaggy Dog, The', 1959, 'Children|Comedy'),
+(1016, 'Shaggy Dog, The', 1959, 'Children|Comedy'),
 
 (1017, 'Swiss Family Robinson', 1960, 'Adventure|Children'),
 
 (1018, 'That Darn Cat!', 1965, 'Children|Comedy|Mystery'),
 
-(1019, '"20,000 Leagues Under the Sea', 1954, 'Adventure|Drama|Sci-Fi'),
+(1019, '20,000 Leagues Under the Sea', 1954, 'Adventure|Drama|Sci-Fi'),
 
 (1020, 'Cool Runnings', 1993, 'Comedy'),
 
@@ -1583,9 +1583,9 @@ VALUES
 
 (1023, 'Winnie the Pooh and the Blustery Day', 1968, 'Animation|Children|Musical'),
 
-(1024, '"Three Caballeros, The', 1945, 'Animation|Children|Musical'),
+(1024, 'Three Caballeros, The', 1945, 'Animation|Children|Musical'),
 
-(1025, '"Sword in the Stone, The', 1963, 'Animation|Children|Fantasy|Musical'),
+(1025, 'Sword in the Stone, The', 1963, 'Animation|Children|Fantasy|Musical'),
 
 (1027, 'Robin Hood: Prince of Thieves', 1991, 'Adventure|Drama'),
 
@@ -1599,17 +1599,17 @@ VALUES
 
 (1032, 'Alice in Wonderland', 1951, 'Adventure|Animation|Children|Fantasy|Musical'),
 
-(1033, '"Fox and the Hound, The', 1981, 'Animation|Children|Drama'),
+(1033, 'Fox and the Hound, The', 1981, 'Animation|Children|Drama'),
 
 (1034, 'Freeway', 1996, 'Comedy|Crime|Drama|Thriller'),
 
-(1035, '"Sound of Music, The', 1965, 'Musical|Romance'),
+(1035, 'Sound of Music, The', 1965, 'Musical|Romance'),
 
 (1036, 'Die Hard', 1988, 'Action|Crime|Thriller'),
 
-(1037, '"Lawnmower Man, The', 1992, 'Action|Horror|Sci-Fi|Thriller'),
+(1037, 'Lawnmower Man, The', 1992, 'Action|Horror|Sci-Fi|Thriller'),
 
-(1040, '"Secret Agent, The', 1996, 'Drama'),
+(1040, 'Secret Agent, The', 1996, 'Drama'),
 
 (1041, 'Secrets & Lies', 1996, 'Drama'),
 
@@ -1619,9 +1619,9 @@ VALUES
 
 (1046, 'Beautiful Thing', 1996, 'Drama|Romance'),
 
-(1047, '"Long Kiss Goodnight, The', 1996, 'Action|Drama|Thriller'),
+(1047, 'Long Kiss Goodnight, The', 1996, 'Action|Drama|Thriller'),
 
-(1049, '"Ghost and the Darkness, The', 1996, 'Action|Adventure'),
+(1049, 'Ghost and the Darkness, The', 1996, 'Action|Adventure'),
 
 (1050, 'Looking for Richard', 1996, 'Documentary|Drama'),
 
@@ -1651,25 +1651,25 @@ VALUES
 
 (1073, 'Willy Wonka & the Chocolate Factory', 1971, 'Children|Comedy|Fantasy|Musical'),
 
-(1076, '"Innocents, The', 1961, 'Drama|Horror|Thriller'),
+(1076, 'Innocents, The', 1961, 'Drama|Horror|Thriller'),
 
 (1077, 'Sleeper', 1973, 'Comedy|Sci-Fi'),
 
 (1078, 'Bananas', 1971, 'Comedy|War'),
 
-(1079, '"Fish Called Wanda, A', 1988, 'Comedy|Crime'),
+(1079, 'Fish Called Wanda, A', 1988, 'Comedy|Crime'),
 
 (1080, 'Monty Python‘s Life of Brian', 1979, 'Comedy'),
 
 (1081, 'Victor/Victoria', 1982, 'Comedy|Musical|Romance'),
 
-(1082, '"Candidate, The', 1972, 'Drama'),
+(1082, 'Candidate, The', 1972, 'Drama'),
 
-(1083, '"Great Race, The', 1965, 'Comedy|Musical'),
+(1083, 'Great Race, The', 1965, 'Comedy|Musical'),
 
 (1084, 'Bonnie and Clyde', 1967, 'Crime|Drama'),
 
-(1085, '"Old Man and the Sea, The', 1958, 'Adventure|Drama'),
+(1085, 'Old Man and the Sea, The', 1958, 'Adventure|Drama'),
 
 (1086, 'Dial M for Murder', 1954, 'Crime|Mystery|Thriller'),
 
@@ -1683,9 +1683,9 @@ VALUES
 
 (1092, 'Basic Instinct', 1992, 'Crime|Mystery|Thriller'),
 
-(1093, '"Doors, The', 1991, 'Drama'),
+(1093, 'Doors, The', 1991, 'Drama'),
 
-(1094, '"Crying Game, The', 1992, 'Drama|Romance|Thriller'),
+(1094, 'Crying Game, The', 1992, 'Drama|Romance|Thriller'),
 
 (1095, 'Glengarry Glen Ross', 1992, 'Drama'),
 
@@ -1693,7 +1693,7 @@ VALUES
 
 (1097, 'E.T. the Extra-Terrestrial', 1982, 'Children|Drama|Sci-Fi'),
 
-(1099, '"Christmas Carol, A', 1938, 'Children|Drama|Fantasy'),
+(1099, 'Christmas Carol, A', 1938, 'Children|Drama|Fantasy'),
 
 (1100, 'Days of Thunder', 1990, 'Action|Drama|Romance'),
 
@@ -1701,7 +1701,7 @@ VALUES
 
 (1103, 'Rebel Without a Cause', 1955, 'Drama'),
 
-(1104, '"Streetcar Named Desire, A', 1951, 'Drama'),
+(1104, 'Streetcar Named Desire, A', 1951, 'Drama'),
 
 (1105, 'Children of the Corn IV: The Gathering', 1996, 'Horror'),
 
@@ -1711,33 +1711,33 @@ VALUES
 
 (1112, 'Palookaville', 1996, 'Action|Comedy|Drama'),
 
-(1114, '"Funeral, The', 1996, 'Crime|Drama'),
+(1114, 'Funeral, The', 1996, 'Crime|Drama'),
 
-(1116, '"Single Girl, A (Fille seule, La)', 1995, 'Drama'),
+(1116, 'Single Girl, A (Fille seule, La)', 1995, 'Drama'),
 
-(1117, '"Eighth Day, The (Huitième jour, Le)', 1996, 'Drama'),
+(1117, 'Eighth Day, The (Huitième jour, Le)', 1996, 'Drama'),
 
 (1119, 'Drunks', 1995, 'Drama'),
 
-(1120, '"People vs. Larry Flynt, The', 1996, 'Comedy|Drama'),
+(1120, 'People vs. Larry Flynt, The', 1996, 'Comedy|Drama'),
 
 (1121, 'Glory Daze', 1995, 'Drama'),
 
-(1123, '"Perfect Candidate, A', 1996, 'Documentary'),
+(1123, 'Perfect Candidate, A', 1996, 'Documentary'),
 
 (1124, 'On Golden Pond', 1981, 'Drama'),
 
-(1125, '"Return of the Pink Panther, The', 1975, 'Comedy|Crime'),
+(1125, 'Return of the Pink Panther, The', 1975, 'Comedy|Crime'),
 
 (1126, 'Drop Dead Fred', 1991, 'Comedy|Fantasy'),
 
-(1127, '"Abyss, The', 1989, 'Action|Adventure|Sci-Fi|Thriller'),
+(1127, 'Abyss, The', 1989, 'Action|Adventure|Sci-Fi|Thriller'),
 
-(1128, '"Fog, The', 1980, 'Horror'),
+(1128, 'Fog, The', 1980, 'Horror'),
 
 (1129, 'Escape from New York', 1981, 'Action|Adventure|Sci-Fi|Thriller'),
 
-(1130, '"Howling, The', 1980, 'Horror|Mystery'),
+(1130, 'Howling, The', 1980, 'Horror|Mystery'),
 
 (1131, 'Jean de Florette', 1986, 'Drama|Mystery'),
 
@@ -1751,21 +1751,21 @@ VALUES
 
 (1140, 'Entertaining Angels: The Dorothy Day Story', 1996, 'Drama'),
 
-(1144, '"Line King: The Al Hirschfeld Story, The', 1996, 'Documentary'),
+(1144, 'Line King: The Al Hirschfeld Story, The', 1996, 'Documentary'),
 
 (1147, 'When We Were Kings', 1996, 'Documentary'),
 
 (1148, 'Wallace & Gromit: The Wrong Trousers', 1993, 'Animation|Children|Comedy|Crime'),
 
-(1150, '"Return of Martin Guerre, The (Retour de Martin Guerre, Le)', 1982, 'Drama'),
+(1150, 'Return of Martin Guerre, The (Retour de Martin Guerre, Le)', 1982, 'Drama'),
 
 (1151, 'Lesson Faust', 1994, 'Animation|Comedy|Drama|Fantasy'),
 
-(1156, '"Children Are Watching Us, The (Bambini ci guardano, I)', 1944, 'Drama'),
+(1156, 'Children Are Watching Us, The (Bambini ci guardano, I)', 1944, 'Drama'),
 
-(1161, '"Tin Drum, The (Blechtrommel, Die)', 1979, 'Drama|War'),
+(1161, 'Tin Drum, The (Blechtrommel, Die)', 1979, 'Drama|War'),
 
-(1162, '"Ruling Class, The', 1972, 'Comedy|Drama'),
+(1162, 'Ruling Class, The', 1972, 'Comedy|Drama'),
 
 (1163, 'Mina Tannenbaum', 1994, 'Drama'),
 
@@ -1777,33 +1777,33 @@ VALUES
 
 (1172, 'Cinema Paradiso (Nuovo cinema Paradiso)', 1989, 'Drama'),
 
-(1173, '"Cook the Thief His Wife & Her Lover, The', 1989, 'Comedy|Drama'),
+(1173, 'Cook the Thief His Wife & Her Lover, The', 1989, 'Comedy|Drama'),
 
 (1175, 'Delicatessen', 1991, 'Comedy|Drama|Romance'),
 
-(1176, '"Double Life of Veronique, The (Double Vie de Véronique, La)', 1991, 'Drama|Fantasy|Romance'),
+(1176, 'Double Life of Veronique, The (Double Vie de Véronique, La)', 1991, 'Drama|Fantasy|Romance'),
 
 (1177, 'Enchanted April', 1992, 'Drama|Romance'),
 
 (1178, 'Paths of Glory', 1957, 'Drama|War'),
 
-(1179, '"Grifters, The', 1990, 'Crime|Drama|Film-Noir'),
+(1179, 'Grifters, The', 1990, 'Crime|Drama|Film-Noir'),
 
 (1180, 'Hear My Song', 1991, 'Comedy'),
 
-(1183, '"English Patient, The', 1996, 'Drama|Romance|War'),
+(1183, 'English Patient, The', 1996, 'Drama|Romance|War'),
 
 (1184, 'Mediterraneo', 1991, 'Comedy|Drama'),
 
 (1185, 'My Left Foot', 1989, 'Drama'),
 
-(1186, '"Sex, Lies, and Videotape', 1989, 'Drama'),
+(1186, 'Sex, Lies, and Videotape', 1989, 'Drama'),
 
 (1187, 'Passion Fish', 1992, 'Drama'),
 
 (1188, 'Strictly Ballroom', 1992, 'Comedy|Romance'),
 
-(1189, '"Thin Blue Line, The', 1988, 'Documentary'),
+(1189, 'Thin Blue Line, The', 1988, 'Documentary'),
 
 (1190, 'Tie Me Up! Tie Me Down! (¡Átame!)', 1990, 'Crime|Drama|Romance'),
 
@@ -1817,7 +1817,7 @@ VALUES
 
 (1196, 'Star Wars: Episode V - The Empire Strikes Back', 1980, 'Action|Adventure|Sci-Fi'),
 
-(1197, '"Princess Bride, The', 1987, 'Action|Adventure|Comedy|Fantasy|Romance'),
+(1197, 'Princess Bride, The', 1987, 'Action|Adventure|Comedy|Fantasy|Romance'),
 
 (1198, 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)', 1981, 'Action|Adventure'),
 
@@ -1825,7 +1825,7 @@ VALUES
 
 (1200, 'Aliens', 1986, 'Action|Adventure|Horror|Sci-Fi'),
 
-(1201, '"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)', 1966, 'Action|Adventure|Western'),
+(1201, 'Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)', 1966, 'Action|Adventure|Western'),
 
 (1202, 'Withnail & I', 1987, 'Comedy'),
 
@@ -1833,7 +1833,7 @@ VALUES
 
 (1204, 'Lawrence of Arabia', 1962, 'Adventure|Drama|War'),
 
-(1206, '"Clockwork Orange, A', 1971, 'Crime|Drama|Sci-Fi|Thriller'),
+(1206, 'Clockwork Orange, A', 1971, 'Crime|Drama|Sci-Fi|Thriller'),
 
 (1207, 'To Kill a Mockingbird', 1962, 'Drama'),
 
@@ -1843,9 +1843,9 @@ VALUES
 
 (1210, 'Star Wars: Episode VI - Return of the Jedi', 1983, 'Action|Adventure|Sci-Fi'),
 
-(1211, '"Wings of Desire (Himmel über Berlin, Der)', 1987, 'Drama|Fantasy|Romance'),
+(1211, 'Wings of Desire (Himmel über Berlin, Der)', 1987, 'Drama|Fantasy|Romance'),
 
-(1212, '"Third Man, The', 1949, 'Film-Noir|Mystery|Thriller'),
+(1212, 'Third Man, The', 1949, 'Film-Noir|Mystery|Thriller'),
 
 (1213, 'Goodfellas', 1990, 'Crime|Drama'),
 
@@ -1853,27 +1853,27 @@ VALUES
 
 (1215, 'Army of Darkness', 1993, 'Action|Adventure|Comedy|Fantasy|Horror'),
 
-(1216, '"Big Blue, The (Grand bleu, Le)', 1988, 'Adventure|Drama|Romance'),
+(1216, 'Big Blue, The (Grand bleu, Le)', 1988, 'Adventure|Drama|Romance'),
 
 (1217, 'Ran', 1985, 'Drama|War'),
 
-(1218, '"Killer, The (Die xue shuang xiong)', 1989, 'Action|Crime|Drama|Thriller'),
+(1218, 'Killer, The (Die xue shuang xiong)', 1989, 'Action|Crime|Drama|Thriller'),
 
 (1219, 'Psycho', 1960, 'Crime|Horror'),
 
-(1220, '"Blues Brothers, The', 1980, 'Action|Comedy|Musical'),
+(1220, 'Blues Brothers, The', 1980, 'Action|Comedy|Musical'),
 
-(1221, '"Godfather: Part II, The', 1974, 'Crime|Drama'),
+(1221, 'Godfather: Part II, The', 1974, 'Crime|Drama'),
 
 (1222, 'Full Metal Jacket', 1987, 'Drama|War'),
 
-(1223, '"Grand Day Out with Wallace and Gromit, A', 1989, 'Adventure|Animation|Children|Comedy|Sci-Fi'),
+(1223, 'Grand Day Out with Wallace and Gromit, A', 1989, 'Adventure|Animation|Children|Comedy|Sci-Fi'),
 
 (1224, 'Henry V', 1989, 'Action|Drama|Romance|War'),
 
 (1225, 'Amadeus', 1984, 'Drama'),
 
-(1226, '"Quiet Man, The', 1952, 'Drama|Romance'),
+(1226, 'Quiet Man, The', 1952, 'Drama|Romance'),
 
 (1227, 'Once Upon a Time in America', 1984, 'Crime|Drama'),
 
@@ -1881,23 +1881,23 @@ VALUES
 
 (1230, 'Annie Hall', 1977, 'Comedy|Romance'),
 
-(1231, '"Right Stuff, The', 1983, 'Drama'),
+(1231, 'Right Stuff, The', 1983, 'Drama'),
 
 (1232, 'Stalker', 1979, 'Drama|Mystery|Sci-Fi'),
 
-(1233, '"Boot, Das (Boat, The)', 1981, 'Action|Drama|War'),
+(1233, 'Boot, Das (Boat, The)', 1981, 'Action|Drama|War'),
 
-(1234, '"Sting, The', 1973, 'Comedy|Crime'),
+(1234, 'Sting, The', 1973, 'Comedy|Crime'),
 
 (1235, 'Harold and Maude', 1971, 'Comedy|Drama|Romance'),
 
 (1236, 'Trust', 1990, 'Comedy|Drama|Romance'),
 
-(1237, '"Seventh Seal, The (Sjunde inseglet, Det)', 1957, 'Drama'),
+(1237, 'Seventh Seal, The (Sjunde inseglet, Det)', 1957, 'Drama'),
 
 (1238, 'Local Hero', 1983, 'Comedy'),
 
-(1240, '"Terminator, The', 1984, 'Action|Sci-Fi|Thriller'),
+(1240, 'Terminator, The', 1984, 'Action|Sci-Fi|Thriller'),
 
 (1241, 'Dead Alive (Braindead)', 1992, 'Comedy|Fantasy|Horror'),
 
@@ -1911,21 +1911,21 @@ VALUES
 
 (1246, 'Dead Poets Society', 1989, 'Drama'),
 
-(1247, '"Graduate, The', 1967, 'Comedy|Drama|Romance'),
+(1247, 'Graduate, The', 1967, 'Comedy|Drama|Romance'),
 
 (1248, 'Touch of Evil', 1958, 'Crime|Film-Noir|Thriller'),
 
-(1249, '"Femme Nikita, La (Nikita)', 1990, 'Action|Crime|Romance|Thriller'),
+(1249, 'Femme Nikita, La (Nikita)', 1990, 'Action|Crime|Romance|Thriller'),
 
-(1250, '"Bridge on the River Kwai, The', 1957, 'Adventure|Drama|War'),
+(1250, 'Bridge on the River Kwai, The', 1957, 'Adventure|Drama|War'),
 
 (1251, '8 1/2 (8½)', 1963, 'Drama|Fantasy'),
 
 (1252, 'Chinatown', 1974, 'Crime|Film-Noir|Mystery|Thriller'),
 
-(1253, '"Day the Earth Stood Still, The', 1951, 'Drama|Sci-Fi|Thriller'),
+(1253, 'Day the Earth Stood Still, The', 1951, 'Drama|Sci-Fi|Thriller'),
 
-(1254, '"Treasure of the Sierra Madre, The', 1948, 'Action|Adventure|Drama|Western'),
+(1254, 'Treasure of the Sierra Madre, The', 1948, 'Action|Adventure|Drama|Western'),
 
 (1255, 'Bad Taste', 1987, 'Comedy|Horror|Sci-Fi'),
 
@@ -1933,7 +1933,7 @@ VALUES
 
 (1257, 'Better Off Dead...', 1985, 'Comedy|Romance'),
 
-(1258, '"Shining, The', 1980, 'Horror'),
+(1258, 'Shining, The', 1980, 'Horror'),
 
 (1259, 'Stand by Me', 1986, 'Adventure|Drama'),
 
@@ -1941,9 +1941,9 @@ VALUES
 
 (1261, 'Evil Dead II (Dead by Dawn)', 1987, 'Action|Comedy|Fantasy|Horror'),
 
-(1262, '"Great Escape, The', 1963, 'Action|Adventure|Drama|War'),
+(1262, 'Great Escape, The', 1963, 'Action|Adventure|Drama|War'),
 
-(1263, '"Deer Hunter, The', 1978, 'Drama|War'),
+(1263, 'Deer Hunter, The', 1978, 'Drama|War'),
 
 (1264, 'Diva', 1981, 'Action|Drama|Mystery|Romance|Thriller'),
 
@@ -1951,7 +1951,7 @@ VALUES
 
 (1266, 'Unforgiven', 1992, 'Drama|Western'),
 
-(1267, '"Manchurian Candidate, The', 1962, 'Crime|Thriller|War'),
+(1267, 'Manchurian Candidate, The', 1962, 'Crime|Thriller|War'),
 
 (1268, 'Pump Up the Volume', 1990, 'Comedy|Drama'),
 
@@ -1979,13 +1979,13 @@ VALUES
 
 (1280, 'Raise the Red Lantern (Da hong deng long gao gao gua)', 1991, 'Drama'),
 
-(1281, '"Great Dictator, The', 1940, 'Comedy|Drama|War'),
+(1281, 'Great Dictator, The', 1940, 'Comedy|Drama|War'),
 
 (1282, 'Fantasia', 1940, 'Animation|Children|Fantasy|Musical'),
 
 (1283, 'High Noon', 1952, 'Drama|Western'),
 
-(1284, '"Big Sleep, The', 1946, 'Crime|Film-Noir|Mystery'),
+(1284, 'Big Sleep, The', 1946, 'Crime|Film-Noir|Mystery'),
 
 (1285, 'Heathers', 1989, 'Comedy'),
 
@@ -2005,15 +2005,15 @@ VALUES
 
 (1293, 'Gandhi', 1982, 'Drama'),
 
-(1295, '"Unbearable Lightness of Being, The', 1988, 'Drama'),
+(1295, 'Unbearable Lightness of Being, The', 1988, 'Drama'),
 
-(1296, '"Room with a View, A', 1986, 'Drama|Romance'),
+(1296, 'Room with a View, A', 1986, 'Drama|Romance'),
 
 (1297, 'Real Genius', 1985, 'Comedy'),
 
 (1298, 'Pink Floyd: The Wall', 1982, 'Drama|Musical'),
 
-(1299, '"Killing Fields, The', 1984, 'Drama|War'),
+(1299, 'Killing Fields, The', 1984, 'Drama|War'),
 
 (1300, 'My Life as a Dog (Mitt liv som hund)', 1985, 'Comedy|Drama'),
 
@@ -2021,11 +2021,11 @@ VALUES
 
 (1302, 'Field of Dreams', 1989, 'Children|Drama|Fantasy'),
 
-(1303, '"Man Who Would Be King, The', 1975, 'Adventure|Drama'),
+(1303, 'Man Who Would Be King, The', 1975, 'Adventure|Drama'),
 
 (1304, 'Butch Cassidy and the Sundance Kid', 1969, 'Action|Western'),
 
-(1305, '"Paris, Texas', 1984, 'Drama|Romance'),
+(1305, 'Paris, Texas', 1984, 'Drama|Romance'),
 
 (1306, 'Until the End of the World (Bis ans Ende der Welt)', 1991, 'Adventure|Drama|Sci-Fi'),
 
@@ -2039,7 +2039,7 @@ VALUES
 
 (1320, 'Alien³ (a.k.a. Alien 3)', 1992, 'Action|Horror|Sci-Fi|Thriller'),
 
-(1321, '"American Werewolf in London, An', 1981, 'Comedy|Horror|Thriller'),
+(1321, 'American Werewolf in London, An', 1981, 'Comedy|Horror|Thriller'),
 
 (1322, 'Amityville 1992: It‘s About Time', 1992, 'Horror'),
 
@@ -2051,9 +2051,9 @@ VALUES
 
 (1326, 'Amityville II: The Possession', 1982, 'Horror'),
 
-(1327, '"Amityville Horror, The', 1979, 'Drama|Horror|Mystery|Thriller'),
+(1327, 'Amityville Horror, The', 1979, 'Drama|Horror|Mystery|Thriller'),
 
-(1328, '"Amityville Curse, The', 1990, 'Horror'),
+(1328, 'Amityville Curse, The', 1990, 'Horror'),
 
 (1329, 'Blood for Dracula (Andy Warhol‘s Dracula)', 1974, 'Horror'),
 
@@ -2061,21 +2061,21 @@ VALUES
 
 (1331, 'Audrey Rose', 1977, 'Horror'),
 
-(1332, '"Believers, The', 1987, 'Horror|Thriller'),
+(1332, 'Believers, The', 1987, 'Horror|Thriller'),
 
-(1333, '"Birds, The', 1963, 'Horror|Thriller'),
+(1333, 'Birds, The', 1963, 'Horror|Thriller'),
 
-(1334, '"Blob, The', 1958, 'Horror|Sci-Fi'),
+(1334, 'Blob, The', 1958, 'Horror|Sci-Fi'),
 
 (1335, 'Blood Beach', 1981, 'Horror|Mystery'),
 
 (1336, 'Body Parts', 1991, 'Horror|Thriller'),
 
-(1337, '"Body Snatcher, The', 1945, 'Drama|Horror|Thriller'),
+(1337, 'Body Snatcher, The', 1945, 'Drama|Horror|Thriller'),
 
 (1339, 'Dracula (Bram Stoker‘s Dracula)', 1992, 'Fantasy|Horror|Romance|Thriller'),
 
-(1340, '"Bride of Frankenstein, The (Bride of Frankenstein)', 1935, 'Drama|Horror|Sci-Fi'),
+(1340, 'Bride of Frankenstein, The (Bride of Frankenstein)', 1935, 'Drama|Horror|Sci-Fi'),
 
 (1341, 'Burnt Offerings', 1976, 'Horror'),
 
@@ -2089,19 +2089,19 @@ VALUES
 
 (1346, 'Cat People', 1982, 'Drama|Fantasy|Horror'),
 
-(1347, '"Nightmare on Elm Street, A', 1984, 'Horror|Thriller'),
+(1347, 'Nightmare on Elm Street, A', 1984, 'Horror|Thriller'),
 
-(1348, '"Nosferatu (Nosferatu, eine Symphonie des Grauens)', 1922, 'Horror'),
+(1348, 'Nosferatu (Nosferatu, eine Symphonie des Grauens)', 1922, 'Horror'),
 
 (1349, 'Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice)', 1986, 'Horror'),
 
-(1350, '"Omen, The', 1976, 'Horror|Mystery|Thriller'),
+(1350, 'Omen, The', 1976, 'Horror|Mystery|Thriller'),
 
 (1351, 'Blood and Wine (Blood & Wine)', 1996, 'Crime|Drama|Thriller'),
 
 (1352, 'Albino Alligator', 1996, 'Crime|Thriller'),
 
-(1353, '"Mirror Has Two Faces, The', 1996, 'Comedy|Drama|Romance'),
+(1353, 'Mirror Has Two Faces, The', 1996, 'Comedy|Drama|Romance'),
 
 (1354, 'Breaking the Waves', 1996, 'Drama|Mystery'),
 
@@ -2117,11 +2117,11 @@ VALUES
 
 (1361, 'Paradise Lost: The Child Murders at Robin Hood Hills', 1996, 'Documentary'),
 
-(1363, '"Preacher‘s Wife, The', 1996, 'Drama'),
+(1363, 'Preacher‘s Wife, The', 1996, 'Drama'),
 
 (1365, 'Ridicule', 1996, 'Drama'),
 
-(1366, '"Crucible, The', 1996, 'Drama'),
+(1366, 'Crucible, The', 1996, 'Drama'),
 
 (1367, '101 Dalmatians', 1996, 'Adventure|Children|Comedy'),
 
@@ -2187,7 +2187,7 @@ VALUES
 
 (1407, 'Scream', 1996, 'Comedy|Horror|Mystery|Thriller'),
 
-(1408, '"Last of the Mohicans, The', 1992, 'Action|Romance|War|Western'),
+(1408, 'Last of the Mohicans, The', 1992, 'Action|Romance|War|Western'),
 
 (1409, 'Michael', 1996, 'Comedy|Drama|Fantasy|Romance'),
 
@@ -2195,15 +2195,15 @@ VALUES
 
 (1412, 'Some Mother‘s Son', 1996, 'Drama'),
 
-(1413, '"Whole Wide World, The', 1996, 'Drama'),
+(1413, 'Whole Wide World, The', 1996, 'Drama'),
 
 (1414, 'Mother', 1996, 'Comedy'),
 
-(1415, '"Thieves (Voleurs, Les)', 1996, 'Crime|Drama|Romance'),
+(1415, 'Thieves (Voleurs, Les)', 1996, 'Crime|Drama|Romance'),
 
 (1416, 'Evita', 1996, 'Drama|Musical'),
 
-(1417, '"Portrait of a Lady, The', 1996, 'Drama'),
+(1417, 'Portrait of a Lady, The', 1996, 'Drama'),
 
 (1419, 'Walkabout', 1971, 'Adventure|Drama'),
 
@@ -2227,7 +2227,7 @@ VALUES
 
 (1432, 'Metro', 1997, 'Action|Comedy|Crime|Drama|Thriller'),
 
-(1437, '"Cement Garden, The', 1993, 'Drama'),
+(1437, 'Cement Garden, The', 1993, 'Drama'),
 
 (1438, 'Dante‘s Peak', 1997, 'Action|Thriller'),
 
@@ -2247,11 +2247,11 @@ VALUES
 
 (1449, 'Waiting for Guffman', 1996, 'Comedy'),
 
-(1453, '"Beautician and the Beast, The', 1997, 'Comedy|Romance'),
+(1453, 'Beautician and the Beast, The', 1997, 'Comedy|Romance'),
 
 (1454, 'SubUrbia', 1997, 'Comedy|Drama'),
 
-(1456, '"Pest, The', 1997, 'Comedy'),
+(1456, 'Pest, The', 1997, 'Comedy'),
 
 (1457, 'Fools Rush In', 1997, 'Comedy|Drama|Romance'),
 
@@ -2281,19 +2281,19 @@ VALUES
 
 (1477, 'Love Jones', 1997, 'Romance'),
 
-(1479, '"Saint, The', 1997, 'Action|Romance|Sci-Fi|Thriller'),
+(1479, 'Saint, The', 1997, 'Action|Romance|Sci-Fi|Thriller'),
 
 (1480, 'Smilla‘s Sense of Snow', 1997, 'Drama|Thriller'),
 
 (1483, 'Crash', 1996, 'Drama|Thriller'),
 
-(1484, '"Daytrippers, The', 1996, 'Comedy|Drama|Mystery|Romance'),
+(1484, 'Daytrippers, The', 1996, 'Comedy|Drama|Mystery|Romance'),
 
 (1485, 'Liar Liar', 1997, 'Comedy'),
 
 (1487, 'Selena', 1997, 'Drama|Musical'),
 
-(1488, '"Devil‘s Own, The', 1997, 'Action|Drama|Thriller'),
+(1488, 'Devil‘s Own, The', 1997, 'Action|Drama|Thriller'),
 
 (1489, 'Cats Don‘t Dance', 1997, 'Animation|Children|Musical'),
 
@@ -2335,11 +2335,11 @@ VALUES
 
 (1526, 'Fathers‘ Day', 1997, 'Comedy'),
 
-(1527, '"Fifth Element, The', 1997, 'Action|Adventure|Comedy|Sci-Fi'),
+(1527, 'Fifth Element, The', 1997, 'Action|Adventure|Comedy|Sci-Fi'),
 
 (1529, 'Nowhere', 1997, 'Comedy|Drama'),
 
-(1533, '"Promise, The (La promesse)', 1996, 'Drama'),
+(1533, 'Promise, The (La promesse)', 1996, 'Drama'),
 
 (1537, 'Shall We Dance? (Shall We Dansu?)', 1996, 'Comedy|Drama|Romance'),
 
@@ -2347,7 +2347,7 @@ VALUES
 
 (1542, 'Brassed Off', 1996, 'Comedy|Drama|Romance'),
 
-(1544, '"Lost World: Jurassic Park, The', 1997, 'Action|Adventure|Sci-Fi|Thriller'),
+(1544, 'Lost World: Jurassic Park, The', 1997, 'Action|Adventure|Sci-Fi|Thriller'),
 
 (1545, 'Ponette', 1996, 'Drama'),
 
@@ -2363,7 +2363,7 @@ VALUES
 
 (1552, 'Con Air', 1997, 'Action|Adventure|Thriller'),
 
-(1554, '"Pillow Book, The', 1996, 'Drama|Romance'),
+(1554, 'Pillow Book, The', 1996, 'Drama|Romance'),
 
 (1556, 'Speed 2: Cruise Control', 1997, 'Action|Romance|Thriller'),
 
@@ -2379,7 +2379,7 @@ VALUES
 
 (1571, 'When the Cat‘s Away (Chacun cherche son chat)', 1996, 'Comedy|Romance'),
 
-(1572, '"Contempt (Mépris, Le)', 1963, 'Drama'),
+(1572, 'Contempt (Mépris, Le)', 1963, 'Drama'),
 
 (1573, 'Face/Off', 1997, 'Action|Crime|Drama|Thriller'),
 
@@ -2391,7 +2391,7 @@ VALUES
 
 (1582, 'Wild America', 1997, 'Adventure|Children'),
 
-(1583, '"Simple Wish, A', 1997, 'Children|Fantasy'),
+(1583, 'Simple Wish, A', 1997, 'Children|Fantasy'),
 
 (1584, 'Contact', 1997, 'Drama|Sci-Fi'),
 
@@ -2441,19 +2441,19 @@ VALUES
 
 (1609, '187 (One Eight Seven)', 1997, 'Drama|Thriller'),
 
-(1610, '"Hunt for Red October, The', 1990, 'Action|Adventure|Thriller'),
+(1610, 'Hunt for Red October, The', 1990, 'Action|Adventure|Thriller'),
 
 (1611, 'My Own Private Idaho', 1991, 'Drama|Romance'),
 
-(1612, '"Kiss Me, Guido', 1997, 'Comedy'),
+(1612, 'Kiss Me, Guido', 1997, 'Comedy'),
 
 (1613, 'Star Maps', 1997, 'Drama'),
 
 (1614, 'In & Out', 1997, 'Comedy'),
 
-(1615, '"Edge, The', 1997, 'Adventure|Drama'),
+(1615, 'Edge, The', 1997, 'Adventure|Drama'),
 
-(1616, '"Peacemaker, The', 1997, 'Action|Thriller|War'),
+(1616, 'Peacemaker, The', 1997, 'Action|Thriller|War'),
 
 (1617, 'L.A. Confidential', 1997, 'Crime|Film-Noir|Mystery|Thriller'),
 
@@ -2465,29 +2465,29 @@ VALUES
 
 (1623, 'Wishmaster', 1997, 'Horror'),
 
-(1624, '"Thousand Acres, A', 1997, 'Drama'),
+(1624, 'Thousand Acres, A', 1997, 'Drama'),
 
-(1625, '"Game, The', 1997, 'Drama|Mystery|Thriller'),
+(1625, 'Game, The', 1997, 'Drama|Mystery|Thriller'),
 
 (1626, 'Fire Down Below', 1997, 'Action|Drama|Thriller'),
 
 (1627, 'U Turn', 1997, 'Crime|Drama|Mystery'),
 
-(1629, '"MatchMaker, The', 1997, 'Comedy|Romance'),
+(1629, 'MatchMaker, The', 1997, 'Comedy|Romance'),
 
-(1631, '"Assignment, The', 1997, 'Action|Thriller'),
+(1631, 'Assignment, The', 1997, 'Action|Thriller'),
 
 (1633, 'Ulee‘s Gold', 1997, 'Drama'),
 
-(1635, '"Ice Storm, The', 1997, 'Drama'),
+(1635, 'Ice Storm, The', 1997, 'Drama'),
 
 (1639, 'Chasing Amy', 1997, 'Comedy|Drama|Romance'),
 
-(1641, '"Full Monty, The', 1997, 'Comedy|Drama'),
+(1641, 'Full Monty, The', 1997, 'Comedy|Drama'),
 
 (1642, 'Indian Summer (a.k.a. Alive & Kicking)', 1996, 'Comedy|Drama'),
 
-(1643, '"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown)', 1997, 'Drama|Romance'),
+(1643, 'Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown)', 1997, 'Drama|Romance'),
 
 (1644, 'I Know What You Did Last Summer', 1997, 'Horror|Mystery|Thriller'),
 
@@ -2497,9 +2497,9 @@ VALUES
 
 (1647, 'Playing God', 1997, 'Crime|Drama|Thriller'),
 
-(1648, '"House of Yes, The', 1997, 'Comedy|Drama'),
+(1648, 'House of Yes, The', 1997, 'Comedy|Drama'),
 
-(1649, '"Fast, Cheap & Out of Control', 1997, 'Documentary'),
+(1649, 'Fast, Cheap & Out of Control', 1997, 'Documentary'),
 
 (1650, 'Washington Square', 1997, 'Drama'),
 
@@ -2513,7 +2513,7 @@ VALUES
 
 (1656, 'Swept from the Sea', 1997, 'Drama|Romance'),
 
-(1658, '"Life Less Ordinary, A', 1997, 'Romance|Thriller'),
+(1658, 'Life Less Ordinary, A', 1997, 'Romance|Thriller'),
 
 (1659, 'Hurricane Streets', 1997, 'Drama'),
 
@@ -2533,7 +2533,7 @@ VALUES
 
 (1671, 'Deceiver', 1997, 'Crime|Drama|Thriller'),
 
-(1672, '"Rainmaker, The', 1997, 'Drama'),
+(1672, 'Rainmaker, The', 1997, 'Drama'),
 
 (1673, 'Boogie Nights', 1997, 'Drama'),
 
@@ -2545,7 +2545,7 @@ VALUES
 
 (1677, 'Critical Care', 1997, 'Comedy|Drama'),
 
-(1678, '"Joy Luck Club, The', 1993, 'Drama|Romance'),
+(1678, 'Joy Luck Club, The', 1993, 'Drama|Romance'),
 
 (1679, 'Chairman of the Board', 1998, 'Comedy'),
 
@@ -2553,33 +2553,33 @@ VALUES
 
 (1681, 'Mortal Kombat: Annihilation', 1997, 'Action|Adventure|Fantasy'),
 
-(1682, '"Truman Show, The', 1998, 'Comedy|Drama|Sci-Fi'),
+(1682, 'Truman Show, The', 1998, 'Comedy|Drama|Sci-Fi'),
 
-(1683, '"Wings of the Dove, The', 1997, 'Drama|Romance'),
+(1683, 'Wings of the Dove, The', 1997, 'Drama|Romance'),
 
 (1684, 'Mrs. Dalloway', 1997, 'Drama|Romance'),
 
-(1685, '"I Love You, I Love You Not', 1996, 'Drama|Romance'),
+(1685, 'I Love You, I Love You Not', 1996, 'Drama|Romance'),
 
 (1686, 'Red Corner', 1997, 'Crime|Thriller'),
 
-(1687, '"Jackal, The', 1997, 'Action|Thriller'),
+(1687, 'Jackal, The', 1997, 'Action|Thriller'),
 
 (1688, 'Anastasia', 1997, 'Adventure|Animation|Children|Drama|Musical'),
 
-(1689, '"Man Who Knew Too Little, The', 1997, 'Comedy|Crime|Thriller'),
+(1689, 'Man Who Knew Too Little, The', 1997, 'Comedy|Crime|Thriller'),
 
 (1690, 'Alien: Resurrection', 1997, 'Action|Horror|Sci-Fi'),
 
 (1693, 'Amistad', 1997, 'Drama|Mystery'),
 
-(1694, '"Apostle, The', 1997, 'Drama'),
+(1694, 'Apostle, The', 1997, 'Drama'),
 
 (1695, 'Artemisia', 1997, 'Drama'),
 
 (1696, 'Bent', 1997, 'Drama|War'),
 
-(1699, '"Butcher Boy, The', 1997, 'Comedy|Drama'),
+(1699, 'Butcher Boy, The', 1997, 'Comedy|Drama'),
 
 (1701, 'Deconstructing Harry', 1997, 'Comedy|Drama'),
 
@@ -2599,15 +2599,15 @@ VALUES
 
 (1718, 'Stranger in the House', 1997, 'Thriller'),
 
-(1719, '"Sweet Hereafter, The', 1997, 'Drama'),
+(1719, 'Sweet Hereafter, The', 1997, 'Drama'),
 
 (1721, 'Titanic', 1997, 'Drama|Romance'),
 
 (1722, 'Tomorrow Never Dies', 1997, 'Action|Adventure|Thriller'),
 
-(1726, '"Postman, The', 1997, 'Action|Adventure|Drama|Sci-Fi'),
+(1726, 'Postman, The', 1997, 'Action|Adventure|Drama|Sci-Fi'),
 
-(1727, '"Horse Whisperer, The', 1998, 'Drama|Romance'),
+(1727, 'Horse Whisperer, The', 1998, 'Drama|Romance'),
 
 (1729, 'Jackie Brown', 1997, 'Crime|Drama|Thriller'),
 
@@ -2615,7 +2615,7 @@ VALUES
 
 (1731, 'Mr. Magoo', 1997, 'Comedy'),
 
-(1732, '"Big Lebowski, The', 1998, 'Comedy|Crime'),
+(1732, 'Big Lebowski, The', 1998, 'Comedy|Crime'),
 
 (1733, 'Afterglow', 1997, 'Drama|Romance'),
 
@@ -2641,7 +2641,7 @@ VALUES
 
 (1757, 'Fallen Angels (Duo luo tian shi)', 1995, 'Drama|Romance'),
 
-(1759, '"Four Days in September (O Que É Isso, Companheiro?)', 1997, 'Drama'),
+(1759, 'Four Days in September (O Que É Isso, Companheiro?)', 1997, 'Drama'),
 
 (1760, 'Spice World', 1997, 'Comedy'),
 
@@ -2649,7 +2649,7 @@ VALUES
 
 (1767, 'Music From Another Room', 1998, 'Drama|Romance'),
 
-(1769, '"Replacement Killers, The', 1998, 'Action|Crime|Thriller'),
+(1769, 'Replacement Killers, The', 1998, 'Action|Crime|Thriller'),
 
 (1770, 'B. Monkey', 1998, 'Crime|Romance|Thriller'),
 
@@ -2657,7 +2657,7 @@ VALUES
 
 (1772, 'Blues Brothers 2000', 1998, 'Action|Comedy|Musical'),
 
-(1777, '"Wedding Singer, The', 1998, 'Comedy|Romance'),
+(1777, 'Wedding Singer, The', 1998, 'Comedy|Romance'),
 
 (1779, 'Sphere', 1998, 'Sci-Fi|Thriller'),
 
@@ -2681,15 +2681,15 @@ VALUES
 
 (1799, 'Suicide Kings', 1997, 'Comedy|Crime|Drama|Mystery|Thriller'),
 
-(1801, '"Man in the Iron Mask, The', 1998, 'Action|Adventure|Drama'),
+(1801, 'Man in the Iron Mask, The', 1998, 'Action|Adventure|Drama'),
 
-(1804, '"Newton Boys, The', 1998, 'Crime|Drama'),
+(1804, 'Newton Boys, The', 1998, 'Crime|Drama'),
 
 (1805, 'Wild Things', 1998, 'Crime|Drama|Mystery|Thriller'),
 
 (1806, 'Paulie', 1998, 'Adventure|Children|Comedy'),
 
-(1807, '"Cool, Dry Place, A', 1998, 'Drama'),
+(1807, 'Cool, Dry Place, A', 1998, 'Drama'),
 
 (1809, 'Fireworks (Hana-bi)', 1997, 'Crime|Drama'),
 
@@ -2699,7 +2699,7 @@ VALUES
 
 (1816, 'Two Girls and a Guy', 1997, 'Comedy|Drama'),
 
-(1821, '"Object of My Affection, The', 1998, 'Comedy|Romance'),
+(1821, 'Object of My Affection, The', 1998, 'Comedy|Romance'),
 
 (1824, 'Homegrown', 1998, 'Comedy|Thriller'),
 
@@ -2707,7 +2707,7 @@ VALUES
 
 (1826, 'Barney‘s Great Adventure', 1998, 'Adventure|Children'),
 
-(1827, '"Big One, The', 1997, 'Comedy|Documentary'),
+(1827, 'Big One, The', 1997, 'Comedy|Documentary'),
 
 (1829, 'Chinese Box', 1997, 'Drama|Romance'),
 
@@ -2715,31 +2715,31 @@ VALUES
 
 (1833, 'Mercury Rising', 1998, 'Action|Drama|Thriller'),
 
-(1834, '"Spanish Prisoner, The', 1997, 'Crime|Drama|Mystery|Thriller'),
+(1834, 'Spanish Prisoner, The', 1997, 'Crime|Drama|Mystery|Thriller'),
 
 (1835, 'City of Angels', 1998, 'Drama|Fantasy|Romance'),
 
-(1836, '"Last Days of Disco, The', 1998, 'Comedy|Drama'),
+(1836, 'Last Days of Disco, The', 1998, 'Comedy|Drama'),
 
-(1837, '"Odd Couple II, The', 1998, 'Comedy'),
+(1837, 'Odd Couple II, The', 1998, 'Comedy'),
 
 (1839, 'My Giant', 1998, 'Comedy'),
 
 (1840, 'He Got Game', 1998, 'Drama'),
 
-(1841, '"Gingerbread Man, The', 1998, 'Drama|Thriller'),
+(1841, 'Gingerbread Man, The', 1998, 'Drama|Thriller'),
 
 (1844, 'Live Flesh (Carne trémula)', 1997, 'Drama|Romance'),
 
 (1845, 'Zero Effect', 1998, 'Comedy|Mystery|Thriller'),
 
-(1848, '"Borrowers, The', 1997, 'Adventure|Children|Comedy|Fantasy'),
+(1848, 'Borrowers, The', 1997, 'Adventure|Children|Comedy|Fantasy'),
 
 (1855, 'Krippendorf‘s Tribe', 1998, 'Comedy'),
 
 (1856, 'Kurt & Courtney', 1998, 'Documentary'),
 
-(1857, '"Real Blonde, The', 1997, 'Comedy'),
+(1857, 'Real Blonde, The', 1997, 'Comedy'),
 
 (1858, 'Mr. Nice Guy (Yat goh ho yan)', 1997, 'Action|Comedy'),
 
@@ -2751,13 +2751,13 @@ VALUES
 
 (1863, 'Major League: Back to the Minors', 1998, 'Comedy'),
 
-(1866, '"Big Hit, The', 1998, 'Action|Comedy|Crime'),
+(1866, 'Big Hit, The', 1998, 'Action|Comedy|Crime'),
 
 (1867, 'Tarzan and the Lost City', 1998, 'Action|Adventure'),
 
-(1870, '"Dancer, Texas Pop. 81', 1998, 'Comedy|Drama'),
+(1870, 'Dancer, Texas Pop. 81', 1998, 'Comedy|Drama'),
 
-(1873, '"Misérables, Les', 1998, 'Crime|Drama|Romance|War'),
+(1873, 'Misérables, Les', 1998, 'Crime|Drama|Romance|War'),
 
 (1875, 'Clockwatchers', 1997, 'Comedy'),
 
@@ -2771,7 +2771,7 @@ VALUES
 
 (1884, 'Fear and Loathing in Las Vegas', 1998, 'Adventure|Comedy|Drama'),
 
-(1885, '"Opposite of Sex, The', 1998, 'Comedy|Drama|Romance'),
+(1885, 'Opposite of Sex, The', 1998, 'Comedy|Drama|Romance'),
 
 (1887, 'Almost Heroes', 1998, 'Adventure|Comedy|Western'),
 
@@ -2779,9 +2779,9 @@ VALUES
 
 (1889, 'Insomnia', 1997, 'Drama|Mystery|Thriller'),
 
-(1891, '"Ugly, The', 1997, 'Horror|Thriller'),
+(1891, 'Ugly, The', 1997, 'Horror|Thriller'),
 
-(1892, '"Perfect Murder, A', 1998, 'Thriller'),
+(1892, 'Perfect Murder, A', 1998, 'Thriller'),
 
 (1893, 'Beyond Silence (Jenseits der Stille)', 1996, 'Drama'),
 
@@ -2791,7 +2791,7 @@ VALUES
 
 (1897, 'High Art', 1998, 'Drama|Romance'),
 
-(1900, '"Children of Heaven, The (Bacheha-Ye Aseman)', 1997, 'Comedy|Drama'),
+(1900, 'Children of Heaven, The (Bacheha-Ye Aseman)', 1997, 'Comedy|Drama'),
 
 (1902, 'Dream for an Insomniac', 1996, 'Drama|Romance'),
 
@@ -2801,7 +2801,7 @@ VALUES
 
 (1907, 'Mulan', 1998, 'Adventure|Animation|Children|Comedy|Drama|Musical|Romance'),
 
-(1909, '"X-Files: Fight the Future, The', 1998, 'Action|Crime|Mystery|Sci-Fi|Thriller'),
+(1909, 'X-Files: Fight the Future, The', 1998, 'Action|Crime|Mystery|Sci-Fi|Thriller'),
 
 (1910, 'I Went Down', 1997, 'Comedy|Crime|Drama'),
 
@@ -2831,7 +2831,7 @@ VALUES
 
 (1924, 'Plan 9 from Outer Space', 1959, 'Horror|Sci-Fi'),
 
-(1926, '"Broadway Melody, The', 1929, 'Musical'),
+(1926, 'Broadway Melody, The', 1929, 'Musical'),
 
 (1927, 'All Quiet on the Western Front', 1930, 'Action|Drama|War'),
 
@@ -2841,9 +2841,9 @@ VALUES
 
 (1931, 'Mutiny on the Bounty', 1935, 'Adventure|Drama'),
 
-(1932, '"Great Ziegfeld, The', 1936, 'Drama|Musical'),
+(1932, 'Great Ziegfeld, The', 1936, 'Drama|Musical'),
 
-(1933, '"Life of Emile Zola, The', 1937, 'Drama'),
+(1933, 'Life of Emile Zola, The', 1937, 'Drama'),
 
 (1934, 'You Can‘t Take It with You', 1938, 'Comedy|Romance'),
 
@@ -2851,9 +2851,9 @@ VALUES
 
 (1937, 'Going My Way', 1944, 'Comedy|Drama|Musical'),
 
-(1938, '"Lost Weekend, The', 1945, 'Drama'),
+(1938, 'Lost Weekend, The', 1945, 'Drama'),
 
-(1939, '"Best Years of Our Lives, The', 1946, 'Drama|War'),
+(1939, 'Best Years of Our Lives, The', 1946, 'Drama|War'),
 
 (1940, 'Gentleman‘s Agreement', 1947, 'Drama'),
 
@@ -2871,7 +2871,7 @@ VALUES
 
 (1948, 'Tom Jones', 1963, 'Adventure|Comedy|Romance'),
 
-(1949, '"Man for All Seasons, A', 1966, 'Drama'),
+(1949, 'Man for All Seasons, A', 1966, 'Drama'),
 
 (1950, 'In the Heat of the Night', 1967, 'Drama|Mystery'),
 
@@ -2879,7 +2879,7 @@ VALUES
 
 (1952, 'Midnight Cowboy', 1969, 'Drama'),
 
-(1953, '"French Connection, The', 1971, 'Action|Crime|Thriller'),
+(1953, 'French Connection, The', 1971, 'Action|Crime|Thriller'),
 
 (1954, 'Rocky', 1976, 'Drama'),
 
@@ -2893,7 +2893,7 @@ VALUES
 
 (1959, 'Out of Africa', 1985, 'Drama|Romance'),
 
-(1960, '"Last Emperor, The', 1987, 'Drama'),
+(1960, 'Last Emperor, The', 1987, 'Drama'),
 
 (1961, 'Rain Man', 1988, 'Drama'),
 
@@ -2909,17 +2909,17 @@ VALUES
 
 (1967, 'Labyrinth', 1986, 'Adventure|Fantasy|Musical'),
 
-(1968, '"Breakfast Club, The', 1985, 'Comedy|Drama'),
+(1968, 'Breakfast Club, The', 1985, 'Comedy|Drama'),
 
-(1969, '"Nightmare on Elm Street 2: Freddy‘s Revenge, A', 1985, 'Horror'),
+(1969, 'Nightmare on Elm Street 2: Freddy‘s Revenge, A', 1985, 'Horror'),
 
-(1970, '"Nightmare on Elm Street 3: Dream Warriors, A', 1987, 'Horror|Thriller'),
+(1970, 'Nightmare on Elm Street 3: Dream Warriors, A', 1987, 'Horror|Thriller'),
 
-(1971, '"Nightmare on Elm Street 4: The Dream Master, A', 1988, 'Horror|Thriller'),
+(1971, 'Nightmare on Elm Street 4: The Dream Master, A', 1988, 'Horror|Thriller'),
 
-(1972, '"Nightmare on Elm Street 5: The Dream Child, A', 1989, 'Horror'),
+(1972, 'Nightmare on Elm Street 5: The Dream Child, A', 1989, 'Horror'),
 
-(1973, '"Freddy‘s Dead: The Final Nightmare (Nightmare on Elm Street Part 6: Freddy‘s Dead, A)', 1991, 'Horror'),
+(1973, 'Freddy‘s Dead: The Final Nightmare (Nightmare on Elm Street Part 6: Freddy‘s Dead, A)', 1991, 'Horror'),
 
 (1974, 'Friday the 13th', 1980, 'Horror|Mystery|Thriller'),
 
@@ -2963,11 +2963,11 @@ VALUES
 
 (1996, 'Poltergeist III', 1988, 'Horror|Thriller'),
 
-(1997, '"Exorcist, The', 1973, 'Horror|Mystery'),
+(1997, 'Exorcist, The', 1973, 'Horror|Mystery'),
 
 (1998, 'Exorcist II: The Heretic', 1977, 'Horror'),
 
-(1999, '"Exorcist III, The', 1990, 'Horror'),
+(1999, 'Exorcist III, The', 1990, 'Horror'),
 
 (2000, 'Lethal Weapon', 1987, 'Action|Comedy|Crime|Drama'),
 
@@ -2979,13 +2979,13 @@ VALUES
 
 (2004, 'Gremlins 2: The New Batch', 1990, 'Comedy|Horror'),
 
-(2005, '"Goonies, The', 1985, 'Action|Adventure|Children|Comedy|Fantasy'),
+(2005, 'Goonies, The', 1985, 'Action|Adventure|Children|Comedy|Fantasy'),
 
-(2006, '"Mask of Zorro, The', 1998, 'Action|Comedy|Romance'),
+(2006, 'Mask of Zorro, The', 1998, 'Action|Comedy|Romance'),
 
 (2007, 'Polish Wedding', 1998, 'Comedy'),
 
-(2008, '"This World, Then the Fireworks', 1997, 'Crime|Drama|Film-Noir'),
+(2008, 'This World, Then the Fireworks', 1997, 'Crime|Drama|Film-Noir'),
 
 (2009, 'Soylent Green', 1973, 'Drama|Mystery|Sci-Fi|Thriller'),
 
@@ -2995,13 +2995,13 @@ VALUES
 
 (2012, 'Back to the Future Part III', 1990, 'Adventure|Comedy|Sci-Fi|Western'),
 
-(2013, '"Poseidon Adventure, The', 1972, 'Action|Adventure|Drama'),
+(2013, 'Poseidon Adventure, The', 1972, 'Action|Adventure|Drama'),
 
 (2014, 'Freaky Friday', 1977, 'Children|Comedy|Fantasy'),
 
-(2015, '"Absent-Minded Professor, The', 1961, 'Children|Comedy|Fantasy'),
+(2015, 'Absent-Minded Professor, The', 1961, 'Children|Comedy|Fantasy'),
 
-(2016, '"Apple Dumpling Gang Rides Again, The', 1979, 'Children|Comedy|Western'),
+(2016, 'Apple Dumpling Gang Rides Again, The', 1979, 'Children|Comedy|Western'),
 
 (2017, 'Babes in Toyland', 1961, 'Children|Fantasy|Musical'),
 
@@ -3013,11 +3013,11 @@ VALUES
 
 (2021, 'Dune', 1984, 'Adventure|Sci-Fi'),
 
-(2022, '"Last Temptation of Christ, The', 1988, 'Drama'),
+(2022, 'Last Temptation of Christ, The', 1988, 'Drama'),
 
-(2023, '"Godfather: Part III, The', 1990, 'Crime|Drama|Mystery|Thriller'),
+(2023, 'Godfather: Part III, The', 1990, 'Crime|Drama|Mystery|Thriller'),
 
-(2024, '"Rapture, The', 1991, 'Drama|Mystery'),
+(2024, 'Rapture, The', 1991, 'Drama|Mystery'),
 
 (2025, 'Lolita', 1997, 'Drama|Romance'),
 
@@ -3027,11 +3027,11 @@ VALUES
 
 (2028, 'Saving Private Ryan', 1998, 'Action|Drama|War'),
 
-(2032, '"Barefoot Executive, The', 1971, 'Children|Comedy'),
+(2032, 'Barefoot Executive, The', 1971, 'Children|Comedy'),
 
-(2033, '"Black Cauldron, The', 1985, 'Adventure|Animation|Children|Fantasy'),
+(2033, 'Black Cauldron, The', 1985, 'Adventure|Animation|Children|Fantasy'),
 
-(2034, '"Black Hole, The', 1979, 'Children|Sci-Fi'),
+(2034, 'Black Hole, The', 1979, 'Children|Sci-Fi'),
 
 (2035, 'Blackbeard‘s Ghost', 1968, 'Children|Comedy'),
 
@@ -3039,9 +3039,9 @@ VALUES
 
 (2037, 'Candleshoe', 1977, 'Adventure|Children|Comedy'),
 
-(2038, '"Cat from Outer Space, The', 1978, 'Children|Comedy|Sci-Fi'),
+(2038, 'Cat from Outer Space, The', 1978, 'Children|Comedy|Sci-Fi'),
 
-(2040, '"Computer Wore Tennis Shoes, The', 1969, 'Children|Comedy'),
+(2040, 'Computer Wore Tennis Shoes, The', 1969, 'Children|Comedy'),
 
 (2041, 'Condorman', 1981, 'Action|Adventure|Children|Comedy'),
 
@@ -3049,11 +3049,11 @@ VALUES
 
 (2043, 'Darby O‘Gill and the Little People', 1959, 'Adventure|Children|Fantasy'),
 
-(2044, '"Devil and Max Devlin, The', 1981, 'Comedy|Fantasy'),
+(2044, 'Devil and Max Devlin, The', 1981, 'Comedy|Fantasy'),
 
 (2046, 'Flight of the Navigator', 1986, 'Adventure|Children|Sci-Fi'),
 
-(2048, '"Great Mouse Detective, The', 1986, 'Action|Animation|Children|Crime'),
+(2048, 'Great Mouse Detective, The', 1986, 'Action|Animation|Children|Crime'),
 
 (2050, 'Herbie Goes Bananas', 1980, 'Adventure|Children|Comedy'),
 
@@ -3061,25 +3061,25 @@ VALUES
 
 (2052, 'Hocus Pocus', 1993, 'Children|Comedy|Fantasy|Horror'),
 
-(2053, '"Honey, I Blew Up the Kid', 1992, 'Children|Comedy|Sci-Fi'),
+(2053, 'Honey, I Blew Up the Kid', 1992, 'Children|Comedy|Sci-Fi'),
 
-(2054, '"Honey, I Shrunk the Kids', 1989, 'Adventure|Children|Comedy|Fantasy|Sci-Fi'),
+(2054, 'Honey, I Shrunk the Kids', 1989, 'Adventure|Children|Comedy|Fantasy|Sci-Fi'),
 
 (2055, 'Hot Lead and Cold Feet', 1978, 'Action|Comedy|Western'),
 
 (2056, 'In Search of the Castaways', 1962, 'Adventure|Children'),
 
-(2057, '"Incredible Journey, The', 1963, 'Adventure|Children'),
+(2057, 'Incredible Journey, The', 1963, 'Adventure|Children'),
 
-(2058, '"Negotiator, The', 1998, 'Action|Crime|Drama|Mystery|Thriller'),
+(2058, 'Negotiator, The', 1998, 'Action|Crime|Drama|Mystery|Thriller'),
 
-(2059, '"Parent Trap, The', 1998, 'Children|Comedy|Romance'),
+(2059, 'Parent Trap, The', 1998, 'Children|Comedy|Romance'),
 
 (2060, 'BASEketball', 1998, 'Comedy'),
 
 (2064, 'Roger & Me', 1989, 'Documentary'),
 
-(2065, '"Purple Rose of Cairo, The', 1985, 'Comedy|Drama|Fantasy|Romance'),
+(2065, 'Purple Rose of Cairo, The', 1985, 'Comedy|Drama|Fantasy|Romance'),
 
 (2066, 'Out of the Past', 1947, 'Film-Noir'),
 
@@ -3087,33 +3087,33 @@ VALUES
 
 (2068, 'Fanny and Alexander (Fanny och Alexander)', 1982, 'Drama|Fantasy|Mystery'),
 
-(2069, '"Trip to Bountiful, The', 1985, 'Drama'),
+(2069, 'Trip to Bountiful, The', 1985, 'Drama'),
 
 (2070, 'Tender Mercies', 1983, 'Drama|Romance|Western'),
 
 (2071, 'And the Band Played On', 1993, 'Drama'),
 
-(2072, '"‘burbs, The', 1989, 'Comedy'),
+(2072, '‘burbs, The', 1989, 'Comedy'),
 
 (2073, 'Fandango', 1985, 'Comedy'),
 
-(2074, '"Night Porter, The (Portiere di notte, Il)', 1974, 'Crime|Drama|Romance'),
+(2074, 'Night Porter, The (Portiere di notte, Il)', 1974, 'Crime|Drama|Romance'),
 
 (2075, 'Mephisto', 1981, 'Drama|War'),
 
 (2076, 'Blue Velvet', 1986, 'Drama|Mystery|Thriller'),
 
-(2077, '"Journey of Natty Gann, The', 1985, 'Adventure|Children'),
+(2077, 'Journey of Natty Gann, The', 1985, 'Adventure|Children'),
 
-(2078, '"Jungle Book, The', 1967, 'Animation|Children|Comedy|Musical'),
+(2078, 'Jungle Book, The', 1967, 'Animation|Children|Comedy|Musical'),
 
 (2080, 'Lady and the Tramp', 1955, 'Animation|Children|Comedy|Romance'),
 
-(2081, '"Little Mermaid, The', 1989, 'Animation|Children|Comedy|Musical|Romance'),
+(2081, 'Little Mermaid, The', 1989, 'Animation|Children|Comedy|Musical|Romance'),
 
-(2082, '"Mighty Ducks, The', 1992, 'Children|Comedy'),
+(2082, 'Mighty Ducks, The', 1992, 'Children|Comedy'),
 
-(2083, '"Muppet Christmas Carol, The', 1992, 'Children|Comedy|Musical'),
+(2083, 'Muppet Christmas Carol, The', 1992, 'Children|Comedy|Musical'),
 
 (2084, 'Newsies', 1992, 'Children|Musical'),
 
@@ -3123,19 +3123,19 @@ VALUES
 
 (2088, 'Popeye', 1980, 'Adventure|Comedy|Musical'),
 
-(2089, '"Rescuers Down Under, The', 1990, 'Adventure|Animation|Children'),
+(2089, 'Rescuers Down Under, The', 1990, 'Adventure|Animation|Children'),
 
-(2090, '"Rescuers, The', 1977, 'Adventure|Animation|Children|Crime|Drama'),
+(2090, 'Rescuers, The', 1977, 'Adventure|Animation|Children|Crime|Drama'),
 
 (2091, 'Return from Witch Mountain', 1978, 'Children|Sci-Fi'),
 
-(2092, '"Return of Jafar, The', 1994, 'Adventure|Animation|Children|Fantasy|Musical|Romance'),
+(2092, 'Return of Jafar, The', 1994, 'Adventure|Animation|Children|Fantasy|Musical|Romance'),
 
 (2093, 'Return to Oz', 1985, 'Adventure|Children|Fantasy'),
 
-(2094, '"Rocketeer, The', 1991, 'Action|Adventure|Sci-Fi'),
+(2094, 'Rocketeer, The', 1991, 'Action|Adventure|Sci-Fi'),
 
-(2095, '"Shaggy D.A., The', 1976, 'Children|Comedy'),
+(2095, 'Shaggy D.A., The', 1976, 'Children|Comedy'),
 
 (2096, 'Sleeping Beauty', 1959, 'Animation|Children|Musical'),
 
@@ -3161,23 +3161,23 @@ VALUES
 
 (2108, 'L.A. Story', 1991, 'Comedy|Romance'),
 
-(2109, '"Jerk, The', 1979, 'Comedy'),
+(2109, 'Jerk, The', 1979, 'Comedy'),
 
 (2110, 'Dead Men Don‘t Wear Plaid', 1982, 'Comedy|Crime|Thriller'),
 
-(2111, '"Man with Two Brains, The', 1983, 'Comedy'),
+(2111, 'Man with Two Brains, The', 1983, 'Comedy'),
 
 (2112, 'Grand Canyon', 1991, 'Crime|Drama'),
 
-(2114, '"Outsiders, The', 1983, 'Drama'),
+(2114, 'Outsiders, The', 1983, 'Drama'),
 
 (2115, 'Indiana Jones and the Temple of Doom', 1984, 'Action|Adventure|Fantasy'),
 
-(2116, '"Lord of the Rings, The', 1978, 'Adventure|Animation|Children|Fantasy'),
+(2116, 'Lord of the Rings, The', 1978, 'Adventure|Animation|Children|Fantasy'),
 
 (2117, '1984 (Nineteen Eighty-Four)', 1984, 'Drama|Sci-Fi'),
 
-(2118, '"Dead Zone, The', 1983, 'Thriller'),
+(2118, 'Dead Zone, The', 1983, 'Thriller'),
 
 (2119, 'Maximum Overdrive', 1986, 'Horror'),
 
@@ -3189,7 +3189,7 @@ VALUES
 
 (2123, 'All Dogs Go to Heaven', 1989, 'Animation|Children|Comedy|Drama|Fantasy'),
 
-(2124, '"Addams Family, The', 1991, 'Children|Comedy|Fantasy'),
+(2124, 'Addams Family, The', 1991, 'Children|Comedy|Fantasy'),
 
 (2125, 'Ever After: A Cinderella Story', 1998, 'Comedy|Drama|Romance'),
 
@@ -3207,19 +3207,19 @@ VALUES
 
 (2135, 'Doctor Dolittle', 1967, 'Adventure|Children|Musical'),
 
-(2136, '"Nutty Professor, The', 1963, 'Comedy|Sci-Fi'),
+(2136, 'Nutty Professor, The', 1963, 'Comedy|Sci-Fi'),
 
 (2137, 'Charlotte‘s Web', 1973, 'Animation|Children'),
 
 (2138, 'Watership Down', 1978, 'Adventure|Animation|Children|Drama|Fantasy'),
 
-(2139, '"Secret of NIMH, The', 1982, 'Adventure|Animation|Children|Drama'),
+(2139, 'Secret of NIMH, The', 1982, 'Adventure|Animation|Children|Drama'),
 
-(2140, '"Dark Crystal, The', 1982, 'Adventure|Fantasy'),
+(2140, 'Dark Crystal, The', 1982, 'Adventure|Fantasy'),
 
-(2141, '"American Tail, An', 1986, 'Adventure|Animation|Children|Comedy'),
+(2141, 'American Tail, An', 1986, 'Adventure|Animation|Children|Comedy'),
 
-(2142, '"American Tail: Fievel Goes West, An', 1991, 'Adventure|Animation|Children|Musical|Western'),
+(2142, 'American Tail: Fievel Goes West, An', 1991, 'Adventure|Animation|Children|Musical|Western'),
 
 (2143, 'Legend', 1985, 'Adventure|Fantasy|Romance'),
 
@@ -3229,33 +3229,33 @@ VALUES
 
 (2146, 'St. Elmo‘s Fire', 1985, 'Drama|Romance'),
 
-(2147, '"Clan of the Cave Bear, The', 1986, 'Adventure|Drama|Fantasy'),
+(2147, 'Clan of the Cave Bear, The', 1986, 'Adventure|Drama|Fantasy'),
 
 (2148, 'House', 1986, 'Comedy|Fantasy|Horror'),
 
 (2149, 'House II: The Second Story', 1987, 'Comedy|Fantasy|Horror'),
 
-(2150, '"Gods Must Be Crazy, The', 1980, 'Adventure|Comedy'),
+(2150, 'Gods Must Be Crazy, The', 1980, 'Adventure|Comedy'),
 
-(2151, '"Gods Must Be Crazy II, The', 1989, 'Comedy'),
+(2151, 'Gods Must Be Crazy II, The', 1989, 'Comedy'),
 
 (2152, 'Air Bud: Golden Receiver', 1998, 'Children|Comedy'),
 
-(2153, '"Avengers, The', 1998, 'Action|Adventure'),
+(2153, 'Avengers, The', 1998, 'Action|Adventure'),
 
 (2154, 'How Stella Got Her Groove Back', 1998, 'Drama|Romance'),
 
-(2155, '"Slums of Beverly Hills, The', 1998, 'Comedy|Drama'),
+(2155, 'Slums of Beverly Hills, The', 1998, 'Comedy|Drama'),
 
-(2156, '"Best Man, The (Testimone dello sposo, Il)', 1998, 'Comedy|Drama|Romance'),
+(2156, 'Best Man, The (Testimone dello sposo, Il)', 1998, 'Comedy|Drama|Romance'),
 
 (2159, 'Henry: Portrait of a Serial Killer', 1986, 'Crime|Horror|Thriller'),
 
 (2160, 'Rosemary‘s Baby', 1968, 'Drama|Horror|Thriller'),
 
-(2161, '"NeverEnding Story, The', 1984, 'Adventure|Children|Fantasy'),
+(2161, 'NeverEnding Story, The', 1984, 'Adventure|Children|Fantasy'),
 
-(2162, '"NeverEnding Story II: The Next Chapter, The', 1990, 'Adventure|Children|Fantasy'),
+(2162, 'NeverEnding Story II: The Next Chapter, The', 1990, 'Adventure|Children|Fantasy'),
 
 (2163, 'Attack of the Killer Tomatoes!', 1978, 'Comedy|Horror'),
 
@@ -3273,7 +3273,7 @@ VALUES
 
 (2171, 'Next Stop Wonderland', 1998, 'Comedy|Drama|Romance'),
 
-(2172, '"Strike! (a.k.a. All I Wanna Do, The Hairy Bird)', 1998, 'Comedy|Drama'),
+(2172, 'Strike! (a.k.a. All I Wanna Do, The Hairy Bird)', 1998, 'Comedy|Drama'),
 
 (2174, 'Beetlejuice', 1988, 'Comedy|Fantasy'),
 
@@ -3291,11 +3291,11 @@ VALUES
 
 (2181, 'Marnie', 1964, 'Drama|Mystery|Romance|Thriller'),
 
-(2182, '"Wrong Man, The', 1956, 'Drama|Film-Noir|Thriller'),
+(2182, 'Wrong Man, The', 1956, 'Drama|Film-Noir|Thriller'),
 
-(2183, '"Man Who Knew Too Much, The', 1956, 'Adventure|Drama|Mystery|Thriller'),
+(2183, 'Man Who Knew Too Much, The', 1956, 'Adventure|Drama|Mystery|Thriller'),
 
-(2184, '"Trouble with Harry, The', 1955, 'Comedy|Mystery'),
+(2184, 'Trouble with Harry, The', 1955, 'Comedy|Mystery'),
 
 (2185, 'I Confess', 1953, 'Thriller'),
 
@@ -3309,13 +3309,13 @@ VALUES
 
 (2193, 'Willow', 1988, 'Action|Adventure|Fantasy'),
 
-(2194, '"Untouchables, The', 1987, 'Action|Crime|Drama'),
+(2194, 'Untouchables, The', 1987, 'Action|Crime|Drama'),
 
 (2195, 'Dirty Work', 1998, 'Comedy'),
 
 (2196, 'Knock Off', 1998, 'Action'),
 
-(2201, '"Paradine Case, The', 1947, 'Drama'),
+(2201, 'Paradine Case, The', 1947, 'Drama'),
 
 (2202, 'Lifeboat', 1944, 'Drama|War'),
 
@@ -3329,17 +3329,17 @@ VALUES
 
 (2207, 'Jamaica Inn', 1939, 'Drama'),
 
-(2208, '"Lady Vanishes, The', 1938, 'Drama|Mystery|Thriller'),
+(2208, 'Lady Vanishes, The', 1938, 'Drama|Mystery|Thriller'),
 
 (2210, 'Sabotage', 1936, 'Thriller'),
 
 (2211, 'Secret Agent', 1936, 'Thriller'),
 
-(2212, '"Man Who Knew Too Much, The', 1934, 'Drama|Thriller'),
+(2212, 'Man Who Knew Too Much, The', 1934, 'Drama|Thriller'),
 
-(2226, '"Ring, The', 1927, 'Drama'),
+(2226, 'Ring, The', 1927, 'Drama'),
 
-(2227, '"Lodger: A Story of the London Fog, The', 1927, 'Crime|Drama|Thriller'),
+(2227, 'Lodger: A Story of the London Fog, The', 1927, 'Crime|Drama|Thriller'),
 
 (2231, 'Rounders', 1998, 'Drama'),
 
@@ -3355,7 +3355,7 @@ VALUES
 
 (2243, 'Broadcast News', 1987, 'Comedy|Drama|Romance'),
 
-(2244, '"Allnighter, The', 1987, 'Comedy|Romance'),
+(2244, 'Allnighter, The', 1987, 'Comedy|Romance'),
 
 (2245, 'Working Girl', 1988, 'Comedy|Drama|Romance'),
 
@@ -3383,17 +3383,17 @@ VALUES
 
 (2262, 'About Last Night...', 1986, 'Comedy|Drama|Romance'),
 
-(2263, '"Seventh Sign, The', 1988, 'Drama|Fantasy|Thriller'),
+(2263, 'Seventh Sign, The', 1988, 'Drama|Fantasy|Thriller'),
 
 (2264, 'We‘re No Angels', 1989, 'Comedy|Crime'),
 
 (2265, 'Nothing But Trouble', 1991, 'Adventure|Comedy'),
 
-(2266, '"Butcher‘s Wife, The', 1991, 'Comedy|Romance'),
+(2266, 'Butcher‘s Wife, The', 1991, 'Comedy|Romance'),
 
 (2267, 'Mortal Thoughts', 1991, 'Mystery|Thriller'),
 
-(2268, '"Few Good Men, A', 1992, 'Crime|Drama|Thriller'),
+(2268, 'Few Good Men, A', 1992, 'Crime|Drama|Thriller'),
 
 (2269, 'Indecent Proposal', 1993, 'Drama|Romance'),
 
@@ -3415,15 +3415,15 @@ VALUES
 
 (2282, 'Pecker', 1998, 'Comedy|Drama'),
 
-(2283, '"Sheltering Sky, The', 1990, 'Drama'),
+(2283, 'Sheltering Sky, The', 1990, 'Drama'),
 
-(2286, '"Fiendish Plot of Dr. Fu Manchu, The', 1980, 'Comedy'),
+(2286, 'Fiendish Plot of Dr. Fu Manchu, The', 1980, 'Comedy'),
 
 (2287, 'Them!', 1954, 'Horror|Sci-Fi|Thriller'),
 
-(2288, '"Thing, The', 1982, 'Action|Horror|Sci-Fi|Thriller'),
+(2288, 'Thing, The', 1982, 'Action|Horror|Sci-Fi|Thriller'),
 
-(2289, '"Player, The', 1992, 'Comedy|Crime|Drama'),
+(2289, 'Player, The', 1992, 'Comedy|Crime|Drama'),
 
 (2290, 'Stardust Memories', 1980, 'Comedy|Drama'),
 
@@ -3433,15 +3433,15 @@ VALUES
 
 (2294, 'Antz', 1998, 'Adventure|Animation|Children|Comedy|Fantasy'),
 
-(2295, '"Impostors, The', 1998, 'Comedy'),
+(2295, 'Impostors, The', 1998, 'Comedy'),
 
-(2296, '"Night at the Roxbury, A', 1998, 'Comedy'),
+(2296, 'Night at the Roxbury, A', 1998, 'Comedy'),
 
 (2297, 'What Dreams May Come', 1998, 'Adventure|Drama|Fantasy|Romance'),
 
 (2298, 'Strangeland', 1998, 'Thriller'),
 
-(2300, '"Producers, The', 1968, 'Comedy'),
+(2300, 'Producers, The', 1968, 'Comedy'),
 
 (2301, 'History of the World: Part I', 1981, 'Comedy|Musical'),
 
@@ -3455,13 +3455,13 @@ VALUES
 
 (2307, 'One Tough Cop', 1998, 'Action|Crime'),
 
-(2310, '"Mighty, The', 1998, 'Drama'),
+(2310, 'Mighty, The', 1998, 'Drama'),
 
 (2311, '2010: The Year We Make Contact', 1984, 'Sci-Fi'),
 
 (2312, 'Children of a Lesser God', 1986, 'Drama'),
 
-(2313, '"Elephant Man, The', 1980, 'Drama'),
+(2313, 'Elephant Man, The', 1980, 'Drama'),
 
 (2314, 'Beloved', 1998, 'Drama'),
 
@@ -3477,7 +3477,7 @@ VALUES
 
 (2322, 'Soldier', 1998, 'Action|Sci-Fi|War'),
 
-(2323, '"Cruise, The', 1998, 'Documentary'),
+(2323, 'Cruise, The', 1998, 'Documentary'),
 
 (2324, 'Life Is Beautiful (La Vita è bella)', 1997, 'Comedy|Drama|Romance|War'),
 
@@ -3497,9 +3497,9 @@ VALUES
 
 (2333, 'Gods and Monsters', 1998, 'Drama'),
 
-(2334, '"Siege, The', 1998, 'Action|Thriller'),
+(2334, 'Siege, The', 1998, 'Action|Thriller'),
 
-(2335, '"Waterboy, The', 1998, 'Comedy'),
+(2335, 'Waterboy, The', 1998, 'Comedy'),
 
 (2336, 'Elizabeth', 1998, 'Drama'),
 
@@ -3515,9 +3515,9 @@ VALUES
 
 (2344, 'Runaway Train', 1985, 'Action|Adventure|Drama|Thriller'),
 
-(2346, '"Stepford Wives, The', 1975, 'Mystery|Sci-Fi|Thriller'),
+(2346, 'Stepford Wives, The', 1975, 'Mystery|Sci-Fi|Thriller'),
 
-(2347, '"Pope of Greenwich Village, The', 1984, 'Drama'),
+(2347, 'Pope of Greenwich Village, The', 1984, 'Drama'),
 
 (2348, 'Sid and Nancy', 1986, 'Drama'),
 
@@ -3525,15 +3525,15 @@ VALUES
 
 (2350, 'Heart Condition', 1990, 'Comedy'),
 
-(2351, '"Nights of Cabiria (Notti di Cabiria, Le)', 1957, 'Drama'),
+(2351, 'Nights of Cabiria (Notti di Cabiria, Le)', 1957, 'Drama'),
 
-(2352, '"Big Chill, The', 1983, 'Comedy|Drama'),
+(2352, 'Big Chill, The', 1983, 'Comedy|Drama'),
 
 (2353, 'Enemy of the State', 1998, 'Action|Thriller'),
 
-(2354, '"Rugrats Movie, The', 1998, 'Animation|Children|Comedy'),
+(2354, 'Rugrats Movie, The', 1998, 'Animation|Children|Comedy'),
 
-(2355, '"Bug‘s Life, A', 1998, 'Adventure|Animation|Children|Comedy'),
+(2355, 'Bug‘s Life, A', 1998, 'Adventure|Animation|Children|Comedy'),
 
 (2356, 'Celebrity', 1998, 'Comedy'),
 
@@ -3543,7 +3543,7 @@ VALUES
 
 (2359, 'Waking Ned Devine (a.k.a. Waking Ned)', 1998, 'Comedy'),
 
-(2360, '"Celebration, The (Festen)', 1998, 'Drama'),
+(2360, 'Celebration, The (Festen)', 1998, 'Drama'),
 
 (2361, 'Pink Flamingos', 1972, 'Comedy'),
 
@@ -3551,7 +3551,7 @@ VALUES
 
 (2363, 'Godzilla (Gojira)', 1954, 'Drama|Horror|Sci-Fi'),
 
-(2364, '"Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla, The)', 1984, 'Action|Horror|Sci-Fi|Thriller'),
+(2364, 'Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla, The)', 1984, 'Action|Horror|Sci-Fi|Thriller'),
 
 (2365, 'King Kong vs. Godzilla (Kingukongu tai Gojira)', 1962, 'Action|Sci-Fi'),
 
@@ -3563,7 +3563,7 @@ VALUES
 
 (2369, 'Desperately Seeking Susan', 1985, 'Comedy|Drama|Romance'),
 
-(2370, '"Emerald Forest, The', 1985, 'Action|Adventure|Drama'),
+(2370, 'Emerald Forest, The', 1985, 'Action|Adventure|Drama'),
 
 (2371, 'Fletch', 1985, 'Comedy|Crime|Mystery'),
 
@@ -3573,9 +3573,9 @@ VALUES
 
 (2374, 'Gung Ho', 1986, 'Comedy|Drama'),
 
-(2375, '"Money Pit, The', 1986, 'Comedy'),
+(2375, 'Money Pit, The', 1986, 'Comedy'),
 
-(2376, '"View to a Kill, A', 1985, 'Action|Adventure|Thriller'),
+(2376, 'View to a Kill, A', 1985, 'Action|Adventure|Thriller'),
 
 (2377, 'Lifeforce', 1985, 'Horror|Sci-Fi'),
 
@@ -3603,13 +3603,13 @@ VALUES
 
 (2390, 'Little Voice', 1998, 'Comedy'),
 
-(2391, '"Simple Plan, A', 1998, 'Crime|Drama|Thriller'),
+(2391, 'Simple Plan, A', 1998, 'Crime|Drama|Thriller'),
 
 (2392, 'Jack Frost', 1998, 'Children|Comedy|Drama'),
 
 (2393, 'Star Trek: Insurrection', 1998, 'Action|Drama|Romance|Sci-Fi'),
 
-(2394, '"Prince of Egypt, The', 1998, 'Animation|Musical'),
+(2394, 'Prince of Egypt, The', 1998, 'Animation|Musical'),
 
 (2395, 'Rushmore', 1998, 'Comedy|Drama'),
 
@@ -3629,7 +3629,7 @@ VALUES
 
 (2404, 'Rambo III', 1988, 'Action|Adventure|Thriller|War'),
 
-(2405, '"Jewel of the Nile, The', 1985, 'Action|Adventure|Comedy|Romance'),
+(2405, 'Jewel of the Nile, The', 1985, 'Action|Adventure|Comedy|Romance'),
 
 (2406, 'Romancing the Stone', 1984, 'Action|Adventure|Comedy|Romance'),
 
@@ -3659,21 +3659,21 @@ VALUES
 
 (2419, 'Extremities', 1986, 'Drama|Thriller'),
 
-(2420, '"Karate Kid, The', 1984, 'Drama'),
+(2420, 'Karate Kid, The', 1984, 'Drama'),
 
-(2421, '"Karate Kid, Part II, The', 1986, 'Action|Adventure|Drama'),
+(2421, 'Karate Kid, Part II, The', 1986, 'Action|Adventure|Drama'),
 
-(2422, '"Karate Kid, Part III, The', 1989, 'Action|Adventure|Children|Drama'),
+(2422, 'Karate Kid, Part III, The', 1989, 'Action|Adventure|Children|Drama'),
 
 (2423, 'Christmas Vacation (National Lampoon‘s Christmas Vacation)', 1989, 'Comedy'),
 
 (2424, 'You‘ve Got Mail', 1998, 'Comedy|Romance'),
 
-(2425, '"General, The', 1998, 'Crime'),
+(2425, 'General, The', 1998, 'Crime'),
 
-(2427, '"Thin Red Line, The', 1998, 'Action|Drama|War'),
+(2427, 'Thin Red Line, The', 1998, 'Action|Drama|War'),
 
-(2428, '"Faculty, The', 1998, 'Horror|Sci-Fi'),
+(2428, 'Faculty, The', 1998, 'Horror|Sci-Fi'),
 
 (2429, 'Mighty Joe Young', 1998, 'Action|Adventure|Drama|Fantasy|Thriller'),
 
@@ -3683,7 +3683,7 @@ VALUES
 
 (2432, 'Stepmom', 1998, 'Drama'),
 
-(2433, '"Civil Action, A', 1998, 'Drama'),
+(2433, 'Civil Action, A', 1998, 'Drama'),
 
 (2435, 'Hurlyburly', 1998, 'Drama'),
 
@@ -3705,23 +3705,23 @@ VALUES
 
 (2450, 'Howard the Duck', 1986, 'Adventure|Comedy|Sci-Fi'),
 
-(2451, '"Gate, The', 1987, 'Horror'),
+(2451, 'Gate, The', 1987, 'Horror'),
 
-(2453, '"Boy Who Could Fly, The', 1986, 'Drama|Fantasy'),
+(2453, 'Boy Who Could Fly, The', 1986, 'Drama|Fantasy'),
 
-(2454, '"Fly, The', 1958, 'Horror|Mystery|Sci-Fi'),
+(2454, 'Fly, The', 1958, 'Horror|Mystery|Sci-Fi'),
 
-(2455, '"Fly, The', 1986, 'Drama|Horror|Sci-Fi|Thriller'),
+(2455, 'Fly, The', 1986, 'Drama|Horror|Sci-Fi|Thriller'),
 
-(2456, '"Fly II, The', 1989, 'Horror|Sci-Fi'),
+(2456, 'Fly II, The', 1989, 'Horror|Sci-Fi'),
 
 (2457, 'Running Scared', 1986, 'Action|Comedy'),
 
 (2458, 'Armed and Dangerous', 1986, 'Comedy|Crime'),
 
-(2459, '"Texas Chainsaw Massacre, The', 1974, 'Horror'),
+(2459, 'Texas Chainsaw Massacre, The', 1974, 'Horror'),
 
-(2460, '"Texas Chainsaw Massacre 2, The', 1986, 'Horror'),
+(2460, 'Texas Chainsaw Massacre 2, The', 1986, 'Horror'),
 
 (2462, 'Texas Chainsaw Massacre: The Next Generation (a.k.a. The Return of the Texas Chainsaw Massacre)', 1994, 'Horror'),
 
@@ -3729,7 +3729,7 @@ VALUES
 
 (2465, 'Deadly Friend', 1986, 'Horror'),
 
-(2467, '"Name of the Rose, The (Name der Rose, Der)', 1986, 'Crime|Drama|Mystery|Thriller'),
+(2467, 'Name of the Rose, The (Name der Rose, Der)', 1986, 'Crime|Drama|Mystery|Thriller'),
 
 (2468, 'Jumpin‘ Jack Flash', 1986, 'Action|Comedy|Romance|Thriller'),
 
@@ -3743,7 +3743,7 @@ VALUES
 
 (2473, 'Soul Man', 1986, 'Comedy'),
 
-(2474, '"Color of Money, The', 1986, 'Drama'),
+(2474, 'Color of Money, The', 1986, 'Drama'),
 
 (2475, '52 Pick-Up', 1986, 'Action|Mystery|Thriller'),
 
@@ -3757,7 +3757,7 @@ VALUES
 
 (2482, 'Still Crazy', 1998, 'Comedy|Romance'),
 
-(2483, '"Day of the Beast, The (Día de la Bestia, El)', 1995, 'Adventure|Comedy|Thriller'),
+(2483, 'Day of the Beast, The (Día de la Bestia, El)', 1995, 'Adventure|Comedy|Thriller'),
 
 (2485, 'She‘s All That', 1999, 'Comedy|Romance'),
 
@@ -3769,11 +3769,11 @@ VALUES
 
 (2492, '20 Dates', 1998, 'Comedy|Romance'),
 
-(2493, '"Harmonists, The', 1997, 'Drama'),
+(2493, 'Harmonists, The', 1997, 'Drama'),
 
-(2494, '"Last Days, The', 1998, 'Documentary'),
+(2494, 'Last Days, The', 1998, 'Documentary'),
 
-(2495, '"Fantastic Planet, The (Planète sauvage, La)', 1973, 'Animation|Sci-Fi'),
+(2495, 'Fantastic Planet, The (Planète sauvage, La)', 1973, 'Animation|Sci-Fi'),
 
 (2496, 'Blast from the Past', 1999, 'Comedy|Romance'),
 
@@ -3787,17 +3787,17 @@ VALUES
 
 (2502, 'Office Space', 1999, 'Comedy|Crime'),
 
-(2503, '"Apple, The (Sib)', 1998, 'Drama'),
+(2503, 'Apple, The (Sib)', 1998, 'Drama'),
 
 (2504, '200 Cigarettes', 1999, 'Comedy|Drama'),
 
 (2505, '8MM', 1999, 'Drama|Mystery|Thriller'),
 
-(2506, '"Other Sister, The', 1999, 'Comedy|Drama|Romance'),
+(2506, 'Other Sister, The', 1999, 'Comedy|Drama|Romance'),
 
-(2511, '"Long Goodbye, The', 1973, 'Crime|Film-Noir'),
+(2511, 'Long Goodbye, The', 1973, 'Crime|Film-Noir'),
 
-(2512, '"Ballad of Narayama, The (Narayama bushiko)', 1983, 'Drama'),
+(2512, 'Ballad of Narayama, The (Narayama bushiko)', 1983, 'Drama'),
 
 (2513, 'Pet Sematary', 1989, 'Horror'),
 
@@ -3819,7 +3819,7 @@ VALUES
 
 (2523, 'Rollercoaster', 1977, 'Drama|Thriller'),
 
-(2524, '"Towering Inferno, The', 1974, 'Action|Adventure|Drama|Thriller'),
+(2524, 'Towering Inferno, The', 1974, 'Action|Adventure|Drama|Thriller'),
 
 (2525, 'Alligator', 1980, 'Action|Horror|Sci-Fi'),
 
@@ -3849,21 +3849,21 @@ VALUES
 
 (2539, 'Analyze This', 1999, 'Comedy'),
 
-(2540, '"Corruptor, The', 1999, 'Action|Crime|Drama|Thriller'),
+(2540, 'Corruptor, The', 1999, 'Action|Crime|Drama|Thriller'),
 
 (2541, 'Cruel Intentions', 1999, 'Drama'),
 
-(2542, '"Lock, Stock & Two Smoking Barrels', 1998, 'Comedy|Crime|Thriller'),
+(2542, 'Lock, Stock & Two Smoking Barrels', 1998, 'Comedy|Crime|Thriller'),
 
-(2544, '"School of Flesh, The (École de la chair, L‘)', 1998, 'Drama|Romance'),
+(2544, 'School of Flesh, The (École de la chair, L‘)', 1998, 'Drama|Romance'),
 
-(2546, '"Deep End of the Ocean, The', 1999, 'Drama'),
+(2546, 'Deep End of the Ocean, The', 1999, 'Drama'),
 
-(2548, '"Rage: Carrie 2, The', 1999, 'Horror'),
+(2548, 'Rage: Carrie 2, The', 1999, 'Horror'),
 
 (2549, 'Wing Commander', 1999, 'Action|Sci-Fi'),
 
-(2550, '"Haunting, The', 1963, 'Horror|Thriller'),
+(2550, 'Haunting, The', 1963, 'Horror|Thriller'),
 
 (2551, 'Dead Ringers', 1988, 'Drama|Horror|Thriller'),
 
@@ -3879,7 +3879,7 @@ VALUES
 
 (2558, 'Forces of Nature', 1999, 'Comedy|Romance'),
 
-(2559, '"King and I, The', 1999, 'Animation|Children'),
+(2559, 'King and I, The', 1999, 'Animation|Children'),
 
 (2560, 'Ravenous', 1999, 'Horror|Thriller'),
 
@@ -3887,25 +3887,25 @@ VALUES
 
 (2563, 'Dangerous Beauty', 1998, 'Drama'),
 
-(2565, '"King and I, The', 1956, 'Drama|Musical|Romance'),
+(2565, 'King and I, The', 1956, 'Drama|Musical|Romance'),
 
 (2566, 'Doug‘s 1st Movie', 1999, 'Animation|Children'),
 
 (2567, 'EDtv', 1999, 'Comedy'),
 
-(2568, '"Mod Squad, The', 1999, 'Action|Crime'),
+(2568, 'Mod Squad, The', 1999, 'Action|Crime'),
 
-(2570, '"Walk on the Moon, A', 1999, 'Drama|Romance'),
+(2570, 'Walk on the Moon, A', 1999, 'Drama|Romance'),
 
-(2571, '"Matrix, The', 1999, 'Action|Sci-Fi|Thriller'),
+(2571, 'Matrix, The', 1999, 'Action|Sci-Fi|Thriller'),
 
 (2572, '10 Things I Hate About You', 1999, 'Comedy|Romance'),
 
 (2573, 'Tango', 1998, 'Drama|Musical'),
 
-(2574, '"Out-of-Towners, The', 1999, 'Comedy'),
+(2574, 'Out-of-Towners, The', 1999, 'Comedy'),
 
-(2575, '"Dreamlife of Angels, The (Vie rêvée des anges, La)', 1998, 'Drama'),
+(2575, 'Dreamlife of Angels, The (Vie rêvée des anges, La)', 1998, 'Drama'),
 
 (2577, 'Metroland', 1997, 'Comedy|Drama'),
 
@@ -3919,7 +3919,7 @@ VALUES
 
 (2583, 'Cookie‘s Fortune', 1999, 'Comedy|Drama'),
 
-(2585, '"Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar)', 1998, 'Drama|Romance'),
+(2585, 'Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar)', 1998, 'Drama|Romance'),
 
 (2586, 'Goodbye Lover', 1999, 'Comedy|Crime|Thriller'),
 
@@ -3929,7 +3929,7 @@ VALUES
 
 (2590, 'Hideous Kinky', 1998, 'Drama'),
 
-(2593, '"Monster, The (Mostro, Il)', 1994, 'Comedy'),
+(2593, 'Monster, The (Mostro, Il)', 1994, 'Comedy'),
 
 (2594, 'Open Your Eyes (Abre los ojos)', 1997, 'Drama|Romance|Sci-Fi|Thriller'),
 
@@ -3949,9 +3949,9 @@ VALUES
 
 (2607, 'Get Real', 1998, 'Drama|Romance'),
 
-(2609, '"King of Masks, The (Bian Lian)', 1996, 'Drama'),
+(2609, 'King of Masks, The (Bian Lian)', 1996, 'Drama'),
 
-(2611, '"Winslow Boy, The', 1999, 'Drama'),
+(2611, 'Winslow Boy, The', 1999, 'Drama'),
 
 (2612, 'Mildred Pierce', 1945, 'Drama|Film-Noir'),
 
@@ -3963,9 +3963,9 @@ VALUES
 
 (2616, 'Dick Tracy', 1990, 'Action|Crime'),
 
-(2617, '"Mummy, The', 1999, 'Action|Adventure|Comedy|Fantasy|Horror|Thriller'),
+(2617, 'Mummy, The', 1999, 'Action|Adventure|Comedy|Fantasy|Horror|Thriller'),
 
-(2618, '"Castle, The', 1997, 'Comedy'),
+(2618, 'Castle, The', 1997, 'Comedy'),
 
 (2620, 'This Is My Father', 1998, 'Drama|Romance'),
 
@@ -3979,15 +3979,15 @@ VALUES
 
 (2628, 'Star Wars: Episode I - The Phantom Menace', 1999, 'Action|Adventure|Sci-Fi'),
 
-(2629, '"Love Letter, The', 1999, 'Comedy|Romance'),
+(2629, 'Love Letter, The', 1999, 'Comedy|Romance'),
 
 (2630, 'Besieged (a.k.a. L‘ Assedio)', 1998, 'Drama'),
 
-(2632, '"Saragossa Manuscript, The (Rekopis znaleziony w Saragossie)', 1965, 'Adventure|Drama|Mystery'),
+(2632, 'Saragossa Manuscript, The (Rekopis znaleziony w Saragossie)', 1965, 'Adventure|Drama|Mystery'),
 
-(2633, '"Mummy, The', 1932, 'Horror|Romance'),
+(2633, 'Mummy, The', 1932, 'Horror|Romance'),
 
-(2634, '"Mummy, The', 1959, 'Horror'),
+(2634, 'Mummy, The', 1959, 'Horror'),
 
 (2639, 'Mommie Dearest', 1981, 'Drama'),
 
@@ -4005,23 +4005,23 @@ VALUES
 
 (2651, 'Frankenstein Meets the Wolf Man', 1943, 'Horror'),
 
-(2652, '"Curse of Frankenstein, The', 1957, 'Horror'),
+(2652, 'Curse of Frankenstein, The', 1957, 'Horror'),
 
-(2654, '"Wolf Man, The', 1941, 'Drama|Fantasy|Horror'),
+(2654, 'Wolf Man, The', 1941, 'Drama|Fantasy|Horror'),
 
 (2655, 'Howling II: Your Sister Is a Werewolf', 1985, 'Horror'),
 
 (2656, 'Tarantula', 1955, 'Horror|Sci-Fi'),
 
-(2657, '"Rocky Horror Picture Show, The', 1975, 'Comedy|Horror|Musical|Sci-Fi'),
+(2657, 'Rocky Horror Picture Show, The', 1975, 'Comedy|Horror|Musical|Sci-Fi'),
 
 (2659, 'It Came from Hollywood', 1982, 'Comedy|Documentary'),
 
-(2660, '"Thing from Another World, The', 1951, 'Horror|Sci-Fi'),
+(2660, 'Thing from Another World, The', 1951, 'Horror|Sci-Fi'),
 
 (2661, 'It Came from Outer Space', 1953, 'Sci-Fi'),
 
-(2662, '"War of the Worlds, The', 1953, 'Action|Drama|Sci-Fi'),
+(2662, 'War of the Worlds, The', 1953, 'Action|Drama|Sci-Fi'),
 
 (2664, 'Invasion of the Body Snatchers', 1956, 'Horror|Sci-Fi|Thriller'),
 
@@ -4035,9 +4035,9 @@ VALUES
 
 (2671, 'Notting Hill', 1999, 'Comedy|Romance'),
 
-(2672, '"Thirteenth Floor, The', 1999, 'Drama|Sci-Fi|Thriller'),
+(2672, 'Thirteenth Floor, The', 1999, 'Drama|Sci-Fi|Thriller'),
 
-(2674, '"Loss of Sexual Innocence, The', 1999, 'Drama|Fantasy'),
+(2674, 'Loss of Sexual Innocence, The', 1999, 'Drama|Fantasy'),
 
 (2676, 'Instinct', 1999, 'Drama|Thriller'),
 
@@ -4049,15 +4049,15 @@ VALUES
 
 (2683, 'Austin Powers: The Spy Who Shagged Me', 1999, 'Action|Adventure|Comedy'),
 
-(2686, '"Red Violin, The (Violon rouge, Le)', 1998, 'Drama|Mystery'),
+(2686, 'Red Violin, The (Violon rouge, Le)', 1998, 'Drama|Mystery'),
 
 (2687, 'Tarzan', 1999, 'Adventure|Animation|Children|Drama'),
 
-(2688, '"General‘s Daughter, The', 1999, 'Crime|Drama|Mystery|Thriller'),
+(2688, 'General‘s Daughter, The', 1999, 'Crime|Drama|Mystery|Thriller'),
 
-(2690, '"Ideal Husband, An', 1999, 'Comedy|Romance'),
+(2690, 'Ideal Husband, An', 1999, 'Comedy|Romance'),
 
-(2691, '"Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull‘oceano)', 1998, 'Drama'),
+(2691, 'Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull‘oceano)', 1998, 'Drama'),
 
 (2692, 'Run Lola Run (Lola rennt)', 1998, 'Action|Crime'),
 
@@ -4065,9 +4065,9 @@ VALUES
 
 (2694, 'Big Daddy', 1999, 'Comedy'),
 
-(2695, '"Boys, The', 1998, 'Drama'),
+(2695, 'Boys, The', 1998, 'Drama'),
 
-(2696, '"Dinner Game, The (Dîner de cons, Le)', 1998, 'Comedy'),
+(2696, 'Dinner Game, The (Dîner de cons, Le)', 1998, 'Comedy'),
 
 (2697, 'My Son the Fanatic', 1997, 'Comedy|Drama|Romance'),
 
@@ -4075,7 +4075,7 @@ VALUES
 
 (2699, 'Arachnophobia', 1990, 'Comedy|Horror'),
 
-(2700, '"South Park: Bigger, Longer and Uncut', 1999, 'Animation|Comedy|Musical'),
+(2700, 'South Park: Bigger, Longer and Uncut', 1999, 'Animation|Comedy|Musical'),
 
 (2701, 'Wild Wild West', 1999, 'Action|Comedy|Sci-Fi|Western'),
 
@@ -4085,11 +4085,11 @@ VALUES
 
 (2707, 'Arlington Road', 1999, 'Thriller'),
 
-(2708, '"Autumn Tale, An (Conte d‘automne)', 1998, 'Romance'),
+(2708, 'Autumn Tale, An (Conte d‘automne)', 1998, 'Romance'),
 
 (2709, 'Muppets From Space', 1999, 'Children|Comedy'),
 
-(2710, '"Blair Witch Project, The', 1999, 'Drama|Horror|Thriller'),
+(2710, 'Blair Witch Project, The', 1999, 'Drama|Horror|Thriller'),
 
 (2712, 'Eyes Wide Shut', 1999, 'Drama|Mystery|Thriller'),
 
@@ -4101,7 +4101,7 @@ VALUES
 
 (2718, 'Drop Dead Gorgeous', 1999, 'Comedy'),
 
-(2719, '"Haunting, The', 1999, 'Horror|Thriller'),
+(2719, 'Haunting, The', 1999, 'Horror|Thriller'),
 
 (2720, 'Inspector Gadget', 1999, 'Action|Adventure|Children|Comedy'),
 
@@ -4113,7 +4113,7 @@ VALUES
 
 (2725, 'Twin Falls Idaho', 1999, 'Drama'),
 
-(2726, '"Killing, The', 1956, 'Crime|Film-Noir'),
+(2726, 'Killing, The', 1956, 'Crime|Film-Noir'),
 
 (2727, 'Killer‘s Kiss', 1955, 'Crime|Film-Noir'),
 
@@ -4123,15 +4123,15 @@ VALUES
 
 (2730, 'Barry Lyndon', 1975, 'Drama|Romance|War'),
 
-(2731, '"400 Blows, The (Les quatre cents coups)', 1959, 'Crime|Drama'),
+(2731, '400 Blows, The (Les quatre cents coups)', 1959, 'Crime|Drama'),
 
 (2732, 'Jules and Jim (Jules et Jim)', 1961, 'Drama|Romance'),
 
 (2733, 'Vibes', 1988, 'Adventure|Comedy|Romance'),
 
-(2734, '"Mosquito Coast, The', 1986, 'Adventure|Drama|Thriller'),
+(2734, 'Mosquito Coast, The', 1986, 'Adventure|Drama|Thriller'),
 
-(2735, '"Golden Child, The', 1986, 'Action|Adventure|Comedy|Fantasy|Mystery'),
+(2735, 'Golden Child, The', 1986, 'Action|Adventure|Comedy|Fantasy|Mystery'),
 
 (2736, 'Brighton Beach Memoirs', 1986, 'Comedy'),
 
@@ -4139,9 +4139,9 @@ VALUES
 
 (2738, 'Crimes of the Heart', 1986, 'Comedy|Drama'),
 
-(2739, '"Color Purple, The', 1985, 'Drama'),
+(2739, 'Color Purple, The', 1985, 'Drama'),
 
-(2740, '"Kindred, The', 1986, 'Horror|Sci-Fi'),
+(2740, 'Kindred, The', 1986, 'Horror|Sci-Fi'),
 
 (2741, 'No Mercy', 1986, 'Action|Crime|Thriller'),
 
@@ -4151,15 +4151,15 @@ VALUES
 
 (2744, 'Otello', 1986, 'Drama'),
 
-(2745, '"Mission, The', 1986, 'Drama'),
+(2745, 'Mission, The', 1986, 'Drama'),
 
 (2746, 'Little Shop of Horrors', 1986, 'Comedy|Horror|Musical'),
 
-(2747, '"Little Shop of Horrors, The', 1960, 'Comedy|Horror'),
+(2747, 'Little Shop of Horrors, The', 1960, 'Comedy|Horror'),
 
 (2748, 'Allan Quatermain and the Lost City of Gold', 1987, 'Action|Adventure|Comedy'),
 
-(2749, '"Morning After, The', 1986, 'Drama|Mystery'),
+(2749, 'Morning After, The', 1986, 'Drama|Mystery'),
 
 (2750, 'Radio Days', 1987, 'Comedy|Drama'),
 
@@ -4173,19 +4173,19 @@ VALUES
 
 (2759, 'Dick', 1999, 'Comedy'),
 
-(2761, '"Iron Giant, The', 1999, 'Adventure|Animation|Children|Drama|Sci-Fi'),
+(2761, 'Iron Giant, The', 1999, 'Adventure|Animation|Children|Drama|Sci-Fi'),
 
-(2762, '"Sixth Sense, The', 1999, 'Drama|Horror|Mystery'),
+(2762, 'Sixth Sense, The', 1999, 'Drama|Horror|Mystery'),
 
-(2763, '"Thomas Crown Affair, The', 1999, 'Action|Mystery'),
+(2763, 'Thomas Crown Affair, The', 1999, 'Action|Mystery'),
 
-(2764, '"Thomas Crown Affair, The', 1968, 'Crime|Drama|Romance|Thriller'),
+(2764, 'Thomas Crown Affair, The', 1968, 'Crime|Drama|Romance|Thriller'),
 
-(2765, '"Acid House, The', 1998, 'Comedy|Drama'),
+(2765, 'Acid House, The', 1998, 'Comedy|Drama'),
 
-(2766, '"Adventures of Sebastian Cole, The', 1998, 'Comedy|Drama'),
+(2766, 'Adventures of Sebastian Cole, The', 1998, 'Comedy|Drama'),
 
-(2769, '"Yards, The', 2000, 'Crime|Drama'),
+(2769, 'Yards, The', 2000, 'Crime|Drama'),
 
 (2770, 'Bowfinger', 1999, 'Comedy'),
 
@@ -4201,7 +4201,7 @@ VALUES
 
 (2782, 'Pit and the Pendulum', 1961, 'Horror'),
 
-(2784, '"Masque of the Red Death, The', 1964, 'Horror'),
+(2784, 'Masque of the Red Death, The', 1964, 'Horror'),
 
 (2786, 'Haunted Honeymoon', 1986, 'Comedy'),
 
@@ -4211,13 +4211,13 @@ VALUES
 
 (2789, 'Damien: Omen II', 1978, 'Horror'),
 
-(2790, '"Final Conflict, The (a.k.a. Omen III: The Final Conflict)', 1981, 'Horror|Thriller'),
+(2790, 'Final Conflict, The (a.k.a. Omen III: The Final Conflict)', 1981, 'Horror|Thriller'),
 
 (2791, 'Airplane!', 1980, 'Comedy'),
 
 (2792, 'Airplane II: The Sequel', 1982, 'Comedy'),
 
-(2793, '"American Werewolf in Paris, An', 1997, 'Comedy|Horror|Romance|Thriller'),
+(2793, 'American Werewolf in Paris, An', 1997, 'Comedy|Horror|Romance|Thriller'),
 
 (2794, 'European Vacation (aka National Lampoon‘s European Vacation)', 1985, 'Adventure|Comedy|Romance'),
 
@@ -4237,9 +4237,9 @@ VALUES
 
 (2802, 'Tequila Sunrise', 1988, 'Action|Drama|Romance|Thriller'),
 
-(2803, '"Pelican Brief, The', 1993, 'Crime|Drama|Mystery|Romance|Thriller'),
+(2803, 'Pelican Brief, The', 1993, 'Crime|Drama|Mystery|Romance|Thriller'),
 
-(2804, '"Christmas Story, A', 1983, 'Children|Comedy'),
+(2804, 'Christmas Story, A', 1983, 'Children|Comedy'),
 
 (2805, 'Mickey Blue Eyes', 1999, 'Comedy|Romance'),
 
@@ -4253,7 +4253,7 @@ VALUES
 
 (2812, 'In Too Deep', 1999, 'Action|Thriller'),
 
-(2813, '"Source, The', 1999, 'Documentary'),
+(2813, 'Source, The', 1999, 'Documentary'),
 
 (2815, 'Iron Eagle', 1986, 'Action|War'),
 
@@ -4271,13 +4271,13 @@ VALUES
 
 (2824, 'On the Ropes', 1999, 'Documentary|Drama'),
 
-(2826, '"13th Warrior, The', 1999, 'Action|Adventure|Fantasy'),
+(2826, '13th Warrior, The', 1999, 'Action|Adventure|Fantasy'),
 
-(2827, '"Astronaut‘s Wife, The', 1999, 'Horror|Sci-Fi|Thriller'),
+(2827, 'Astronaut‘s Wife, The', 1999, 'Horror|Sci-Fi|Thriller'),
 
 (2828, 'Dudley Do-Right', 1999, 'Children|Comedy'),
 
-(2829, '"Muse, The', 1999, 'Comedy'),
+(2829, 'Muse, The', 1999, 'Comedy'),
 
 (2835, 'Chill Factor', 1999, 'Action|Adventure|Comedy|Thriller'),
 
@@ -4291,19 +4291,19 @@ VALUES
 
 (2841, 'Stir of Echoes', 1999, 'Horror|Mystery|Thriller'),
 
-(2843, '"Black Cat, White Cat (Crna macka, beli macor)', 1998, 'Comedy|Romance'),
+(2843, 'Black Cat, White Cat (Crna macka, beli macor)', 1998, 'Comedy|Romance'),
 
-(2844, '"Minus Man, The', 1999, 'Drama|Mystery'),
+(2844, 'Minus Man, The', 1999, 'Drama|Mystery'),
 
-(2846, '"Adventures of Milo and Otis, The (Koneko monogatari)', 1986, 'Adventure|Children|Comedy|Drama'),
+(2846, 'Adventures of Milo and Otis, The (Koneko monogatari)', 1986, 'Adventure|Children|Comedy|Drama'),
 
 (2847, 'Only Angels Have Wings', 1939, 'Adventure|Drama|Romance'),
 
-(2848, '"Othello (Tragedy of Othello: The Moor of Venice, The)', 1952, 'Drama'),
+(2848, 'Othello (Tragedy of Othello: The Moor of Venice, The)', 1952, 'Drama'),
 
 (2851, 'Saturn 3', 1980, 'Adventure|Sci-Fi|Thriller'),
 
-(2852, '"Soldier‘s Story, A', 1984, 'Drama'),
+(2852, 'Soldier‘s Story, A', 1984, 'Drama'),
 
 (2856, 'I Saw What You Did', 1965, 'Thriller'),
 
@@ -4319,11 +4319,11 @@ VALUES
 
 (2862, 'Caligula', 1979, 'Drama'),
 
-(2863, '"Hard Day‘s Night, A', 1964, 'Adventure|Comedy|Musical'),
+(2863, 'Hard Day‘s Night, A', 1964, 'Adventure|Comedy|Musical'),
 
 (2865, 'Sugar Town', 1999, 'Comedy'),
 
-(2866, '"Buddy Holly Story, The', 1978, 'Drama'),
+(2866, 'Buddy Holly Story, The', 1978, 'Drama'),
 
 (2867, 'Fright Night', 1985, 'Comedy|Horror|Thriller'),
 
@@ -4335,7 +4335,7 @@ VALUES
 
 (2872, 'Excalibur', 1981, 'Adventure|Fantasy'),
 
-(2874, '"Pajama Game, The', 1957, 'Comedy|Musical|Romance'),
+(2874, 'Pajama Game, The', 1957, 'Comedy|Musical|Romance'),
 
 (2875, 'Sommersby', 1993, 'Drama|Mystery|Romance'),
 
@@ -4359,17 +4359,17 @@ VALUES
 
 (2885, 'Guinevere', 1999, 'Drama|Romance'),
 
-(2886, '"Adventures of Elmo in Grouchland, The', 1999, 'Children|Comedy'),
+(2886, 'Adventures of Elmo in Grouchland, The', 1999, 'Children|Comedy'),
 
 (2887, 'Simon Sez', 1999, 'Action|Comedy'),
 
 (2888, 'Drive Me Crazy', 1999, 'Comedy|Romance'),
 
-(2889, '"Mystery, Alaska', 1999, 'Comedy|Drama'),
+(2889, 'Mystery, Alaska', 1999, 'Comedy|Drama'),
 
 (2890, 'Three Kings', 1999, 'Action|Adventure|Comedy|Drama|War'),
 
-(2891, '"Happy, Texas', 1999, 'Comedy'),
+(2891, 'Happy, Texas', 1999, 'Comedy'),
 
 (2892, 'New Rose Hotel', 1998, 'Action|Drama'),
 
@@ -4381,7 +4381,7 @@ VALUES
 
 (2897, 'And the Ship Sails On (E la nave va)', 1983, 'Comedy|War'),
 
-(2898, '"Dark Half, The', 1993, 'Horror|Mystery'),
+(2898, 'Dark Half, The', 1993, 'Horror|Mystery'),
 
 (2899, 'Gulliver‘s Travels', 1939, 'Adventure|Animation|Children'),
 
@@ -4401,7 +4401,7 @@ VALUES
 
 (2908, 'Boys Don‘t Cry', 1999, 'Drama'),
 
-(2912, '"Limey, The', 1999, 'Crime|Drama|Thriller'),
+(2912, 'Limey, The', 1999, 'Crime|Drama|Thriller'),
 
 (2915, 'Risky Business', 1983, 'Comedy'),
 
@@ -4411,7 +4411,7 @@ VALUES
 
 (2918, 'Ferris Bueller‘s Day Off', 1986, 'Comedy'),
 
-(2919, '"Year of Living Dangerously, The', 1982, 'Drama|Romance|War'),
+(2919, 'Year of Living Dangerously, The', 1982, 'Drama|Romance|War'),
 
 (2921, 'High Plains Drifter', 1973, 'Western'),
 
@@ -4419,13 +4419,13 @@ VALUES
 
 (2924, 'Drunken Master (Jui kuen)', 1978, 'Action|Comedy'),
 
-(2925, '"Conformist, The (Conformista, Il)', 1970, 'Drama'),
+(2925, 'Conformist, The (Conformista, Il)', 1970, 'Drama'),
 
 (2926, 'Hairspray', 1988, 'Comedy|Drama'),
 
 (2927, 'Brief Encounter', 1946, 'Drama|Romance'),
 
-(2928, '"Razor‘s Edge, The', 1984, 'Drama'),
+(2928, 'Razor‘s Edge, The', 1984, 'Drama'),
 
 (2929, 'Reds', 1981, 'Drama|Romance'),
 
@@ -4435,11 +4435,11 @@ VALUES
 
 (2932, 'Days of Heaven', 1978, 'Drama'),
 
-(2935, '"Lady Eve, The', 1941, 'Comedy|Romance'),
+(2935, 'Lady Eve, The', 1941, 'Comedy|Romance'),
 
 (2936, 'Sullivan‘s Travels', 1941, 'Adventure|Comedy|Romance'),
 
-(2937, '"Palm Beach Story, The', 1942, 'Comedy'),
+(2937, 'Palm Beach Story, The', 1942, 'Comedy'),
 
 (2939, 'Niagara', 1953, 'Drama|Thriller'),
 
@@ -4451,7 +4451,7 @@ VALUES
 
 (2943, 'Indochine', 1992, 'Drama|Romance'),
 
-(2944, '"Dirty Dozen, The', 1967, 'Action|Drama|War'),
+(2944, 'Dirty Dozen, The', 1967, 'Action|Drama|War'),
 
 (2946, 'Help!', 1965, 'Comedy|Musical'),
 
@@ -4461,9 +4461,9 @@ VALUES
 
 (2949, 'Dr. No', 1962, 'Action|Adventure|Thriller'),
 
-(2950, '"Blue Lagoon, The', 1980, 'Adventure|Drama|Romance'),
+(2950, 'Blue Lagoon, The', 1980, 'Adventure|Drama|Romance'),
 
-(2951, '"Fistful of Dollars, A (Per un pugno di dollari)', 1964, 'Action|Western'),
+(2951, 'Fistful of Dollars, A (Per un pugno di dollari)', 1964, 'Action|Western'),
 
 (2952, 'Sydney (Hard Eight)', 1996, 'Crime|Drama|Thriller'),
 
@@ -4473,21 +4473,21 @@ VALUES
 
 (2959, 'Fight Club', 1999, 'Action|Crime|Drama|Thriller'),
 
-(2961, '"Story of Us, The', 1999, 'Comedy|Drama'),
+(2961, 'Story of Us, The', 1999, 'Comedy|Drama'),
 
 (2962, 'Fever Pitch', 1997, 'Comedy|Romance'),
 
 (2964, 'Julien Donkey-Boy', 1999, 'Drama'),
 
-(2965, '"Omega Code, The', 1999, 'Action'),
+(2965, 'Omega Code, The', 1999, 'Action'),
 
-(2966, '"Straight Story, The', 1999, 'Adventure|Drama'),
+(2966, 'Straight Story, The', 1999, 'Adventure|Drama'),
 
-(2967, '"Bad Seed, The', 1956, 'Drama|Thriller'),
+(2967, 'Bad Seed, The', 1956, 'Drama|Thriller'),
 
 (2968, 'Time Bandits', 1981, 'Adventure|Comedy|Fantasy|Sci-Fi'),
 
-(2969, '"Man and a Woman, A (Un homme et une femme)', 1966, 'Drama|Romance'),
+(2969, 'Man and a Woman, A (Un homme et une femme)', 1966, 'Drama|Romance'),
 
 (2970, 'Fitzcarraldo', 1982, 'Adventure|Drama'),
 
@@ -4499,7 +4499,7 @@ VALUES
 
 (2974, 'Bats', 1999, 'Horror|Thriller'),
 
-(2975, '"Best Man, The', 1999, 'Comedy|Drama'),
+(2975, 'Best Man, The', 1999, 'Comedy|Drama'),
 
 (2976, 'Bringing Out the Dead', 1999, 'Drama'),
 
@@ -4509,9 +4509,9 @@ VALUES
 
 (2979, 'Body Shots', 1999, 'Drama'),
 
-(2982, '"Guardian, The', 1990, 'Horror|Thriller'),
+(2982, 'Guardian, The', 1990, 'Horror|Thriller'),
 
-(2983, '"Ipcress File, The', 1965, 'Thriller'),
+(2983, 'Ipcress File, The', 1965, 'Thriller'),
 
 (2984, 'On Any Sunday', 1971, 'Documentary'),
 
@@ -4545,11 +4545,11 @@ VALUES
 
 (3003, 'Train of Life (Train de vie)', 1998, 'Comedy|Drama|Romance|War'),
 
-(3004, '"Bachelor, The', 1999, 'Comedy|Romance'),
+(3004, 'Bachelor, The', 1999, 'Comedy|Romance'),
 
-(3005, '"Bone Collector, The', 1999, 'Thriller'),
+(3005, 'Bone Collector, The', 1999, 'Thriller'),
 
-(3006, '"Insider, The', 1999, 'Drama|Thriller'),
+(3006, 'Insider, The', 1999, 'Drama|Thriller'),
 
 (3007, 'American Movie', 1999, 'Documentary'),
 
@@ -4557,7 +4557,7 @@ VALUES
 
 (3010, 'Rosetta', 1999, 'Drama'),
 
-(3011, '"They Shoot Horses, Don‘t They?', 1969, 'Drama'),
+(3011, 'They Shoot Horses, Don‘t They?', 1969, 'Drama'),
 
 (3013, 'Bride of Re-Animator', 1990, 'Comedy|Horror'),
 
@@ -4575,13 +4575,13 @@ VALUES
 
 (3020, 'Falling Down', 1993, 'Action|Drama'),
 
-(3021, '"Funhouse, The', 1981, 'Horror'),
+(3021, 'Funhouse, The', 1981, 'Horror'),
 
-(3022, '"General, The', 1926, 'Comedy|War'),
+(3022, 'General, The', 1926, 'Comedy|War'),
 
 (3024, 'Piranha', 1978, 'Horror|Sci-Fi'),
 
-(3028, '"Taming of the Shrew, The', 1967, 'Comedy'),
+(3028, 'Taming of the Shrew, The', 1967, 'Comedy'),
 
 (3029, 'Nighthawks', 1981, 'Action|Drama'),
 
@@ -4589,7 +4589,7 @@ VALUES
 
 (3031, 'Repossessed', 1990, 'Comedy'),
 
-(3032, '"Omega Man, The', 1971, 'Action|Drama|Sci-Fi|Thriller'),
+(3032, 'Omega Man, The', 1971, 'Action|Drama|Sci-Fi|Thriller'),
 
 (3033, 'Spaceballs', 1987, 'Comedy|Sci-Fi'),
 
@@ -4597,11 +4597,11 @@ VALUES
 
 (3035, 'Mister Roberts', 1955, 'Comedy|Drama|War'),
 
-(3036, '"Quest for Fire (Guerre du feu, La)', 1981, 'Adventure|Drama'),
+(3036, 'Quest for Fire (Guerre du feu, La)', 1981, 'Adventure|Drama'),
 
 (3037, 'Little Big Man', 1970, 'Western'),
 
-(3038, '"Face in the Crowd, A', 1957, 'Drama'),
+(3038, 'Face in the Crowd, A', 1957, 'Drama'),
 
 (3039, 'Trading Places', 1983, 'Comedy'),
 
@@ -4617,7 +4617,7 @@ VALUES
 
 (3045, 'Peter‘s Friends', 1992, 'Comedy|Drama'),
 
-(3046, '"Incredibly True Adventure of Two Girls in Love, The', 1995, 'Comedy|Romance'),
+(3046, 'Incredibly True Adventure of Two Girls in Love, The', 1995, 'Comedy|Romance'),
 
 (3048, 'Under the Rainbow', 1981, 'Comedy'),
 
@@ -4625,7 +4625,7 @@ VALUES
 
 (3052, 'Dogma', 1999, 'Adventure|Comedy|Fantasy'),
 
-(3053, '"Messenger: The Story of Joan of Arc, The', 1999, 'Drama|War'),
+(3053, 'Messenger: The Story of Joan of Arc, The', 1999, 'Drama|War'),
 
 (3054, 'Pokémon: The First Movie', 1998, 'Adventure|Animation|Children|Fantasy|Sci-Fi'),
 
@@ -4635,11 +4635,11 @@ VALUES
 
 (3057, 'Where‘s Marlowe?', 1998, 'Comedy'),
 
-(3060, '"Commitments, The', 1991, 'Comedy|Drama|Musical'),
+(3060, 'Commitments, The', 1991, 'Comedy|Drama|Musical'),
 
 (3061, 'Holiday Inn', 1942, 'Comedy|Musical'),
 
-(3062, '"Longest Day, The', 1962, 'Action|Drama|War'),
+(3062, 'Longest Day, The', 1962, 'Action|Drama|War'),
 
 (3063, 'Poison Ivy', 1992, 'Drama|Thriller'),
 
@@ -4649,15 +4649,15 @@ VALUES
 
 (3067, 'Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios)', 1988, 'Comedy|Drama'),
 
-(3068, '"Verdict, The', 1982, 'Drama|Mystery'),
+(3068, 'Verdict, The', 1982, 'Drama|Mystery'),
 
-(3070, '"Adventures of Buckaroo Banzai Across the 8th Dimension, The', 1984, 'Adventure|Comedy|Sci-Fi'),
+(3070, 'Adventures of Buckaroo Banzai Across the 8th Dimension, The', 1984, 'Adventure|Comedy|Sci-Fi'),
 
 (3071, 'Stand and Deliver', 1988, 'Comedy|Drama'),
 
 (3072, 'Moonstruck', 1987, 'Comedy|Romance'),
 
-(3073, '"Sandpiper, The', 1965, 'Drama|Romance'),
+(3073, 'Sandpiper, The', 1965, 'Drama|Romance'),
 
 (3074, 'Jeremiah Johnson', 1972, 'Western'),
 
@@ -4673,7 +4673,7 @@ VALUES
 
 (3081, 'Sleepy Hollow', 1999, 'Fantasy|Horror|Mystery|Romance'),
 
-(3082, '"World Is Not Enough, The', 1999, 'Action|Adventure|Thriller'),
+(3082, 'World Is Not Enough, The', 1999, 'Action|Adventure|Thriller'),
 
 (3083, 'All About My Mother (Todo sobre mi madre)', 1999, 'Drama'),
 
@@ -4693,17 +4693,17 @@ VALUES
 
 (3094, 'Maurice', 1987, 'Drama|Romance'),
 
-(3095, '"Grapes of Wrath, The', 1940, 'Drama'),
+(3095, 'Grapes of Wrath, The', 1940, 'Drama'),
 
 (3096, 'My Man Godfrey', 1957, 'Comedy'),
 
-(3097, '"Shop Around the Corner, The', 1940, 'Comedy|Drama|Romance'),
+(3097, 'Shop Around the Corner, The', 1940, 'Comedy|Drama|Romance'),
 
-(3098, '"Natural, The', 1984, 'Drama'),
+(3098, 'Natural, The', 1984, 'Drama'),
 
 (3099, 'Shampoo', 1975, 'Comedy|Drama|Romance'),
 
-(3100, '"River Runs Through It, A', 1992, 'Drama'),
+(3100, 'River Runs Through It, A', 1992, 'Drama'),
 
 (3101, 'Fatal Attraction', 1987, 'Drama|Thriller'),
 
@@ -4719,9 +4719,9 @@ VALUES
 
 (3107, 'Backdraft', 1991, 'Action|Drama'),
 
-(3108, '"Fisher King, The', 1991, 'Comedy|Drama|Fantasy|Romance'),
+(3108, 'Fisher King, The', 1991, 'Comedy|Drama|Fantasy|Romance'),
 
-(3109, '"River, The', 1984, 'Drama'),
+(3109, 'River, The', 1984, 'Drama'),
 
 (3111, 'Places in the Heart', 1984, 'Drama'),
 
@@ -4735,9 +4735,9 @@ VALUES
 
 (3117, 'Ride with the Devil', 1999, 'Drama|Romance|War'),
 
-(3120, '"Distinguished Gentleman, The', 1992, 'Comedy'),
+(3120, 'Distinguished Gentleman, The', 1992, 'Comedy'),
 
-(3125, '"End of the Affair, The', 1999, 'Drama'),
+(3125, 'End of the Affair, The', 1999, 'Drama'),
 
 (3127, 'Holy Smoke', 1999, 'Comedy|Drama'),
 
@@ -4749,11 +4749,11 @@ VALUES
 
 (3134, 'Grand Illusion (La grande illusion)', 1937, 'Drama|War'),
 
-(3135, '"Great Santini, The', 1979, 'Drama'),
+(3135, 'Great Santini, The', 1979, 'Drama'),
 
 (3138, 'Stealing Home', 1988, 'Drama'),
 
-(3141, '"Two Jakes, The', 1990, 'Drama'),
+(3141, 'Two Jakes, The', 1990, 'Drama'),
 
 (3142, 'U2: Rattle and Hum', 1988, 'Documentary|Musical'),
 
@@ -4763,15 +4763,15 @@ VALUES
 
 (3146, 'Deuce Bigalow: Male Gigolo', 1999, 'Comedy'),
 
-(3147, '"Green Mile, The', 1999, 'Crime|Drama'),
+(3147, 'Green Mile, The', 1999, 'Crime|Drama'),
 
-(3148, '"Cider House Rules, The', 1999, 'Drama'),
+(3148, 'Cider House Rules, The', 1999, 'Drama'),
 
-(3150, '"War Zone, The', 1999, 'Drama|Thriller'),
+(3150, 'War Zone, The', 1999, 'Drama|Thriller'),
 
-(3152, '"Last Picture Show, The', 1971, 'Drama'),
+(3152, 'Last Picture Show, The', 1971, 'Drama'),
 
-(3153, '"7th Voyage of Sinbad, The', 1958, 'Action|Adventure|Fantasy'),
+(3153, '7th Voyage of Sinbad, The', 1958, 'Action|Adventure|Fantasy'),
 
 (3155, 'Anna and the King', 1999, 'Drama|Romance'),
 
@@ -4779,7 +4779,7 @@ VALUES
 
 (3157, 'Stuart Little', 1999, 'Children|Comedy|Fantasy'),
 
-(3158, '"Emperor and the Assassin, The (Jing ke ci qin wang)', 1999, 'Drama'),
+(3158, 'Emperor and the Assassin, The (Jing ke ci qin wang)', 1999, 'Drama'),
 
 (3159, 'Fantasia 2000', 1999, 'Animation|Children|Musical|IMAX'),
 
@@ -4807,45 +4807,45 @@ VALUES
 
 (3175, 'Galaxy Quest', 1999, 'Adventure|Comedy|Sci-Fi'),
 
-(3176, '"Talented Mr. Ripley, The', 1999, 'Drama|Mystery|Thriller'),
+(3176, 'Talented Mr. Ripley, The', 1999, 'Drama|Mystery|Thriller'),
 
 (3177, 'Next Friday', 2000, 'Comedy'),
 
-(3178, '"Hurricane, The', 1999, 'Drama'),
+(3178, 'Hurricane, The', 1999, 'Drama'),
 
 (3179, 'Angela‘s Ashes', 1999, 'Drama'),
 
 (3181, 'Titus', 1999, 'Drama'),
 
-(3182, '"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.', 1999, 'Documentary'),
+(3182, 'Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.', 1999, 'Documentary'),
 
-(3183, '"Third Miracle, The', 1999, 'Drama'),
+(3183, 'Third Miracle, The', 1999, 'Drama'),
 
 (3185, 'Snow Falling on Cedars', 1999, 'Drama'),
 
-(3186, '"Girl, Interrupted', 1999, 'Drama'),
+(3186, 'Girl, Interrupted', 1999, 'Drama'),
 
 (3189, 'My Dog Skip', 1999, 'Children|Drama'),
 
 (3190, 'Supernova', 2000, 'Adventure|Sci-Fi|Thriller'),
 
-(3192, '"Terrorist, The (a.k.a. Malli) (Theeviravaathi)', 1998, 'Drama'),
+(3192, 'Terrorist, The (a.k.a. Malli) (Theeviravaathi)', 1998, 'Drama'),
 
-(3194, '"Way We Were, The', 1973, 'Drama|Romance'),
+(3194, 'Way We Were, The', 1973, 'Drama|Romance'),
 
 (3196, 'Stalag 17', 1953, 'Drama|War'),
 
-(3197, '"Presidio, The', 1988, 'Action|Crime|Romance|Thriller'),
+(3197, 'Presidio, The', 1988, 'Action|Crime|Romance|Thriller'),
 
 (3198, 'Papillon', 1973, 'Crime|Drama'),
 
-(3200, '"Last Detail, The', 1973, 'Comedy|Drama'),
+(3200, 'Last Detail, The', 1973, 'Comedy|Drama'),
 
 (3201, 'Five Easy Pieces', 1970, 'Drama'),
 
 (3203, 'Dead Calm', 1989, 'Thriller'),
 
-(3204, '"Boys from Brazil, The', 1978, 'Action|Mystery|Thriller'),
+(3204, 'Boys from Brazil, The', 1978, 'Action|Mystery|Thriller'),
 
 (3206, 'Against All Odds', 1984, 'Romance'),
 
@@ -4853,37 +4853,37 @@ VALUES
 
 (3210, 'Fast Times at Ridgemont High', 1982, 'Comedy|Drama|Romance'),
 
-(3211, '"Cry in the Dark, A', 1988, 'Drama'),
+(3211, 'Cry in the Dark, A', 1988, 'Drama'),
 
 (3213, 'Batman: Mask of the Phantasm', 1993, 'Animation|Children'),
 
 (3214, 'American Flyers', 1985, 'Drama'),
 
-(3217, '"Star Is Born, A', 1937, 'Drama'),
+(3217, 'Star Is Born, A', 1937, 'Drama'),
 
 (3219, 'Pacific Heights', 1990, 'Mystery|Thriller'),
 
-(3221, '"Draughtsman‘s Contract, The', 1982, 'Drama'),
+(3221, 'Draughtsman‘s Contract, The', 1982, 'Drama'),
 
-(3223, '"Zed & Two Noughts, A', 1985, 'Drama'),
+(3223, 'Zed & Two Noughts, A', 1985, 'Drama'),
 
 (3224, 'Woman in the Dunes (Suna no onna)', 1964, 'Drama'),
 
 (3225, 'Down to You', 2000, 'Comedy|Romance'),
 
-(3230, '"Odessa File, The', 1974, 'Thriller'),
+(3230, 'Odessa File, The', 1974, 'Thriller'),
 
 (3235, 'Where the Buffalo Roam', 1980, 'Comedy'),
 
 (3238, 'Eye of the Beholder', 1999, 'Thriller'),
 
-(3240, '"Big Tease, The', 1999, 'Comedy'),
+(3240, 'Big Tease, The', 1999, 'Comedy'),
 
-(3241, '"Cup, The (Phörpa)', 1999, 'Comedy'),
+(3241, 'Cup, The (Phörpa)', 1999, 'Comedy'),
 
 (3243, 'Encino Man', 1992, 'Comedy'),
 
-(3244, '"Goodbye Girl, The', 1977, 'Comedy|Romance'),
+(3244, 'Goodbye Girl, The', 1977, 'Comedy|Romance'),
 
 (3246, 'Malcolm X', 1992, 'Drama'),
 
@@ -4891,7 +4891,7 @@ VALUES
 
 (3248, 'Sister Act 2: Back in the Habit', 1993, 'Comedy'),
 
-(3249, '"Hand That Rocks the Cradle, The', 1992, 'Drama|Thriller'),
+(3249, 'Hand That Rocks the Cradle, The', 1992, 'Drama|Thriller'),
 
 (3250, 'Alive', 1993, 'Drama'),
 
@@ -4903,11 +4903,11 @@ VALUES
 
 (3254, 'Wayne‘s World 2', 1993, 'Comedy'),
 
-(3255, '"League of Their Own, A', 1992, 'Comedy|Drama'),
+(3255, 'League of Their Own, A', 1992, 'Comedy|Drama'),
 
 (3256, 'Patriot Games', 1992, 'Action|Crime|Drama|Thriller'),
 
-(3257, '"Bodyguard, The', 1992, 'Drama|Romance|Thriller'),
+(3257, 'Bodyguard, The', 1992, 'Drama|Romance|Thriller'),
 
 (3258, 'Death Becomes Her', 1992, 'Comedy|Fantasy'),
 
@@ -4927,13 +4927,13 @@ VALUES
 
 (3266, 'Man Bites Dog (C‘est arrivé près de chez vous)', 1992, 'Comedy|Crime|Drama|Thriller'),
 
-(3267, '"Mariachi, El', 1992, 'Action|Crime|Thriller|Western'),
+(3267, 'Mariachi, El', 1992, 'Action|Crime|Thriller|Western'),
 
 (3268, 'Stop! Or My Mom Will Shoot', 1992, 'Action|Comedy'),
 
 (3269, 'Forever Young', 1992, 'Drama|Romance|Sci-Fi'),
 
-(3270, '"Cutting Edge, The', 1992, 'Comedy|Drama|Romance'),
+(3270, 'Cutting Edge, The', 1992, 'Comedy|Drama|Romance'),
 
 (3271, 'Of Mice and Men', 1992, 'Drama'),
 
@@ -4943,23 +4943,23 @@ VALUES
 
 (3274, 'Single White Female', 1992, 'Drama|Thriller'),
 
-(3275, '"Boondock Saints, The', 2000, 'Action|Crime|Drama|Thriller'),
+(3275, 'Boondock Saints, The', 2000, 'Action|Crime|Drama|Thriller'),
 
 (3276, 'Gun Shy', 2000, 'Comedy'),
 
-(3280, '"Baby, The', 1973, 'Horror'),
+(3280, 'Baby, The', 1973, 'Horror'),
 
-(3281, '"Brandon Teena Story, The', 1998, 'Documentary'),
+(3281, 'Brandon Teena Story, The', 1998, 'Documentary'),
 
 (3283, 'Minnie and Moskowitz', 1971, 'Action'),
 
 (3284, 'They Might Be Giants', 1971, 'Comedy|Mystery|Romance'),
 
-(3285, '"Beach, The', 2000, 'Adventure|Drama'),
+(3285, 'Beach, The', 2000, 'Adventure|Drama'),
 
 (3286, 'Snow Day', 2000, 'Comedy'),
 
-(3287, '"Tigger Movie, The', 2000, 'Animation|Children'),
+(3287, 'Tigger Movie, The', 2000, 'Animation|Children'),
 
 (3289, 'Not One Less (Yi ge dou bu neng shao)', 1999, 'Drama'),
 
@@ -4975,19 +4975,19 @@ VALUES
 
 (3300, 'Pitch Black', 2000, 'Horror|Sci-Fi|Thriller'),
 
-(3301, '"Whole Nine Yards, The', 2000, 'Comedy|Crime'),
+(3301, 'Whole Nine Yards, The', 2000, 'Comedy|Crime'),
 
 (3302, 'Beautiful People', 1999, 'Comedy'),
 
 (3303, 'Black Tar Heroin: The Dark End of the Street', 2000, 'Documentary'),
 
-(3306, '"Circus, The', 1928, 'Comedy'),
+(3306, 'Circus, The', 1928, 'Comedy'),
 
 (3307, 'City Lights', 1931, 'Comedy|Drama|Romance'),
 
-(3308, '"Flamingo Kid, The', 1984, 'Comedy|Drama'),
+(3308, 'Flamingo Kid, The', 1984, 'Comedy|Drama'),
 
-(3310, '"Kid, The', 1921, 'Comedy|Drama'),
+(3310, 'Kid, The', 1921, 'Comedy|Drama'),
 
 (3313, 'Class Reunion', 1982, 'Comedy'),
 
@@ -5001,7 +5001,7 @@ VALUES
 
 (3324, 'Drowning Mona', 2000, 'Comedy'),
 
-(3325, '"Next Best Thing, The', 2000, 'Comedy|Drama'),
+(3325, 'Next Best Thing, The', 2000, 'Comedy|Drama'),
 
 (3326, 'What Planet Are You From?', 2000, 'Comedy|Sci-Fi'),
 
@@ -5025,17 +5025,17 @@ VALUES
 
 (3344, 'Blood Feast', 1963, 'Horror'),
 
-(3345, '"Charlie, the Lonesome Cougar', 1967, 'Adventure|Children'),
+(3345, 'Charlie, the Lonesome Cougar', 1967, 'Adventure|Children'),
 
 (3347, 'Never Cry Wolf', 1983, 'Adventure|Drama'),
 
-(3350, '"Raisin in the Sun, A', 1961, 'Drama'),
+(3350, 'Raisin in the Sun, A', 1961, 'Drama'),
 
-(3353, '"Closer You Get, The', 2000, 'Comedy|Romance'),
+(3353, 'Closer You Get, The', 2000, 'Comedy|Romance'),
 
 (3354, 'Mission to Mars', 2000, 'Sci-Fi'),
 
-(3355, '"Ninth Gate, The', 1999, 'Fantasy|Horror|Mystery|Thriller'),
+(3355, 'Ninth Gate, The', 1999, 'Fantasy|Horror|Mystery|Thriller'),
 
 (3357, 'East-West (Est-ouest)', 1999, 'Drama|Romance'),
 
@@ -5051,23 +5051,23 @@ VALUES
 
 (3363, 'American Graffiti', 1973, 'Comedy|Drama'),
 
-(3364, '"Asphalt Jungle, The', 1950, 'Crime|Film-Noir'),
+(3364, 'Asphalt Jungle, The', 1950, 'Crime|Film-Noir'),
 
-(3365, '"Searchers, The', 1956, 'Drama|Western'),
+(3365, 'Searchers, The', 1956, 'Drama|Western'),
 
-(3368, '"Big Country, The', 1958, 'Romance|Western'),
+(3368, 'Big Country, The', 1958, 'Romance|Western'),
 
 (3370, 'Betrayed', 1988, 'Drama|Thriller'),
 
-(3372, '"Bridge at Remagen, The', 1969, 'Action|War'),
+(3372, 'Bridge at Remagen, The', 1969, 'Action|War'),
 
 (3374, 'Daughters of the Dust', 1991, 'Drama'),
 
-(3378, '"Ogre, The (Unhold, Der)', 1996, 'Drama'),
+(3378, 'Ogre, The (Unhold, Der)', 1996, 'Drama'),
 
 (3379, 'On the Beach', 1959, 'Drama'),
 
-(3384, '"Taking of Pelham One Two Three, The', 1974, 'Action|Crime'),
+(3384, 'Taking of Pelham One Two Three, The', 1974, 'Action|Crime'),
 
 (3385, 'Volunteers', 1985, 'Comedy'),
 
@@ -5091,11 +5091,11 @@ VALUES
 
 (3395, 'Nadine', 1987, 'Comedy'),
 
-(3396, '"Muppet Movie, The', 1979, 'Adventure|Children|Comedy|Musical'),
+(3396, 'Muppet Movie, The', 1979, 'Adventure|Children|Comedy|Musical'),
 
-(3397, '"Great Muppet Caper, The', 1981, 'Children|Comedy'),
+(3397, 'Great Muppet Caper, The', 1981, 'Children|Comedy'),
 
-(3398, '"Muppets Take Manhattan, The', 1984, 'Children|Comedy|Musical'),
+(3398, 'Muppets Take Manhattan, The', 1984, 'Children|Comedy|Musical'),
 
 (3400, 'We‘re Back! A Dinosaur‘s Story', 1993, 'Adventure|Animation|Children|Fantasy'),
 
@@ -5107,7 +5107,7 @@ VALUES
 
 (3404, 'Titanic', 1953, 'Action|Drama'),
 
-(3405, '"Night to Remember, A', 1958, 'Action|Drama'),
+(3405, 'Night to Remember, A', 1958, 'Action|Drama'),
 
 (3406, 'Captain Horatio Hornblower R.N.', 1951, 'Action|Adventure|Drama|War'),
 
@@ -5117,13 +5117,13 @@ VALUES
 
 (3410, 'Soft Fruit', 1999, 'Comedy|Drama'),
 
-(3412, '"Bear, The (Ours, L‘)', 1988, 'Adventure|Children|Drama'),
+(3412, 'Bear, The (Ours, L‘)', 1988, 'Adventure|Children|Drama'),
 
 (3414, 'Love Is a Many-Splendored Thing', 1955, 'Drama|Romance|War'),
 
-(3415, '"Mirror, The (Zerkalo)', 1975, 'Drama'),
+(3415, 'Mirror, The (Zerkalo)', 1975, 'Drama'),
 
-(3417, '"Crimson Pirate, The', 1952, 'Adventure|Comedy'),
+(3417, 'Crimson Pirate, The', 1952, 'Adventure|Comedy'),
 
 (3418, 'Thelma & Louise', 1991, 'Adventure|Crime|Drama'),
 
@@ -5141,7 +5141,7 @@ VALUES
 
 (3426, 'Jungle Fever', 1991, 'Drama|Romance'),
 
-(3428, '"Champ, The', 1979, 'Drama'),
+(3428, 'Champ, The', 1979, 'Drama'),
 
 (3429, 'Creature Comforts', 1989, 'Animation|Comedy'),
 
@@ -5175,11 +5175,11 @@ VALUES
 
 (3446, 'Funny Bones', 1995, 'Comedy|Drama'),
 
-(3447, '"Good Earth, The', 1937, 'Drama'),
+(3447, 'Good Earth, The', 1937, 'Drama'),
 
-(3448, '"Good Morning, Vietnam', 1987, 'Comedy|Drama|War'),
+(3448, 'Good Morning, Vietnam', 1987, 'Comedy|Drama|War'),
 
-(3449, '"Good Mother, The', 1988, 'Drama'),
+(3449, 'Good Mother, The', 1988, 'Drama'),
 
 (3450, 'Grumpy Old Men', 1993, 'Comedy'),
 
@@ -5193,7 +5193,7 @@ VALUES
 
 (3455, 'Buddy Boy', 1999, 'Drama|Thriller'),
 
-(3456, '"Color of Paradise, The (Rang-e khoda)', 1999, 'Drama'),
+(3456, 'Color of Paradise, The (Rang-e khoda)', 1999, 'Drama'),
 
 (3459, 'Gothic', 1986, 'Drama|Horror'),
 
@@ -5205,7 +5205,7 @@ VALUES
 
 (3467, 'Hud', 1963, 'Drama|Western'),
 
-(3468, '"Hustler, The', 1961, 'Drama'),
+(3468, 'Hustler, The', 1961, 'Drama'),
 
 (3469, 'Inherit the Wind', 1960, 'Drama'),
 
@@ -5217,13 +5217,13 @@ VALUES
 
 (3474, 'Retroactive', 1997, 'Sci-Fi|Thriller'),
 
-(3475, '"Place in the Sun, A', 1951, 'Drama|Romance'),
+(3475, 'Place in the Sun, A', 1951, 'Drama|Romance'),
 
 (3476, 'Jacob‘s Ladder', 1990, 'Horror|Mystery'),
 
 (3477, 'Empire Records', 1995, 'Comedy|Drama'),
 
-(3478, '"Bamba, La', 1987, 'Drama'),
+(3478, 'Bamba, La', 1987, 'Drama'),
 
 (3479, 'Ladyhawke', 1985, 'Adventure|Fantasy|Romance'),
 
@@ -5231,13 +5231,13 @@ VALUES
 
 (3481, 'High Fidelity', 2000, 'Comedy|Drama|Romance'),
 
-(3483, '"Road to El Dorado, The', 2000, 'Animation|Children'),
+(3483, 'Road to El Dorado, The', 2000, 'Animation|Children'),
 
-(3484, '"Skulls, The', 2000, 'Thriller'),
+(3484, 'Skulls, The', 2000, 'Thriller'),
 
 (3489, 'Hook', 1991, 'Adventure|Comedy|Fantasy'),
 
-(3492, '"Son of the Sheik, The', 1926, 'Adventure|Comedy|Romance'),
+(3492, 'Son of the Sheik, The', 1926, 'Adventure|Comedy|Romance'),
 
 (3494, 'True Grit', 1969, 'Adventure|Drama|Western'),
 
@@ -5263,9 +5263,9 @@ VALUES
 
 (3506, 'North Dallas Forty', 1979, 'Comedy|Drama'),
 
-(3507, '"Odd Couple, The', 1968, 'Comedy'),
+(3507, 'Odd Couple, The', 1968, 'Comedy'),
 
-(3508, '"Outlaw Josey Wales, The', 1976, 'Action|Adventure|Drama|Thriller|Western'),
+(3508, 'Outlaw Josey Wales, The', 1976, 'Action|Adventure|Drama|Thriller|Western'),
 
 (3510, 'Frequency', 2000, 'Drama|Thriller'),
 
@@ -5279,7 +5279,7 @@ VALUES
 
 (3515, 'Me Myself I', 2000, 'Comedy|Romance'),
 
-(3516, '"Bell, Book and Candle', 1958, 'Comedy|Fantasy|Romance'),
+(3516, 'Bell, Book and Candle', 1958, 'Comedy|Fantasy|Romance'),
 
 (3519, 'Force 10 from Navarone', 1978, 'Action|Drama|War'),
 
@@ -5293,9 +5293,9 @@ VALUES
 
 (3527, 'Predator', 1987, 'Action|Sci-Fi|Thriller'),
 
-(3528, '"Prince of Tides, The', 1991, 'Drama|Romance'),
+(3528, 'Prince of Tides, The', 1991, 'Drama|Romance'),
 
-(3529, '"Postman Always Rings Twice, The', 1981, 'Crime|Thriller'),
+(3529, 'Postman Always Rings Twice, The', 1981, 'Crime|Thriller'),
 
 (3531, 'All the Vermeers in New York', 1990, 'Comedy|Drama|Romance'),
 
@@ -5309,7 +5309,7 @@ VALUES
 
 (3538, 'East is East', 1999, 'Comedy'),
 
-(3539, '"Filth and the Fury, The', 2000, 'Documentary'),
+(3539, 'Filth and the Fury, The', 2000, 'Documentary'),
 
 (3543, 'Diner', 1982, 'Comedy|Drama'),
 
@@ -5335,25 +5335,25 @@ VALUES
 
 (3555, 'U-571', 2000, 'Action|Thriller|War'),
 
-(3556, '"Virgin Suicides, The', 1999, 'Drama|Romance'),
+(3556, 'Virgin Suicides, The', 1999, 'Drama|Romance'),
 
 (3557, 'Jennifer 8', 1992, 'Mystery|Thriller'),
 
 (3559, 'Limelight', 1952, 'Comedy|Drama|Romance'),
 
-(3563, '"Crow: Salvation, The', 2000, 'Action|Horror'),
+(3563, 'Crow: Salvation, The', 2000, 'Action|Horror'),
 
-(3564, '"Flintstones in Viva Rock Vegas, The', 2000, 'Children|Comedy'),
+(3564, 'Flintstones in Viva Rock Vegas, The', 2000, 'Children|Comedy'),
 
 (3565, 'Where the Heart Is', 2000, 'Comedy|Drama'),
 
-(3566, '"Big Kahuna, The', 2000, 'Comedy|Drama'),
+(3566, 'Big Kahuna, The', 2000, 'Comedy|Drama'),
 
 (3567, 'Bossa Nova', 2000, 'Comedy|Drama|Romance'),
 
 (3568, 'Smiling Fish and Goat on Fire', 1999, 'Comedy|Romance'),
 
-(3569, '"Idiots, The (Idioterne)', 1998, 'Comedy|Drama'),
+(3569, 'Idiots, The (Idioterne)', 1998, 'Comedy|Drama'),
 
 (3571, 'Time Code', 2000, 'Comedy|Drama'),
 
@@ -5363,7 +5363,7 @@ VALUES
 
 (3574, 'Carnosaur 3: Primal Species', 1996, 'Horror|Sci-Fi'),
 
-(3576, '"Hidden, The', 1987, 'Action|Horror|Sci-Fi'),
+(3576, 'Hidden, The', 1987, 'Action|Horror|Sci-Fi'),
 
 (3577, 'Two Moon Junction', 1988, 'Drama|Romance'),
 
@@ -5379,11 +5379,11 @@ VALUES
 
 (3587, 'Inferno', 1980, 'Horror'),
 
-(3590, '"Lords of Flatbush, The', 1974, 'Comedy|Drama'),
+(3590, 'Lords of Flatbush, The', 1974, 'Comedy|Drama'),
 
 (3591, 'Mr. Mom', 1983, 'Comedy|Drama'),
 
-(3592, '"Time Masters (Maîtres du temps, Les)', 1982, 'Animation|Sci-Fi'),
+(3592, 'Time Masters (Maîtres du temps, Les)', 1982, 'Animation|Sci-Fi'),
 
 (3593, 'Battlefield Earth', 2000, 'Action|Sci-Fi'),
 
@@ -5415,9 +5415,9 @@ VALUES
 
 (3618, 'Small Time Crooks', 2000, 'Comedy|Crime'),
 
-(3619, '"Hollywood Knights, The', 1980, 'Comedy'),
+(3619, 'Hollywood Knights, The', 1980, 'Comedy'),
 
-(3622, '"Twelve Chairs, The', 1970, 'Comedy'),
+(3622, 'Twelve Chairs, The', 1970, 'Comedy'),
 
 (3623, 'Mission: Impossible II', 2000, 'Action|Adventure|Thriller'),
 
@@ -5431,7 +5431,7 @@ VALUES
 
 (3628, 'Flying Tigers', 1942, 'Action|Drama|Romance|War'),
 
-(3629, '"Gold Rush, The', 1925, 'Adventure|Comedy|Romance'),
+(3629, 'Gold Rush, The', 1925, 'Adventure|Comedy|Romance'),
 
 (3632, 'Monsieur Verdoux', 1947, 'Comedy|Crime'),
 
@@ -5439,31 +5439,31 @@ VALUES
 
 (3634, 'Seven Days in May', 1964, 'Thriller'),
 
-(3635, '"Spy Who Loved Me, The', 1977, 'Action|Adventure|Thriller'),
+(3635, 'Spy Who Loved Me, The', 1977, 'Action|Adventure|Thriller'),
 
 (3637, 'Vagabond (Sans toit ni loi)', 1985, 'Drama'),
 
 (3638, 'Moonraker', 1979, 'Action|Adventure|Sci-Fi|Thriller'),
 
-(3639, '"Man with the Golden Gun, The', 1974, 'Action|Adventure|Thriller'),
+(3639, 'Man with the Golden Gun, The', 1974, 'Action|Adventure|Thriller'),
 
-(3640, '"King in New York, A', 1957, 'Comedy|Drama'),
+(3640, 'King in New York, A', 1957, 'Comedy|Drama'),
 
-(3641, '"Woman of Paris, A', 1923, 'Drama'),
+(3641, 'Woman of Paris, A', 1923, 'Drama'),
 
-(3643, '"Fighting Seabees, The', 1944, 'Action|Drama|War'),
+(3643, 'Fighting Seabees, The', 1944, 'Action|Drama|War'),
 
 (3646, 'Big Momma‘s House', 2000, 'Comedy'),
 
-(3648, '"Abominable Snowman, The (Abominable Snowman of the Himalayas, The)', 1957, 'Horror|Sci-Fi'),
+(3648, 'Abominable Snowman, The (Abominable Snowman of the Himalayas, The)', 1957, 'Horror|Sci-Fi'),
 
 (3649, 'American Gigolo', 1980, 'Drama'),
 
-(3652, '"City of the Living Dead (a.k.a. Gates of Hell, The) (Paura nella città dei morti viventi)', 1980, 'Horror'),
+(3652, 'City of the Living Dead (a.k.a. Gates of Hell, The) (Paura nella città dei morti viventi)', 1980, 'Horror'),
 
-(3653, '"Endless Summer, The', 1966, 'Documentary'),
+(3653, 'Endless Summer, The', 1966, 'Documentary'),
 
-(3654, '"Guns of Navarone, The', 1961, 'Action|Adventure|Drama|War'),
+(3654, 'Guns of Navarone, The', 1961, 'Action|Adventure|Drama|War'),
 
 (3655, 'Blow-Out (La grande bouffe)', 1973, 'Drama'),
 
@@ -5499,11 +5499,11 @@ VALUES
 
 (3677, 'Baraka', 1992, 'Documentary'),
 
-(3678, '"Man with the Golden Arm, The', 1955, 'Drama'),
+(3678, 'Man with the Golden Arm, The', 1955, 'Drama'),
 
-(3679, '"Decline of Western Civilization, The', 1981, 'Documentary|Musical'),
+(3679, 'Decline of Western Civilization, The', 1981, 'Documentary|Musical'),
 
-(3680, '"Decline of Western Civilization Part II: The Metal Years, The', 1988, 'Documentary'),
+(3680, 'Decline of Western Civilization Part II: The Metal Years, The', 1988, 'Documentary'),
 
 (3681, 'For a Few Dollars More (Per qualche dollaro in più)', 1965, 'Action|Drama|Thriller|Western'),
 
@@ -5511,7 +5511,7 @@ VALUES
 
 (3683, 'Blood Simple', 1984, 'Crime|Drama|Film-Noir'),
 
-(3684, '"Fabulous Baker Boys, The', 1989, 'Drama|Romance'),
+(3684, 'Fabulous Baker Boys, The', 1989, 'Drama|Romance'),
 
 (3685, 'Prizzi‘s Honor', 1985, 'Comedy|Drama|Romance'),
 
@@ -5529,27 +5529,27 @@ VALUES
 
 (3692, 'Class of Nuke ‘Em High', 1986, 'Comedy|Horror'),
 
-(3693, '"Toxic Avenger, The', 1985, 'Comedy|Horror'),
+(3693, 'Toxic Avenger, The', 1985, 'Comedy|Horror'),
 
-(3694, '"Toxic Avenger, Part II, The', 1989, 'Comedy|Horror'),
+(3694, 'Toxic Avenger, Part II, The', 1989, 'Comedy|Horror'),
 
-(3695, '"Toxic Avenger Part III: The Last Temptation of Toxie, The', 1989, 'Comedy|Horror'),
+(3695, 'Toxic Avenger Part III: The Last Temptation of Toxie, The', 1989, 'Comedy|Horror'),
 
 (3696, 'Night of the Creeps', 1986, 'Comedy|Horror|Sci-Fi|Thriller'),
 
 (3697, 'Predator 2', 1990, 'Action|Sci-Fi|Thriller'),
 
-(3698, '"Running Man, The', 1987, 'Action|Sci-Fi'),
+(3698, 'Running Man, The', 1987, 'Action|Sci-Fi'),
 
 (3699, 'Starman', 1984, 'Adventure|Drama|Romance|Sci-Fi'),
 
-(3700, '"Brother from Another Planet, The', 1984, 'Drama|Sci-Fi'),
+(3700, 'Brother from Another Planet, The', 1984, 'Drama|Sci-Fi'),
 
 (3701, 'Alien Nation', 1988, 'Crime|Drama|Sci-Fi|Thriller'),
 
 (3702, 'Mad Max', 1979, 'Action|Adventure|Sci-Fi'),
 
-(3703, '"Road Warrior, The (Mad Max 2)', 1981, 'Action|Adventure|Sci-Fi|Thriller'),
+(3703, 'Road Warrior, The (Mad Max 2)', 1981, 'Action|Adventure|Sci-Fi|Thriller'),
 
 (3704, 'Mad Max Beyond Thunderdome', 1985, 'Action|Adventure|Sci-Fi'),
 
@@ -5569,7 +5569,7 @@ VALUES
 
 (3712, 'Soapdish', 1991, 'Comedy'),
 
-(3713, '"Long Walk Home, The', 1990, 'Drama'),
+(3713, 'Long Walk Home, The', 1990, 'Drama'),
 
 (3714, 'Clara‘s Heart', 1988, 'Drama'),
 
@@ -5597,21 +5597,21 @@ VALUES
 
 (3729, 'Shaft', 1971, 'Action|Crime|Drama|Thriller'),
 
-(3730, '"Conversation, The', 1974, 'Drama|Mystery'),
+(3730, 'Conversation, The', 1974, 'Drama|Mystery'),
 
 (3731, 'Cutter‘s Way', 1981, 'Drama|Thriller'),
 
-(3732, '"Fury, The', 1978, 'Horror'),
+(3732, 'Fury, The', 1978, 'Horror'),
 
-(3733, '"Paper Chase, The', 1973, 'Drama'),
+(3733, 'Paper Chase, The', 1973, 'Drama'),
 
 (3735, 'Serpico', 1973, 'Crime|Drama'),
 
-(3736, '"Ace in the Hole (Big Carnival, The)', 1951, 'Drama'),
+(3736, 'Ace in the Hole (Big Carnival, The)', 1951, 'Drama'),
 
 (3737, 'Lonely Are the Brave', 1962, 'Drama|Western'),
 
-(3738, '"Sugarland Express, The', 1974, 'Drama'),
+(3738, 'Sugarland Express, The', 1974, 'Drama'),
 
 (3739, 'Trouble in Paradise', 1932, 'Comedy|Romance'),
 
@@ -5633,27 +5633,27 @@ VALUES
 
 (3751, 'Chicken Run', 2000, 'Animation|Children|Comedy'),
 
-(3752, '"Me, Myself & Irene', 2000, 'Adventure|Comedy'),
+(3752, 'Me, Myself & Irene', 2000, 'Adventure|Comedy'),
 
-(3753, '"Patriot, The', 2000, 'Action|Drama|War'),
+(3753, 'Patriot, The', 2000, 'Action|Drama|War'),
 
-(3754, '"Adventures of Rocky and Bullwinkle, The', 2000, 'Adventure|Animation|Children|Comedy|Fantasy'),
+(3754, 'Adventures of Rocky and Bullwinkle, The', 2000, 'Adventure|Animation|Children|Comedy|Fantasy'),
 
-(3755, '"Perfect Storm, The', 2000, 'Drama|Thriller'),
+(3755, 'Perfect Storm, The', 2000, 'Drama|Thriller'),
 
-(3756, '"Golden Bowl, The', 2000, 'Drama'),
+(3756, 'Golden Bowl, The', 2000, 'Drama'),
 
 (3758, 'Communion', 1989, 'Drama|Sci-Fi|Thriller'),
 
-(3760, '"Kentucky Fried Movie, The', 1977, 'Comedy'),
+(3760, 'Kentucky Fried Movie, The', 1977, 'Comedy'),
 
-(3761, '"Blood In, Blood Out', 1993, 'Action|Crime|Drama|Thriller'),
+(3761, 'Blood In, Blood Out', 1993, 'Action|Crime|Drama|Thriller'),
 
 (3763, 'F/X', 1986, 'Action|Crime|Thriller'),
 
 (3764, 'F/X2 (a.k.a. F/X 2 - The Deadly Art of Illusion)', 1991, 'Action|Crime|Thriller'),
 
-(3765, '"Hot Spot, The', 1990, 'Crime|Drama|Romance'),
+(3765, 'Hot Spot, The', 1990, 'Crime|Drama|Romance'),
 
 (3766, 'Missing in Action', 1984, 'Action|War'),
 
@@ -5673,7 +5673,7 @@ VALUES
 
 (3783, 'Croupier', 1998, 'Crime|Drama'),
 
-(3784, '"Kid, The', 2000, 'Comedy|Fantasy'),
+(3784, 'Kid, The', 2000, 'Comedy|Fantasy'),
 
 (3785, 'Scary Movie', 2000, 'Comedy|Horror'),
 
@@ -5683,7 +5683,7 @@ VALUES
 
 (3788, 'Blow-Up (Blowup)', 1966, 'Drama|Mystery'),
 
-(3789, '"Pawnbroker, The', 1964, 'Drama'),
+(3789, 'Pawnbroker, The', 1964, 'Drama'),
 
 (3790, 'Groove', 2000, 'Drama'),
 
@@ -5695,9 +5695,9 @@ VALUES
 
 (3794, 'Chuck & Buck', 2000, 'Comedy|Drama'),
 
-(3795, '"Five Senses, The', 1999, 'Drama'),
+(3795, 'Five Senses, The', 1999, 'Drama'),
 
-(3797, '"In Crowd, The', 2000, 'Thriller'),
+(3797, 'In Crowd, The', 2000, 'Thriller'),
 
 (3798, 'What Lies Beneath', 2000, 'Drama|Horror|Mystery'),
 
@@ -5711,7 +5711,7 @@ VALUES
 
 (3807, 'Sinbad and the Eye of the Tiger', 1977, 'Adventure|Fantasy'),
 
-(3808, '"Two Women (Ciociara, La)', 1960, 'Drama|War'),
+(3808, 'Two Women (Ciociara, La)', 1960, 'Drama|War'),
 
 (3809, 'What About Bob?', 1991, 'Comedy'),
 
@@ -5725,13 +5725,13 @@ VALUES
 
 (3814, 'Love and Death', 1975, 'Comedy'),
 
-(3816, '"Official Story, The (La historia oficial)', 1985, 'Drama'),
+(3816, 'Official Story, The (La historia oficial)', 1985, 'Drama'),
 
 (3819, 'Tampopo', 1985, 'Comedy'),
 
 (3821, 'Nutty Professor II: The Klumps', 2000, 'Comedy'),
 
-(3822, '"Girl on the Bridge, The (Fille sur le pont, La)', 1999, 'Drama|Romance'),
+(3822, 'Girl on the Bridge, The (Fille sur le pont, La)', 1999, 'Drama|Romance'),
 
 (3823, 'Wonderland', 1999, 'Drama'),
 
@@ -5747,13 +5747,13 @@ VALUES
 
 (3831, 'Saving Grace', 2000, 'Comedy'),
 
-(3832, '"Black Sabbath (Tre volti della paura, I)', 1963, 'Horror'),
+(3832, 'Black Sabbath (Tre volti della paura, I)', 1963, 'Horror'),
 
-(3833, '"Brain That Wouldn‘t Die, The', 1962, 'Horror|Sci-Fi'),
+(3833, 'Brain That Wouldn‘t Die, The', 1962, 'Horror|Sci-Fi'),
 
 (3834, 'Bronco Billy', 1980, 'Adventure|Drama|Romance'),
 
-(3835, '"Crush, The', 1993, 'Thriller'),
+(3835, 'Crush, The', 1993, 'Thriller'),
 
 (3836, 'Kelly‘s Heroes', 1970, 'Action|Comedy|War'),
 
@@ -5775,51 +5775,51 @@ VALUES
 
 (3846, 'Easy Money', 1983, 'Comedy'),
 
-(3847, '"Ilsa, She Wolf of the SS', 1974, 'Horror'),
+(3847, 'Ilsa, She Wolf of the SS', 1974, 'Horror'),
 
 (3849, 'The Spiral Staircase', 1945, 'Horror|Mystery|Thriller'),
 
 (3851, 'I‘m the One That I Want', 2000, 'Comedy'),
 
-(3852, '"Tao of Steve, The', 2000, 'Comedy'),
+(3852, 'Tao of Steve, The', 2000, 'Comedy'),
 
-(3855, '"Affair of Love, An (Liaison pornographique, Une)', 1999, 'Drama|Romance'),
+(3855, 'Affair of Love, An (Liaison pornographique, Une)', 1999, 'Drama|Romance'),
 
 (3857, 'Bless the Child', 2000, 'Thriller'),
 
 (3858, 'Cecil B. DeMented', 2000, 'Comedy'),
 
-(3859, '"Eyes of Tammy Faye, The', 2000, 'Documentary'),
+(3859, 'Eyes of Tammy Faye, The', 2000, 'Documentary'),
 
-(3861, '"Replacements, The', 2000, 'Comedy'),
+(3861, 'Replacements, The', 2000, 'Comedy'),
 
 (3862, 'About Adam', 2000, 'Comedy'),
 
-(3863, '"Cell, The', 2000, 'Drama|Horror|Thriller'),
+(3863, 'Cell, The', 2000, 'Drama|Horror|Thriller'),
 
 (3864, 'Godzilla 2000 (Gojira ni-sen mireniamu)', 1999, 'Action|Adventure|Sci-Fi'),
 
-(3865, '"Original Kings of Comedy, The', 2000, 'Comedy|Documentary'),
+(3865, 'Original Kings of Comedy, The', 2000, 'Comedy|Documentary'),
 
-(3868, '"Naked Gun: From the Files of Police Squad!, The', 1988, 'Action|Comedy|Crime|Romance'),
+(3868, 'Naked Gun: From the Files of Police Squad!, The', 1988, 'Action|Comedy|Crime|Romance'),
 
-(3869, '"Naked Gun 2 1/2: The Smell of Fear, The', 1991, 'Comedy'),
+(3869, 'Naked Gun 2 1/2: The Smell of Fear, The', 1991, 'Comedy'),
 
 (3870, 'Our Town', 1940, 'Drama'),
 
 (3871, 'Shane', 1953, 'Drama|Western'),
 
-(3872, '"Suddenly, Last Summer', 1959, 'Drama'),
+(3872, 'Suddenly, Last Summer', 1959, 'Drama'),
 
 (3873, 'Cat Ballou', 1965, 'Comedy|Western'),
 
 (3877, 'Supergirl', 1984, 'Action|Adventure|Fantasy'),
 
-(3879, '"Art of War, The', 2000, 'Action|Thriller'),
+(3879, 'Art of War, The', 2000, 'Action|Thriller'),
 
 (3882, 'Bring It On', 2000, 'Comedy'),
 
-(3884, '"Crew, The', 2000, 'Comedy'),
+(3884, 'Crew, The', 2000, 'Comedy'),
 
 (3888, 'Skipped Parts', 2000, 'Drama|Romance'),
 
@@ -5829,9 +5829,9 @@ VALUES
 
 (3894, 'Solas', 1999, 'Drama'),
 
-(3895, '"Watcher, The', 2000, 'Crime|Thriller'),
+(3895, 'Watcher, The', 2000, 'Crime|Thriller'),
 
-(3896, '"Way of the Gun, The', 2000, 'Crime|Thriller'),
+(3896, 'Way of the Gun, The', 2000, 'Crime|Thriller'),
 
 (3897, 'Almost Famous', 2000, 'Drama'),
 
@@ -5855,7 +5855,7 @@ VALUES
 
 (3912, 'Beautiful', 2000, 'Comedy|Drama'),
 
-(3914, '"Broken Hearts Club, The', 2000, 'Drama'),
+(3914, 'Broken Hearts Club, The', 2000, 'Drama'),
 
 (3915, 'Girlfight', 2000, 'Drama'),
 
@@ -5867,7 +5867,7 @@ VALUES
 
 (3919, 'Hellraiser III: Hell on Earth', 1992, 'Horror'),
 
-(3920, '"Faraway, So Close (In weiter Ferne, so nah!)', 1993, 'Drama|Fantasy|Mystery|Romance'),
+(3920, 'Faraway, So Close (In weiter Ferne, so nah!)', 1993, 'Drama|Fantasy|Mystery|Romance'),
 
 (3922, 'Bikini Beach', 1964, 'Comedy'),
 
@@ -5879,17 +5879,17 @@ VALUES
 
 (3928, 'Abbott and Costello Meet Frankenstein', 1948, 'Comedy|Horror'),
 
-(3929, '"Bank Dick, The', 1940, 'Comedy'),
+(3929, 'Bank Dick, The', 1940, 'Comedy'),
 
-(3930, '"Creature from the Black Lagoon, The', 1954, 'Adventure|Horror|Sci-Fi'),
+(3930, 'Creature from the Black Lagoon, The', 1954, 'Adventure|Horror|Sci-Fi'),
 
-(3932, '"Invisible Man, The', 1933, 'Horror|Sci-Fi'),
+(3932, 'Invisible Man, The', 1933, 'Horror|Sci-Fi'),
 
-(3933, '"Killer Shrews, The', 1959, 'Horror|Sci-Fi'),
+(3933, 'Killer Shrews, The', 1959, 'Horror|Sci-Fi'),
 
 (3937, 'Runaway', 1984, 'Sci-Fi|Thriller'),
 
-(3938, '"Slumber Party Massacre, The', 1982, 'Horror'),
+(3938, 'Slumber Party Massacre, The', 1982, 'Horror'),
 
 (3939, 'Slumber Party Massacre II', 1987, 'Horror'),
 
@@ -5915,25 +5915,25 @@ VALUES
 
 (3951, 'Two Family House', 2000, 'Drama'),
 
-(3952, '"Contender, The', 2000, 'Drama|Thriller'),
+(3952, 'Contender, The', 2000, 'Drama|Thriller'),
 
 (3953, 'Dr. T and the Women', 2000, 'Comedy|Romance'),
 
-(3955, '"Ladies Man, The', 2000, 'Comedy'),
+(3955, 'Ladies Man, The', 2000, 'Comedy'),
 
 (3957, 'Billy Jack', 1971, 'Action|Drama'),
 
 (3958, 'Billy Jack Goes to Washington', 1977, 'Drama'),
 
-(3959, '"Time Machine, The', 1960, 'Action|Adventure|Sci-Fi'),
+(3959, 'Time Machine, The', 1960, 'Action|Adventure|Sci-Fi'),
 
 (3962, 'Ghoulies II', 1987, 'Comedy|Horror'),
 
-(3963, '"Unsinkable Molly Brown, The', 1964, 'Musical'),
+(3963, 'Unsinkable Molly Brown, The', 1964, 'Musical'),
 
-(3964, '"Adventures of Ichabod and Mr. Toad, The', 1949, 'Animation|Children'),
+(3964, 'Adventures of Ichabod and Mr. Toad, The', 1949, 'Animation|Children'),
 
-(3965, '"Strange Love of Martha Ivers, The', 1946, 'Drama|Film-Noir'),
+(3965, 'Strange Love of Martha Ivers, The', 1946, 'Drama|Film-Noir'),
 
 (3966, 'Detour', 1945, 'Crime|Film-Noir'),
 
@@ -5943,17 +5943,17 @@ VALUES
 
 (3969, 'Pay It Forward', 2000, 'Drama'),
 
-(3971, '"Private Eyes, The', 1981, 'Comedy|Mystery'),
+(3971, 'Private Eyes, The', 1981, 'Comedy|Mystery'),
 
-(3972, '"Legend of Drunken Master, The (Jui kuen II)', 1994, 'Action|Comedy'),
+(3972, 'Legend of Drunken Master, The (Jui kuen II)', 1994, 'Action|Comedy'),
 
 (3973, 'Book of Shadows: Blair Witch 2', 2000, 'Crime|Horror|Mystery|Thriller'),
 
-(3974, '"Little Vampire, The', 2000, 'Adventure|Children'),
+(3974, 'Little Vampire, The', 2000, 'Adventure|Children'),
 
 (3977, 'Charlie‘s Angels', 2000, 'Action|Comedy'),
 
-(3978, '"Legend of Bagger Vance, The', 2000, 'Drama|Romance'),
+(3978, 'Legend of Bagger Vance, The', 2000, 'Drama|Romance'),
 
 (3979, 'Little Nicky', 2000, 'Comedy'),
 
@@ -5965,9 +5965,9 @@ VALUES
 
 (3984, 'Diamonds Are Forever', 1971, 'Action|Adventure|Thriller'),
 
-(3985, '"Eagle Has Landed, The', 1976, 'Drama|War'),
+(3985, 'Eagle Has Landed, The', 1976, 'Drama|War'),
 
-(3986, '"6th Day, The', 2000, 'Action|Sci-Fi|Thriller'),
+(3986, '6th Day, The', 2000, 'Action|Sci-Fi|Thriller'),
 
 (3987, 'Bounce', 2000, 'Drama|Romance'),
 
@@ -5985,7 +5985,7 @@ VALUES
 
 (3994, 'Unbreakable', 2000, 'Drama|Sci-Fi'),
 
-(3996, '"Crouching Tiger, Hidden Dragon (Wo hu cang long)', 2000, 'Action|Drama|Romance'),
+(3996, 'Crouching Tiger, Hidden Dragon (Wo hu cang long)', 2000, 'Action|Drama|Romance'),
 
 (3997, 'Dungeons & Dragons', 2000, 'Action|Adventure|Comedy|Fantasy'),
 
@@ -5993,13 +5993,13 @@ VALUES
 
 (3999, 'Vertical Limit', 2000, 'Action|Adventure'),
 
-(4000, '"Bounty, The', 1984, 'Adventure|Drama'),
+(4000, 'Bounty, The', 1984, 'Adventure|Drama'),
 
-(4002, '"Planes, Trains & Automobiles', 1987, 'Comedy'),
+(4002, 'Planes, Trains & Automobiles', 1987, 'Comedy'),
 
 (4003, 'She‘s Having a Baby', 1988, 'Comedy'),
 
-(4005, '"Living Daylights, The', 1987, 'Action|Adventure|Thriller'),
+(4005, 'Living Daylights, The', 1987, 'Action|Adventure|Thriller'),
 
 (4006, 'Transformers: The Movie', 1986, 'Adventure|Animation|Children|Sci-Fi'),
 
@@ -6017,9 +6017,9 @@ VALUES
 
 (4014, 'Chocolat', 2000, 'Drama|Romance'),
 
-(4015, '"Dude, Where‘s My Car?', 2000, 'Comedy|Sci-Fi'),
+(4015, 'Dude, Where‘s My Car?', 2000, 'Comedy|Sci-Fi'),
 
-(4016, '"Emperor‘s New Groove, The', 2000, 'Adventure|Animation|Children|Comedy|Fantasy'),
+(4016, 'Emperor‘s New Groove, The', 2000, 'Adventure|Animation|Children|Comedy|Fantasy'),
 
 (4017, 'Pollock', 2000, 'Drama'),
 
@@ -6027,19 +6027,19 @@ VALUES
 
 (4019, 'Finding Forrester', 2000, 'Drama'),
 
-(4020, '"Gift, The', 2000, 'Thriller'),
+(4020, 'Gift, The', 2000, 'Thriller'),
 
 (4021, 'Before Night Falls', 2000, 'Drama'),
 
 (4022, 'Cast Away', 2000, 'Drama'),
 
-(4023, '"Family Man, The', 2000, 'Comedy|Drama|Romance'),
+(4023, 'Family Man, The', 2000, 'Comedy|Drama|Romance'),
 
-(4024, '"House of Mirth, The', 2000, 'Romance'),
+(4024, 'House of Mirth, The', 2000, 'Romance'),
 
 (4025, 'Miss Congeniality', 2000, 'Comedy|Crime'),
 
-(4027, '"O Brother, Where Art Thou?', 2000, 'Adventure|Comedy|Crime'),
+(4027, 'O Brother, Where Art Thou?', 2000, 'Adventure|Comedy|Crime'),
 
 (4029, 'State and Main', 2000, 'Comedy|Drama'),
 
@@ -6047,13 +6047,13 @@ VALUES
 
 (4031, 'All the Pretty Horses', 2000, 'Drama|Romance|Western'),
 
-(4032, '"Everlasting Piece, An', 2000, 'Comedy'),
+(4032, 'Everlasting Piece, An', 2000, 'Comedy'),
 
 (4033, 'Thirteen Days', 2000, 'Drama|Thriller|War'),
 
 (4034, 'Traffic', 2000, 'Crime|Drama|Thriller'),
 
-(4035, '"Claim, The', 2000, 'Romance|Western'),
+(4035, 'Claim, The', 2000, 'Romance|Western'),
 
 (4036, 'Shadow of the Vampire', 2000, 'Drama|Horror'),
 
@@ -6063,9 +6063,9 @@ VALUES
 
 (4040, 'Don‘t Tell Mom the Babysitter‘s Dead', 1991, 'Comedy'),
 
-(4041, '"Officer and a Gentleman, An', 1982, 'Drama|Romance'),
+(4041, 'Officer and a Gentleman, An', 1982, 'Drama|Romance'),
 
-(4042, '"Alamo, The', 1960, 'Action|Drama|War|Western'),
+(4042, 'Alamo, The', 1960, 'Action|Drama|War|Western'),
 
 (4043, 'At Close Range', 1986, 'Crime|Drama'),
 
@@ -6083,7 +6083,7 @@ VALUES
 
 (4055, 'Panic', 2000, 'Drama'),
 
-(4056, '"Pledge, The', 2001, 'Crime|Drama|Mystery|Thriller'),
+(4056, 'Pledge, The', 2001, 'Crime|Drama|Mystery|Thriller'),
 
 (4061, 'The Man in the Moon', 1991, 'Drama|Romance'),
 
@@ -6101,11 +6101,11 @@ VALUES
 
 (4068, 'Sugar & Spice', 2001, 'Comedy'),
 
-(4069, '"Wedding Planner, The', 2001, 'Comedy|Romance'),
+(4069, 'Wedding Planner, The', 2001, 'Comedy|Romance'),
 
-(4074, '"Legend of Rita, The (Stille nach dem Schuß, Die)', 1999, 'Drama'),
+(4074, 'Legend of Rita, The (Stille nach dem Schuß, Die)', 1999, 'Drama'),
 
-(4077, '"With a Friend Like Harry... (Harry, un ami qui vous veut du bien)', 2000, 'Drama|Thriller'),
+(4077, 'With a Friend Like Harry... (Harry, un ami qui vous veut du bien)', 2000, 'Drama|Thriller'),
 
 (4078, 'Amazing Grace and Chuck', 1987, 'Drama'),
 
@@ -6123,11 +6123,11 @@ VALUES
 
 (4085, 'Beverly Hills Cop', 1984, 'Action|Comedy|Crime|Drama'),
 
-(4086, '"Big Easy, The', 1987, 'Action|Crime|Mystery|Romance|Thriller'),
+(4086, 'Big Easy, The', 1987, 'Action|Crime|Mystery|Romance|Thriller'),
 
 (4089, 'Born in East L.A.', 1987, 'Comedy'),
 
-(4090, '"Brave Little Toaster, The', 1987, 'Animation|Children'),
+(4090, 'Brave Little Toaster, The', 1987, 'Animation|Children'),
 
 (4091, 'Can‘t Buy Me Love', 1987, 'Comedy|Romance'),
 
@@ -6141,15 +6141,15 @@ VALUES
 
 (4104, 'Ernest Goes to Camp', 1987, 'Comedy'),
 
-(4105, '"Evil Dead, The', 1981, 'Fantasy|Horror|Thriller'),
+(4105, 'Evil Dead, The', 1981, 'Fantasy|Horror|Thriller'),
 
 (4109, 'Flowers in the Attic', 1987, 'Drama|Thriller'),
 
-(4110, '"Fourth Protocol, The', 1987, 'Thriller'),
+(4110, 'Fourth Protocol, The', 1987, 'Thriller'),
 
 (4111, 'Gardens of Stone', 1987, 'Drama|War'),
 
-(4113, '"Glass Menagerie, The', 1987, 'Drama'),
+(4113, 'Glass Menagerie, The', 1987, 'Drama'),
 
 (4115, 'Hiding Out', 1987, 'Comedy'),
 
@@ -6167,9 +6167,9 @@ VALUES
 
 (4126, 'Less Than Zero', 1987, 'Drama'),
 
-(4127, '"Like Father, Like Son', 1987, 'Comedy'),
+(4127, 'Like Father, Like Son', 1987, 'Comedy'),
 
-(4128, '"Lost Boys, The', 1987, 'Comedy|Horror|Thriller'),
+(4128, 'Lost Boys, The', 1987, 'Comedy|Horror|Thriller'),
 
 (4129, 'Made in Heaven', 1987, 'Fantasy|Romance'),
 
@@ -6181,7 +6181,7 @@ VALUES
 
 (4133, 'Masters of the Universe', 1987, 'Action|Adventure|Fantasy|Sci-Fi'),
 
-(4135, '"Monster Squad, The', 1987, 'Adventure|Comedy|Horror'),
+(4135, 'Monster Squad, The', 1987, 'Adventure|Comedy|Horror'),
 
 (4138, 'My Demon Lover', 1987, 'Comedy|Horror'),
 
@@ -6195,7 +6195,7 @@ VALUES
 
 (4144, 'In the Mood For Love (Fa yeung nin wa)', 2000, 'Drama|Romance'),
 
-(4146, '"Million Dollar Hotel, The', 2001, 'Drama|Mystery|Romance'),
+(4146, 'Million Dollar Hotel, The', 2001, 'Drama|Mystery|Romance'),
 
 (4147, 'Nico and Dani (Krámpack)', 2000, 'Comedy|Drama|Romance'),
 
@@ -6213,17 +6213,17 @@ VALUES
 
 (4156, 'Company Man', 2000, 'Comedy'),
 
-(4157, '"Price of Milk, The', 2000, 'Comedy|Drama|Fantasy|Romance'),
+(4157, 'Price of Milk, The', 2000, 'Comedy|Drama|Fantasy|Romance'),
 
 (4158, 'Monkeybone', 2001, 'Animation|Comedy|Fantasy'),
 
 (4159, '3000 Miles to Graceland', 2001, 'Action|Thriller'),
 
-(4160, '"Widow of St. Pierre, The (Veuve de Saint-Pierre, La)', 2000, 'Drama|Romance'),
+(4160, 'Widow of St. Pierre, The (Veuve de Saint-Pierre, La)', 2000, 'Drama|Romance'),
 
-(4161, '"Mexican, The', 2001, 'Action|Comedy'),
+(4161, 'Mexican, The', 2001, 'Action|Comedy'),
 
-(4164, '"Caveman‘s Valentine, The', 2001, 'Drama'),
+(4164, 'Caveman‘s Valentine, The', 2001, 'Drama'),
 
 (4166, 'Series 7: The Contenders', 2001, 'Action|Drama'),
 
@@ -6243,21 +6243,21 @@ VALUES
 
 (4181, 'Tapeheads', 1988, 'Comedy'),
 
-(4184, '"Bishop‘s Wife, The', 1947, 'Comedy|Drama|Romance'),
+(4184, 'Bishop‘s Wife, The', 1947, 'Comedy|Drama|Romance'),
 
 (4187, 'Lilies of the Field', 1963, 'Drama'),
 
-(4189, '"Greatest Story Ever Told, The', 1965, 'Drama'),
+(4189, 'Greatest Story Ever Told, The', 1965, 'Drama'),
 
 (4190, 'Elmer Gantry', 1960, 'Drama'),
 
 (4191, 'Alfie', 1966, 'Comedy|Drama|Romance'),
 
-(4193, '"Fantasticks, The', 1995, 'Musical'),
+(4193, 'Fantasticks, The', 1995, 'Musical'),
 
 (4194, 'I Know Where I‘m Going!', 1945, 'Drama|Romance|War'),
 
-(4195, '"Abominable Dr. Phibes, The', 1971, 'Horror|Mystery'),
+(4195, 'Abominable Dr. Phibes, The', 1971, 'Horror|Mystery'),
 
 (4197, 'Real Life', 1979, 'Comedy'),
 
@@ -6291,7 +6291,7 @@ VALUES
 
 (4219, 'Girls Just Want to Have Fun', 1985, 'Comedy'),
 
-(4220, '"Longest Yard, The', 1974, 'Comedy'),
+(4220, 'Longest Yard, The', 1974, 'Comedy'),
 
 (4221, 'Necessary Roughness', 1991, 'Comedy'),
 
@@ -6299,7 +6299,7 @@ VALUES
 
 (4224, 'Exit Wounds', 2001, 'Action|Thriller'),
 
-(4225, '"Dish, The', 2001, 'Comedy'),
+(4225, 'Dish, The', 2001, 'Comedy'),
 
 (4226, 'Memento', 2000, 'Mystery|Thriller'),
 
@@ -6313,13 +6313,13 @@ VALUES
 
 (4233, 'Tomcats', 2001, 'Comedy'),
 
-(4234, '"Tailor of Panama, The', 2001, 'Drama|Thriller'),
+(4234, 'Tailor of Panama, The', 2001, 'Drama|Thriller'),
 
 (4235, 'Amores Perros (Love‘s a Bitch)', 2000, 'Drama|Thriller'),
 
 (4236, 'Keep the River on Your Right: A Modern Cannibal Tale', 2000, 'Documentary'),
 
-(4237, '"Gleaners & I, The (Les glaneurs et la glaneuse)', 2000, 'Documentary'),
+(4237, 'Gleaners & I, The (Les glaneurs et la glaneuse)', 2000, 'Documentary'),
 
 (4238, 'Along Came a Spider', 2001, 'Action|Crime|Mystery|Thriller'),
 
@@ -6341,17 +6341,17 @@ VALUES
 
 (4251, 'Chopper', 2000, 'Drama|Thriller'),
 
-(4252, '"Circle, The (Dayereh)', 2000, 'Drama'),
+(4252, 'Circle, The (Dayereh)', 2000, 'Drama'),
 
 (4254, 'Crocodile Dundee in Los Angeles', 2001, 'Comedy|Drama'),
 
 (4255, 'Freddy Got Fingered', 2001, 'Comedy'),
 
-(4256, '"Center of the World, The', 2001, 'Drama'),
+(4256, 'Center of the World, The', 2001, 'Drama'),
 
-(4259, '"Luzhin Defence, The', 2000, 'Drama|Romance'),
+(4259, 'Luzhin Defence, The', 2000, 'Drama|Romance'),
 
-(4260, '"Visit, The', 2000, 'Drama'),
+(4260, 'Visit, The', 2000, 'Drama'),
 
 (4262, 'Scarface', 1983, 'Action|Crime|Drama'),
 
@@ -6363,7 +6363,7 @@ VALUES
 
 (4268, 'Town & Country', 2001, 'Comedy'),
 
-(4270, '"Mummy Returns, The', 2001, 'Action|Adventure|Comedy|Thriller'),
+(4270, 'Mummy Returns, The', 2001, 'Action|Adventure|Comedy|Thriller'),
 
 (4273, 'Under the Sand', 2000, 'Drama'),
 
@@ -6373,7 +6373,7 @@ VALUES
 
 (4278, 'Triumph of the Will (Triumph des Willens)', 1934, 'Documentary'),
 
-(4280, '"World According to Garp, The', 1982, 'Comedy|Drama|Romance'),
+(4280, 'World According to Garp, The', 1982, 'Comedy|Drama|Romance'),
 
 (4282, 'Fellini Satyricon', 1969, 'Drama|Fantasy'),
 
@@ -6381,7 +6381,7 @@ VALUES
 
 (4285, 'Frankie and Johnny', 1991, 'Comedy|Romance'),
 
-(4289, '"City of Women, The (Città delle donne, La)', 1980, 'Comedy|Drama'),
+(4289, 'City of Women, The (Città delle donne, La)', 1980, 'Comedy|Drama'),
 
 (4290, 'For the Boys', 1991, 'Comedy|Drama|Musical'),
 
@@ -6391,7 +6391,7 @@ VALUES
 
 (4293, 'Summer Rental', 1985, 'Comedy'),
 
-(4294, '"5,000 Fingers of Dr. T, The', 1953, 'Children|Fantasy|Musical'),
+(4294, '5,000 Fingers of Dr. T, The', 1953, 'Children|Fantasy|Musical'),
 
 (4296, 'Love Story', 1970, 'Drama|Romance'),
 
@@ -6399,7 +6399,7 @@ VALUES
 
 (4298, 'Rififi (Du rififi chez les hommes)', 1955, 'Crime|Film-Noir|Thriller'),
 
-(4299, '"Knight‘s Tale, A', 2001, 'Action|Comedy|Romance'),
+(4299, 'Knight‘s Tale, A', 2001, 'Action|Comedy|Romance'),
 
 (4300, 'Bread and Roses', 2000, 'Drama'),
 
@@ -6409,7 +6409,7 @@ VALUES
 
 (4306, 'Shrek', 2001, 'Adventure|Animation|Children|Comedy|Fantasy|Romance'),
 
-(4307, '"Fast Food, Fast Women', 2000, 'Comedy|Romance'),
+(4307, 'Fast Food, Fast Women', 2000, 'Comedy|Romance'),
 
 (4308, 'Moulin Rouge', 2001, 'Drama|Musical|Romance'),
 
@@ -6417,7 +6417,7 @@ VALUES
 
 (4312, 'Himalaya (Himalaya - l‘enfance d‘un chef)', 1999, 'Adventure|Drama'),
 
-(4313, '"Man Who Cried, The', 2000, 'Drama'),
+(4313, 'Man Who Cried, The', 2000, 'Drama'),
 
 (4316, 'Ice Castles', 1978, 'Drama'),
 
@@ -6427,13 +6427,13 @@ VALUES
 
 (4322, 'Eight Men Out', 1988, 'Drama'),
 
-(4323, '"Horse Soldiers, The', 1959, 'Adventure|War|Western'),
+(4323, 'Horse Soldiers, The', 1959, 'Adventure|War|Western'),
 
-(4325, '"Night, The (Notte, La)', 1960, 'Drama'),
+(4325, 'Night, The (Notte, La)', 1960, 'Drama'),
 
 (4326, 'Mississippi Burning', 1988, 'Crime|Drama|Thriller'),
 
-(4327, '"Magnificent Seven, The', 1960, 'Adventure|Western'),
+(4327, 'Magnificent Seven, The', 1960, 'Adventure|Western'),
 
 (4329, 'Rio Bravo', 1959, 'Western'),
 
@@ -6441,13 +6441,13 @@ VALUES
 
 (4334, 'Yi Yi', 2000, 'Drama'),
 
-(4337, '"Sand Pebbles, The', 1966, 'Drama|Romance|War'),
+(4337, 'Sand Pebbles, The', 1966, 'Drama|Romance|War'),
 
 (4338, 'Twelve O‘Clock High', 1949, 'Drama|War'),
 
 (4339, 'Von Ryan‘s Express', 1965, 'Action|Adventure|Drama|War'),
 
-(4340, '"Animal, The', 2001, 'Comedy'),
+(4340, 'Animal, The', 2001, 'Comedy'),
 
 (4342, 'Big Eden', 2000, 'Drama|Romance'),
 
@@ -6455,7 +6455,7 @@ VALUES
 
 (4344, 'Swordfish', 2001, 'Action|Crime|Drama'),
 
-(4345, '"Anniversary Party, The', 2001, 'Drama'),
+(4345, 'Anniversary Party, The', 2001, 'Drama'),
 
 (4347, 'Divided We Fall (Musíme si pomáhat)', 2000, 'Comedy|Drama'),
 
@@ -6475,7 +6475,7 @@ VALUES
 
 (4357, 'How to Marry a Millionaire', 1953, 'Comedy|Drama|Romance'),
 
-(4359, '"Seven Year Itch, The', 1955, 'Comedy'),
+(4359, 'Seven Year Itch, The', 1955, 'Comedy'),
 
 (4361, 'Tootsie', 1982, 'Comedy|Romance'),
 
@@ -6485,7 +6485,7 @@ VALUES
 
 (4368, 'Dr. Dolittle 2', 2001, 'Comedy'),
 
-(4369, '"Fast and the Furious, The', 2001, 'Action|Crime|Thriller'),
+(4369, 'Fast and the Furious, The', 2001, 'Action|Crime|Thriller'),
 
 (4370, 'A.I. Artificial Intelligence', 2001, 'Adventure|Drama|Sci-Fi'),
 
@@ -6499,11 +6499,11 @@ VALUES
 
 (4378, 'Sexy Beast', 2000, 'Crime|Drama'),
 
-(4380, '"Princess and the Warrior, The (Krieger und die Kaiserin, Der)', 2000, 'Drama|Romance'),
+(4380, 'Princess and the Warrior, The (Krieger und die Kaiserin, Der)', 2000, 'Drama|Romance'),
 
-(4381, '"Closet, The (Placard, Le)', 2001, 'Comedy'),
+(4381, 'Closet, The (Placard, Le)', 2001, 'Comedy'),
 
-(4383, '"Crimson Rivers, The (Rivières pourpres, Les)', 2000, 'Crime|Drama|Mystery|Thriller'),
+(4383, 'Crimson Rivers, The (Rivières pourpres, Les)', 2000, 'Crime|Drama|Mystery|Thriller'),
 
 (4384, 'Lumumba', 2000, 'Drama'),
 
@@ -6525,19 +6525,19 @@ VALUES
 
 (4395, 'Big Deal on Madonna Street (I Soliti Ignoti)', 1958, 'Comedy|Crime'),
 
-(4396, '"Cannonball Run, The', 1981, 'Action|Comedy'),
+(4396, 'Cannonball Run, The', 1981, 'Action|Comedy'),
 
 (4397, 'Cannonball Run II', 1984, 'Action|Comedy'),
 
-(4399, '"Diary of a Chambermaid (Journal d‘une femme de chambre, Le)', 1964, 'Comedy|Drama'),
+(4399, 'Diary of a Chambermaid (Journal d‘une femme de chambre, Le)', 1964, 'Comedy|Drama'),
 
 (4402, 'Dr. Goldfoot and the Bikini Machine', 1965, 'Comedy'),
 
-(4403, '"Fall of the House of Usher, The (House of Usher)', 1960, 'Horror'),
+(4403, 'Fall of the House of Usher, The (House of Usher)', 1960, 'Horror'),
 
 (4404, 'Faust', 1926, 'Drama|Fantasy|Horror'),
 
-(4406, '"Man Who Shot Liberty Valance, The', 1962, 'Crime|Drama|Western'),
+(4406, 'Man Who Shot Liberty Valance, The', 1962, 'Crime|Drama|Western'),
 
 (4407, 'Salvador', 1986, 'Drama|Thriller|War'),
 
@@ -6547,21 +6547,21 @@ VALUES
 
 (4410, 'Something Wild', 1986, 'Comedy|Crime|Drama'),
 
-(4412, '"Thing with Two Heads, The', 1972, 'Comedy|Horror|Sci-Fi'),
+(4412, 'Thing with Two Heads, The', 1972, 'Comedy|Horror|Sci-Fi'),
 
 (4419, 'All That Heaven Allows', 1955, 'Drama|Romance'),
 
-(4420, '"Barefoot Contessa, The', 1954, 'Drama'),
+(4420, 'Barefoot Contessa, The', 1954, 'Drama'),
 
 (4422, 'Cries and Whispers (Viskningar och rop)', 1972, 'Drama'),
 
-(4424, '"Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il)', 1970, 'Drama'),
+(4424, 'Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il)', 1970, 'Drama'),
 
 (4426, 'Kiss Me Deadly', 1955, 'Film-Noir'),
 
-(4427, '"Lion in Winter, The', 1968, 'Drama'),
+(4427, 'Lion in Winter, The', 1968, 'Drama'),
 
-(4428, '"Misfits, The', 1961, 'Comedy|Drama|Romance|Western'),
+(4428, 'Misfits, The', 1961, 'Comedy|Drama|Romance|Western'),
 
 (4429, 'Moby Dick', 1956, 'Drama'),
 
@@ -6569,25 +6569,25 @@ VALUES
 
 (4433, 'Written on the Wind', 1956, 'Drama'),
 
-(4434, '"10th Victim, The (La decima vittima)', 1965, 'Action|Comedy|Sci-Fi|Thriller'),
+(4434, '10th Victim, The (La decima vittima)', 1965, 'Action|Comedy|Sci-Fi|Thriller'),
 
 (4436, 'Obsession', 1976, 'Mystery|Thriller'),
 
 (4437, 'Suspiria', 1977, 'Horror'),
 
-(4438, '"Fist of Fury (Chinese Connection, The) (Jing wu men)', 1972, 'Action|Drama|Romance|Thriller'),
+(4438, 'Fist of Fury (Chinese Connection, The) (Jing wu men)', 1972, 'Action|Drama|Romance|Thriller'),
 
 (4439, 'Christiane F. (a.k.a. We Children from Bahnhof Zoo) (Christiane F. - Wir Kinder vom Bahnhof Zoo)', 1981, 'Drama'),
 
-(4440, '"Big Boss, The (Fists of Fury) (Tang shan da xiong)', 1971, 'Action|Thriller'),
+(4440, 'Big Boss, The (Fists of Fury) (Tang shan da xiong)', 1971, 'Action|Thriller'),
 
 (4441, 'Game of Death', 1978, 'Action'),
 
-(4442, '"Last Dragon, The', 1985, 'Action|Comedy|Drama'),
+(4442, 'Last Dragon, The', 1985, 'Action|Comedy|Drama'),
 
 (4443, 'Outland', 1981, 'Action|Sci-Fi|Thriller'),
 
-(4444, '"Way of the Dragon, The (a.k.a. Return of the Dragon) (Meng long guo jiang)', 1972, 'Action|Crime'),
+(4444, 'Way of the Dragon, The (a.k.a. Return of the Dragon) (Meng long guo jiang)', 1972, 'Action|Crime'),
 
 (4445, 'T-Rex: Back to the Cretaceous', 1998, 'Adventure|Documentary|IMAX'),
 
@@ -6595,7 +6595,7 @@ VALUES
 
 (4447, 'Legally Blonde', 2001, 'Comedy|Romance'),
 
-(4448, '"Score, The', 2001, 'Action|Drama'),
+(4448, 'Score, The', 2001, 'Action|Drama'),
 
 (4449, 'Adanggaman', 2000, 'Drama'),
 
@@ -6617,13 +6617,13 @@ VALUES
 
 (4463, '1969', 1988, 'Drama|War'),
 
-(4464, '"Accidental Tourist, The', 1988, 'Comedy|Drama|Romance'),
+(4464, 'Accidental Tourist, The', 1988, 'Comedy|Drama|Romance'),
 
-(4465, '"Accused, The', 1988, 'Drama'),
+(4465, 'Accused, The', 1988, 'Drama'),
 
 (4466, 'Above the Law', 1988, 'Action|Crime|Drama'),
 
-(4467, '"Adventures of Baron Munchausen, The', 1988, 'Adventure|Comedy|Fantasy'),
+(4467, 'Adventures of Baron Munchausen, The', 1988, 'Adventure|Comedy|Fantasy'),
 
 (4470, 'Ariel', 1988, 'Drama'),
 
@@ -6633,7 +6633,7 @@ VALUES
 
 (4474, 'Beaches', 1988, 'Comedy|Drama|Musical'),
 
-(4475, '"Beast of War, The (Beast, The)', 1988, 'Drama|War'),
+(4475, 'Beast of War, The (Beast, The)', 1988, 'Drama|War'),
 
 (4476, 'Big Business', 1988, 'Comedy'),
 
@@ -6641,9 +6641,9 @@ VALUES
 
 (4478, 'Biloxi Blues', 1988, 'Comedy|Drama'),
 
-(4480, '"Blob, The', 1988, 'Horror|Sci-Fi'),
+(4480, 'Blob, The', 1988, 'Horror|Sci-Fi'),
 
-(4482, '"Bright Lights, Big City', 1988, 'Drama'),
+(4482, 'Bright Lights, Big City', 1988, 'Drama'),
 
 (4483, 'Caddyshack II', 1988, 'Comedy'),
 
@@ -6655,7 +6655,7 @@ VALUES
 
 (4489, 'Coming to America', 1988, 'Comedy|Romance'),
 
-(4490, '"Couch Trip, The', 1988, 'Comedy'),
+(4490, 'Couch Trip, The', 1988, 'Comedy'),
 
 (4492, 'Critters', 1986, 'Comedy|Sci-Fi'),
 
@@ -6665,7 +6665,7 @@ VALUES
 
 (4497, 'Dead Heat', 1988, 'Action|Comedy|Horror|Sci-Fi'),
 
-(4498, '"Dead Pool, The', 1988, 'Action|Crime|Thriller'),
+(4498, 'Dead Pool, The', 1988, 'Action|Crime|Thriller'),
 
 (4499, 'Dirty Rotten Scoundrels', 1988, 'Comedy'),
 
@@ -6681,7 +6681,7 @@ VALUES
 
 (4508, 'Gorillas in the Mist', 1988, 'Drama'),
 
-(4509, '"Great Outdoors, The', 1988, 'Comedy'),
+(4509, 'Great Outdoors, The', 1988, 'Comedy'),
 
 (4511, 'High Spirits', 1988, 'Comedy'),
 
@@ -6691,7 +6691,7 @@ VALUES
 
 (4518, 'The Lair of the White Worm', 1988, 'Comedy|Horror'),
 
-(4519, '"Land Before Time, The', 1988, 'Adventure|Animation|Children|Fantasy'),
+(4519, 'Land Before Time, The', 1988, 'Adventure|Animation|Children|Fantasy'),
 
 (4520, 'License to Drive', 1988, 'Comedy'),
 
@@ -6705,29 +6705,29 @@ VALUES
 
 (4526, 'My Stepmother Is an Alien', 1988, 'Comedy|Romance|Sci-Fi'),
 
-(4527, '"Night in the Life of Jimmy Reardon, A', 1988, 'Comedy|Romance'),
+(4527, 'Night in the Life of Jimmy Reardon, A', 1988, 'Comedy|Romance'),
 
 (4529, 'Bagdad Cafe (Out of Rosenheim)', 1987, 'Comedy|Drama'),
 
 (4531, 'Red Heat', 1988, 'Action'),
 
-(4533, '"Return of the Living Dead, The', 1985, 'Comedy|Horror|Sci-Fi'),
+(4533, 'Return of the Living Dead, The', 1985, 'Comedy|Horror|Sci-Fi'),
 
 (4534, 'Return to Snowy River (a.k.a. The Man From Snowy River II)', 1988, 'Adventure|Drama|Western'),
 
-(4535, '"Man from Snowy River, The', 1982, 'Drama|Romance|Western'),
+(4535, 'Man from Snowy River, The', 1982, 'Drama|Romance|Western'),
 
 (4537, 'Running on Empty', 1988, 'Drama'),
 
-(4541, '"Serpent and the Rainbow, The', 1988, 'Horror'),
+(4541, 'Serpent and the Rainbow, The', 1988, 'Horror'),
 
 (4544, 'Short Circuit 2', 1988, 'Comedy|Sci-Fi'),
 
 (4545, 'Short Circuit', 1986, 'Comedy|Sci-Fi'),
 
-(4546, '"Vanishing, The (Spoorloos)', 1988, 'Drama|Thriller'),
+(4546, 'Vanishing, The (Spoorloos)', 1988, 'Drama|Thriller'),
 
-(4552, '"Tetsuo, the Ironman (Tetsuo)', 1988, 'Action|Horror|Sci-Fi|Thriller'),
+(4552, 'Tetsuo, the Ironman (Tetsuo)', 1988, 'Action|Horror|Sci-Fi|Thriller'),
 
 (4553, 'They Live', 1988, 'Action|Sci-Fi|Thriller'),
 
@@ -6765,7 +6765,7 @@ VALUES
 
 (4584, 'Dream a Little Dream', 1989, 'Comedy|Drama|Romance'),
 
-(4585, '"Dream Team, The', 1989, 'Comedy'),
+(4585, 'Dream Team, The', 1989, 'Comedy'),
 
 (4587, 'Earth Girls Are Easy', 1988, 'Comedy|Musical|Sci-Fi'),
 
@@ -6791,9 +6791,9 @@ VALUES
 
 (4605, 'How to Get Ahead in Advertising', 1989, 'Comedy|Fantasy'),
 
-(4608, '"Innocent Man, An', 1989, 'Crime|Drama'),
+(4608, 'Innocent Man, An', 1989, 'Crime|Drama'),
 
-(4610, '"January Man, The', 1989, 'Comedy|Crime|Mystery|Thriller'),
+(4610, 'January Man, The', 1989, 'Comedy|Crime|Mystery|Thriller'),
 
 (4611, 'Johnny Handsome', 1989, 'Crime|Drama'),
 
@@ -6829,13 +6829,13 @@ VALUES
 
 (4630, 'No Holds Barred', 1989, 'Action'),
 
-(4632, '"Package, The', 1989, 'Action|Thriller'),
+(4632, 'Package, The', 1989, 'Action|Thriller'),
 
 (4634, 'Penn & Teller Get Killed', 1989, 'Adventure|Comedy'),
 
 (4635, 'Pink Cadillac', 1989, 'Action|Comedy|Drama'),
 
-(4636, '"Punisher, The', 1989, 'Action'),
+(4636, 'Punisher, The', 1989, 'Action'),
 
 (4638, 'Jurassic Park III', 2001, 'Action|Adventure|Sci-Fi|Thriller'),
 
@@ -6857,7 +6857,7 @@ VALUES
 
 (4649, 'Wet Hot American Summer', 2001, 'Comedy'),
 
-(4653, '"Return of the Musketeers, The', 1989, 'Adventure|Comedy'),
+(4653, 'Return of the Musketeers, The', 1989, 'Adventure|Comedy'),
 
 (4654, 'Road House', 1989, 'Action|Drama'),
 
@@ -6867,17 +6867,17 @@ VALUES
 
 (4661, 'Sea of Love', 1989, 'Crime|Drama|Thriller'),
 
-(4662, '"See No Evil, Hear No Evil', 1989, 'Comedy|Crime'),
+(4662, 'See No Evil, Hear No Evil', 1989, 'Comedy|Crime'),
 
 (4663, 'She‘s Out of Control', 1989, 'Comedy'),
 
 (4666, 'Skin Deep', 1989, 'Comedy'),
 
-(4670, '"Stepfather, The', 1987, 'Horror|Thriller'),
+(4670, 'Stepfather, The', 1987, 'Horror|Thriller'),
 
 (4671, 'Sweetie', 1989, 'Drama'),
 
-(4672, '"Tall Guy, The', 1989, 'Comedy|Romance'),
+(4672, 'Tall Guy, The', 1989, 'Comedy|Romance'),
 
 (4673, 'Tango & Cash', 1989, 'Action|Comedy|Crime|Thriller'),
 
@@ -6891,9 +6891,9 @@ VALUES
 
 (4679, 'Uncle Buck', 1989, 'Comedy'),
 
-(4681, '"War of the Roses, The', 1989, 'Comedy|Drama'),
+(4681, 'War of the Roses, The', 1989, 'Comedy|Drama'),
 
-(4683, '"Wizard, The', 1989, 'Adventure|Children|Comedy|Drama'),
+(4683, 'Wizard, The', 1989, 'Adventure|Children|Comedy|Drama'),
 
 (4686, 'Weekend at Bernie‘s II', 1993, 'Adventure|Comedy'),
 
@@ -6901,9 +6901,9 @@ VALUES
 
 (4688, 'Black Robe', 1991, 'Adventure|Drama'),
 
-(4689, '"Cat o‘ Nine Tails, The (Gatto a nove code, Il)', 1971, 'Mystery|Thriller'),
+(4689, 'Cat o‘ Nine Tails, The (Gatto a nove code, Il)', 1971, 'Mystery|Thriller'),
 
-(4690, '"Cotton Club, The', 1984, 'Crime|Musical'),
+(4690, 'Cotton Club, The', 1984, 'Crime|Musical'),
 
 (4695, 'Who‘ll Stop the Rain', 1978, 'Crime|Drama'),
 
@@ -6911,7 +6911,7 @@ VALUES
 
 (4699, 'Original Sin', 2001, 'Drama|Romance|Thriller'),
 
-(4700, '"Princess Diaries, The', 2001, 'Children|Comedy|Romance'),
+(4700, 'Princess Diaries, The', 2001, 'Children|Comedy|Romance'),
 
 (4701, 'Rush Hour 2', 2001, 'Action|Comedy'),
 
@@ -6919,13 +6919,13 @@ VALUES
 
 (4704, 'Hatari!', 1962, 'Adventure|Comedy'),
 
-(4705, '"Cage aux Folles, La', 1978, 'Comedy'),
+(4705, 'Cage aux Folles, La', 1978, 'Comedy'),
 
 (4708, 'Marat/Sade', 1966, 'Drama|Musical'),
 
 (4709, 'Paint Your Wagon', 1969, 'Comedy|Musical|Western'),
 
-(4710, '"Shootist, The', 1976, 'Drama|Western'),
+(4710, 'Shootist, The', 1976, 'Drama|Western'),
 
 (4711, 'Theremin: An Electronic Odyssey', 1993, 'Documentary'),
 
@@ -6933,21 +6933,21 @@ VALUES
 
 (4714, 'Any Which Way You Can', 1980, 'Comedy'),
 
-(4715, '"Awakening, The', 1980, 'Horror'),
+(4715, 'Awakening, The', 1980, 'Horror'),
 
-(4717, '"Battle Creek Brawl (Big Brawl, The)', 1980, 'Action|Comedy'),
+(4717, 'Battle Creek Brawl (Big Brawl, The)', 1980, 'Action|Comedy'),
 
 (4718, 'American Pie 2', 2001, 'Comedy'),
 
 (4719, 'Osmosis Jones', 2001, 'Action|Animation|Comedy|Crime|Drama|Romance|Thriller'),
 
-(4720, '"Others, The', 2001, 'Drama|Horror|Mystery|Thriller'),
+(4720, 'Others, The', 2001, 'Drama|Horror|Mystery|Thriller'),
 
 (4721, 'American Outlaws', 2001, 'Action|Comedy|Western'),
 
 (4722, 'All Over the Guy', 2001, 'Comedy'),
 
-(4723, '"Deep End, The', 2001, 'Drama'),
+(4723, 'Deep End, The', 2001, 'Drama'),
 
 (4725, 'Session 9', 2001, 'Horror|Thriller'),
 
@@ -6957,7 +6957,7 @@ VALUES
 
 (4732, 'Bubble Boy', 2001, 'Comedy'),
 
-(4733, '"Curse of the Jade Scorpion, The', 2001, 'Comedy'),
+(4733, 'Curse of the Jade Scorpion, The', 2001, 'Comedy'),
 
 (4734, 'Jay and Silent Bob Strike Back', 2001, 'Adventure|Comedy'),
 
@@ -6983,9 +6983,9 @@ VALUES
 
 (4750, '3 Ninjas Knuckle Up', 1995, 'Action|Children'),
 
-(4754, '"Wicker Man, The', 1973, 'Drama|Horror|Mystery|Thriller'),
+(4754, 'Wicker Man, The', 1973, 'Drama|Horror|Mystery|Thriller'),
 
-(4756, '"Musketeer, The', 2001, 'Action|Adventure|Drama|Romance'),
+(4756, 'Musketeer, The', 2001, 'Action|Adventure|Drama|Romance'),
 
 (4757, 'Rock Star', 2001, 'Comedy|Drama|Musical'),
 
@@ -6993,11 +6993,11 @@ VALUES
 
 (4765, 'L.I.E.', 2001, 'Drama'),
 
-(4766, '"Our Lady of the Assassins (Virgen de los sicarios, La)', 2000, 'Crime|Drama|Romance'),
+(4766, 'Our Lady of the Assassins (Virgen de los sicarios, La)', 2000, 'Crime|Drama|Romance'),
 
 (4769, 'Into the Arms of Strangers: Stories of the Kindertransport', 2000, 'Documentary'),
 
-(4770, '"Glass House, The', 2001, 'Thriller'),
+(4770, 'Glass House, The', 2001, 'Thriller'),
 
 (4771, 'Hardball', 2001, 'Drama'),
 
@@ -7011,19 +7011,19 @@ VALUES
 
 (4776, 'Training Day', 2001, 'Crime|Drama|Thriller'),
 
-(4777, '"American Astronaut, The', 2001, 'Comedy|Musical|Sci-Fi'),
+(4777, 'American Astronaut, The', 2001, 'Comedy|Musical|Sci-Fi'),
 
 (4780, 'Liam', 2000, 'Drama'),
 
 (4782, 'Sidewalks of New York', 2001, 'Comedy|Romance'),
 
-(4783, '"Endurance: Shackleton‘s Legendary Antarctic Expedition, The', 2000, 'Documentary'),
+(4783, 'Endurance: Shackleton‘s Legendary Antarctic Expedition, The', 2000, 'Documentary'),
 
-(4784, '"French Lieutenant‘s Woman, The', 1981, 'Drama'),
+(4784, 'French Lieutenant‘s Woman, The', 1981, 'Drama'),
 
-(4785, '"Great Silence, The (Grande silenzio, Il)', 1969, 'Drama|Western'),
+(4785, 'Great Silence, The (Grande silenzio, Il)', 1969, 'Drama|Western'),
 
-(4786, '"Legend of Hell House, The', 1973, 'Horror|Thriller'),
+(4786, 'Legend of Hell House, The', 1973, 'Horror|Thriller'),
 
 (4787, 'Little Man Tate', 1991, 'Drama'),
 
@@ -7037,15 +7037,15 @@ VALUES
 
 (4795, 'Father Goose', 1964, 'Adventure|Comedy|Romance|War'),
 
-(4796, '"Grass Is Greener, The', 1960, 'Comedy|Romance'),
+(4796, 'Grass Is Greener, The', 1960, 'Comedy|Romance'),
 
 (4798, 'Indiscreet', 1958, 'Comedy|Romance'),
 
-(4799, '"It‘s a Mad, Mad, Mad, Mad World', 1963, 'Action|Adventure|Comedy|Crime'),
+(4799, 'It‘s a Mad, Mad, Mad, Mad World', 1963, 'Action|Adventure|Comedy|Crime'),
 
 (4800, 'King Solomon‘s Mines', 1937, 'Action|Adventure|Drama|Romance|Thriller'),
 
-(4801, '"Little Foxes, The', 1941, 'Drama'),
+(4801, 'Little Foxes, The', 1941, 'Drama'),
 
 (4802, 'Operation Petticoat', 1959, 'Action|Comedy|Romance|War'),
 
@@ -7053,7 +7053,7 @@ VALUES
 
 (4804, 'Pocketful of Miracles', 1961, 'Comedy|Drama'),
 
-(4808, '"Vanishing, The', 1993, 'Mystery|Thriller'),
+(4808, 'Vanishing, The', 1993, 'Mystery|Thriller'),
 
 (4809, 'Silkwood', 1983, 'Drama'),
 
@@ -7079,25 +7079,25 @@ VALUES
 
 (4823, 'Serendipity', 2001, 'Comedy|Romance'),
 
-(4825, '"Swamp, The (Ciénaga, La)', 2001, 'Comedy|Drama'),
+(4825, 'Swamp, The (Ciénaga, La)', 2001, 'Comedy|Drama'),
 
-(4826, '"Big Red One, The', 1980, 'Action|Adventure|Drama|War'),
+(4826, 'Big Red One, The', 1980, 'Action|Adventure|Drama|War'),
 
-(4827, '"Boogeyman, The', 1980, 'Horror'),
+(4827, 'Boogeyman, The', 1980, 'Horror'),
 
-(4828, '"Party, The (Boum, La)', 1980, 'Comedy|Romance'),
+(4828, 'Party, The (Boum, La)', 1980, 'Comedy|Romance'),
 
 (4830, 'Brubaker', 1980, 'Crime|Drama'),
 
 (4831, 'Can‘t Stop the Music', 1980, 'Comedy|Musical'),
 
-(4833, '"Changeling, The', 1980, 'Horror|Mystery|Thriller'),
+(4833, 'Changeling, The', 1980, 'Horror|Mystery|Thriller'),
 
 (4835, 'Coal Miner‘s Daughter', 1980, 'Drama'),
 
-(4836, '"Competition, The', 1980, 'Drama|Romance'),
+(4836, 'Competition, The', 1980, 'Drama|Romance'),
 
-(4840, '"Last Metro, The (Dernier métro, Le)', 1980, 'Drama|Romance'),
+(4840, 'Last Metro, The (Dernier métro, Le)', 1980, 'Drama|Romance'),
 
 (4844, 'Bandits', 2001, 'Comedy|Crime|Romance'),
 
@@ -7129,7 +7129,7 @@ VALUES
 
 (4865, 'From Hell', 2001, 'Crime|Horror|Mystery|Thriller'),
 
-(4866, '"Last Castle, The', 2001, 'Action'),
+(4866, 'Last Castle, The', 2001, 'Action'),
 
 (4867, 'Riding in Cars with Boys', 2001, 'Comedy|Drama'),
 
@@ -7149,15 +7149,15 @@ VALUES
 
 (4880, 'Life as a House', 2001, 'Drama'),
 
-(4881, '"Man Who Wasn‘t There, The', 2001, 'Crime|Drama'),
+(4881, 'Man Who Wasn‘t There, The', 2001, 'Crime|Drama'),
 
-(4883, '"Town is Quiet, The (Ville est tranquille, La)', 2000, 'Drama'),
+(4883, 'Town is Quiet, The (Ville est tranquille, La)', 2000, 'Drama'),
 
 (4885, 'Domestic Disturbance', 2001, 'Thriller'),
 
-(4886, '"Monsters, Inc.', 2001, 'Adventure|Animation|Children|Comedy|Fantasy'),
+(4886, 'Monsters, Inc.', 2001, 'Adventure|Animation|Children|Comedy|Fantasy'),
 
-(4887, '"One, The', 2001, 'Action|Sci-Fi|Thriller'),
+(4887, 'One, The', 2001, 'Action|Sci-Fi|Thriller'),
 
 (4888, 'Tape', 2001, 'Drama'),
 
@@ -7177,11 +7177,11 @@ VALUES
 
 (4901, 'Spy Game', 2001, 'Action|Crime|Drama|Thriller'),
 
-(4902, '"Devil‘s Backbone, The (Espinazo del diablo, El)', 2001, 'Drama|Fantasy|Horror|Thriller|War'),
+(4902, 'Devil‘s Backbone, The (Espinazo del diablo, El)', 2001, 'Drama|Fantasy|Horror|Thriller|War'),
 
 (4903, 'In the Bedroom', 2001, 'Drama'),
 
-(4909, '"Incredible Shrinking Woman, The', 1981, 'Comedy|Sci-Fi'),
+(4909, 'Incredible Shrinking Woman, The', 1981, 'Comedy|Sci-Fi'),
 
 (4911, 'Jabberwocky', 1977, 'Adventure|Comedy|Fantasy'),
 
@@ -7189,7 +7189,7 @@ VALUES
 
 (4914, 'Breathless (À bout de souffle)', 1960, 'Crime|Drama|Romance'),
 
-(4915, '"Beastmaster, The', 1982, 'Action|Adventure|Fantasy'),
+(4915, 'Beastmaster, The', 1982, 'Action|Adventure|Fantasy'),
 
 (4916, 'Midway', 1976, 'Drama|War'),
 
@@ -7197,51 +7197,51 @@ VALUES
 
 (4919, 'Subway', 1985, 'Crime|Drama|Romance|Thriller'),
 
-(4920, '"Now, Voyager', 1942, 'Drama|Romance'),
+(4920, 'Now, Voyager', 1942, 'Drama|Romance'),
 
 (4921, 'Little Women', 1933, 'Drama|Romance'),
 
-(4925, '"Cheap Detective, The', 1978, 'Comedy'),
+(4925, 'Cheap Detective, The', 1978, 'Comedy'),
 
 (4926, 'Everybody‘s Famous! (Iedereen beroemd!)', 2000, 'Comedy|Drama|Musical'),
 
-(4927, '"Last Wave, The', 1977, 'Fantasy|Mystery|Thriller'),
+(4927, 'Last Wave, The', 1977, 'Fantasy|Mystery|Thriller'),
 
 (4928, 'That Obscure Object of Desire (Cet obscur objet du désir)', 1977, 'Drama'),
 
-(4929, '"Toy, The', 1982, 'Comedy'),
+(4929, 'Toy, The', 1982, 'Comedy'),
 
 (4932, 'Dressed to Kill', 1980, 'Mystery|Thriller'),
 
 (4936, 'Fame', 1980, 'Drama|Musical'),
 
-(4939, '"Final Countdown, The', 1980, 'Action|Sci-Fi'),
+(4939, 'Final Countdown, The', 1980, 'Action|Sci-Fi'),
 
 (4941, 'Flash Gordon', 1980, 'Action|Adventure|Sci-Fi'),
 
-(4942, '"Angry Red Planet, The', 1959, 'Sci-Fi'),
+(4942, 'Angry Red Planet, The', 1959, 'Sci-Fi'),
 
-(4945, '"Enforcer, The', 1976, 'Crime'),
+(4945, 'Enforcer, The', 1976, 'Crime'),
 
-(4946, '"Eye for an Eye, An', 1981, 'Action|Crime|Thriller'),
+(4946, 'Eye for an Eye, An', 1981, 'Action|Crime|Thriller'),
 
-(4947, '"Gauntlet, The', 1977, 'Action'),
+(4947, 'Gauntlet, The', 1977, 'Action'),
 
 (4951, 'Lord of the Flies', 1990, 'Adventure|Drama|Thriller'),
 
 (4952, 'Morons From Outer Space', 1985, 'Comedy|Sci-Fi'),
 
-(4953, '"People That Time Forgot, The', 1977, 'Adventure|Sci-Fi'),
+(4953, 'People That Time Forgot, The', 1977, 'Adventure|Sci-Fi'),
 
 (4954, 'Ocean‘s Eleven (a.k.a. Ocean‘s 11)', 1960, 'Comedy|Crime'),
 
-(4956, '"Stunt Man, The', 1980, 'Action|Adventure|Comedy|Drama|Romance|Thriller'),
+(4956, 'Stunt Man, The', 1980, 'Action|Adventure|Comedy|Drama|Romance|Thriller'),
 
 (4957, 'Sudden Impact', 1983, 'Crime|Thriller'),
 
 (4958, 'Behind Enemy Lines', 2001, 'Action|Drama|War'),
 
-(4959, '"Affair of the Necklace, The', 2001, 'Drama'),
+(4959, 'Affair of the Necklace, The', 2001, 'Drama'),
 
 (4961, 'Pornstar: The Legend of Ron Jeremy', 2001, 'Documentary'),
 
@@ -7251,19 +7251,19 @@ VALUES
 
 (4964, 'Baran', 2001, 'Adventure|Drama|Romance'),
 
-(4965, '"Business of Strangers, The', 2001, 'Action|Drama|Thriller'),
+(4965, 'Business of Strangers, The', 2001, 'Action|Drama|Thriller'),
 
-(4966, '"Incredible Shrinking Man, The', 1957, 'Sci-Fi|Thriller'),
+(4966, 'Incredible Shrinking Man, The', 1957, 'Sci-Fi|Thriller'),
 
 (4967, 'No Man‘s Land', 2001, 'Drama|War'),
 
 (4969, 'And Then There Were None', 1945, 'Crime|Mystery'),
 
-(4970, '"Blue Angel, The (Blaue Engel, Der)', 1930, 'Drama'),
+(4970, 'Blue Angel, The (Blaue Engel, Der)', 1930, 'Drama'),
 
 (4971, 'Moscow on the Hudson', 1984, 'Comedy|Drama'),
 
-(4973, '"Amelie (Fabuleux destin d‘Amélie Poulain, Le)', 2001, 'Comedy|Romance'),
+(4973, 'Amelie (Fabuleux destin d‘Amélie Poulain, Le)', 2001, 'Comedy|Romance'),
 
 (4974, 'Not Another Teen Movie', 2001, 'Comedy'),
 
@@ -7275,7 +7275,7 @@ VALUES
 
 (4978, 'Lantana', 2001, 'Drama|Mystery|Thriller'),
 
-(4979, '"Royal Tenenbaums, The', 2001, 'Comedy|Drama'),
+(4979, 'Royal Tenenbaums, The', 2001, 'Comedy|Drama'),
 
 (4980, 'Bill & Ted‘s Bogus Journey', 1991, 'Adventure|Comedy|Fantasy|Sci-Fi'),
 
@@ -7295,15 +7295,15 @@ VALUES
 
 (4992, 'Kate & Leopold', 2001, 'Comedy|Romance'),
 
-(4993, '"Lord of the Rings: The Fellowship of the Ring, The', 2001, 'Adventure|Fantasy'),
+(4993, 'Lord of the Rings: The Fellowship of the Ring, The', 2001, 'Adventure|Fantasy'),
 
-(4994, '"Majestic, The', 2001, 'Comedy|Drama|Romance'),
+(4994, 'Majestic, The', 2001, 'Comedy|Drama|Romance'),
 
-(4995, '"Beautiful Mind, A', 2001, 'Drama|Romance'),
+(4995, 'Beautiful Mind, A', 2001, 'Drama|Romance'),
 
-(4998, '"Defiant Ones, The', 1958, 'Adventure|Crime|Drama|Thriller'),
+(4998, 'Defiant Ones, The', 1958, 'Adventure|Crime|Drama|Thriller'),
 
-(5004, '"Party, The', 1968, 'Comedy'),
+(5004, 'Party, The', 1968, 'Comedy'),
 
 (5007, 'Topkapi', 1964, 'Adventure|Comedy|Thriller'),
 
@@ -7323,23 +7323,23 @@ VALUES
 
 (5015, 'Monster‘s Ball', 2001, 'Drama|Romance'),
 
-(5016, '"Shipping News, The', 2001, 'Drama'),
+(5016, 'Shipping News, The', 2001, 'Drama'),
 
 (5021, 'Murder by Death', 1976, 'Comedy|Crime|Mystery|Thriller'),
 
-(5023, '"Waterdance, The', 1992, 'Drama'),
+(5023, 'Waterdance, The', 1992, 'Drama'),
 
 (5025, 'Orange County', 2002, 'Comedy'),
 
-(5026, '"Brotherhood of the Wolf (Pacte des loups, Le)', 2001, 'Action|Mystery|Thriller'),
+(5026, 'Brotherhood of the Wolf (Pacte des loups, Le)', 2001, 'Action|Mystery|Thriller'),
 
 (5027, 'Another 48 Hrs.', 1990, 'Action|Comedy|Crime|Drama|Thriller'),
 
 (5028, 'What Time Is It There? (Ni neibian jidian)', 2001, 'Drama'),
 
-(5033, '"Russia House, The', 1990, 'Drama|Thriller'),
+(5033, 'Russia House, The', 1990, 'Drama|Thriller'),
 
-(5034, '"Truly, Madly, Deeply', 1991, 'Drama|Romance'),
+(5034, 'Truly, Madly, Deeply', 1991, 'Drama|Romance'),
 
 (5039, 'Dragonslayer', 1981, 'Action|Adventure|Fantasy'),
 
@@ -7373,9 +7373,9 @@ VALUES
 
 (5064, 'The Count of Monte Cristo', 2002, 'Action|Adventure|Drama|Thriller'),
 
-(5065, '"Mothman Prophecies, The', 2002, 'Drama|Fantasy|Horror|Mystery|Thriller'),
+(5065, 'Mothman Prophecies, The', 2002, 'Drama|Fantasy|Horror|Mystery|Thriller'),
 
-(5066, '"Walk to Remember, A', 2002, 'Drama|Romance'),
+(5066, 'Walk to Remember, A', 2002, 'Drama|Romance'),
 
 (5068, 'Beijing Bicycle (Shiqi sui de dan che)', 2001, 'Drama'),
 
@@ -7385,13 +7385,13 @@ VALUES
 
 (5072, 'Metropolis', 2001, 'Animation|Sci-Fi'),
 
-(5073, '"Son‘s Room, The (Stanza del figlio, La)', 2001, 'Drama'),
+(5073, 'Son‘s Room, The (Stanza del figlio, La)', 2001, 'Drama'),
 
 (5074, 'Storytelling', 2001, 'Comedy|Drama'),
 
 (5075, 'Waydowntown', 2000, 'Comedy'),
 
-(5076, '"Adventures of Huck Finn, The', 1993, 'Adventure|Children|Comedy|Drama'),
+(5076, 'Adventures of Huck Finn, The', 1993, 'Adventure|Children|Comedy|Drama'),
 
 (5077, 'Cousins', 1989, 'Comedy|Romance'),
 
@@ -7401,7 +7401,7 @@ VALUES
 
 (5083, 'Rare Birds', 2001, 'Comedy|Drama'),
 
-(5088, '"Going Places (Valseuses, Les)', 1974, 'Comedy|Crime|Drama'),
+(5088, 'Going Places (Valseuses, Les)', 1974, 'Comedy|Crime|Drama'),
 
 (5092, 'Big Fat Liar', 2002, 'Children|Comedy'),
 
@@ -7409,7 +7409,7 @@ VALUES
 
 (5094, 'Rollerball', 2002, 'Action|Sci-Fi'),
 
-(5095, '"Scotland, Pa.', 2001, 'Comedy|Crime'),
+(5095, 'Scotland, Pa.', 2001, 'Comedy|Crime'),
 
 (5096, 'Baby‘s Day Out', 1994, 'Comedy'),
 
@@ -7417,7 +7417,7 @@ VALUES
 
 (5102, 'Rookie of the Year', 1993, 'Comedy|Fantasy'),
 
-(5103, '"Sandlot, The', 1993, 'Children|Comedy|Drama'),
+(5103, 'Sandlot, The', 1993, 'Children|Comedy|Drama'),
 
 (5105, 'Don‘t Look Now', 1973, 'Drama|Horror|Thriller'),
 
@@ -7431,13 +7431,13 @@ VALUES
 
 (5110, 'Super Troopers', 2001, 'Comedy|Crime|Mystery'),
 
-(5111, '"Good Son, The', 1993, 'Drama|Thriller'),
+(5111, 'Good Son, The', 1993, 'Drama|Thriller'),
 
 (5112, 'Last Orders', 2001, 'Drama'),
 
 (5113, 'After the Fox (Caccia alla volpe)', 1966, 'Comedy|Crime'),
 
-(5114, '"Bad and the Beautiful, The', 1952, 'Drama'),
+(5114, 'Bad and the Beautiful, The', 1952, 'Drama'),
 
 (5116, 'Designing Woman', 1957, 'Comedy'),
 
@@ -7459,7 +7459,7 @@ VALUES
 
 (5137, 'Scratch', 2001, 'Documentary'),
 
-(5139, '"Bad News Bears, The', 1976, 'Comedy'),
+(5139, 'Bad News Bears, The', 1976, 'Comedy'),
 
 (5146, 'Vampire Hunter D: Bloodlust (Banpaia hantâ D)', 2000, 'Animation|Fantasy|Horror|Sci-Fi'),
 
@@ -7469,9 +7469,9 @@ VALUES
 
 (5152, 'We Were Soldiers', 2002, 'Action|Drama|War'),
 
-(5155, '"Big Bird Cage, The', 1972, 'Action'),
+(5155, 'Big Bird Cage, The', 1972, 'Action'),
 
-(5156, '"Big Doll House, The', 1971, 'Action'),
+(5156, 'Big Doll House, The', 1971, 'Action'),
 
 (5159, 'Ferngully: The Last Rainforest', 1992, 'Animation|Children|Comedy|Musical'),
 
@@ -7481,9 +7481,9 @@ VALUES
 
 (5170, 'All About the Benjamins', 2002, 'Action|Comedy|Crime'),
 
-(5171, '"Time Machine, The', 2002, 'Action|Adventure|Sci-Fi'),
+(5171, 'Time Machine, The', 2002, 'Action|Adventure|Sci-Fi'),
 
-(5177, '"Magnificent Ambersons, The', 1942, 'Drama|Romance'),
+(5177, 'Magnificent Ambersons, The', 1942, 'Drama|Romance'),
 
 (5178, 'Fun', 1994, 'Crime|Drama'),
 
@@ -7495,7 +7495,7 @@ VALUES
 
 (5197, 'Little Darlings', 1980, 'Drama'),
 
-(5198, '"Long Good Friday, The', 1980, 'Drama|Thriller'),
+(5198, 'Long Good Friday, The', 1980, 'Drama|Thriller'),
 
 (5202, 'Mon oncle d‘Amérique', 1980, 'Drama'),
 
@@ -7503,11 +7503,11 @@ VALUES
 
 (5209, 'Ffolkes', 1979, 'Action|Adventure|Thriller'),
 
-(5212, '"Octagon, The', 1980, 'Action'),
+(5212, 'Octagon, The', 1980, 'Action'),
 
-(5213, '"Oh, God! Book II', 1980, 'Comedy'),
+(5213, 'Oh, God! Book II', 1980, 'Comedy'),
 
-(5214, '"Oh, God!', 1977, 'Comedy|Fantasy'),
+(5214, 'Oh, God!', 1977, 'Comedy|Fantasy'),
 
 (5218, 'Ice Age', 2002, 'Adventure|Animation|Children|Comedy'),
 
@@ -7561,11 +7561,11 @@ VALUES
 
 (5266, 'Panic Room', 2002, 'Thriller'),
 
-(5267, '"Rookie, The', 2002, 'Drama'),
+(5267, 'Rookie, The', 2002, 'Drama'),
 
 (5268, 'No Such Thing', 2001, 'Drama|Fantasy|Romance'),
 
-(5269, '"Piano Teacher, The (La pianiste)', 2001, 'Drama'),
+(5269, 'Piano Teacher, The (La pianiste)', 2001, 'Drama'),
 
 (5272, 'Time Out (L‘emploi du temps)', 2001, 'Drama'),
 
@@ -7583,7 +7583,7 @@ VALUES
 
 (5285, 'Lucky Break', 2001, 'Comedy|Crime'),
 
-(5288, '"Atomic Cafe, The', 1982, 'Documentary|War'),
+(5288, 'Atomic Cafe, The', 1982, 'Documentary|War'),
 
 (5291, 'Rashomon (Rashômon)', 1950, 'Crime|Drama|Mystery'),
 
@@ -7593,9 +7593,9 @@ VALUES
 
 (5294, 'Frailty', 2001, 'Crime|Drama|Thriller'),
 
-(5296, '"Sweetest Thing, The', 2002, 'Comedy|Romance'),
+(5296, 'Sweetest Thing, The', 2002, 'Comedy|Romance'),
 
-(5297, '"Cat‘s Meow, The', 2002, 'Drama|Thriller'),
+(5297, 'Cat‘s Meow, The', 2002, 'Drama|Thriller'),
 
 (5298, 'Human Nature', 2001, 'Comedy|Romance'),
 
@@ -7605,7 +7605,7 @@ VALUES
 
 (5303, 'Joe Versus the Volcano', 1990, 'Comedy|Romance'),
 
-(5304, '"Rome, Open City (a.k.a. Open City) (Roma, città aperta)', 1945, 'Drama|War'),
+(5304, 'Rome, Open City (a.k.a. Open City) (Roma, città aperta)', 1945, 'Drama|War'),
 
 (5307, 'Taking Care of Business', 1990, 'Comedy'),
 
@@ -7613,7 +7613,7 @@ VALUES
 
 (5309, 'Three Men and a Little Lady', 1990, 'Comedy|Romance'),
 
-(5311, '"Watcher in the Woods, The', 1980, 'Children|Horror|Mystery|Thriller'),
+(5311, 'Watcher in the Woods, The', 1980, 'Children|Horror|Mystery|Thriller'),
 
 (5312, 'Murder by Numbers', 2002, 'Crime|Thriller'),
 
@@ -7623,7 +7623,7 @@ VALUES
 
 (5319, 'Nine Queens (Nueve reinas)', 2000, 'Crime|Thriller'),
 
-(5321, '"Triumph of Love, The', 2001, 'Comedy'),
+(5321, 'Triumph of Love, The', 2001, 'Comedy'),
 
 (5322, 'World Traveler', 2001, 'Drama'),
 
@@ -7635,7 +7635,7 @@ VALUES
 
 (5328, 'Rain', 2001, 'Drama|Romance'),
 
-(5329, '"Salton Sea, The', 2002, 'Crime|Drama|Thriller'),
+(5329, 'Salton Sea, The', 2002, 'Crime|Drama|Thriller'),
 
 (5333, 'Bob le Flambeur', 1955, 'Crime|Drama'),
 
@@ -7661,7 +7661,7 @@ VALUES
 
 (5353, 'Butterflies Are Free', 1972, 'Comedy|Drama'),
 
-(5356, '"Giant Spider Invasion, The', 1975, 'Horror|Sci-Fi'),
+(5356, 'Giant Spider Invasion, The', 1975, 'Horror|Sci-Fi'),
 
 (5357, 'Iron Will', 1994, 'Adventure'),
 
@@ -7669,31 +7669,31 @@ VALUES
 
 (5361, 'White Fang', 1991, 'Adventure'),
 
-(5363, '"New Guy, The', 2002, 'Comedy'),
+(5363, 'New Guy, The', 2002, 'Comedy'),
 
 (5364, 'Unfaithful', 2002, 'Drama|Thriller'),
 
-(5365, '"Lady and the Duke, The (Anglaise et le duc, L‘)', 2001, 'Drama|Romance'),
+(5365, 'Lady and the Duke, The (Anglaise et le duc, L‘)', 2001, 'Drama|Romance'),
 
 (5372, 'Calamity Jane', 1953, 'Musical|Western'),
 
-(5373, '"Cranes Are Flying, The (Letyat zhuravli)', 1957, 'Drama|Romance|War'),
+(5373, 'Cranes Are Flying, The (Letyat zhuravli)', 1957, 'Drama|Romance|War'),
 
-(5375, '"Harvey Girls, The', 1946, 'Comedy|Musical|Western'),
+(5375, 'Harvey Girls, The', 1946, 'Comedy|Musical|Western'),
 
 (5377, 'About a Boy', 2002, 'Comedy|Drama|Romance'),
 
 (5378, 'Star Wars: Episode II - Attack of the Clones', 2002, 'Action|Adventure|Sci-Fi|IMAX'),
 
-(5379, '"Believer, The', 2001, 'Drama'),
+(5379, 'Believer, The', 2001, 'Drama'),
 
-(5380, '"Importance of Being Earnest, The', 2002, 'Comedy|Drama|Romance'),
+(5380, 'Importance of Being Earnest, The', 2002, 'Comedy|Drama|Romance'),
 
 (5382, 'Every Which Way But Loose', 1978, 'Comedy'),
 
 (5384, 'I Want to Live!', 1958, 'Crime|Drama'),
 
-(5385, '"Last Waltz, The', 1978, 'Documentary'),
+(5385, 'Last Waltz, The', 1978, 'Documentary'),
 
 (5387, 'Enough', 2002, 'Drama|Thriller'),
 
@@ -7709,7 +7709,7 @@ VALUES
 
 (5398, 'Requiem for a Heavyweight', 1962, 'Drama'),
 
-(5400, '"Sum of All Fears, The', 2002, 'Drama|Thriller'),
+(5400, 'Sum of All Fears, The', 2002, 'Drama|Thriller'),
 
 (5401, 'Undercover Brother', 2002, 'Comedy'),
 
@@ -7725,17 +7725,17 @@ VALUES
 
 (5416, 'Cherish', 2002, 'Comedy|Drama|Thriller'),
 
-(5417, '"Fast Runner, The (Atanarjuat)', 2001, 'Drama|Fantasy'),
+(5417, 'Fast Runner, The (Atanarjuat)', 2001, 'Drama|Fantasy'),
 
-(5418, '"Bourne Identity, The', 2002, 'Action|Mystery|Thriller'),
+(5418, 'Bourne Identity, The', 2002, 'Action|Mystery|Thriller'),
 
 (5419, 'Scooby-Doo', 2002, 'Adventure|Children|Comedy|Fantasy|Mystery'),
 
 (5420, 'Windtalkers', 2002, 'Action|Drama|War'),
 
-(5421, '"Dangerous Lives of Altar Boys, The', 2002, 'Drama'),
+(5421, 'Dangerous Lives of Altar Boys, The', 2002, 'Drama'),
 
-(5422, '"Emperor‘s New Clothes, The', 2001, 'Comedy'),
+(5422, 'Emperor‘s New Clothes, The', 2001, 'Comedy'),
 
 (5423, 'Gangster No. 1', 2000, 'Action|Crime|Thriller'),
 
@@ -7749,11 +7749,11 @@ VALUES
 
 (5433, 'Silver Bullet (Stephen King‘s Silver Bullet)', 1985, 'Adventure|Drama|Horror|Mystery|Thriller'),
 
-(5434, '"Sorry, Wrong Number', 1948, 'Drama|Film-Noir|Thriller'),
+(5434, 'Sorry, Wrong Number', 1948, 'Drama|Film-Noir|Thriller'),
 
 (5435, 'Hombre', 1967, 'Western'),
 
-(5437, '"Manhattan Project, The', 1986, 'Comedy|Sci-Fi|Thriller'),
+(5437, 'Manhattan Project, The', 1986, 'Comedy|Sci-Fi|Thriller'),
 
 (5438, 'Men at Work', 1990, 'Action|Comedy'),
 
@@ -7783,7 +7783,7 @@ VALUES
 
 (5454, 'Mo‘ Money', 1992, 'Comedy|Romance'),
 
-(5455, '"Object of Beauty, The', 1991, 'Comedy|Drama'),
+(5455, 'Object of Beauty, The', 1991, 'Comedy|Drama'),
 
 (5456, 'Wagons East', 1994, 'Comedy|Western'),
 
@@ -7791,11 +7791,11 @@ VALUES
 
 (5459, 'Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2)', 2002, 'Action|Comedy|Sci-Fi'),
 
-(5460, '"Powerpuff Girls, The', 2002, 'Action|Animation|Children|Comedy'),
+(5460, 'Powerpuff Girls, The', 2002, 'Action|Animation|Children|Comedy'),
 
 (5461, 'Me Without You', 2001, 'Comedy|Drama'),
 
-(5462, '"Crocodile Hunter: Collision Course, The', 2002, 'Adventure|Comedy'),
+(5462, 'Crocodile Hunter: Collision Course, The', 2002, 'Adventure|Comedy'),
 
 (5463, 'Reign of Fire', 2002, 'Action|Adventure|Fantasy'),
 
@@ -7827,7 +7827,7 @@ VALUES
 
 (5481, 'Austin Powers in Goldmember', 2002, 'Comedy'),
 
-(5483, '"Kid Stays in the Picture, The', 2002, 'Documentary'),
+(5483, 'Kid Stays in the Picture, The', 2002, 'Documentary'),
 
 (5485, 'Tadpole', 2002, 'Comedy|Drama|Romance'),
 
@@ -7847,15 +7847,15 @@ VALUES
 
 (5500, 'Top Secret!', 1984, 'Comedy'),
 
-(5501, '"Master of Disguise, The', 2002, 'Comedy|Mystery'),
+(5501, 'Master of Disguise, The', 2002, 'Comedy|Mystery'),
 
 (5502, 'Signs', 2002, 'Horror|Sci-Fi|Thriller'),
 
-(5503, '"Last Kiss, The (Ultimo bacio, L‘)', 2001, 'Comedy|Drama|Romance'),
+(5503, 'Last Kiss, The (Ultimo bacio, L‘)', 2001, 'Comedy|Drama|Romance'),
 
 (5504, 'Spy Kids 2: The Island of Lost Dreams', 2002, 'Adventure|Children'),
 
-(5505, '"Good Girl, The', 2002, 'Comedy|Drama'),
+(5505, 'Good Girl, The', 2002, 'Comedy|Drama'),
 
 (5506, 'Blood Work', 2002, 'Crime|Drama|Mystery|Thriller'),
 
@@ -7869,11 +7869,11 @@ VALUES
 
 (5515, 'Songs From the Second Floor (Sånger från andra våningen)', 2000, 'Drama'),
 
-(5521, '"Principal, The', 1987, 'Action|Crime|Drama'),
+(5521, 'Principal, The', 1987, 'Action|Crime|Drama'),
 
 (5522, 'Rollerball', 1975, 'Action|Drama|Sci-Fi'),
 
-(5523, '"Adventures of Pluto Nash, The', 2002, 'Action|Adventure|Comedy|Sci-Fi'),
+(5523, 'Adventures of Pluto Nash, The', 2002, 'Action|Adventure|Comedy|Sci-Fi'),
 
 (5524, 'Blue Crush', 2002, 'Adventure|Drama|Romance'),
 
@@ -7893,7 +7893,7 @@ VALUES
 
 (5537, 'Satin Rouge', 2002, 'Drama|Musical'),
 
-(5538, '"Care Bears Movie, The', 1985, 'Animation|Children|Fantasy'),
+(5538, 'Care Bears Movie, The', 1985, 'Animation|Children|Fantasy'),
 
 (5539, 'Care Bears Movie II: A New Generation', 1986, 'Animation|Children'),
 
@@ -7901,7 +7901,7 @@ VALUES
 
 (5541, 'Hot Shots!', 1991, 'Action|Comedy|Romance|War'),
 
-(5543, '"Swarm, The', 1978, 'Action|Horror|Sci-Fi'),
+(5543, 'Swarm, The', 1978, 'Action|Horror|Sci-Fi'),
 
 (5544, 'Time After Time', 1979, 'Sci-Fi|Thriller'),
 
@@ -7923,7 +7923,7 @@ VALUES
 
 (5568, 'Johnny Dangerously', 1984, 'Comedy'),
 
-(5569, '"Last House on the Left, The', 1972, 'Crime|Horror|Thriller'),
+(5569, 'Last House on the Left, The', 1972, 'Crime|Horror|Thriller'),
 
 (5570, 'Thesis (Tesis)', 1996, 'Drama|Horror|Thriller'),
 
@@ -7931,7 +7931,7 @@ VALUES
 
 (5573, 'Stealing Harvard', 2002, 'Comedy|Crime'),
 
-(5574, '"Transporter, The', 2002, 'Action|Crime'),
+(5574, 'Transporter, The', 2002, 'Action|Crime'),
 
 (5575, 'Alias Betty (Betty Fisher et autres histoires)', 2001, 'Crime|Drama'),
 
@@ -7947,11 +7947,11 @@ VALUES
 
 (5585, 'Ernest Scared Stupid', 1991, 'Comedy'),
 
-(5588, '"Hills Have Eyes, The', 1977, 'Horror'),
+(5588, 'Hills Have Eyes, The', 1977, 'Horror'),
 
 (5589, 'Indian Summer', 1993, 'Comedy|Drama'),
 
-(5590, '"Mack, The', 1973, 'Crime'),
+(5590, 'Mack, The', 1973, 'Crime'),
 
 (5591, 'Monkey Trouble', 1994, 'Children|Comedy'),
 
@@ -7959,29 +7959,29 @@ VALUES
 
 (5597, 'Suburban Commando', 1991, 'Comedy|Sci-Fi'),
 
-(5601, '"Yearling, The', 1946, 'Children|Drama'),
+(5601, 'Yearling, The', 1946, 'Children|Drama'),
 
-(5602, '"Ladykillers, The', 1955, 'Comedy|Crime'),
+(5602, 'Ladykillers, The', 1955, 'Comedy|Crime'),
 
-(5603, '"Lavender Hill Mob, The', 1951, 'Comedy|Crime'),
+(5603, 'Lavender Hill Mob, The', 1951, 'Comedy|Crime'),
 
-(5604, '"Man in the White Suit, The', 1951, 'Comedy|Sci-Fi'),
+(5604, 'Man in the White Suit, The', 1951, 'Comedy|Sci-Fi'),
 
-(5607, '"Son of the Bride (Hijo de la novia, El)', 2001, 'Comedy|Drama'),
+(5607, 'Son of the Bride (Hijo de la novia, El)', 2001, 'Comedy|Drama'),
 
-(5608, '"Das Experiment (Experiment, The)', 2001, 'Drama|Thriller'),
+(5608, 'Das Experiment (Experiment, The)', 2001, 'Drama|Thriller'),
 
 (5609, 'Ballistic: Ecks vs. Sever', 2002, 'Action|Thriller'),
 
-(5610, '"Banger Sisters, The', 2002, 'Comedy|Drama'),
+(5610, 'Banger Sisters, The', 2002, 'Comedy|Drama'),
 
-(5611, '"Four Feathers, The', 2002, 'Adventure|War'),
+(5611, 'Four Feathers, The', 2002, 'Adventure|War'),
 
 (5612, 'Trapped', 2002, 'Action|Thriller'),
 
 (5613, '8 Women', 2002, 'Comedy|Crime|Musical|Mystery'),
 
-(5614, '"His Secret Life (a.k.a. Ignorant Fairies, The) (Fate ignoranti, Le)', 2001, 'Drama|Romance'),
+(5614, 'His Secret Life (a.k.a. Ignorant Fairies, The) (Fate ignoranti, Le)', 2001, 'Drama|Romance'),
 
 (5615, 'Invincible', 2001, 'Drama'),
 
@@ -7989,11 +7989,11 @@ VALUES
 
 (5618, 'Spirited Away (Sen to Chihiro no kamikakushi)', 2001, 'Adventure|Animation|Fantasy'),
 
-(5619, '"Trials of Henry Kissinger, The', 2002, 'Documentary'),
+(5619, 'Trials of Henry Kissinger, The', 2002, 'Documentary'),
 
 (5620, 'Sweet Home Alabama', 2002, 'Comedy|Romance'),
 
-(5621, '"Tuxedo, The', 2002, 'Action|Comedy'),
+(5621, 'Tuxedo, The', 2002, 'Action|Comedy'),
 
 (5625, 'Moonlight Mile', 2002, 'Drama|Romance'),
 
@@ -8007,7 +8007,7 @@ VALUES
 
 (5633, 'Heaven', 2002, 'Drama'),
 
-(5635, '"Man from Elysian Fields, The', 2001, 'Drama'),
+(5635, 'Man from Elysian Fields, The', 2001, 'Drama'),
 
 (5636, 'Welcome to Collinwood', 2002, 'Comedy|Crime'),
 
@@ -8015,11 +8015,11 @@ VALUES
 
 (5638, 'Godzilla vs. Mothra (Mosura tai Gojira)', 1964, 'Action|Adventure|Fantasy|Sci-Fi'),
 
-(5640, '"Godzilla, King of the Monsters! (Kaijû-ô Gojira)', 1956, 'Horror|Sci-Fi'),
+(5640, 'Godzilla, King of the Monsters! (Kaijû-ô Gojira)', 1956, 'Horror|Sci-Fi'),
 
 (5643, 'Powaqqatsi', 1988, 'Documentary'),
 
-(5644, '"Pride of the Yankees, The', 1942, 'Drama'),
+(5644, 'Pride of the Yankees, The', 1942, 'Drama'),
 
 (5646, 'Valmont', 1989, 'Drama|Romance'),
 
@@ -8027,7 +8027,7 @@ VALUES
 
 (5650, 'Strange Brew', 1983, 'Comedy'),
 
-(5651, '"Incredible Mr. Limpet, The', 1964, 'Animation|Comedy|War'),
+(5651, 'Incredible Mr. Limpet, The', 1964, 'Animation|Comedy|War'),
 
 (5657, 'Flashback', 1990, 'Action|Adventure|Comedy|Crime|Drama'),
 
@@ -8037,7 +8037,7 @@ VALUES
 
 (5665, 'Knockaround Guys', 2002, 'Action|Comedy|Crime'),
 
-(5666, '"Rules of Attraction, The', 2002, 'Comedy|Drama|Romance|Thriller'),
+(5666, 'Rules of Attraction, The', 2002, 'Comedy|Drama|Romance|Thriller'),
 
 (5667, 'Tuck Everlasting', 2002, 'Drama|Fantasy'),
 
@@ -8055,11 +8055,11 @@ VALUES
 
 (5678, 'Formula 51', 2001, 'Action|Comedy|Crime|Thriller'),
 
-(5679, '"Ring, The', 2002, 'Horror|Mystery|Thriller'),
+(5679, 'Ring, The', 2002, 'Horror|Mystery|Thriller'),
 
 (5680, 'Auto Focus', 2002, 'Crime|Drama'),
 
-(5682, '"Grey Zone, The', 2001, 'Drama'),
+(5682, 'Grey Zone, The', 2001, 'Drama'),
 
 (5684, 'Naqoyqatsi', 2002, 'Documentary'),
 
@@ -8091,23 +8091,23 @@ VALUES
 
 (5712, 'Blow Out', 1981, 'Mystery|Thriller'),
 
-(5720, '"Friend Is a Treasure, A (Chi Trova Un Amico, Trova un Tesoro) (Who Finds a Friend Finds a Treasure)', 1981, 'Action|Adventure|Comedy'),
+(5720, 'Friend Is a Treasure, A (Chi Trova Un Amico, Trova un Tesoro) (Who Finds a Friend Finds a Treasure)', 1981, 'Action|Adventure|Comedy'),
 
-(5721, '"Chosen, The', 1981, 'Drama'),
+(5721, 'Chosen, The', 1981, 'Drama'),
 
 (5723, 'Continental Divide', 1981, 'Comedy|Romance'),
 
-(5733, '"Eyewitness (Janitor, The)', 1981, 'Thriller'),
+(5733, 'Eyewitness (Janitor, The)', 1981, 'Thriller'),
 
 (5735, 'Faces of Death', 1978, 'Documentary|Horror'),
 
 (5736, 'Faces of Death 3', 1985, 'Documentary|Horror'),
 
-(5741, '"Woman Next Door, The (Femme d‘à côté, La)', 1981, 'Drama|Romance'),
+(5741, 'Woman Next Door, The (Femme d‘à côté, La)', 1981, 'Drama|Romance'),
 
 (5742, 'First Monday in October', 1981, 'Comedy|Drama'),
 
-(5745, '"Four Seasons, The', 1981, 'Comedy|Drama'),
+(5745, 'Four Seasons, The', 1981, 'Comedy|Drama'),
 
 (5746, 'Galaxy of Terror (Quest)', 1981, 'Action|Horror|Mystery|Sci-Fi'),
 
@@ -8135,7 +8135,7 @@ VALUES
 
 (5780, 'Polyester', 1981, 'Comedy'),
 
-(5782, '"Professional, The (Le professionnel)', 1981, 'Action|Drama|Thriller'),
+(5782, 'Professional, The (Le professionnel)', 1981, 'Action|Drama|Thriller'),
 
 (5784, 'Ghost Ship', 2002, 'Horror'),
 
@@ -8143,7 +8143,7 @@ VALUES
 
 (5786, 'Paid in Full', 2002, 'Action|Drama'),
 
-(5787, '"Truth About Charlie, The', 2002, 'Mystery|Thriller'),
+(5787, 'Truth About Charlie, The', 2002, 'Mystery|Thriller'),
 
 (5788, 'All or Nothing', 2002, 'Drama'),
 
@@ -8153,17 +8153,17 @@ VALUES
 
 (5796, 'Casino Royale', 1967, 'Action|Adventure|Comedy'),
 
-(5797, '"Company of Wolves, The', 1984, 'Fantasy|Horror'),
+(5797, 'Company of Wolves, The', 1984, 'Fantasy|Horror'),
 
 (5799, 'Exodus', 1960, 'Drama|Romance|War'),
 
-(5801, '"Russians Are Coming, the Russians Are Coming, The', 1966, 'Comedy|War'),
+(5801, 'Russians Are Coming, the Russians Are Coming, The', 1966, 'Comedy|War'),
 
-(5802, '"World of Henry Orient, The', 1964, 'Comedy'),
+(5802, 'World of Henry Orient, The', 1964, 'Comedy'),
 
 (5803, 'I Spy', 2002, 'Action|Adventure|Comedy|Crime'),
 
-(5804, '"Santa Clause 2, The', 2002, 'Children|Comedy|Fantasy|Romance'),
+(5804, 'Santa Clause 2, The', 2002, 'Children|Comedy|Fantasy|Romance'),
 
 (5809, 'Femme Fatale', 2002, 'Crime|Thriller'),
 
@@ -8175,7 +8175,7 @@ VALUES
 
 (5817, 'Ararat', 2002, 'Drama|War'),
 
-(5818, '"Crime of Father Amaro, The (Crimen del padre Amaro, El)', 2002, 'Drama|Romance'),
+(5818, 'Crime of Father Amaro, The (Crimen del padre Amaro, El)', 2002, 'Drama|Romance'),
 
 (5820, 'Standing in the Shadows of Motown', 2002, 'Documentary|Musical'),
 
@@ -8193,7 +8193,7 @@ VALUES
 
 (5839, 'My Father‘s Glory (La gloire de mon père)', 1990, 'Adventure|Drama'),
 
-(5840, '"My Mother‘s Castle (Château de ma mère, Le)', 1990, 'Comedy|Drama'),
+(5840, 'My Mother‘s Castle (Château de ma mère, Le)', 1990, 'Comedy|Drama'),
 
 (5841, 'Return to the Blue Lagoon', 1991, 'Adventure|Romance'),
 
@@ -8205,7 +8205,7 @@ VALUES
 
 (5853, 'Scanners', 1981, 'Horror|Sci-Fi|Thriller'),
 
-(5856, '"Do You Remember Dolly Bell? (Sjecas li se, Dolly Bell)', 1981, 'Comedy|Drama|Romance'),
+(5856, 'Do You Remember Dolly Bell? (Sjecas li se, Dolly Bell)', 1981, 'Comedy|Drama|Romance'),
 
 (5863, 'Take This Job and Shove It', 1981, 'Comedy'),
 
@@ -8219,7 +8219,7 @@ VALUES
 
 (5875, 'Personal Velocity', 2002, 'Drama'),
 
-(5876, '"Quiet American, The', 2002, 'Drama|Thriller|War'),
+(5876, 'Quiet American, The', 2002, 'Drama|Thriller|War'),
 
 (5878, 'Talk to Her (Hable con Ella)', 2002, 'Drama|Romance'),
 
@@ -8237,13 +8237,13 @@ VALUES
 
 (5888, 'Brother (Brat)', 1997, 'Crime|Drama'),
 
-(5889, '"Cruel Romance, A (Zhestokij Romans)', 1984, 'Drama|Romance'),
+(5889, 'Cruel Romance, A (Zhestokij Romans)', 1984, 'Drama|Romance'),
 
 (5890, 'Elling', 2001, 'Comedy|Drama'),
 
 (5891, 'I Spit on Your Grave (Day of the Woman)', 1978, 'Horror|Thriller'),
 
-(5893, '"Last Seduction, The', 1994, 'Crime|Drama|Thriller'),
+(5893, 'Last Seduction, The', 1994, 'Crime|Drama|Thriller'),
 
 (5896, 'New Waterford Girl', 1999, 'Comedy'),
 
@@ -8267,11 +8267,11 @@ VALUES
 
 (5922, 'Attila (Attila Flagello di Dio)', 1982, 'Action'),
 
-(5925, '"Beast Within, The', 1982, 'Horror'),
+(5925, 'Beast Within, The', 1982, 'Horror'),
 
-(5927, '"Best Little Whorehouse in Texas, The', 1982, 'Comedy|Drama|Musical|Romance'),
+(5927, 'Best Little Whorehouse in Texas, The', 1982, 'Comedy|Drama|Musical|Romance'),
 
-(5929, '"Party 2, The (Boum 2, La)', 1982, 'Comedy|Romance'),
+(5929, 'Party 2, The (Boum 2, La)', 1982, 'Comedy|Romance'),
 
 (5932, 'Burden of Dreams', 1982, 'Documentary'),
 
@@ -8279,7 +8279,7 @@ VALUES
 
 (5941, 'Drumline', 2002, 'Comedy|Drama|Musical|Romance'),
 
-(5942, '"Hot Chick, The', 2002, 'Comedy'),
+(5942, 'Hot Chick, The', 2002, 'Comedy'),
 
 (5943, 'Maid in Manhattan', 2002, 'Comedy|Romance'),
 
@@ -8293,7 +8293,7 @@ VALUES
 
 (5951, 'Morvern Callar', 2002, 'Drama'),
 
-(5952, '"Lord of the Rings: The Two Towers, The', 2002, 'Adventure|Fantasy'),
+(5952, 'Lord of the Rings: The Two Towers, The', 2002, 'Adventure|Fantasy'),
 
 (5953, 'Devils on the Doorstep (Guizi lai le)', 2000, 'Drama|War'),
 
@@ -8311,9 +8311,9 @@ VALUES
 
 (5962, 'Body of Evidence', 1993, 'Drama|Thriller'),
 
-(5963, '"Children‘s Hour, The', 1961, 'Drama'),
+(5963, 'Children‘s Hour, The', 1961, 'Drama'),
 
-(5965, '"Duellists, The', 1977, 'Action|War'),
+(5965, 'Duellists, The', 1977, 'Action|War'),
 
 (5968, 'Miami Blues', 1990, 'Comedy|Crime|Drama'),
 
@@ -8323,7 +8323,7 @@ VALUES
 
 (5971, 'My Neighbor Totoro (Tonari no Totoro)', 1988, 'Animation|Children|Drama|Fantasy'),
 
-(5974, '"Thief of Bagdad, The', 1940, 'Adventure|Fantasy'),
+(5974, 'Thief of Bagdad, The', 1940, 'Adventure|Fantasy'),
 
 (5975, 'War and Peace', 1956, 'Drama|Romance|War'),
 
@@ -8331,7 +8331,7 @@ VALUES
 
 (5980, 'Black Christmas', 1974, 'Horror|Mystery|Thriller'),
 
-(5984, '"Story of O, The (Histoire d‘O)', 1975, 'Drama|Romance'),
+(5984, 'Story of O, The (Histoire d‘O)', 1975, 'Drama|Romance'),
 
 (5986, 'Fat City', 1972, 'Drama'),
 
@@ -8343,17 +8343,17 @@ VALUES
 
 (5991, 'Chicago', 2002, 'Comedy|Crime|Drama|Musical'),
 
-(5992, '"Hours, The', 2002, 'Drama|Romance'),
+(5992, 'Hours, The', 2002, 'Drama|Romance'),
 
 (5993, 'Max', 2002, 'Drama'),
 
 (5994, 'Nicholas Nickleby', 2002, 'Drama|Romance'),
 
-(5995, '"Pianist, The', 2002, 'Drama|War'),
+(5995, 'Pianist, The', 2002, 'Drama|War'),
 
 (5999, 'Heavy Metal 2000', 2000, 'Action|Adventure|Animation|Fantasy|Sci-Fi'),
 
-(6001, '"King of Comedy, The', 1983, 'Comedy|Drama'),
+(6001, 'King of Comedy, The', 1983, 'Comedy|Drama'),
 
 (6002, 'Love Liza', 2002, 'Drama'),
 
@@ -8363,9 +8363,9 @@ VALUES
 
 (6006, 'Just Married', 2003, 'Comedy|Romance'),
 
-(6009, '"City of Lost Souls, The (Hyôryuu-gai)', 2000, 'Crime|Drama|Thriller'),
+(6009, 'City of Lost Souls, The (Hyôryuu-gai)', 2000, 'Crime|Drama|Thriller'),
 
-(6012, '"Guy Thing, A', 2003, 'Comedy|Romance'),
+(6012, 'Guy Thing, A', 2003, 'Comedy|Romance'),
 
 (6013, 'Kangaroo Jack', 2003, 'Action|Comedy'),
 
@@ -8375,7 +8375,7 @@ VALUES
 
 (6020, 'Alice Adams', 1935, 'Comedy|Drama'),
 
-(6021, '"American Friend, The (Amerikanische Freund, Der)', 1977, 'Crime|Drama|Mystery|Thriller'),
+(6021, 'American Friend, The (Amerikanische Freund, Der)', 1977, 'Crime|Drama|Mystery|Thriller'),
 
 (6022, 'American Me', 1992, 'Drama'),
 
@@ -8395,7 +8395,7 @@ VALUES
 
 (6036, 'Secret Admirer', 1985, 'Comedy|Romance'),
 
-(6039, '"Woman in Red, The', 1984, 'Comedy|Romance'),
+(6039, 'Woman in Red, The', 1984, 'Comedy|Romance'),
 
 (6040, 'Darkness Falls', 2003, 'Horror|Thriller'),
 
@@ -8407,7 +8407,7 @@ VALUES
 
 (6049, 'Ethan Frome', 1993, 'Drama'),
 
-(6051, '"Harder They Come, The', 1973, 'Action|Crime|Drama'),
+(6051, 'Harder They Come, The', 1973, 'Action|Crime|Drama'),
 
 (6055, 'Sugar Hill', 1994, 'Drama'),
 
@@ -8415,15 +8415,15 @@ VALUES
 
 (6058, 'Final Destination 2', 2003, 'Horror|Thriller'),
 
-(6059, '"Recruit, The', 2003, 'Action|Thriller'),
+(6059, 'Recruit, The', 2003, 'Action|Thriller'),
 
-(6060, '"Guru, The', 2002, 'Comedy|Romance'),
+(6060, 'Guru, The', 2002, 'Comedy|Romance'),
 
 (6062, 'Lost in La Mancha', 2002, 'Documentary'),
 
 (6063, 'May', 2002, 'Drama|Horror'),
 
-(6064, '"Harder They Fall, The', 1956, 'Drama|Film-Noir'),
+(6064, 'Harder They Fall, The', 1956, 'Drama|Film-Noir'),
 
 (6067, 'Ordinary Decent Criminal', 2000, 'Comedy|Crime'),
 
@@ -8431,25 +8431,25 @@ VALUES
 
 (6078, 'Firefox', 1982, 'Action|Sci-Fi|Thriller'),
 
-(6086, '"I, the Jury', 1982, 'Crime|Drama|Thriller'),
+(6086, 'I, the Jury', 1982, 'Crime|Drama|Thriller'),
 
 (6090, 'Kiss Me Goodbye', 1982, 'Comedy'),
 
-(6093, '"Last Unicorn, The', 1982, 'Animation|Children|Fantasy'),
+(6093, 'Last Unicorn, The', 1982, 'Animation|Children|Fantasy'),
 
 (6095, 'Dragon Lord (a.k.a. Dragon Strike) (Long Xiao Ye)', 1982, 'Action'),
 
-(6100, '"Midsummer Night‘s Sex Comedy, A', 1982, 'Comedy|Romance'),
+(6100, 'Midsummer Night‘s Sex Comedy, A', 1982, 'Comedy|Romance'),
 
 (6101, 'Missing', 1982, 'Drama|Mystery|Thriller'),
 
 (6104, 'Monty Python Live at the Hollywood Bowl', 1982, 'Comedy'),
 
-(6107, '"Night of the Shooting Stars (Notte di San Lorenzo, La)', 1982, 'Drama|War'),
+(6107, 'Night of the Shooting Stars (Notte di San Lorenzo, La)', 1982, 'Drama|War'),
 
 (6111, 'Paradise', 1982, 'Adventure|Romance'),
 
-(6116, '"Pirate Movie, The', 1982, 'Adventure|Comedy|Musical'),
+(6116, 'Pirate Movie, The', 1982, 'Adventure|Comedy|Musical'),
 
 (6119, 'Santa Claus Is a Stinker (Le Père Noël est une ordure)', 1982, 'Comedy'),
 
@@ -8459,7 +8459,7 @@ VALUES
 
 (6124, 'Savannah Smiles', 1982, 'Comedy'),
 
-(6125, '"Secret Policeman‘s Other Ball, The', 1982, 'Comedy|Documentary|Musical'),
+(6125, 'Secret Policeman‘s Other Ball, The', 1982, 'Comedy|Documentary|Musical'),
 
 (6140, 'Tenebre', 1982, 'Horror|Mystery|Thriller'),
 
@@ -8479,7 +8479,7 @@ VALUES
 
 (6157, 'Daredevil', 2003, 'Action|Crime'),
 
-(6158, '"Jungle Book 2, The', 2003, 'Animation|Children'),
+(6158, 'Jungle Book 2, The', 2003, 'Animation|Children'),
 
 (6159, 'All the Real Girls', 2003, 'Drama|Romance'),
 
@@ -8489,25 +8489,25 @@ VALUES
 
 (6166, 'Dennis the Menace', 1993, 'Comedy'),
 
-(6169, '"Black Stallion Returns, The', 1983, 'Adventure|Children'),
+(6169, 'Black Stallion Returns, The', 1983, 'Adventure|Children'),
 
-(6170, '"Black Stallion, The', 1979, 'Adventure|Children|Drama'),
+(6170, 'Black Stallion, The', 1979, 'Adventure|Children|Drama'),
 
-(6178, '"Patch of Blue, A', 1965, 'Drama|Romance'),
+(6178, 'Patch of Blue, A', 1965, 'Drama|Romance'),
 
-(6181, '"Red Badge of Courage, The', 1951, 'Drama|War'),
+(6181, 'Red Badge of Courage, The', 1951, 'Drama|War'),
 
-(6182, '"Thrill of It All, The', 1963, 'Comedy'),
+(6182, 'Thrill of It All, The', 1963, 'Comedy'),
 
 (6183, 'Pillow Talk', 1959, 'Comedy|Musical|Romance'),
 
-(6184, '"Man Who Fell to Earth, The', 1976, 'Drama|Sci-Fi'),
+(6184, 'Man Who Fell to Earth, The', 1976, 'Drama|Sci-Fi'),
 
 (6185, 'Dark Blue', 2003, 'Action|Crime|Drama|Thriller'),
 
 (6186, 'Gods and Generals', 2003, 'Action|Drama|War'),
 
-(6187, '"Life of David Gale, The', 2003, 'Crime|Drama|Thriller'),
+(6187, 'Life of David Gale, The', 2003, 'Crime|Drama|Thriller'),
 
 (6188, 'Old School', 2003, 'Comedy'),
 
@@ -8527,7 +8527,7 @@ VALUES
 
 (6203, 'Life Stinks', 1991, 'Comedy'),
 
-(6204, '"Meteor Man, The', 1993, 'Comedy'),
+(6204, 'Meteor Man, The', 1993, 'Comedy'),
 
 (6210, 'Volcano High (Whasango)', 2001, 'Action|Comedy'),
 
@@ -8541,11 +8541,11 @@ VALUES
 
 (6216, 'Nowhere in Africa (Nirgendwo in Afrika)', 2001, 'Drama'),
 
-(6217, '"Safety of Objects, The', 2001, 'Drama'),
+(6217, 'Safety of Objects, The', 2001, 'Drama'),
 
 (6218, 'Bend It Like Beckham', 2002, 'Comedy|Drama|Romance'),
 
-(6219, '"Hunted, The', 2003, 'Action|Drama|Thriller'),
+(6219, 'Hunted, The', 2003, 'Action|Drama|Thriller'),
 
 (6220, 'Willard', 2003, 'Drama|Horror|Thriller'),
 
@@ -8555,7 +8555,7 @@ VALUES
 
 (6225, 'King of Kings', 1961, 'Drama'),
 
-(6228, '"Talk of the Town, The', 1942, 'Comedy|Romance|Thriller'),
+(6228, 'Talk of the Town, The', 1942, 'Comedy|Romance|Thriller'),
 
 (6232, 'Born Free', 1966, 'Adventure|Children|Drama'),
 
@@ -8563,7 +8563,7 @@ VALUES
 
 (6235, 'Europa Europa (Hitlerjunge Salomon)', 1990, 'Drama|War'),
 
-(6237, '"Glenn Miller Story, The', 1953, 'Drama'),
+(6237, 'Glenn Miller Story, The', 1953, 'Drama'),
 
 (6238, 'Green Card', 1990, 'Comedy|Drama|Romance'),
 
@@ -8587,11 +8587,11 @@ VALUES
 
 (6252, 'View from the Top', 2003, 'Comedy|Romance'),
 
-(6254, '"Awful Truth, The', 1937, 'Comedy|Romance'),
+(6254, 'Awful Truth, The', 1937, 'Comedy|Romance'),
 
 (6263, 'Basic', 2003, 'Drama|Thriller|War'),
 
-(6264, '"Core, The', 2003, 'Action|Drama|Sci-Fi|Thriller'),
+(6264, 'Core, The', 2003, 'Action|Drama|Sci-Fi|Thriller'),
 
 (6265, 'Head of State', 2003, 'Comedy'),
 
@@ -8609,9 +8609,9 @@ VALUES
 
 (6273, 'In a Lonely Place', 1950, 'Drama|Film-Noir|Mystery|Romance'),
 
-(6279, '"Good Thief, The', 2002, 'Crime|Drama'),
+(6279, 'Good Thief, The', 2002, 'Crime|Drama'),
 
-(6280, '"Man Apart, A', 2003, 'Action|Crime|Drama|Thriller'),
+(6280, 'Man Apart, A', 2003, 'Action|Crime|Drama|Thriller'),
 
 (6281, 'Phone Booth', 2002, 'Drama|Thriller'),
 
@@ -8619,7 +8619,7 @@ VALUES
 
 (6285, 'Levity', 2003, 'Drama'),
 
-(6286, '"Man Without a Past, The (Mies vailla menneisyyttä)', 2002, 'Comedy|Crime|Drama'),
+(6286, 'Man Without a Past, The (Mies vailla menneisyyttä)', 2002, 'Comedy|Crime|Drama'),
 
 (6287, 'Anger Management', 2003, 'Comedy'),
 
@@ -8635,13 +8635,13 @@ VALUES
 
 (6295, 'Chasing Papi (a.k.a. Papi Chulo)', 2003, 'Comedy'),
 
-(6296, '"Mighty Wind, A', 2003, 'Comedy|Musical'),
+(6296, 'Mighty Wind, A', 2003, 'Comedy|Musical'),
 
 (6297, 'Holes', 2003, 'Adventure|Children|Comedy|Mystery'),
 
 (6298, 'Malibu‘s Most Wanted', 2003, 'Comedy|Crime'),
 
-(6299, '"Winged Migration (Peuple migrateur, Le)', 2001, 'Documentary'),
+(6299, 'Winged Migration (Peuple migrateur, Le)', 2001, 'Documentary'),
 
 (6300, 'Flickering Lights (Blinkende lygter)', 2000, 'Action|Comedy|Crime'),
 
@@ -8649,7 +8649,7 @@ VALUES
 
 (6302, 'Beginning of the End', 1957, 'Sci-Fi'),
 
-(6303, '"Andromeda Strain, The', 1971, 'Mystery|Sci-Fi'),
+(6303, 'Andromeda Strain, The', 1971, 'Mystery|Sci-Fi'),
 
 (6305, 'Fahrenheit 451', 1966, 'Drama|Sci-Fi'),
 
@@ -8665,9 +8665,9 @@ VALUES
 
 (6315, 'Wildcats', 1986, 'Comedy'),
 
-(6316, '"Wiz, The', 1978, 'Adventure|Children|Comedy|Fantasy|Musical'),
+(6316, 'Wiz, The', 1978, 'Adventure|Children|Comedy|Fantasy|Musical'),
 
-(6319, '"My Father the Hero (Mon père, ce héros.)', 1991, 'Comedy|Drama'),
+(6319, 'My Father the Hero (Mon père, ce héros.)', 1991, 'Comedy|Drama'),
 
 (6320, 'Scenes from a Mall', 1991, 'Comedy'),
 
@@ -8677,7 +8677,7 @@ VALUES
 
 (6324, 'It Runs in the Family', 2003, 'Comedy|Drama'),
 
-(6327, '"Decade Under the Influence, A', 2003, 'Documentary'),
+(6327, 'Decade Under the Influence, A', 2003, 'Documentary'),
 
 (6329, 'Manic', 2001, 'Drama'),
 
@@ -8685,13 +8685,13 @@ VALUES
 
 (6331, 'Spellbound', 2002, 'Documentary'),
 
-(6332, '"Lizzie McGuire Movie, The', 2003, 'Children|Comedy|Romance'),
+(6332, 'Lizzie McGuire Movie, The', 2003, 'Children|Comedy|Romance'),
 
 (6333, 'X2: X-Men United', 2003, 'Action|Adventure|Sci-Fi|Thriller'),
 
 (6334, 'Blue Car', 2002, 'Drama'),
 
-(6335, '"Dancer Upstairs, The', 2002, 'Crime|Drama|Thriller'),
+(6335, 'Dancer Upstairs, The', 2002, 'Crime|Drama|Thriller'),
 
 (6336, 'Marooned in Iraq (Gomgashtei dar Aragh)', 2002, 'Drama'),
 
@@ -8699,15 +8699,15 @@ VALUES
 
 (6338, 'Daddy Day Care', 2003, 'Children|Comedy'),
 
-(6339, '"Man on the Train (Homme du train, L‘)', 2002, 'Comedy|Drama'),
+(6339, 'Man on the Train (Homme du train, L‘)', 2002, 'Comedy|Drama'),
 
-(6341, '"Shape of Things, The', 2003, 'Drama'),
+(6341, 'Shape of Things, The', 2003, 'Drama'),
 
-(6342, '"Trip, The', 2002, 'Comedy|Drama|Romance'),
+(6342, 'Trip, The', 2002, 'Comedy|Drama|Romance'),
 
 (6344, '101 Reykjavik (101 Reykjavík)', 2000, 'Comedy|Drama|Romance'),
 
-(6345, '"Chorus Line, A', 1985, 'Comedy|Drama|Musical'),
+(6345, 'Chorus Line, A', 1985, 'Comedy|Drama|Musical'),
 
 (6347, 'Beat Street', 1984, 'Drama|Musical'),
 
@@ -8721,19 +8721,19 @@ VALUES
 
 (6358, 'Kiss Me Kate', 1953, 'Comedy|Musical|Romance'),
 
-(6365, '"Matrix Reloaded, The', 2003, 'Action|Adventure|Sci-Fi|Thriller|IMAX'),
+(6365, 'Matrix Reloaded, The', 2003, 'Action|Adventure|Sci-Fi|Thriller|IMAX'),
 
 (6367, 'Down with Love', 2003, 'Comedy|Romance'),
 
 (6368, 'Cinemania', 2002, 'Documentary'),
 
-(6370, '"Spanish Apartment, The (L‘auberge espagnole)', 2002, 'Comedy|Drama|Romance'),
+(6370, 'Spanish Apartment, The (L‘auberge espagnole)', 2002, 'Comedy|Drama|Romance'),
 
 (6371, 'Pokémon Heroes', 2003, 'Animation|Children'),
 
 (6373, 'Bruce Almighty', 2003, 'Comedy|Drama|Fantasy|Romance'),
 
-(6374, '"In-Laws, The', 2003, 'Comedy'),
+(6374, 'In-Laws, The', 2003, 'Comedy'),
 
 (6375, 'Gigantic (A Tale of Two Johns)', 2002, 'Documentary'),
 
@@ -8741,7 +8741,7 @@ VALUES
 
 (6377, 'Finding Nemo', 2003, 'Adventure|Animation|Children|Comedy'),
 
-(6378, '"Italian Job, The', 2003, 'Action|Crime'),
+(6378, 'Italian Job, The', 2003, 'Action|Crime'),
 
 (6379, 'Wrong Turn', 2003, 'Horror|Thriller'),
 
@@ -8749,7 +8749,7 @@ VALUES
 
 (6382, 'Together (Han ni Zai Yiki)', 2002, 'Drama'),
 
-(6383, '"2 Fast 2 Furious (Fast and the Furious 2, The)', 2003, 'Action|Crime|Thriller'),
+(6383, '2 Fast 2 Furious (Fast and the Furious 2, The)', 2003, 'Action|Crime|Thriller'),
 
 (6385, 'Whale Rider', 2002, 'Drama'),
 
@@ -8759,7 +8759,7 @@ VALUES
 
 (6390, 'Silk Stockings', 1957, 'Musical'),
 
-(6395, '"Crazies, The (a.k.a. Code Name: Trixie)', 1973, 'Action|Drama|Horror|Sci-Fi|Thriller'),
+(6395, 'Crazies, The (a.k.a. Code Name: Trixie)', 1973, 'Action|Drama|Horror|Sci-Fi|Thriller'),
 
 (6400, 'Murder on a Sunday Morning (Un coupable idéal)', 2001, 'Documentary'),
 
@@ -8767,7 +8767,7 @@ VALUES
 
 (6405, 'Treasure Island', 1950, 'Adventure|Children'),
 
-(6407, '"Walk, Don‘t Run', 1966, 'Comedy|Romance'),
+(6407, 'Walk, Don‘t Run', 1966, 'Comedy|Romance'),
 
 (6408, 'Animals are Beautiful People', 1974, 'Comedy|Documentary'),
 
@@ -8783,17 +8783,17 @@ VALUES
 
 (6424, 'Oscar', 1991, 'Comedy|Crime|Mystery|Romance'),
 
-(6425, '"6th Man, The (Sixth Man, The)', 1997, 'Comedy'),
+(6425, '6th Man, The (Sixth Man, The)', 1997, 'Comedy'),
 
-(6427, '"Railway Children, The', 1970, 'Children|Drama'),
+(6427, 'Railway Children, The', 1970, 'Children|Drama'),
 
 (6428, 'Two Mules for Sister Sara', 1970, 'Comedy|War|Western'),
 
 (6429, 'Winchester ‘73', 1950, 'Western'),
 
-(6433, '"Man with the Movie Camera, The (Chelovek s kino-apparatom)', 1929, 'Documentary'),
+(6433, 'Man with the Movie Camera, The (Chelovek s kino-apparatom)', 1929, 'Documentary'),
 
-(6434, '"Objective, Burma!', 1945, 'War'),
+(6434, 'Objective, Burma!', 1945, 'War'),
 
 (6436, 'This Boy‘s Life', 1993, 'Drama'),
 
@@ -8801,19 +8801,19 @@ VALUES
 
 (6442, 'Belle époque', 1992, 'Comedy|Romance'),
 
-(6448, '"Flight of the Phoenix, The', 1965, 'Action|Adventure|Drama'),
+(6448, 'Flight of the Phoenix, The', 1965, 'Action|Adventure|Drama'),
 
 (6449, 'From the Terrace', 1960, 'Drama'),
 
-(6452, '"Long, Hot Summer, The', 1958, 'Drama'),
+(6452, 'Long, Hot Summer, The', 1958, 'Drama'),
 
 (6453, 'Man of Aran', 1934, 'Documentary'),
 
 (6454, 'Music Box', 1989, 'Drama'),
 
-(6460, '"Trial, The (Procès, Le)', 1962, 'Drama'),
+(6460, 'Trial, The (Procès, Le)', 1962, 'Drama'),
 
-(6461, '"Unforgiven, The', 1960, 'Drama|Western'),
+(6461, 'Unforgiven, The', 1960, 'Drama|Western'),
 
 (6464, 'Good Burger', 1997, 'Children|Comedy'),
 
@@ -8823,7 +8823,7 @@ VALUES
 
 (6476, 'Shattered', 1991, 'Mystery|Thriller'),
 
-(6477, '"Song of Bernadette, The', 1943, 'Drama'),
+(6477, 'Song of Bernadette, The', 1943, 'Drama'),
 
 (6480, 'Thoroughly Modern Millie', 1967, 'Comedy|Musical'),
 
@@ -8843,7 +8843,7 @@ VALUES
 
 (6509, 'Ali: Fear Eats the Soul (Angst essen Seele auf)', 1974, 'Drama|Romance'),
 
-(6510, '"Bodies, Rest & Motion', 1993, 'Drama|Romance'),
+(6510, 'Bodies, Rest & Motion', 1993, 'Drama|Romance'),
 
 (6514, 'Ring of Terror', 1962, 'Horror'),
 
@@ -8851,7 +8851,7 @@ VALUES
 
 (6516, 'Anastasia', 1956, 'Drama'),
 
-(6517, '"Babe, The', 1992, 'Drama'),
+(6517, 'Babe, The', 1992, 'Drama'),
 
 (6523, 'Mr. Baseball', 1992, 'Comedy|Romance'),
 
@@ -8859,13 +8859,13 @@ VALUES
 
 (6528, 'Start the Revolution Without Me', 1970, 'Comedy'),
 
-(6530, '"Tenant, The (Locataire, Le)', 1976, 'Drama|Horror|Mystery|Thriller'),
+(6530, 'Tenant, The (Locataire, Le)', 1976, 'Drama|Horror|Mystery|Thriller'),
 
-(6533, '"What‘s Up, Doc?', 1972, 'Comedy'),
+(6533, 'What‘s Up, Doc?', 1972, 'Comedy'),
 
 (6534, 'Hulk', 2003, 'Action|Adventure|Sci-Fi'),
 
-(6535, '"Legally Blonde 2: Red, White & Blonde', 2003, 'Comedy'),
+(6535, 'Legally Blonde 2: Red, White & Blonde', 2003, 'Comedy'),
 
 (6536, 'Sinbad: Legend of the Seven Seas', 2003, 'Adventure|Animation|Children|Fantasy'),
 
@@ -8875,9 +8875,9 @@ VALUES
 
 (6539, 'Pirates of the Caribbean: The Curse of the Black Pearl', 2003, 'Action|Adventure|Comedy|Fantasy'),
 
-(6541, '"League of Extraordinary Gentlemen, The (a.k.a. LXG)', 2003, 'Action|Fantasy|Sci-Fi'),
+(6541, 'League of Extraordinary Gentlemen, The (a.k.a. LXG)', 2003, 'Action|Fantasy|Sci-Fi'),
 
-(6542, '"Cuckoo, The (Kukushka)', 2002, 'Comedy|Drama|War'),
+(6542, 'Cuckoo, The (Kukushka)', 2002, 'Comedy|Drama|War'),
 
 (6545, 'I Capture the Castle', 2003, 'Drama|Romance'),
 
@@ -8889,11 +8889,11 @@ VALUES
 
 (6550, 'Johnny English', 2003, 'Action|Comedy|Thriller'),
 
-(6551, '"Anarchist Cookbook, The', 2002, 'Comedy|Romance'),
+(6551, 'Anarchist Cookbook, The', 2002, 'Comedy|Romance'),
 
 (6552, 'Dirty Pretty Things', 2002, 'Crime|Drama|Thriller'),
 
-(6553, '"Embalmer, The (Imbalsamatore, L‘)', 2002, 'Drama'),
+(6553, 'Embalmer, The (Imbalsamatore, L‘)', 2002, 'Drama'),
 
 (6554, 'Garage Days', 2002, 'Comedy|Musical'),
 
@@ -8905,7 +8905,7 @@ VALUES
 
 (6560, 'Loose Cannons', 1990, 'Action|Comedy'),
 
-(6561, '"Mouse That Roared, The', 1959, 'Comedy|War'),
+(6561, 'Mouse That Roared, The', 1959, 'Comedy|War'),
 
 (6563, 'Masked & Anonymous', 2003, 'Comedy|Drama'),
 
@@ -8919,7 +8919,7 @@ VALUES
 
 (6568, 'Camp', 2003, 'Comedy|Musical'),
 
-(6571, '"Mondays in the Sun (Lunes al sol, Los)', 2002, 'Drama'),
+(6571, 'Mondays in the Sun (Lunes al sol, Los)', 2002, 'Drama'),
 
 (6572, 'Scorched', 2003, 'Comedy|Crime'),
 
@@ -8929,17 +8929,17 @@ VALUES
 
 (6577, 'Kickboxer 2: The Road Back', 1991, 'Action|Drama'),
 
-(6578, '"Kiss Me, Stupid', 1964, 'Comedy'),
+(6578, 'Kiss Me, Stupid', 1964, 'Comedy'),
 
-(6579, '"One, Two, Three', 1961, 'Comedy'),
+(6579, 'One, Two, Three', 1961, 'Comedy'),
 
-(6581, '"Private Life of Sherlock Holmes, The', 1970, 'Comedy|Drama|Mystery'),
+(6581, 'Private Life of Sherlock Holmes, The', 1970, 'Comedy|Drama|Mystery'),
 
 (6582, 'Remo Williams: The Adventure Begins', 1985, 'Action|Comedy|Crime|Thriller'),
 
-(6583, '"Blood of Heroes, The (Salute of the Jugger, The)', 1989, 'Action|Sci-Fi'),
+(6583, 'Blood of Heroes, The (Salute of the Jugger, The)', 1989, 'Action|Sci-Fi'),
 
-(6584, '"What‘s Up, Tiger Lily?', 1966, 'Adventure|Comedy|Crime|Thriller'),
+(6584, 'What‘s Up, Tiger Lily?', 1966, 'Adventure|Comedy|Crime|Thriller'),
 
 (6586, 'American Wedding (American Pie 3)', 2003, 'Comedy'),
 
@@ -8947,25 +8947,25 @@ VALUES
 
 (6588, 'And Now... Ladies and Gentlemen...', 2002, 'Romance|Thriller'),
 
-(6591, '"Magdalene Sisters, The', 2002, 'Drama'),
+(6591, 'Magdalene Sisters, The', 2002, 'Drama'),
 
-(6592, '"Secret Lives of Dentists, The', 2002, 'Drama'),
+(6592, 'Secret Lives of Dentists, The', 2002, 'Drama'),
 
 (6593, 'Freaky Friday', 2003, 'Children|Comedy|Fantasy'),
 
 (6595, 'S.W.A.T.', 2003, 'Action|Thriller'),
 
-(6596, '"Divorce, Le', 2003, 'Comedy|Drama|Romance'),
+(6596, 'Divorce, Le', 2003, 'Comedy|Drama|Romance'),
 
-(6597, '"Princess Blade, The (Shura Yukihime)', 2001, 'Action|Sci-Fi'),
+(6597, 'Princess Blade, The (Shura Yukihime)', 2001, 'Action|Sci-Fi'),
 
 (6598, 'Step Into Liquid', 2002, 'Documentary'),
 
-(6603, '"Double Life, A', 1947, 'Crime|Drama|Film-Noir'),
+(6603, 'Double Life, A', 1947, 'Crime|Drama|Film-Noir'),
 
 (6604, 'Hawks and Sparrows (Uccellacci e Uccellini)', 1966, 'Comedy'),
 
-(6609, '"Gospel According to St. Matthew, The (Vangelo secondo Matteo, Il)', 1964, 'Drama'),
+(6609, 'Gospel According to St. Matthew, The (Vangelo secondo Matteo, Il)', 1964, 'Drama'),
 
 (6611, 'Umberto D.', 1952, 'Drama'),
 
@@ -8995,7 +8995,7 @@ VALUES
 
 (6631, 'Man‘s Best Friend', 1993, 'Horror|Sci-Fi|Thriller'),
 
-(6636, '"Sure Thing, The', 1985, 'Comedy|Romance'),
+(6636, 'Sure Thing, The', 1985, 'Comedy|Romance'),
 
 (6638, 'Valley Girl', 1983, 'Comedy|Romance'),
 
@@ -9003,7 +9003,7 @@ VALUES
 
 (6643, 'Tokyo Story (Tôkyô monogatari)', 1953, 'Drama'),
 
-(6644, '"Green Ray, The (Rayon vert, Le)', 1986, 'Drama|Romance'),
+(6644, 'Green Ray, The (Rayon vert, Le)', 1986, 'Drama|Romance'),
 
 (6645, 'THX 1138', 1971, 'Action|Adventure|Drama|Sci-Fi'),
 
@@ -9017,41 +9017,41 @@ VALUES
 
 (6659, 'Tremors', 1990, 'Comedy|Horror|Sci-Fi'),
 
-(6660, '"Red Shoes, The', 1948, 'Drama|Fantasy|Musical|Romance'),
+(6660, 'Red Shoes, The', 1948, 'Drama|Fantasy|Musical|Romance'),
 
-(6662, '"Pink Panther, The', 1963, 'Comedy|Crime'),
+(6662, 'Pink Panther, The', 1963, 'Comedy|Crime'),
 
-(6663, '"Pink Panther Strikes Again, The', 1976, 'Comedy|Crime'),
+(6663, 'Pink Panther Strikes Again, The', 1976, 'Comedy|Crime'),
 
 (6664, 'Commando', 1985, 'Action|Adventure'),
 
 (6665, 'Dracula', 1979, 'Horror|Romance'),
 
-(6666, '"Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le)', 1972, 'Comedy|Drama|Fantasy'),
+(6666, 'Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le)', 1972, 'Comedy|Drama|Fantasy'),
 
 (6667, 'Waco: The Rules of Engagement', 1997, 'Documentary'),
 
-(6668, '"Road Home, The (Wo de fu qin mu qin)', 1999, 'Drama|Romance'),
+(6668, 'Road Home, The (Wo de fu qin mu qin)', 1999, 'Drama|Romance'),
 
 (6669, 'Ikiru', 1952, 'Drama'),
 
 (6670, 'Comic Book Villains', 2002, 'Comedy'),
 
-(6671, '"Angel at My Table, An', 1990, 'Drama'),
+(6671, 'Angel at My Table, An', 1990, 'Drama'),
 
-(6678, '"Handmaid‘s Tale, The', 1990, 'Drama|Sci-Fi'),
+(6678, 'Handmaid‘s Tale, The', 1990, 'Drama|Sci-Fi'),
 
 (6679, 'Revolution OS', 2001, 'Documentary'),
 
 (6684, 'Death in Venice (Morte a Venezia)', 1971, 'Drama|Romance'),
 
-(6686, '"Medallion, The', 2003, 'Action|Comedy|Crime|Fantasy'),
+(6686, 'Medallion, The', 2003, 'Action|Comedy|Crime|Fantasy'),
 
 (6687, 'My Boss‘s Daughter', 2003, 'Comedy|Romance'),
 
 (6688, 'Autumn Spring (Babí léto)', 2001, 'Comedy|Drama'),
 
-(6689, '"Battle of Shaker Heights, The', 2003, 'Comedy|Drama|Romance'),
+(6689, 'Battle of Shaker Heights, The', 2003, 'Comedy|Drama|Romance'),
 
 (6691, 'Dust', 2001, 'Drama|Western'),
 
@@ -9097,7 +9097,7 @@ VALUES
 
 (6731, 'Day of the Dead', 1985, 'Horror|Sci-Fi|Thriller'),
 
-(6732, '"Hello, Dolly!', 1969, 'Comedy|Musical|Romance'),
+(6732, 'Hello, Dolly!', 1969, 'Comedy|Musical|Romance'),
 
 (6734, 'Memoirs of an Invisible Man', 1992, 'Comedy|Romance|Sci-Fi|Thriller'),
 
@@ -9105,13 +9105,13 @@ VALUES
 
 (6746, 'Squirm', 1976, 'Horror|Romance'),
 
-(6748, '"Brood, The', 1979, 'Horror'),
+(6748, 'Brood, The', 1979, 'Horror'),
 
 (6750, 'Anything Else', 2003, 'Comedy|Drama|Romance'),
 
 (6751, 'Cold Creek Manor', 2003, 'Drama|Thriller'),
 
-(6752, '"Fighting Temptations, The', 2003, 'Drama'),
+(6752, 'Fighting Temptations, The', 2003, 'Drama'),
 
 (6753, 'Secondhand Lions', 2003, 'Children|Comedy|Drama'),
 
@@ -9123,7 +9123,7 @@ VALUES
 
 (6763, 'Duplex', 2003, 'Comedy|Crime'),
 
-(6764, '"Rundown, The', 2003, 'Action|Adventure|Comedy'),
+(6764, 'Rundown, The', 2003, 'Action|Adventure|Comedy'),
 
 (6765, 'Under the Tuscan Sun', 2003, 'Comedy|Drama|Romance'),
 
@@ -9135,7 +9135,7 @@ VALUES
 
 (6772, 'To Be and to Have (Être et avoir)', 2002, 'Documentary'),
 
-(6773, '"Triplets of Belleville, The (Les triplettes de Belleville)', 2003, 'Animation|Comedy|Fantasy'),
+(6773, 'Triplets of Belleville, The (Les triplettes de Belleville)', 2003, 'Animation|Comedy|Fantasy'),
 
 (6774, 'Videodrome', 1983, 'Fantasy|Horror|Sci-Fi|Thriller'),
 
@@ -9145,11 +9145,11 @@ VALUES
 
 (6777, 'Judgment at Nuremberg', 1961, 'Drama'),
 
-(6780, '"Brief History of Time, A', 1991, 'Documentary'),
+(6780, 'Brief History of Time, A', 1991, 'Documentary'),
 
 (6782, 'Leningrad Cowboys Go America', 1989, 'Comedy|Musical'),
 
-(6783, '"Rules of the Game, The (La règle du jeu)', 1939, 'Comedy|Drama'),
+(6783, 'Rules of the Game, The (La règle du jeu)', 1939, 'Comedy|Drama'),
 
 (6785, 'Seven Brides for Seven Brothers', 1954, 'Comedy|Musical|Romance|Western'),
 
@@ -9159,7 +9159,7 @@ VALUES
 
 (6788, 'Angie', 1994, 'Comedy|Drama|Romance'),
 
-(6789, '"Apartment, The (Appartement, L‘)', 1996, 'Drama|Mystery|Romance'),
+(6789, 'Apartment, The (Appartement, L‘)', 1996, 'Drama|Mystery|Romance'),
 
 (6790, 'Avalon', 2001, 'Drama|Fantasy|Sci-Fi'),
 
@@ -9191,13 +9191,13 @@ VALUES
 
 (6811, 'PCU', 1994, 'Comedy'),
 
-(6812, '"Rookie, The', 1990, 'Action|Comedy|Thriller'),
+(6812, 'Rookie, The', 1990, 'Action|Comedy|Thriller'),
 
 (6814, 'City Heat', 1984, 'Action|Comedy'),
 
 (6816, 'Three O‘Clock High', 1987, 'Comedy'),
 
-(6817, '"White Hunter, Black Heart', 1990, 'Adventure|Drama'),
+(6817, 'White Hunter, Black Heart', 1990, 'Adventure|Drama'),
 
 (6818, 'Come and See (Idi i smotri)', 1985, 'Drama|War'),
 
@@ -9211,7 +9211,7 @@ VALUES
 
 (6835, 'Alien Contamination', 1980, 'Action|Horror|Sci-Fi'),
 
-(6836, '"Amazing Transparent Man, The', 1960, 'Sci-Fi'),
+(6836, 'Amazing Transparent Man, The', 1960, 'Sci-Fi'),
 
 (6837, 'Love Affair', 1939, 'Comedy|Drama|Romance'),
 
@@ -9219,7 +9219,7 @@ VALUES
 
 (6850, 'Leap of Faith', 1992, 'Comedy|Drama'),
 
-(6851, '"Gas, Food, Lodging', 1992, 'Drama|Romance'),
+(6851, 'Gas, Food, Lodging', 1992, 'Drama|Romance'),
 
 (6852, 'In Cold Blood', 1967, 'Crime|Drama'),
 
@@ -9237,7 +9237,7 @@ VALUES
 
 (6863, 'School of Rock', 2003, 'Comedy|Musical'),
 
-(6867, '"Station Agent, The', 2003, 'Comedy|Drama'),
+(6867, 'Station Agent, The', 2003, 'Comedy|Drama'),
 
 (6868, 'Wonderland', 2003, 'Crime|Drama|Mystery|Thriller'),
 
@@ -9245,7 +9245,7 @@ VALUES
 
 (6870, 'Mystic River', 2003, 'Crime|Drama|Mystery'),
 
-(6872, '"House of the Dead, The', 2003, 'Action|Horror'),
+(6872, 'House of the Dead, The', 2003, 'Action|Horror'),
 
 (6873, 'Intolerable Cruelty', 2003, 'Comedy|Romance'),
 
@@ -9253,7 +9253,7 @@ VALUES
 
 (6879, 'Runaway Jury', 2003, 'Drama|Thriller'),
 
-(6880, '"Texas Chainsaw Massacre, The', 2003, 'Horror'),
+(6880, 'Texas Chainsaw Massacre, The', 2003, 'Horror'),
 
 (6881, 'Pieces of April', 2003, 'Comedy|Drama'),
 
@@ -9275,7 +9275,7 @@ VALUES
 
 (6890, 'Elephant', 2003, 'Drama'),
 
-(6893, '"Italian Job, The', 1969, 'Action|Comedy|Crime'),
+(6893, 'Italian Job, The', 1969, 'Action|Comedy|Crime'),
 
 (6898, 'Sweet Sixteen', 2002, 'Drama'),
 
@@ -9283,23 +9283,23 @@ VALUES
 
 (6902, 'Interstate 60', 2002, 'Adventure|Comedy|Drama|Fantasy|Mystery|Sci-Fi|Thriller'),
 
-(6909, '"Eye, The (Gin gwai) (Jian gui)', 2002, 'Thriller'),
+(6909, 'Eye, The (Gin gwai) (Jian gui)', 2002, 'Thriller'),
 
-(6911, '"Jolson Story, The', 1946, 'Musical'),
+(6911, 'Jolson Story, The', 1946, 'Musical'),
 
 (6912, 'You‘ll Never Get Rich', 1941, 'Comedy|Musical|Romance'),
 
-(6918, '"Unvanquished, The (Aparajito)', 1957, 'Drama'),
+(6918, 'Unvanquished, The (Aparajito)', 1957, 'Drama'),
 
-(6920, '"Cercle Rouge, Le (Red Circle, The)', 1970, 'Crime|Thriller'),
+(6920, 'Cercle Rouge, Le (Red Circle, The)', 1970, 'Crime|Thriller'),
 
-(6927, '"Human Stain, The', 2003, 'Drama|Romance|Thriller'),
+(6927, 'Human Stain, The', 2003, 'Drama|Romance|Thriller'),
 
 (6932, 'Shattered Glass', 2003, 'Crime|Drama'),
 
-(6934, '"Matrix Revolutions, The', 2003, 'Action|Adventure|Sci-Fi|Thriller|IMAX'),
+(6934, 'Matrix Revolutions, The', 2003, 'Action|Adventure|Sci-Fi|Thriller|IMAX'),
 
-(6935, '"Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup)', 2003, 'Documentary'),
+(6935, 'Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup)', 2003, 'Documentary'),
 
 (6936, 'Elf', 2003, 'Children|Comedy|Fantasy'),
 
@@ -9319,21 +9319,21 @@ VALUES
 
 (6948, 'Tupac: Resurrection', 2003, 'Documentary'),
 
-(6949, '"Big Empty, The', 2003, 'Comedy|Mystery|Sci-Fi'),
+(6949, 'Big Empty, The', 2003, 'Comedy|Mystery|Sci-Fi'),
 
-(6950, '"Missing, The', 2003, 'Adventure|Thriller|Western'),
+(6950, 'Missing, The', 2003, 'Adventure|Thriller|Western'),
 
-(6951, '"Cat in the Hat, The', 2003, 'Children|Comedy'),
+(6951, 'Cat in the Hat, The', 2003, 'Children|Comedy'),
 
 (6952, 'Gothika', 2003, 'Horror|Thriller'),
 
 (6953, '21 Grams', 2003, 'Crime|Drama|Mystery|Romance|Thriller'),
 
-(6954, '"Barbarian Invasions, The (Les invasions barbares)', 2003, 'Comedy|Crime|Drama|Mystery|Romance'),
+(6954, 'Barbarian Invasions, The (Les invasions barbares)', 2003, 'Comedy|Crime|Drama|Mystery|Romance'),
 
 (6957, 'Bad Santa', 2003, 'Comedy|Crime'),
 
-(6958, '"Haunted Mansion, The', 2003, 'Children|Comedy|Fantasy|Horror'),
+(6958, 'Haunted Mansion, The', 2003, 'Children|Comedy|Fantasy|Horror'),
 
 (6959, 'Timeline', 2003, 'Action|Adventure|Sci-Fi'),
 
@@ -9349,7 +9349,7 @@ VALUES
 
 (6967, 'Dead of Night', 1945, 'Horror|Mystery'),
 
-(6969, '"Dernier Combat, Le (Last Battle, The)', 1983, 'Drama|Sci-Fi'),
+(6969, 'Dernier Combat, Le (Last Battle, The)', 1983, 'Drama|Sci-Fi'),
 
 (6970, 'Desk Set', 1957, 'Comedy|Romance'),
 
@@ -9357,7 +9357,7 @@ VALUES
 
 (6973, 'Final Analysis', 1992, 'Drama|Romance|Thriller'),
 
-(6974, '"Freshman, The', 1990, 'Comedy|Crime'),
+(6974, 'Freshman, The', 1990, 'Comedy|Crime'),
 
 (6975, 'Funny Games', 1997, 'Drama|Horror|Thriller'),
 
@@ -9365,19 +9365,19 @@ VALUES
 
 (6979, 'WarGames', 1983, 'Drama|Sci-Fi|Thriller'),
 
-(6981, '"Ordet (Word, The)', 1955, 'Drama'),
+(6981, 'Ordet (Word, The)', 1955, 'Drama'),
 
 (6982, 'Forbidden Games (Jeux interdits)', 1952, 'Drama|War'),
 
 (6983, 'Jane Eyre', 1944, 'Drama|Romance'),
 
-(6984, '"Tale of Two Cities, A', 1935, 'Drama'),
+(6984, 'Tale of Two Cities, A', 1935, 'Drama'),
 
-(6985, '"Passion of Joan of Arc, The (Passion de Jeanne d‘Arc, La)', 1928, 'Drama'),
+(6985, 'Passion of Joan of Arc, The (Passion de Jeanne d‘Arc, La)', 1928, 'Drama'),
 
 (6986, 'Ben-Hur: A Tale of the Christ', 1925, 'Adventure|Drama|Romance'),
 
-(6987, '"Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das)', 1920, 'Crime|Fantasy|Horror'),
+(6987, 'Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das)', 1920, 'Crime|Fantasy|Horror'),
 
 (6989, 'Gorky Park', 1983, 'Crime|Drama|Thriller'),
 
@@ -9387,7 +9387,7 @@ VALUES
 
 (6993, 'Hannah and Her Sisters', 1986, 'Comedy|Drama|Romance'),
 
-(6994, '"Hard Way, The', 1991, 'Action|Comedy'),
+(6994, 'Hard Way, The', 1991, 'Action|Comedy'),
 
 (6996, 'Highlander II: The Quickening', 1991, 'Action|Sci-Fi'),
 
@@ -9405,17 +9405,17 @@ VALUES
 
 (7005, 'King Ralph', 1991, 'Comedy'),
 
-(7007, '"Last Boy Scout, The', 1991, 'Action|Comedy|Crime|Drama|Thriller'),
+(7007, 'Last Boy Scout, The', 1991, 'Action|Comedy|Crime|Drama|Thriller'),
 
 (7008, 'Last Tango in Paris (Ultimo tango a Parigi)', 1972, 'Drama|Romance'),
 
 (7009, 'Lorenzo‘s Oil', 1992, 'Drama'),
 
-(7010, '"Lover, The (Amant, L‘)', 1992, 'Drama|Romance'),
+(7010, 'Lover, The (Amant, L‘)', 1992, 'Drama|Romance'),
 
 (7012, 'Mr. Destiny', 1990, 'Comedy|Fantasy'),
 
-(7013, '"Night of the Hunter, The', 1955, 'Drama|Film-Noir|Thriller'),
+(7013, 'Night of the Hunter, The', 1955, 'Drama|Film-Noir|Thriller'),
 
 (7015, 'Only the Lonely', 1991, 'Comedy|Romance'),
 
@@ -9431,11 +9431,11 @@ VALUES
 
 (7022, 'Battle Royale (Batoru rowaiaru)', 2000, 'Action|Drama|Horror|Thriller'),
 
-(7023, '"Wedding Banquet, The (Xi yan)', 1993, 'Comedy|Drama|Romance'),
+(7023, 'Wedding Banquet, The (Xi yan)', 1993, 'Comedy|Drama|Romance'),
 
-(7024, '"Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma)', 1976, 'Drama'),
+(7024, 'Salo, or The 120 Days of Sodom (Salò o le 120 giornate di Sodoma)', 1976, 'Drama'),
 
-(7025, '"Midnight Clear, A', 1992, 'Drama|War'),
+(7025, 'Midnight Clear, A', 1992, 'Drama|War'),
 
 (7026, 'Summer School', 1987, 'Comedy'),
 
@@ -9445,11 +9445,11 @@ VALUES
 
 (7030, 'Radio Flyer', 1992, 'Drama'),
 
-(7031, '"Real McCoy, The', 1993, 'Action|Crime|Drama|Thriller'),
+(7031, 'Real McCoy, The', 1993, 'Action|Crime|Drama|Thriller'),
 
 (7032, 'Revenge', 1990, 'Drama|Romance|Thriller'),
 
-(7033, '"Secret of My Succe$s, The (a.k.a. The Secret of My Success)', 1987, 'Comedy|Romance'),
+(7033, 'Secret of My Succe$s, The (a.k.a. The Secret of My Success)', 1987, 'Comedy|Romance'),
 
 (7034, 'Show Me Love (Fucking Åmål)', 1998, 'Drama|Romance'),
 
@@ -9465,9 +9465,9 @@ VALUES
 
 (7044, 'Wild at Heart', 1990, 'Crime|Drama|Mystery|Romance|Thriller'),
 
-(7045, '"Witches, The', 1990, 'Children|Fantasy'),
+(7045, 'Witches, The', 1990, 'Children|Fantasy'),
 
-(7046, '"Witches of Eastwick, The', 1987, 'Comedy|Fantasy|Horror|Thriller'),
+(7046, 'Witches of Eastwick, The', 1987, 'Comedy|Fantasy|Horror|Thriller'),
 
 (7047, 'Year of the Dragon', 1985, 'Action|Crime|Drama'),
 
@@ -9477,7 +9477,7 @@ VALUES
 
 (7050, 'Follow the Fleet', 1936, 'Comedy|Musical|Romance'),
 
-(7051, '"What‘s New, Pussycat', 1965, 'Comedy'),
+(7051, 'What‘s New, Pussycat', 1965, 'Comedy'),
 
 (7052, 'Mary of Scotland', 1936, 'Drama'),
 
@@ -9487,9 +9487,9 @@ VALUES
 
 (7055, 'Swing Time', 1936, 'Comedy|Musical|Romance'),
 
-(7056, '"Public Enemy, The', 1931, 'Action|Crime|Drama'),
+(7056, 'Public Enemy, The', 1931, 'Action|Crime|Drama'),
 
-(7057, '"Midsummer Night‘s Dream, A', 1935, 'Comedy|Fantasy|Romance'),
+(7057, 'Midsummer Night‘s Dream, A', 1935, 'Comedy|Fantasy|Romance'),
 
 (7058, 'Life with Father', 1947, 'Comedy'),
 
@@ -9501,33 +9501,33 @@ VALUES
 
 (7062, 'Birdman of Alcatraz', 1962, 'Drama'),
 
-(7063, '"Aguirre: The Wrath of God (Aguirre, der Zorn Gottes)', 1972, 'Adventure|Drama'),
+(7063, 'Aguirre: The Wrath of God (Aguirre, der Zorn Gottes)', 1972, 'Adventure|Drama'),
 
 (7064, 'Beauty and the Beast (La belle et la bête)', 1946, 'Drama|Fantasy'),
 
-(7065, '"Birth of a Nation, The', 1915, 'Drama|War'),
+(7065, 'Birth of a Nation, The', 1915, 'Drama|War'),
 
 (7067, 'Juliet of the Spirits (Giulietta degli spiriti)', 1965, 'Comedy|Drama|Fantasy|Romance'),
 
-(7069, '"Macbeth (a.k.a. Tragedy of Macbeth, The)', 1971, 'Drama'),
+(7069, 'Macbeth (a.k.a. Tragedy of Macbeth, The)', 1971, 'Drama'),
 
 (7070, 'Red River', 1948, 'Action|Adventure|Western'),
 
-(7071, '"Woman Under the Influence, A', 1974, 'Drama'),
+(7071, 'Woman Under the Influence, A', 1974, 'Drama'),
 
 (7072, 'Stagecoach', 1939, 'Action|Drama|Romance|Western'),
 
-(7073, '"Shot in the Dark, A', 1964, 'Comedy|Crime|Mystery'),
+(7073, 'Shot in the Dark, A', 1964, 'Comedy|Crime|Mystery'),
 
-(7074, '"Navigator, The', 1924, 'Comedy'),
+(7074, 'Navigator, The', 1924, 'Comedy'),
 
-(7075, '"Court Jester, The', 1956, 'Adventure|Comedy|Musical'),
+(7075, 'Court Jester, The', 1956, 'Adventure|Comedy|Musical'),
 
 (7076, 'Bullitt', 1968, 'Action|Crime|Drama|Thriller'),
 
 (7078, 'Jezebel', 1938, 'Drama'),
 
-(7079, '"Hunchback of Notre Dame, The', 1939, 'Drama'),
+(7079, 'Hunchback of Notre Dame, The', 1939, 'Drama'),
 
 (7080, '42nd Street', 1933, 'Drama|Musical|Romance'),
 
@@ -9535,13 +9535,13 @@ VALUES
 
 (7083, 'Sweet Dreams', 1985, 'Drama'),
 
-(7084, '"Play It Again, Sam', 1972, 'Comedy|Romance'),
+(7084, 'Play It Again, Sam', 1972, 'Comedy|Romance'),
 
 (7085, 'Send Me No Flowers', 1964, 'Comedy|Romance'),
 
 (7086, 'Pygmalion', 1938, 'Comedy|Drama'),
 
-(7087, '"Passage to India, A', 1984, 'Adventure|Drama'),
+(7087, 'Passage to India, A', 1984, 'Adventure|Drama'),
 
 (7088, 'Black Orpheus (Orfeu Negro)', 1959, 'Drama|Romance'),
 
@@ -9553,7 +9553,7 @@ VALUES
 
 (7092, 'Anna Karenina', 1935, 'Drama|Romance'),
 
-(7093, '"Front Page, The', 1974, 'Comedy'),
+(7093, 'Front Page, The', 1974, 'Comedy'),
 
 (7096, 'Rivers and Tides', 2001, 'Documentary'),
 
@@ -9573,7 +9573,7 @@ VALUES
 
 (7109, 'Beyond the Clouds (Al di là delle nuvole)', 1996, 'Drama|Romance'),
 
-(7114, '"Collector, The', 1965, 'Drama|Horror|Thriller'),
+(7114, 'Collector, The', 1965, 'Drama|Horror|Thriller'),
 
 (7115, 'Deep Red (Profondo rosso)', 1975, 'Horror|Mystery|Thriller'),
 
@@ -9595,13 +9595,13 @@ VALUES
 
 (7127, 'Run', 1991, 'Action|Drama|Thriller'),
 
-(7131, '"Summer Place, A', 1959, 'Drama'),
+(7131, 'Summer Place, A', 1959, 'Drama'),
 
-(7132, '"Night at the Opera, A', 1935, 'Comedy|Musical|Romance'),
+(7132, 'Night at the Opera, A', 1935, 'Comedy|Musical|Romance'),
 
-(7134, '"Element of Crime, The (Forbrydelsens Element)', 1984, 'Drama|Thriller'),
+(7134, 'Element of Crime, The (Forbrydelsens Element)', 1984, 'Drama|Thriller'),
 
-(7137, '"Cooler, The', 2003, 'Comedy|Drama|Romance'),
+(7137, 'Cooler, The', 2003, 'Comedy|Drama|Romance'),
 
 (7139, 'In America', 2002, 'Drama|Romance'),
 
@@ -9609,7 +9609,7 @@ VALUES
 
 (7142, 'Honey', 2003, 'Drama|Romance'),
 
-(7143, '"Last Samurai, The', 2003, 'Action|Adventure|Drama|War'),
+(7143, 'Last Samurai, The', 2003, 'Action|Adventure|Drama|War'),
 
 (7147, 'Big Fish', 2003, 'Drama|Fantasy|Romance'),
 
@@ -9619,13 +9619,13 @@ VALUES
 
 (7151, 'Girl with a Pearl Earring', 2003, 'Drama|Romance'),
 
-(7153, '"Lord of the Rings: The Return of the King, The', 2003, 'Action|Adventure|Drama|Fantasy'),
+(7153, 'Lord of the Rings: The Return of the King, The', 2003, 'Action|Adventure|Drama|Fantasy'),
 
 (7154, 'Mona Lisa Smile', 2003, 'Drama|Romance'),
 
 (7155, 'Calendar Girls', 2003, 'Comedy'),
 
-(7156, '"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The', 2003, 'Documentary|War'),
+(7156, 'Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The', 2003, 'Documentary|War'),
 
 (7158, 'House of Sand and Fog', 2003, 'Drama'),
 
@@ -9639,7 +9639,7 @@ VALUES
 
 (7164, 'Peter Pan', 2003, 'Action|Adventure|Children|Fantasy'),
 
-(7165, '"Company, The', 2003, 'Drama|Musical'),
+(7165, 'Company, The', 2003, 'Drama|Musical'),
 
 (7167, 'Japanese Story', 2003, 'Drama'),
 
@@ -9655,7 +9655,7 @@ VALUES
 
 (7177, 'Osama', 2003, 'Drama'),
 
-(7178, '"Great Gatsby, The', 1974, 'Drama'),
+(7178, 'Great Gatsby, The', 1974, 'Drama'),
 
 (7179, 'Wuthering Heights', 1992, 'Drama|Romance'),
 
@@ -9669,17 +9669,17 @@ VALUES
 
 (7192, 'Only the Strong', 1993, 'Action'),
 
-(7193, '"Adventures of Ford Fairlane, The', 1990, 'Action|Comedy'),
+(7193, 'Adventures of Ford Fairlane, The', 1990, 'Action|Comedy'),
 
 (7202, 'Beyond Re-Animator', 2003, 'Horror'),
 
-(7205, '"Wind and the Lion, The', 1975, 'Adventure'),
+(7205, 'Wind and the Lion, The', 1975, 'Adventure'),
 
 (7206, 'Mon Oncle (My Uncle)', 1958, 'Comedy'),
 
 (7208, 'Dr. Jekyll and Mr. Hyde', 1941, 'Drama|Horror'),
 
-(7209, '"M. Hulot’s Holiday (Mr. Hulot‘s Holiday) (Vacances de Monsieur Hulot, Les)', 1953, 'Comedy'),
+(7209, 'M. Hulot’s Holiday (Mr. Hulot‘s Holiday) (Vacances de Monsieur Hulot, Les)', 1953, 'Comedy'),
 
 (7211, 'People Will Talk', 1951, 'Comedy|Romance'),
 
@@ -9691,7 +9691,7 @@ VALUES
 
 (7217, 'Dark Passage', 1947, 'Crime|Drama|Film-Noir|Romance|Thriller'),
 
-(7218, '"Ox-Bow Incident, The', 1943, 'Drama|Western'),
+(7218, 'Ox-Bow Incident, The', 1943, 'Drama|Western'),
 
 (7219, 'They Drive by Night', 1940, 'Drama'),
 
@@ -9703,11 +9703,11 @@ VALUES
 
 (7228, 'Cool World', 1992, 'Animation|Comedy|Fantasy'),
 
-(7234, '"Strada, La', 1954, 'Drama'),
+(7234, 'Strada, La', 1954, 'Drama'),
 
 (7235, 'Ichi the Killer (Koroshiya 1)', 2001, 'Action|Comedy|Crime|Drama|Horror|Thriller'),
 
-(7236, '"Boy and His Dog, A', 1975, 'Sci-Fi'),
+(7236, 'Boy and His Dog, A', 1975, 'Sci-Fi'),
 
 (7238, 'Ashes and Diamonds (Popiól i diament)', 1958, 'Drama|War'),
 
@@ -9717,7 +9717,7 @@ VALUES
 
 (7247, 'Chitty Chitty Bang Bang', 1968, 'Adventure|Children|Comedy|Fantasy|Musical'),
 
-(7248, '"Suriyothai (a.k.a. Legend of Suriyothai, The)', 2001, 'Action|Adventure|Drama|War'),
+(7248, 'Suriyothai (a.k.a. Legend of Suriyothai, The)', 2001, 'Action|Adventure|Drama|War'),
 
 (7251, 'Where the Day Takes You', 1992, 'Drama'),
 
@@ -9727,9 +9727,9 @@ VALUES
 
 (7256, 'Touching the Void', 2003, 'Adventure|Documentary'),
 
-(7257, '"Big Bounce, The', 2004, 'Comedy|Crime|Thriller'),
+(7257, 'Big Bounce, The', 2004, 'Comedy|Crime|Thriller'),
 
-(7258, '"Perfect Score, The', 2004, 'Comedy|Crime'),
+(7258, 'Perfect Score, The', 2004, 'Comedy|Crime'),
 
 (7259, 'You Got Served', 2004, 'Drama|Musical'),
 
@@ -9743,11 +9743,11 @@ VALUES
 
 (7264, 'An Amazing Couple', 2002, 'Comedy|Romance'),
 
-(7265, '"Dreamers, The', 2003, 'Drama'),
+(7265, 'Dreamers, The', 2003, 'Drama'),
 
-(7266, '"Lost Skeleton of Cadavra, The', 2002, 'Comedy|Horror|Sci-Fi'),
+(7266, 'Lost Skeleton of Cadavra, The', 2002, 'Comedy|Horror|Sci-Fi'),
 
-(7282, '"Hip Hop Witch, Da', 2000, 'Comedy|Horror|Thriller'),
+(7282, 'Hip Hop Witch, Da', 2000, 'Comedy|Horror|Thriller'),
 
 (7285, 'Thirteen', 2003, 'Drama'),
 
@@ -9763,7 +9763,7 @@ VALUES
 
 (7301, 'Diary of a Country Priest (Journal d‘un curé de campagne)', 1951, 'Drama'),
 
-(7302, '"Thief of Bagdad, The', 1924, 'Action|Adventure|Fantasy'),
+(7302, 'Thief of Bagdad, The', 1924, 'Action|Adventure|Fantasy'),
 
 (7303, 'The Diary of Anne Frank', 1959, 'Drama|War'),
 
@@ -9771,7 +9771,7 @@ VALUES
 
 (7305, 'Black Widow', 1987, 'Crime|Drama|Mystery|Thriller'),
 
-(7306, '"Herod‘s Law (Ley de Herodes, La)', 2000, 'Comedy|Crime|Mystery'),
+(7306, 'Herod‘s Law (Ley de Herodes, La)', 2000, 'Comedy|Crime|Mystery'),
 
 (7307, 'Flesh & Blood', 1985, 'Action|Adventure|Drama|War'),
 
@@ -9779,9 +9779,9 @@ VALUES
 
 (7310, 'Raw Deal', 1986, 'Action'),
 
-(7311, '"Goodbye, Mr. Chips', 1939, 'Drama|Romance'),
+(7311, 'Goodbye, Mr. Chips', 1939, 'Drama|Romance'),
 
-(7312, '"Follow Me, Boys!', 1966, 'Comedy|Drama'),
+(7312, 'Follow Me, Boys!', 1966, 'Comedy|Drama'),
 
 (7315, 'Against the Ropes', 2004, 'Comedy|Drama'),
 
@@ -9789,7 +9789,7 @@ VALUES
 
 (7317, 'EuroTrip', 2004, 'Adventure|Comedy'),
 
-(7318, '"Passion of the Christ, The', 2004, 'Drama'),
+(7318, 'Passion of the Christ, The', 2004, 'Drama'),
 
 (7319, 'Club Dread', 2004, 'Comedy|Horror'),
 
@@ -9797,31 +9797,31 @@ VALUES
 
 (7321, 'Twisted', 2004, 'Thriller'),
 
-(7323, '"Good bye, Lenin!', 2003, 'Comedy|Drama'),
+(7323, 'Good bye, Lenin!', 2003, 'Comedy|Drama'),
 
 (7324, 'Hidalgo', 2004, 'Adventure|Drama'),
 
 (7325, 'Starsky & Hutch', 2004, 'Action|Comedy|Crime|Thriller'),
 
-(7326, '"Reckoning, The', 2004, 'Crime|Drama'),
+(7326, 'Reckoning, The', 2004, 'Crime|Drama'),
 
 (7327, 'Persona', 1966, 'Drama'),
 
-(7328, '"Passion of Anna, The (Passion, En)', 1969, 'Drama'),
+(7328, 'Passion of Anna, The (Passion, En)', 1969, 'Drama'),
 
-(7333, '"Corbeau, Le (Raven, The)', 1943, 'Crime|Drama|Thriller'),
+(7333, 'Corbeau, Le (Raven, The)', 1943, 'Crime|Drama|Thriller'),
 
 (7335, 'Pickup on South Street', 1953, 'Film-Noir'),
 
-(7336, '"Damned, The (La Caduta degli dei)', 1969, 'Drama|War'),
+(7336, 'Damned, The (La Caduta degli dei)', 1969, 'Drama|War'),
 
 (7340, 'Just One of the Guys', 1985, 'Comedy'),
 
-(7344, '"Wrong Arm of the Law, The', 1963, 'Comedy|Crime'),
+(7344, 'Wrong Arm of the Law, The', 1963, 'Comedy|Crime'),
 
 (7345, 'Agent Cody Banks 2: Destination London', 2004, 'Action|Adventure|Children|Comedy'),
 
-(7346, '"Girl Next Door, The', 2004, 'Comedy|Romance'),
+(7346, 'Girl Next Door, The', 2004, 'Comedy|Romance'),
 
 (7347, 'Secret Window', 2004, 'Mystery|Thriller'),
 
@@ -9845,7 +9845,7 @@ VALUES
 
 (7366, 'Jersey Girl', 2004, 'Comedy|Drama|Romance'),
 
-(7367, '"Ladykillers, The', 2004, 'Comedy|Crime'),
+(7367, 'Ladykillers, The', 2004, 'Comedy|Crime'),
 
 (7368, 'Never Die Alone', 2004, 'Crime|Drama|Thriller'),
 
@@ -9857,21 +9857,21 @@ VALUES
 
 (7373, 'Hellboy', 2004, 'Action|Adventure|Fantasy|Horror'),
 
-(7375, '"Prince & Me, The', 2004, 'Comedy|Romance'),
+(7375, 'Prince & Me, The', 2004, 'Comedy|Romance'),
 
 (7376, 'Walking Tall', 2004, 'Action'),
 
-(7377, '"United States of Leland, The', 2003, 'Crime|Drama'),
+(7377, 'United States of Leland, The', 2003, 'Crime|Drama'),
 
 (7379, 'The Alamo', 2004, 'Drama|War|Western'),
 
 (7380, 'Ella Enchanted', 2004, 'Comedy|Fantasy|Romance'),
 
-(7381, '"Whole Ten Yards, The', 2004, 'Action|Comedy|Crime'),
+(7381, 'Whole Ten Yards, The', 2004, 'Action|Comedy|Crime'),
 
 (7382, 'I‘m Not Scared (Io non ho paura)', 2003, 'Drama|Mystery|Thriller'),
 
-(7386, '"Ten Commandments, The', 1956, 'Adventure|Drama'),
+(7386, 'Ten Commandments, The', 1956, 'Adventure|Drama'),
 
 (7387, 'Dawn of the Dead', 1978, 'Action|Drama|Horror'),
 
@@ -9891,7 +9891,7 @@ VALUES
 
 (7438, 'Kill Bill: Vol. 2', 2004, 'Action|Drama|Thriller'),
 
-(7439, '"Punisher, The', 2004, 'Action|Crime|Thriller'),
+(7439, 'Punisher, The', 2004, 'Action|Crime|Thriller'),
 
 (7440, 'Paper Clips', 2004, 'Documentary'),
 
@@ -9911,7 +9911,7 @@ VALUES
 
 (7454, 'Van Helsing', 2004, 'Action|Adventure|Fantasy|Horror'),
 
-(7455, '"Mudge Boy, The', 2003, 'Drama'),
+(7455, 'Mudge Boy, The', 2003, 'Drama'),
 
 (7457, 'Breakin‘ All the Rules', 2004, 'Comedy|Romance'),
 
@@ -9935,7 +9935,7 @@ VALUES
 
 (7492, 'Martin', 1977, 'Drama|Horror'),
 
-(7493, '"Three Faces of Eve, The', 1957, 'Drama'),
+(7493, 'Three Faces of Eve, The', 1957, 'Drama'),
 
 (7541, '100 Girls', 2000, 'Comedy|Romance'),
 
@@ -9959,11 +9959,11 @@ VALUES
 
 (7579, 'Pride and Prejudice', 1940, 'Comedy|Drama|Romance'),
 
-(7581, '"Fountainhead, The', 1949, 'Drama'),
+(7581, 'Fountainhead, The', 1949, 'Drama'),
 
 (7584, 'Woman of the Year', 1942, 'Comedy|Romance'),
 
-(7587, '"Samouraï, Le (Godson, The)', 1967, 'Crime|Drama|Thriller'),
+(7587, 'Samouraï, Le (Godson, The)', 1967, 'Crime|Drama|Thriller'),
 
 (7614, 'Oklahoma!', 1955, 'Musical|Romance|Western'),
 
@@ -9973,7 +9973,7 @@ VALUES
 
 (7618, 'Chaplin', 1992, 'Drama'),
 
-(7619, '"Miracle Worker, The', 1962, 'Drama'),
+(7619, 'Miracle Worker, The', 1962, 'Drama'),
 
 (7620, 'Monster in a Box', 1992, 'Comedy|Drama'),
 
@@ -9987,27 +9987,27 @@ VALUES
 
 (7649, 'Babylon 5: In the Beginning', 1998, 'Adventure|Sci-Fi'),
 
-(7650, '"Witchfinder General (Conquerer Worm, The)', 1968, 'Horror'),
+(7650, 'Witchfinder General (Conquerer Worm, The)', 1968, 'Horror'),
 
 (7657, 'Versus', 2000, 'Action|Comedy|Fantasy|Horror'),
 
 (7669, 'Pride and Prejudice', 1995, 'Drama|Romance'),
 
-(7698, '"China Syndrome, The', 1979, 'Drama|Thriller'),
+(7698, 'China Syndrome, The', 1979, 'Drama|Thriller'),
 
-(7700, '"Wages of Fear, The (Salaire de la peur, Le)', 1953, 'Action|Adventure|Drama|Thriller'),
+(7700, 'Wages of Fear, The (Salaire de la peur, Le)', 1953, 'Action|Adventure|Drama|Thriller'),
 
 (7701, 'Look Who‘s Talking Too', 1990, 'Comedy|Romance'),
 
-(7702, '"Bells of St. Mary‘s, The', 1945, 'Drama'),
+(7702, 'Bells of St. Mary‘s, The', 1945, 'Drama'),
 
-(7704, '"Delta Force, The', 1986, 'Action'),
+(7704, 'Delta Force, The', 1986, 'Action'),
 
 (7705, 'Pat and Mike', 1952, 'Comedy|Romance'),
 
 (7706, 'Animal Crackers', 1930, 'Comedy|Musical'),
 
-(7707, '"He Said, She Said', 1991, 'Comedy|Drama|Romance'),
+(7707, 'He Said, She Said', 1991, 'Comedy|Drama|Romance'),
 
 (7708, 'Bedazzled', 1967, 'Comedy|Fantasy'),
 
@@ -10015,13 +10015,13 @@ VALUES
 
 (7714, 'Camelot', 1967, 'Drama|Musical|Romance'),
 
-(7716, '"Lonely Guy, The', 1984, 'Comedy'),
+(7716, 'Lonely Guy, The', 1984, 'Comedy'),
 
-(7720, '"Four Musketeers, The', 1974, 'Action|Adventure|Comedy|Romance'),
+(7720, 'Four Musketeers, The', 1974, 'Action|Adventure|Comedy|Romance'),
 
 (7727, 'Protocol', 1984, 'Comedy'),
 
-(7728, '"Postman Always Rings Twice, The', 1946, 'Crime|Drama|Film-Noir|Thriller'),
+(7728, 'Postman Always Rings Twice, The', 1946, 'Crime|Drama|Film-Noir|Thriller'),
 
 (7730, 'Matinee', 1993, 'Comedy|Drama'),
 
@@ -10029,7 +10029,7 @@ VALUES
 
 (7743, 'Explorers', 1985, 'Adventure|Children|Sci-Fi'),
 
-(7745, '"Scent of Green Papaya, The (Mùi du du xhan - L‘odeur de la papaye verte)', 1993, 'Drama'),
+(7745, 'Scent of Green Papaya, The (Mùi du du xhan - L‘odeur de la papaye verte)', 1993, 'Drama'),
 
 (7748, 'Pierrot le fou', 1965, 'Crime|Drama'),
 
@@ -10041,15 +10041,15 @@ VALUES
 
 (7757, 'Jason and the Argonauts', 1963, 'Action|Adventure|Fantasy'),
 
-(7762, '"Tinker, Tailor, Soldier, Spy', 1979, 'Drama|Thriller'),
+(7762, 'Tinker, Tailor, Soldier, Spy', 1979, 'Drama|Thriller'),
 
 (7766, 'Throne of Blood (Kumonosu jô)', 1957, 'Action|Drama|Thriller|War'),
 
-(7767, '"Best of Youth, The (La meglio gioventù)', 2003, 'Drama'),
+(7767, 'Best of Youth, The (La meglio gioventù)', 2003, 'Drama'),
 
 (7772, 'Undercurrent', 1946, 'Film-Noir|Thriller'),
 
-(7773, '"Bang, Bang, You‘re Dead', 2002, 'Drama'),
+(7773, 'Bang, Bang, You‘re Dead', 2002, 'Drama'),
 
 (7781, 'Twister', 1990, 'Comedy'),
 
@@ -10057,11 +10057,11 @@ VALUES
 
 (7786, 'Genghis Blues', 1999, 'Documentary'),
 
-(7789, '"11‘09""01 - September 11', 2002, 'Drama'),
+(7789, '11‘0901 - September 11', 2002, 'Drama'),
 
-(7792, '"Parallax View, The', 1974, 'Thriller'),
+(7792, 'Parallax View, The', 1974, 'Thriller'),
 
-(7802, '"Warriors, The', 1979, 'Action|Adventure|Crime|Thriller'),
+(7802, 'Warriors, The', 1979, 'Action|Adventure|Crime|Thriller'),
 
 (7810, 'Babylon 5: A Call to Arms', 1999, 'Adventure|Sci-Fi'),
 
@@ -10071,15 +10071,15 @@ VALUES
 
 (7815, 'True Stories', 1986, 'Comedy|Musical'),
 
-(7820, '"Virgin Spring, The (Jungfrukällan)', 1960, 'Crime|Drama'),
+(7820, 'Virgin Spring, The (Jungfrukällan)', 1960, 'Crime|Drama'),
 
 (7822, 'Mogambo', 1953, 'Adventure|Drama|Romance'),
 
-(7826, '"Secret Life of Walter Mitty, The', 1947, 'Comedy|Romance|Thriller'),
+(7826, 'Secret Life of Walter Mitty, The', 1947, 'Comedy|Romance|Thriller'),
 
 (7831, 'Another Thin Man', 1939, 'Comedy|Crime|Drama|Mystery|Romance'),
 
-(7832, '"Thin Man Goes Home, The', 1945, 'Comedy|Crime|Mystery'),
+(7832, 'Thin Man Goes Home, The', 1945, 'Comedy|Crime|Mystery'),
 
 (7833, 'Shadow of the Thin Man', 1941, 'Comedy|Crime|Mystery'),
 
@@ -10097,7 +10097,7 @@ VALUES
 
 (7843, 'Lammbock', 2001, 'Comedy'),
 
-(7844, '"Legend, The (Legend of Fong Sai-Yuk, The) (Fong Sai Yuk)', 1993, 'Action|Comedy'),
+(7844, 'Legend, The (Legend of Fong Sai-Yuk, The) (Fong Sai Yuk)', 1993, 'Action|Comedy'),
 
 (7845, 'Tremors II: Aftershocks', 1996, 'Comedy|Horror|Sci-Fi'),
 
@@ -10115,9 +10115,9 @@ VALUES
 
 (7889, 'Pat Garrett and Billy the Kid', 1973, 'Western'),
 
-(7891, '"Last Man on Earth, The (Ultimo uomo della Terra, L‘)', 1964, 'Drama|Horror|Sci-Fi'),
+(7891, 'Last Man on Earth, The (Ultimo uomo della Terra, L‘)', 1964, 'Drama|Horror|Sci-Fi'),
 
-(7894, '"Duck, You Sucker', 1971, 'Action|Western'),
+(7894, 'Duck, You Sucker', 1971, 'Action|Western'),
 
 (7895, 'Bring Me the Head of Alfredo Garcia', 1974, 'Crime|Drama|Thriller'),
 
@@ -10133,11 +10133,11 @@ VALUES
 
 (7924, 'Stray Dog (Nora inu)', 1949, 'Drama|Film-Noir|Thriller'),
 
-(7925, '"Hidden Fortress, The (Kakushi-toride no san-akunin)', 1958, 'Action|Adventure'),
+(7925, 'Hidden Fortress, The (Kakushi-toride no san-akunin)', 1958, 'Action|Adventure'),
 
 (7926, 'High and Low (Tengoku to jigoku)', 1963, 'Crime|Drama|Film-Noir|Thriller'),
 
-(7930, '"People Under the Stairs, The', 1991, 'Horror|Mystery|Thriller'),
+(7930, 'People Under the Stairs, The', 1991, 'Horror|Mystery|Thriller'),
 
 (7932, 'Dark Days', 2000, 'Documentary'),
 
@@ -10145,7 +10145,7 @@ VALUES
 
 (7936, 'Shame (Skammen)', 1968, 'Drama|War'),
 
-(7937, '"Silence, The (Tystnaden)', 1963, 'Drama'),
+(7937, 'Silence, The (Tystnaden)', 1963, 'Drama'),
 
 (7938, 'Winter Light (Nattvardsgästerna)', 1963, 'Drama'),
 
@@ -10153,9 +10153,9 @@ VALUES
 
 (7940, 'The Magician', 1958, 'Drama'),
 
-(7943, '"Killers, The', 1946, 'Crime|Film-Noir'),
+(7943, 'Killers, The', 1946, 'Crime|Film-Noir'),
 
-(7944, '"Night of the Iguana, The', 1964, 'Drama|Thriller'),
+(7944, 'Night of the Iguana, The', 1964, 'Drama|Thriller'),
 
 (7951, 'Nightbreed', 1990, 'Fantasy|Horror'),
 
@@ -10163,11 +10163,11 @@ VALUES
 
 (7979, 'Monterey Pop', 1968, 'Documentary|Musical'),
 
-(7980, '"Bridge Too Far, A', 1977, 'Action|Drama|War'),
+(7980, 'Bridge Too Far, A', 1977, 'Action|Drama|War'),
 
 (7981, 'Infernal Affairs (Mou gaan dou)', 2002, 'Crime|Drama|Thriller'),
 
-(7982, '"Tale of Two Sisters, A (Janghwa, Hongryeon)', 2003, 'Drama|Horror|Mystery|Thriller'),
+(7982, 'Tale of Two Sisters, A (Janghwa, Hongryeon)', 2003, 'Drama|Horror|Mystery|Thriller'),
 
 (7983, 'Broadway Danny Rose', 1984, 'Comedy'),
 
@@ -10181,31 +10181,31 @@ VALUES
 
 (7991, 'Death Race 2000', 1975, 'Action|Sci-Fi'),
 
-(7993, '"Bucket Of Blood, A', 1959, 'Comedy|Horror'),
+(7993, 'Bucket Of Blood, A', 1959, 'Comedy|Horror'),
 
 (8008, 'Brigadoon', 1954, 'Fantasy|Musical|Romance'),
 
-(8010, '"Power of One, The', 1992, 'Drama'),
+(8010, 'Power of One, The', 1992, 'Drama'),
 
-(8011, '"Weather Underground, The', 2002, 'Documentary'),
+(8011, 'Weather Underground, The', 2002, 'Documentary'),
 
 (8012, 'Kikujiro (Kikujirô no natsu)', 1999, 'Comedy|Drama'),
 
-(8014, '"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom)', 2003, 'Drama'),
+(8014, 'Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom)', 2003, 'Drama'),
 
-(8015, '"Phantom Tollbooth, The', 1970, 'Adventure|Animation|Children|Fantasy'),
+(8015, 'Phantom Tollbooth, The', 1970, 'Adventure|Animation|Children|Fantasy'),
 
-(8016, '"Getaway, The', 1972, 'Action|Crime|Drama|Thriller'),
+(8016, 'Getaway, The', 1972, 'Action|Crime|Drama|Thriller'),
 
 (8019, 'Dark Water (Honogurai mizu no soko kara)', 2002, 'Drama|Horror|Mystery|Thriller'),
 
-(8024, '"Thing Called Love, The', 1993, 'Comedy|Drama|Romance'),
+(8024, 'Thing Called Love, The', 1993, 'Comedy|Drama|Romance'),
 
 (8025, 'The Thief', 1997, 'Drama'),
 
 (8033, 'How to Steal a Million', 1966, 'Comedy|Crime|Romance'),
 
-(8035, '"Stendhal Syndrome, The (Sindrome di Stendhal, La)', 1996, 'Crime|Horror|Thriller'),
+(8035, 'Stendhal Syndrome, The (Sindrome di Stendhal, La)', 1996, 'Crime|Horror|Thriller'),
 
 (8042, 'Mean Streets', 1973, 'Crime|Drama'),
 
@@ -10229,7 +10229,7 @@ VALUES
 
 (8119, 'Crossroads', 1986, 'Drama'),
 
-(8121, '"Seducing Doctor Lewis (Grande séduction, La)', 2003, 'Comedy'),
+(8121, 'Seducing Doctor Lewis (Grande séduction, La)', 2003, 'Comedy'),
 
 (8125, 'Sunrise: A Song of Two Humans', 1927, 'Drama|Romance'),
 
@@ -10243,7 +10243,7 @@ VALUES
 
 (8136, 'Indestructible Man', 1956, 'Crime|Horror|Sci-Fi'),
 
-(8137, '"Wasp Woman, The', 1959, 'Horror|Sci-Fi'),
+(8137, 'Wasp Woman, The', 1959, 'Horror|Sci-Fi'),
 
 (8138, 'Attack of the Giant Leeches', 1959, 'Horror|Sci-Fi'),
 
@@ -10255,7 +10255,7 @@ VALUES
 
 (8153, 'Lust for Life', 1956, 'Drama'),
 
-(8154, '"Dolce Vita, La', 1960, 'Drama'),
+(8154, 'Dolce Vita, La', 1960, 'Drama'),
 
 (8157, 'Jin Roh: The Wolf Brigade (Jin-Rô)', 1998, 'Animation|Fantasy|Thriller'),
 
@@ -10271,11 +10271,11 @@ VALUES
 
 (8189, 'Zazie dans le métro', 1960, 'Comedy'),
 
-(8190, '"Americanization of Emily, The', 1964, 'Comedy|Drama|War'),
+(8190, 'Americanization of Emily, The', 1964, 'Comedy|Drama|War'),
 
 (8191, 'Anne of the Thousand Days', 1969, 'Drama'),
 
-(8195, '"Avventura, L‘ (Adventure, The)', 1960, 'Drama|Mystery|Romance'),
+(8195, 'Avventura, L‘ (Adventure, The)', 1960, 'Drama|Mystery|Romance'),
 
 (8196, 'Beyond the Valley of the Dolls', 1970, 'Comedy|Horror'),
 
@@ -10283,11 +10283,11 @@ VALUES
 
 (8199, 'Ugetsu (Ugetsu monogatari)', 1953, 'Drama|Thriller'),
 
-(8207, '"Day of the Jackal, The', 1973, 'Crime|Thriller'),
+(8207, 'Day of the Jackal, The', 1973, 'Crime|Thriller'),
 
 (8225, 'Night of the Living Dead', 1990, 'Horror'),
 
-(8228, '"Maltese Falcon, The (a.k.a. Dangerous Female)', 1931, 'Mystery'),
+(8228, 'Maltese Falcon, The (a.k.a. Dangerous Female)', 1931, 'Mystery'),
 
 (8232, 'I Love You Again', 1940, 'Comedy|Drama'),
 
@@ -10313,7 +10313,7 @@ VALUES
 
 (8268, 'Point of No Return', 1993, 'Action|Thriller'),
 
-(8270, '"Hairdresser‘s Husband, The (Le mari de la coiffeuse)', 1990, 'Comedy|Drama|Romance'),
+(8270, 'Hairdresser‘s Husband, The (Le mari de la coiffeuse)', 1990, 'Comedy|Drama|Romance'),
 
 (8275, 'College', 1927, 'Comedy'),
 
@@ -10321,17 +10321,17 @@ VALUES
 
 (8293, 'Used People', 1992, 'Comedy|Drama'),
 
-(8302, '"Front Page, The', 1931, 'Comedy|Drama|Romance'),
+(8302, 'Front Page, The', 1931, 'Comedy|Drama|Romance'),
 
 (8327, 'Dolls', 2002, 'Drama|Romance'),
 
-(8331, '"Man Who Came to Dinner, The', 1942, 'Comedy'),
+(8331, 'Man Who Came to Dinner, The', 1942, 'Comedy'),
 
 (8335, 'Make Way for Tomorrow', 1937, 'Drama'),
 
-(8336, '"Major and the Minor, The', 1942, 'Comedy|Romance'),
+(8336, 'Major and the Minor, The', 1942, 'Comedy|Romance'),
 
-(8337, '"Caine Mutiny, The', 1954, 'Drama|War'),
+(8337, 'Caine Mutiny, The', 1954, 'Drama|War'),
 
 (8338, 'Black Narcissus', 1947, 'Drama'),
 
@@ -10341,7 +10341,7 @@ VALUES
 
 (8360, 'Shrek 2', 2004, 'Adventure|Animation|Children|Comedy|Musical|Romance'),
 
-(8361, '"Day After Tomorrow, The', 2004, 'Action|Adventure|Drama|Sci-Fi|Thriller'),
+(8361, 'Day After Tomorrow, The', 2004, 'Action|Adventure|Drama|Sci-Fi|Thriller'),
 
 (8362, 'Raising Helen', 2004, 'Comedy|Drama|Romance'),
 
@@ -10355,21 +10355,21 @@ VALUES
 
 (8369, 'Mindhunters', 2004, 'Action|Crime|Horror|Mystery|Thriller'),
 
-(8370, '"Blind Swordsman: Zatoichi, The (Zatôichi)', 2003, 'Action|Comedy|Crime|Drama'),
+(8370, 'Blind Swordsman: Zatoichi, The (Zatôichi)', 2003, 'Action|Comedy|Crime|Drama'),
 
-(8371, '"Chronicles of Riddick, The', 2004, 'Action|Sci-Fi|Thriller'),
+(8371, 'Chronicles of Riddick, The', 2004, 'Action|Sci-Fi|Thriller'),
 
 (8372, 'Garfield: The Movie', 2004, 'Animation|Children|Comedy'),
 
-(8373, '"Stepford Wives, The', 2004, 'Comedy|Fantasy|Thriller'),
+(8373, 'Stepford Wives, The', 2004, 'Comedy|Fantasy|Thriller'),
 
-(8375, '"Hunting of the President, The', 2004, 'Documentary'),
+(8375, 'Hunting of the President, The', 2004, 'Documentary'),
 
 (8376, 'Napoleon Dynamite', 2004, 'Comedy'),
 
-(8378, '"Doctor, The', 1991, 'Drama'),
+(8378, 'Doctor, The', 1991, 'Drama'),
 
-(8379, '"Dresser, The', 1983, 'Drama'),
+(8379, 'Dresser, The', 1983, 'Drama'),
 
 (8380, 'Father Hood', 1993, 'Comedy'),
 
@@ -10389,7 +10389,7 @@ VALUES
 
 (8410, 'Suddenly', 1954, 'Crime|Drama|Film-Noir'),
 
-(8424, '"Divorcee, The', 1930, 'Drama|Romance'),
+(8424, 'Divorcee, The', 1930, 'Drama|Romance'),
 
 (8425, 'Meet the Applegates', 1991, 'Comedy'),
 
@@ -10411,7 +10411,7 @@ VALUES
 
 (8458, 'To Each His Own', 1946, 'Drama'),
 
-(8459, '"Heiress, The', 1949, 'Drama|Romance'),
+(8459, 'Heiress, The', 1949, 'Drama|Romance'),
 
 (8461, 'Dragon Seed', 1944, 'Drama|War'),
 
@@ -10423,29 +10423,29 @@ VALUES
 
 (8465, 'Johnny Eager', 1942, 'Crime|Drama|Film-Noir|Romance'),
 
-(8477, '"Jetée, La', 1962, 'Romance|Sci-Fi'),
+(8477, 'Jetée, La', 1962, 'Romance|Sci-Fi'),
 
 (8481, 'Northwest Passage', 1940, 'Action|Adventure|Drama|Romance|Thriller|Western'),
 
-(8482, '"Picture of Dorian Gray, The', 1945, 'Drama|Fantasy|Horror'),
+(8482, 'Picture of Dorian Gray, The', 1945, 'Drama|Fantasy|Horror'),
 
-(8484, '"Human Condition I, The (Ningen no joken I)', 1959, 'Drama|War'),
+(8484, 'Human Condition I, The (Ningen no joken I)', 1959, 'Drama|War'),
 
 (8487, 'Please Don‘t Eat the Daisies', 1960, 'Children|Comedy|Musical'),
 
 (8491, 'White Heat', 1949, 'Crime|Drama|Film-Noir'),
 
-(8492, '"Christmas Carol, A (Scrooge)', 1951, 'Drama|Fantasy'),
+(8492, 'Christmas Carol, A (Scrooge)', 1951, 'Drama|Fantasy'),
 
 (8493, 'Memphis Belle', 1990, 'Action|Drama|War'),
 
-(8494, '"Cincinnati Kid, The', 1965, 'Drama'),
+(8494, 'Cincinnati Kid, The', 1965, 'Drama'),
 
 (8495, 'Animal Factory', 2000, 'Crime|Drama'),
 
 (8500, 'Godzilla vs. Mechagodzilla (Gojira tai Mekagojira)', 1974, 'Action|Horror|Sci-Fi'),
 
-(8501, '"Hitcher, The', 1986, 'Action|Thriller'),
+(8501, 'Hitcher, The', 1986, 'Action|Thriller'),
 
 (8502, 'Show Boat', 1951, 'Drama|Musical|Romance'),
 
@@ -10453,7 +10453,7 @@ VALUES
 
 (8507, 'Freaks', 1932, 'Crime|Drama|Horror'),
 
-(8511, '"Immigrant, The', 1917, 'Comedy'),
+(8511, 'Immigrant, The', 1917, 'Comedy'),
 
 (8512, 'Silent Movie', 1976, 'Comedy'),
 
@@ -10465,27 +10465,27 @@ VALUES
 
 (8528, 'Dodgeball: A True Underdog Story', 2004, 'Comedy'),
 
-(8529, '"Terminal, The', 2004, 'Comedy|Drama|Romance'),
+(8529, 'Terminal, The', 2004, 'Comedy|Drama|Romance'),
 
 (8530, 'Dear Frankie', 2004, 'Drama|Romance'),
 
 (8531, 'White Chicks', 2004, 'Action|Comedy|Crime'),
 
-(8532, '"Door in the Floor, The', 2004, 'Drama'),
+(8532, 'Door in the Floor, The', 2004, 'Drama'),
 
-(8533, '"Notebook, The', 2004, 'Drama|Romance'),
+(8533, 'Notebook, The', 2004, 'Drama|Romance'),
 
 (8534, 'Two Brothers (Deux frères)', 2004, 'Adventure|Children|Drama'),
 
 (8535, 'De-Lovely', 2004, 'Drama|Musical'),
 
-(8542, '"Day at the Races, A', 1937, 'Comedy|Musical'),
+(8542, 'Day at the Races, A', 1937, 'Comedy|Musical'),
 
 (8571, 'Bob & Carol & Ted & Alice', 1969, 'Comedy|Drama'),
 
-(8574, '"Claymation Christmas Celebration, A', 1987, 'Animation|Children|Comedy|Musical'),
+(8574, 'Claymation Christmas Celebration, A', 1987, 'Animation|Children|Comedy|Musical'),
 
-(8575, '"Happenstance (Battement d‘ailes du papillon, Le)', 2001, 'Comedy|Drama'),
+(8575, 'Happenstance (Battement d‘ailes du papillon, Le)', 2001, 'Comedy|Drama'),
 
 (8577, 'Comandante', 2003, 'Documentary'),
 
@@ -10501,7 +10501,7 @@ VALUES
 
 (8588, 'Killing Me Softly', 2002, 'Drama|Mystery|Romance|Thriller'),
 
-(8591, '"Philadelphia Experiment, The', 1984, 'Adventure|Drama|Sci-Fi'),
+(8591, 'Philadelphia Experiment, The', 1984, 'Adventure|Drama|Sci-Fi'),
 
 (8593, 'Juice', 1992, 'Action|Crime|Drama|Thriller'),
 
@@ -10521,13 +10521,13 @@ VALUES
 
 (8610, 'All of Me', 1984, 'Comedy|Fantasy'),
 
-(8611, '"Farmer‘s Daughter, The', 1947, 'Comedy'),
+(8611, 'Farmer‘s Daughter, The', 1947, 'Comedy'),
 
 (8614, 'Overboard', 1987, 'Comedy|Romance'),
 
 (8617, 'Butterfield 8', 1960, 'Drama'),
 
-(8620, '"Exterminating Angel, The (Ángel exterminador, El)', 1962, 'Comedy|Drama|Fantasy|Mystery'),
+(8620, 'Exterminating Angel, The (Ángel exterminador, El)', 1962, 'Comedy|Drama|Fantasy|Mystery'),
 
 (8622, 'Fahrenheit 9/11', 2004, 'Documentary'),
 
@@ -10537,7 +10537,7 @@ VALUES
 
 (8632, 'Secret Society', 2002, 'Comedy'),
 
-(8633, '"Last Starfighter, The', 1984, 'Action|Adventure|Comedy|Sci-Fi'),
+(8633, 'Last Starfighter, The', 1984, 'Action|Adventure|Comedy|Sci-Fi'),
 
 (8636, 'Spider-Man 2', 2004, 'Action|Adventure|Sci-Fi|IMAX'),
 
@@ -10547,61 +10547,61 @@ VALUES
 
 (8641, 'Anchorman: The Legend of Ron Burgundy', 2004, 'Comedy'),
 
-(8643, '"Cinderella Story, A', 2004, 'Comedy|Romance'),
+(8643, 'Cinderella Story, A', 2004, 'Comedy|Romance'),
 
-(8644, '"I, Robot', 2004, 'Action|Adventure|Sci-Fi|Thriller'),
+(8644, 'I, Robot', 2004, 'Action|Adventure|Sci-Fi|Thriller'),
 
-(8645, '"Maria Full of Grace (Maria, Llena eres de gracia)', 2004, 'Crime|Drama'),
+(8645, 'Maria Full of Grace (Maria, Llena eres de gracia)', 2004, 'Crime|Drama'),
 
 (8650, 'Long Day‘s Journey Into Night', 1962, 'Drama'),
 
-(8656, '"Short Film About Killing, A (Krótki film o zabijaniu)', 1988, 'Crime|Drama'),
+(8656, 'Short Film About Killing, A (Krótki film o zabijaniu)', 1988, 'Crime|Drama'),
 
-(8665, '"Bourne Supremacy, The', 2004, 'Action|Crime|Thriller'),
+(8665, 'Bourne Supremacy, The', 2004, 'Action|Crime|Thriller'),
 
 (8666, 'Catwoman', 2004, 'Action|Crime|Fantasy'),
 
 (8667, 'A Home at the End of the World', 2004, 'Drama|Romance'),
 
-(8670, '"Testament of Dr. Mabuse, The (Das Testament des Dr. Mabuse)', 1933, 'Crime|Horror|Mystery|Thriller'),
+(8670, 'Testament of Dr. Mabuse, The (Das Testament des Dr. Mabuse)', 1933, 'Crime|Horror|Mystery|Thriller'),
 
 (8677, 'Flash Gordon Conquers the Universe', 1940, 'Action|Sci-Fi'),
 
-(8684, '"Man Escaped, A (Un  condamné à mort s‘est échappé ou Le vent souffle où il veut)', 1956, 'Adventure|Drama'),
+(8684, 'Man Escaped, A (Un  condamné à mort s‘est échappé ou Le vent souffle où il veut)', 1956, 'Adventure|Drama'),
 
-(8685, '"Miracle of Marcelino, The (Marcelino pan y vino)', 1955, 'Comedy|Drama'),
+(8685, 'Miracle of Marcelino, The (Marcelino pan y vino)', 1955, 'Comedy|Drama'),
 
 (8690, 'Slaughterhouse-Five', 1972, 'Comedy|Drama|Sci-Fi|War'),
 
-(8695, '"Bachelor and the Bobby-Soxer, The', 1947, 'Comedy'),
+(8695, 'Bachelor and the Bobby-Soxer, The', 1947, 'Comedy'),
 
 (8711, 'Mr. Blandings Builds His Dream House', 1948, 'Comedy'),
 
 (8712, 'My Favorite Wife', 1940, 'Comedy|Romance'),
 
-(8713, '"New Adventures of Pippi Longstocking, The', 1988, 'Adventure|Children|Fantasy|Musical'),
+(8713, 'New Adventures of Pippi Longstocking, The', 1988, 'Adventure|Children|Fantasy|Musical'),
 
 (8714, 'Night and Day', 1946, 'Drama|Musical'),
 
-(8718, '"Snake Pit, The', 1948, 'Drama'),
+(8718, 'Snake Pit, The', 1948, 'Drama'),
 
-(8720, '"Super, The', 1991, 'Comedy'),
+(8720, 'Super, The', 1991, 'Comedy'),
 
-(8724, '"Leopard, The (Gattopardo, Il)', 1963, 'Drama|War'),
+(8724, 'Leopard, The (Gattopardo, Il)', 1963, 'Drama|War'),
 
-(8727, '"Day of the Locust, The', 1975, 'Drama'),
+(8727, 'Day of the Locust, The', 1975, 'Drama'),
 
 (8730, 'To End All Wars', 2001, 'Action|Drama|War'),
 
-(8738, '"Woman Is a Woman, A (femme est une femme, Une)', 1961, 'Comedy|Drama|Musical|Romance'),
+(8738, 'Woman Is a Woman, A (femme est une femme, Une)', 1961, 'Comedy|Drama|Musical|Romance'),
 
 (8743, 'Biggles', 1986, 'Adventure|Fantasy|Sci-Fi'),
 
-(8748, '"Yesterday, Today and Tomorrow (Ieri, oggi, domani)', 1963, 'Comedy'),
+(8748, 'Yesterday, Today and Tomorrow (Ieri, oggi, domani)', 1963, 'Comedy'),
 
 (8753, 'Unprecedented: The 2000 Presidential Election', 2002, 'Documentary'),
 
-(8754, '"Prime of Miss Jean Brodie, The', 1969, 'Drama'),
+(8754, 'Prime of Miss Jean Brodie, The', 1969, 'Drama'),
 
 (8755, 'My Voyage to Italy (Il mio viaggio in Italia)', 1999, 'Documentary'),
 
@@ -10609,7 +10609,7 @@ VALUES
 
 (8771, 'Sherlock Holmes: Terror by Night', 1946, 'Crime|Mystery|Thriller'),
 
-(8772, '"Spy Who Came in from the Cold, The', 1965, 'Drama|Thriller'),
+(8772, 'Spy Who Came in from the Cold, The', 1965, 'Drama|Thriller'),
 
 (8773, 'Sherlock Holmes and the Secret Weapon', 1942, 'Crime|Mystery|Thriller'),
 
@@ -10617,17 +10617,17 @@ VALUES
 
 (8778, 'Sherlock Holmes: Dressed to Kill', 1946, 'Crime|Mystery'),
 
-(8781, '"Manchurian Candidate, The', 2004, 'Thriller'),
+(8781, 'Manchurian Candidate, The', 2004, 'Thriller'),
 
 (8782, 'Thunderbirds', 2004, 'Action|Adventure|Fantasy|Sci-Fi'),
 
-(8783, '"Village, The', 2004, 'Drama|Mystery|Thriller'),
+(8783, 'Village, The', 2004, 'Drama|Mystery|Thriller'),
 
 (8784, 'Garden State', 2004, 'Comedy|Drama|Romance'),
 
 (8795, 'Musa the Warrior (Musa)', 2001, 'Action|Adventure|Drama|War'),
 
-(8796, '"Funny Thing Happened on the Way to the Forum, A', 1966, 'Comedy|Musical'),
+(8796, 'Funny Thing Happened on the Way to the Forum, A', 1966, 'Comedy|Musical'),
 
 (8798, 'Collateral', 2004, 'Action|Crime|Drama|Thriller'),
 
@@ -10635,11 +10635,11 @@ VALUES
 
 (8800, 'Code 46', 2003, 'Romance|Sci-Fi'),
 
-(8804, '"Story of Women (Affaire de femmes, Une)', 1988, 'Drama'),
+(8804, 'Story of Women (Affaire de femmes, Une)', 1988, 'Drama'),
 
 (8807, 'Harold and Kumar Go to White Castle', 2004, 'Adventure|Comedy'),
 
-(8808, '"Princess Diaries 2: Royal Engagement, The', 2004, 'Comedy|Romance'),
+(8808, 'Princess Diaries 2: Royal Engagement, The', 2004, 'Comedy|Romance'),
 
 (8809, 'Danny Deckchair', 2003, 'Comedy|Romance'),
 
@@ -10651,7 +10651,7 @@ VALUES
 
 (8815, 'Exorcist: The Beginning', 2004, 'Horror|Thriller'),
 
-(8827, '"Bill Cosby, Himself', 1983, 'Comedy|Documentary'),
+(8827, 'Bill Cosby, Himself', 1983, 'Comedy|Documentary'),
 
 (8830, 'Anacondas: The Hunt for the Blood Orchid', 2004, 'Adventure|Drama|Horror|Sci-Fi|Thriller'),
 
@@ -10671,7 +10671,7 @@ VALUES
 
 (8844, 'Camera Buff (Amator)', 1979, 'Drama'),
 
-(8848, '"Vitelloni, I (a.k.a. The Young and the Passionate)', 1953, 'Drama'),
+(8848, 'Vitelloni, I (a.k.a. The Young and the Passionate)', 1953, 'Drama'),
 
 (8860, 'Cellular', 2004, 'Action|Crime|Drama|Mystery|Thriller'),
 
@@ -10685,13 +10685,13 @@ VALUES
 
 (8869, 'First Daughter', 2004, 'Comedy|Romance'),
 
-(8870, '"Forgotten, The', 2004, 'Drama|Mystery|Sci-Fi|Thriller'),
+(8870, 'Forgotten, The', 2004, 'Drama|Mystery|Sci-Fi|Thriller'),
 
-(8873, '"Motorcycle Diaries, The (Diarios de motocicleta)', 2004, 'Adventure|Drama'),
+(8873, 'Motorcycle Diaries, The (Diarios de motocicleta)', 2004, 'Adventure|Drama'),
 
 (8874, 'Shaun of the Dead', 2004, 'Comedy|Horror'),
 
-(8875, '"Come Back, Little Sheba', 1952, 'Drama'),
+(8875, 'Come Back, Little Sheba', 1952, 'Drama'),
 
 (8879, 'Murder on the Orient Express', 1974, 'Crime|Mystery|Thriller'),
 
@@ -10725,13 +10725,13 @@ VALUES
 
 (8919, 'P.S.', 2004, 'Comedy|Drama|Fantasy|Romance'),
 
-(8920, '"Country Girl, The', 1954, 'Drama'),
+(8920, 'Country Girl, The', 1954, 'Drama'),
 
-(8921, '"Rose Tattoo, The', 1955, 'Drama|Romance'),
+(8921, 'Rose Tattoo, The', 1955, 'Drama|Romance'),
 
-(8928, '"Fearless Vampire Killers, The', 1967, 'Comedy|Horror'),
+(8928, 'Fearless Vampire Killers, The', 1967, 'Comedy|Horror'),
 
-(8933, '"Decline of the American Empire, The (Déclin de l‘empire américain, Le)', 1986, 'Comedy|Drama'),
+(8933, 'Decline of the American Empire, The (Déclin de l‘empire américain, Le)', 1986, 'Comedy|Drama'),
 
 (8934, 'Bebe‘s Kids', 1992, 'Animation|Children|Comedy'),
 
@@ -10739,13 +10739,13 @@ VALUES
 
 (8938, 'Tarnation', 2003, 'Documentary'),
 
-(8939, '"Final Cut, The', 2004, 'Sci-Fi|Thriller'),
+(8939, 'Final Cut, The', 2004, 'Sci-Fi|Thriller'),
 
 (8943, 'Being Julia', 2004, 'Comedy|Drama'),
 
 (8946, 'Surviving Christmas', 2004, 'Comedy'),
 
-(8947, '"Grudge, The', 2004, 'Horror|Mystery|Thriller'),
+(8947, 'Grudge, The', 2004, 'Horror|Mystery|Thriller'),
 
 (8948, 'Alfie', 2004, 'Comedy|Drama|Romance'),
 
@@ -10767,11 +10767,11 @@ VALUES
 
 (8959, 'Birth', 2004, 'Drama|Mystery'),
 
-(8961, '"Incredibles, The', 2004, 'Action|Adventure|Animation|Children|Comedy'),
+(8961, 'Incredibles, The', 2004, 'Action|Adventure|Animation|Children|Comedy'),
 
 (8964, 'Callas Forever', 2002, 'Drama'),
 
-(8965, '"Polar Express, The', 2004, 'Adventure|Animation|Children|Fantasy|IMAX'),
+(8965, 'Polar Express, The', 2004, 'Adventure|Animation|Children|Fantasy|IMAX'),
 
 (8966, 'Kinsey', 2004, 'Drama'),
 
@@ -10787,7 +10787,7 @@ VALUES
 
 (8973, 'Bad Education (La mala educación)', 2004, 'Drama|Thriller'),
 
-(8974, '"SpongeBob SquarePants Movie, The', 2004, 'Adventure|Animation|Children|Comedy'),
+(8974, 'SpongeBob SquarePants Movie, The', 2004, 'Adventure|Animation|Children|Comedy'),
 
 (8977, 'Alexander', 2004, 'Action|Adventure|Drama|War'),
 
@@ -10815,25 +10815,25 @@ VALUES
 
 (9005, 'Fire in the Sky', 1993, 'Drama|Mystery|Sci-Fi'),
 
-(9008, '"Invisible Man Returns, The', 1940, 'Horror|Sci-Fi'),
+(9008, 'Invisible Man Returns, The', 1940, 'Horror|Sci-Fi'),
 
 (9010, 'Love Me If You Dare (Jeux d‘enfants)', 2003, 'Drama|Romance'),
 
 (9018, 'Control Room', 2004, 'Documentary|War'),
 
-(25746, '"Hunchback of Notre Dame, The', 1923, 'Drama|Horror'),
+(25746, 'Hunchback of Notre Dame, The', 1923, 'Drama|Horror'),
 
 (25750, 'Sherlock Jr.', 1924, 'Comedy|Fantasy|Romance'),
 
-(25752, '"Freshman, The', 1925, 'Comedy'),
+(25752, 'Freshman, The', 1925, 'Comedy'),
 
 (25753, 'Greed', 1924, 'Drama'),
 
-(25757, '"Jazz Singer, The', 1927, 'Drama|Musical|Romance'),
+(25757, 'Jazz Singer, The', 1927, 'Drama|Musical|Romance'),
 
-(25769, '"Steamboat Bill, Jr.', 1928, 'Comedy|Romance'),
+(25769, 'Steamboat Bill, Jr.', 1928, 'Comedy|Romance'),
 
-(25771, '"Andalusian Dog, An (Chien andalou, Un)', 1929, 'Fantasy'),
+(25771, 'Andalusian Dog, An (Chien andalou, Un)', 1929, 'Fantasy'),
 
 (25773, 'Little Caesar', 1931, 'Crime|Drama'),
 
@@ -10845,7 +10845,7 @@ VALUES
 
 (25797, 'Gold Diggers of 1933', 1933, 'Musical'),
 
-(25805, '"Atalante, L‘', 1934, 'Comedy|Drama|Romance'),
+(25805, 'Atalante, L‘', 1934, 'Comedy|Drama|Romance'),
 
 (25825, 'Fury', 1936, 'Drama|Film-Noir'),
 
@@ -10861,11 +10861,11 @@ VALUES
 
 (25850, 'Holiday', 1938, 'Comedy|Drama|Romance'),
 
-(25855, '"Roaring Twenties, The', 1939, 'Crime|Drama|Thriller'),
+(25855, 'Roaring Twenties, The', 1939, 'Crime|Drama|Thriller'),
 
 (25856, 'Wuthering Heights', 1939, 'Drama|Romance'),
 
-(25865, '"Letter, The', 1940, 'Drama|Film-Noir'),
+(25865, 'Letter, The', 1940, 'Drama|Film-Noir'),
 
 (25870, 'Here Comes Mr. Jordan', 1941, 'Comedy|Fantasy|Romance'),
 
@@ -10875,31 +10875,31 @@ VALUES
 
 (25898, 'Day of Wrath (Vredens dag)', 1943, 'Drama'),
 
-(25905, '"Miracle of Morgan‘s Creek, The', 1944, 'Comedy|Romance'),
+(25905, 'Miracle of Morgan‘s Creek, The', 1944, 'Comedy|Romance'),
 
 (25906, 'Mr. Skeffington', 1944, 'Drama|Romance'),
 
 (25923, 'Great Expectations', 1946, 'Drama'),
 
-(25927, '"Stranger, The', 1946, 'Drama|Film-Noir|Thriller'),
+(25927, 'Stranger, The', 1946, 'Drama|Film-Noir|Thriller'),
 
 (25937, 'Easter Parade', 1948, 'Musical|Romance'),
 
-(25940, '"Lady from Shanghai, The', 1947, 'Drama|Film-Noir|Mystery'),
+(25940, 'Lady from Shanghai, The', 1947, 'Drama|Film-Noir|Mystery'),
 
-(25946, '"Three Musketeers, The', 1948, 'Action|Adventure|Drama|Romance'),
+(25946, 'Three Musketeers, The', 1948, 'Action|Adventure|Drama|Romance'),
 
 (25947, 'Unfaithfully Yours', 1948, 'Comedy'),
 
-(25952, '"Letter to Three Wives, A', 1949, 'Comedy|Drama'),
+(25952, 'Letter to Three Wives, A', 1949, 'Comedy|Drama'),
 
 (25959, 'Annie Get Your Gun', 1950, 'Comedy|Musical|Romance|Western'),
 
 (25962, 'King Solomon‘s Mines', 1950, 'Action|Adventure|Romance'),
 
-(25963, '"Young and the Damned, The (Olvidados, Los)', 1950, 'Crime|Drama'),
+(25963, 'Young and the Damned, The (Olvidados, Los)', 1950, 'Crime|Drama'),
 
-(25996, '"Star Is Born, A', 1954, 'Drama|Musical'),
+(25996, 'Star Is Born, A', 1954, 'Drama|Musical'),
 
 (25999, 'The Wild One', 1953, 'Drama'),
 
@@ -10909,37 +10909,37 @@ VALUES
 
 (26038, 'Teacher‘s Pet', 1958, 'Comedy|Romance'),
 
-(26048, '"Human Condition II, The (Ningen no joken II)', 1959, 'Drama|War'),
+(26048, 'Human Condition II, The (Ningen no joken II)', 1959, 'Drama|War'),
 
 (26052, 'Pickpocket', 1959, 'Crime|Drama'),
 
 (26059, 'When a Woman Ascends the Stairs (Onna ga kaidan wo agaru toki)', 1960, 'Drama'),
 
-(26073, '"Human Condition III, The (Ningen no joken III)', 1961, 'Drama|War'),
+(26073, 'Human Condition III, The (Ningen no joken III)', 1961, 'Drama|War'),
 
 (26078, 'Advise and Consent', 1962, 'Drama'),
 
 (26082, 'Harakiri (Seppuku)', 1962, 'Drama'),
 
-(26084, '"Music Man, The', 1962, 'Children|Comedy|Musical|Romance'),
+(26084, 'Music Man, The', 1962, 'Children|Comedy|Musical|Romance'),
 
 (26085, 'Mutiny on the Bounty', 1962, 'Adventure|Drama|Romance'),
 
-(26095, '"Carabineers, The (Carabiniers, Les)', 1963, 'Comedy|Drama|War'),
+(26095, 'Carabineers, The (Carabiniers, Les)', 1963, 'Comedy|Drama|War'),
 
-(26116, '"Hush... Hush, Sweet Charlotte', 1964, 'Horror|Thriller'),
+(26116, 'Hush... Hush, Sweet Charlotte', 1964, 'Horror|Thriller'),
 
 (26122, 'Onibaba', 1964, 'Drama|Horror|War'),
 
 (26124, 'Robinson Crusoe on Mars', 1964, 'Sci-Fi'),
 
-(26131, '"Battle of Algiers, The (La battaglia di Algeri)', 1966, 'Drama|War'),
+(26131, 'Battle of Algiers, The (La battaglia di Algeri)', 1966, 'Drama|War'),
 
-(26133, '"Charlie Brown Christmas, A', 1965, 'Animation|Children|Comedy'),
+(26133, 'Charlie Brown Christmas, A', 1965, 'Animation|Children|Comedy'),
 
 (26142, 'Major Dundee', 1965, 'Adventure|War|Western'),
 
-(26147, '"Thousand Clowns, A', 1965, 'Comedy|Drama|Romance'),
+(26147, 'Thousand Clowns, A', 1965, 'Comedy|Drama|Romance'),
 
 (26150, 'Andrei Rublev (Andrey Rublyov)', 1969, 'Drama|War'),
 
@@ -10961,17 +10961,17 @@ VALUES
 
 (26183, 'Asterix and Cleopatra (Astérix et Cléopâtre)', 1968, 'Action|Adventure|Animation|Children|Comedy'),
 
-(26184, '"Diamond Arm, The (Brilliantovaya ruka)', 1968, 'Action|Adventure|Comedy|Crime|Thriller'),
+(26184, 'Diamond Arm, The (Brilliantovaya ruka)', 1968, 'Action|Adventure|Comedy|Crime|Thriller'),
 
 (26195, 'Sympathy for the Devil', 1968, 'Documentary|Musical'),
 
-(26198, '"Yours, Mine and Ours', 1968, 'Children|Comedy'),
+(26198, 'Yours, Mine and Ours', 1968, 'Children|Comedy'),
 
-(26225, '"Claire‘s Knee (Genou de Claire, Le)', 1970, 'Comedy|Romance'),
+(26225, 'Claire‘s Knee (Genou de Claire, Le)', 1970, 'Comedy|Romance'),
 
 (26231, 'Performance', 1970, 'Crime|Drama|Thriller'),
 
-(26236, '"White Sun of the Desert, The (Beloe solntse pustyni)', 1970, 'Action|Adventure|Comedy|Drama|Romance|War'),
+(26236, 'White Sun of the Desert, The (Beloe solntse pustyni)', 1970, 'Action|Adventure|Comedy|Drama|Romance|War'),
 
 (26237, 'Zabriskie Point', 1970, 'Drama|Romance'),
 
@@ -10979,7 +10979,7 @@ VALUES
 
 (26249, 'They Call Me Trinity', 1971, 'Comedy|Western'),
 
-(26258, '"Topo, El', 1970, 'Fantasy|Western'),
+(26258, 'Topo, El', 1970, 'Fantasy|Western'),
 
 (26265, 'Dr. Phibes Rises Again', 1972, 'Adventure|Comedy|Horror|Romance'),
 
@@ -10997,15 +10997,15 @@ VALUES
 
 (26322, 'Gone in 60 Seconds', 1974, 'Action|Crime|Drama'),
 
-(26326, '"Holy Mountain, The (Montaña sagrada, La)', 1973, 'Drama'),
+(26326, 'Holy Mountain, The (Montaña sagrada, La)', 1973, 'Drama'),
 
-(26340, '"Twelve Tasks of Asterix, The (Les douze travaux d‘Astérix)', 1976, 'Action|Adventure|Animation|Children|Comedy|Fantasy'),
+(26340, 'Twelve Tasks of Asterix, The (Les douze travaux d‘Astérix)', 1976, 'Action|Adventure|Animation|Children|Comedy|Fantasy'),
 
 (26344, 'French Connection II', 1975, 'Action|Crime|Drama|Thriller'),
 
-(26347, '"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!)', 1975, 'Comedy|Drama|Romance'),
+(26347, 'Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!)', 1975, 'Comedy|Drama|Romance'),
 
-(26350, '"Passenger, The (Professione: reporter)', 1975, 'Drama'),
+(26350, 'Passenger, The (Professione: reporter)', 1975, 'Drama'),
 
 (26357, 'Trilogy of Terror', 1975, 'Horror|Thriller'),
 
@@ -11019,15 +11019,15 @@ VALUES
 
 (26386, 'High Anxiety', 1977, 'Comedy|Thriller'),
 
-(26391, '"New York, New York', 1977, 'Drama|Musical|Romance'),
+(26391, 'New York, New York', 1977, 'Drama|Musical|Romance'),
 
-(26394, '"Turning Point, The', 1977, 'Drama|Romance'),
+(26394, 'Turning Point, The', 1977, 'Drama|Romance'),
 
 (26399, 'Five Deadly Venoms', 1978, 'Action'),
 
 (26401, 'Last Hurrah for Chivalry (Hao xia)', 1979, 'Action|Drama'),
 
-(26409, '"Clonus Horror, The', 1979, 'Horror|Sci-Fi'),
+(26409, 'Clonus Horror, The', 1979, 'Horror|Sci-Fi'),
 
 (26413, 'Snake in the Eagle‘s Shadow (Se ying diu sau)', 1978, 'Action|Comedy'),
 
@@ -11035,17 +11035,17 @@ VALUES
 
 (26429, 'Love at First Bite', 1979, 'Comedy|Horror|Romance'),
 
-(26444, '"Hitch Hikers Guide to the Galaxy, The', 1981, 'Adventure|Comedy|Sci-Fi'),
+(26444, 'Hitch Hikers Guide to the Galaxy, The', 1981, 'Adventure|Comedy|Sci-Fi'),
 
 (26453, 'Smiley‘s People', 1982, 'Drama|Mystery'),
 
 (26464, 'Blue Thunder', 1983, 'Action|Crime|Drama'),
 
-(26467, '"Day After, The', 1983, 'Drama|Sci-Fi'),
+(26467, 'Day After, The', 1983, 'Drama|Sci-Fi'),
 
 (26471, 'Eddie Murphy Delirious', 1983, 'Comedy|Documentary'),
 
-(26472, '"Norte, El', 1984, 'Adventure|Drama'),
+(26472, 'Norte, El', 1984, 'Adventure|Drama'),
 
 (26492, 'Twilight Zone: The Movie', 1983, 'Fantasy|Horror|Sci-Fi|Thriller'),
 
@@ -11053,11 +11053,11 @@ VALUES
 
 (26504, 'Cloak & Dagger', 1984, 'Action|Adventure|Children|Crime|Mystery|Thriller'),
 
-(26510, '"Ewok Adventure, The (a.k.a. Caravan of Courage: An Ewok Adventure)', 1984, 'Adventure|Children|Fantasy|Sci-Fi'),
+(26510, 'Ewok Adventure, The (a.k.a. Caravan of Courage: An Ewok Adventure)', 1984, 'Adventure|Children|Fantasy|Sci-Fi'),
 
-(26523, '"Silent Night, Deadly Night', 1984, 'Horror|Thriller'),
+(26523, 'Silent Night, Deadly Night', 1984, 'Horror|Thriller'),
 
-(26524, '"Times of Harvey Milk, The', 1984, 'Documentary'),
+(26524, 'Times of Harvey Milk, The', 1984, 'Documentary'),
 
 (26527, 'What Have I Done to Deserve This? (¿Qué he hecho yo para merecer esto!!)', 1984, 'Comedy|Drama'),
 
@@ -11069,7 +11069,7 @@ VALUES
 
 (26547, 'Police Story (Ging chaat goo si)', 1985, 'Action|Comedy|Crime|Thriller'),
 
-(26554, '"Quiet Earth, The', 1985, 'Drama|Mystery|Sci-Fi'),
+(26554, 'Quiet Earth, The', 1985, 'Drama|Mystery|Sci-Fi'),
 
 (26555, 'Spies Like Us', 1985, 'Comedy'),
 
@@ -11079,25 +11079,25 @@ VALUES
 
 (26567, 'Club Paradise', 1986, 'Comedy'),
 
-(26578, '"Sacrifice, The (Offret - Sacraficatio)', 1986, 'Drama'),
+(26578, 'Sacrifice, The (Offret - Sacraficatio)', 1986, 'Drama'),
 
-(26585, '"Better Tomorrow, A (Ying hung boon sik)', 1986, 'Crime|Drama|Thriller'),
+(26585, 'Better Tomorrow, A (Ying hung boon sik)', 1986, 'Crime|Drama|Thriller'),
 
-(26587, '"Decalogue, The (Dekalog)', 1989, 'Crime|Drama|Romance'),
+(26587, 'Decalogue, The (Dekalog)', 1989, 'Crime|Drama|Romance'),
 
 (26590, 'G.I. Joe: The Movie', 1987, 'Action|Adventure|Animation|Children|Fantasy|Sci-Fi'),
 
 (26593, 'Hell Comes to Frogtown', 1988, 'Action|Comedy|Sci-Fi'),
 
-(26599, '"Law of Desire (Ley del deseo, La)', 1987, 'Comedy|Drama|Romance'),
+(26599, 'Law of Desire (Ley del deseo, La)', 1987, 'Comedy|Drama|Romance'),
 
 (26603, 'Prince of Darkness', 1987, 'Fantasy|Horror|Sci-Fi|Thriller'),
 
-(26606, '"Chinese Ghost Story, A (Sinnui yauwan)', 1987, 'Action|Fantasy|Horror|Romance'),
+(26606, 'Chinese Ghost Story, A (Sinnui yauwan)', 1987, 'Action|Fantasy|Horror|Romance'),
 
-(26612, '"Better Tomorrow II, A (Ying hung boon sik II)', 1987, 'Crime|Drama|Thriller'),
+(26612, 'Better Tomorrow II, A (Ying hung boon sik II)', 1987, 'Crime|Drama|Thriller'),
 
-(26614, '"Bourne Identity, The', 1988, 'Action|Adventure|Drama|Mystery|Thriller'),
+(26614, 'Bourne Identity, The', 1988, 'Action|Adventure|Drama|Mystery|Thriller'),
 
 (26622, 'Dominick and Eugene', 1988, 'Drama'),
 
@@ -11125,7 +11125,7 @@ VALUES
 
 (26694, 'Ju Dou', 1990, 'Drama'),
 
-(26695, '"Krays, The', 1990, 'Drama'),
+(26695, 'Krays, The', 1990, 'Drama'),
 
 (26696, 'Lionheart', 1990, 'Action'),
 
@@ -11165,17 +11165,17 @@ VALUES
 
 (26776, 'Porco Rosso (Crimson Pig) (Kurenai no buta)', 1992, 'Adventure|Animation|Comedy|Fantasy|Romance'),
 
-(26777, '"Stolen Children (Ladro di bambini, Il)', 1992, 'Drama'),
+(26777, 'Stolen Children (Ladro di bambini, Il)', 1992, 'Drama'),
 
 (26778, 'Ladybugs', 1992, 'Comedy'),
 
-(26782, '"Mambo Kings, The', 1992, 'Drama|Musical'),
+(26782, 'Mambo Kings, The', 1992, 'Drama|Musical'),
 
 (26791, 'Shining Through', 1992, 'Drama|Romance|Thriller|War'),
 
 (26792, 'Sidekicks', 1992, 'Action|Adventure|Children|Comedy'),
 
-(26796, '"Heart in Winter, A (Un coeur en hiver)', 1992, 'Drama|Romance'),
+(26796, 'Heart in Winter, A (Un coeur en hiver)', 1992, 'Drama|Romance'),
 
 (26797, 'Visions of Light: The Art of Cinematography', 1992, 'Documentary'),
 
@@ -11187,13 +11187,13 @@ VALUES
 
 (26828, 'Mr. Nanny', 1993, 'Action|Children|Comedy'),
 
-(26838, '"Snapper, The', 1993, 'Comedy|Drama'),
+(26838, 'Snapper, The', 1993, 'Comedy|Drama'),
 
 (26840, 'Sonatine (Sonachine)', 1993, 'Action|Comedy|Crime|Drama'),
 
-(26849, '"Stand, The', 1994, 'Adventure|Drama|Fantasy|Horror|Sci-Fi'),
+(26849, 'Stand, The', 1994, 'Adventure|Drama|Fantasy|Horror|Sci-Fi'),
 
-(26854, '"Darkman II: Return of Durant, The', 1995, 'Action|Crime|Horror'),
+(26854, 'Darkman II: Return of Durant, The', 1995, 'Action|Crime|Horror'),
 
 (26861, 'Freaked', 1993, 'Comedy|Sci-Fi'),
 
@@ -11203,11 +11203,11 @@ VALUES
 
 (26871, 'My Father the Hero', 1994, 'Comedy|Romance'),
 
-(26875, '"Pure Formality, A (Pura formalità, Una)', 1994, 'Crime|Film-Noir|Mystery|Thriller'),
+(26875, 'Pure Formality, A (Pura formalità, Una)', 1994, 'Crime|Film-Noir|Mystery|Thriller'),
 
-(26887, '"Langoliers, The', 1995, 'Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller'),
+(26887, 'Langoliers, The', 1995, 'Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller'),
 
-(26900, '"Last Wedding, The (Kivenpyörittäjän kylä)', 1995, 'Comedy|Drama'),
+(26900, 'Last Wedding, The (Kivenpyörittäjän kylä)', 1995, 'Comedy|Drama'),
 
 (26901, 'Last of the Dogmen', 1995, 'Adventure|Western'),
 
@@ -11215,21 +11215,21 @@ VALUES
 
 (26913, 'Street Fighter II: The Animated Movie (Sutorîto Faitâ II gekijô-ban)', 1994, 'Action|Animation'),
 
-(26928, '"Summer‘s Tale, A (Conte d‘été)', 1996, 'Comedy|Drama|Romance'),
+(26928, 'Summer‘s Tale, A (Conte d‘été)', 1996, 'Comedy|Drama|Romance'),
 
-(26940, '"Late Shift, The', 1996, 'Comedy'),
+(26940, 'Late Shift, The', 1996, 'Comedy'),
 
 (26947, 'Pusher', 1996, 'Crime|Thriller'),
 
 (26958, 'Emma', 1996, 'Romance'),
 
-(26965, '"Boxer, The', 1997, 'Drama|Thriller'),
+(26965, 'Boxer, The', 1997, 'Drama|Thriller'),
 
 (26974, 'Gummo', 1997, 'Drama'),
 
 (26985, 'Nirvana', 1997, 'Action|Sci-Fi'),
 
-(26999, '"Lion King II: Simba‘s Pride, The', 1998, 'Adventure|Animation|Children|Musical|Romance'),
+(26999, 'Lion King II: Simba‘s Pride, The', 1998, 'Adventure|Animation|Children|Musical|Romance'),
 
 (27002, 'From the Earth to the Moon', 1998, 'Action|Documentary|Drama|Thriller'),
 
@@ -11259,9 +11259,9 @@ VALUES
 
 (27140, 'Candyman 3: Day of the Dead', 1999, 'Horror'),
 
-(27155, '"Batman/Superman Movie, The', 1998, 'Action|Adventure|Animation|Children|Fantasy|Sci-Fi'),
+(27155, 'Batman/Superman Movie, The', 1998, 'Action|Adventure|Animation|Children|Fantasy|Sci-Fi'),
 
-(27156, '"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni)', 1997, 'Action|Animation|Drama|Fantasy|Sci-Fi'),
+(27156, 'Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni)', 1997, 'Action|Animation|Drama|Fantasy|Sci-Fi'),
 
 (27176, 'Style Wars', 1983, 'Documentary'),
 
@@ -11273,9 +11273,9 @@ VALUES
 
 (27246, 'If These Walls Could Talk 2', 2000, 'Drama|Romance'),
 
-(27251, '"10th Kingdom, The', 2000, 'Adventure|Comedy|Fantasy'),
+(27251, '10th Kingdom, The', 2000, 'Adventure|Comedy|Fantasy'),
 
-(27255, '"Wind Will Carry Us, The (Bad ma ra khahad bord)', 1999, 'Drama'),
+(27255, 'Wind Will Carry Us, The (Bad ma ra khahad bord)', 1999, 'Drama'),
 
 (27266, '2046', 2004, 'Drama|Fantasy|Romance|Sci-Fi'),
 
@@ -11285,7 +11285,7 @@ VALUES
 
 (27317, 'Audition (Ôdishon)', 1999, 'Drama|Horror|Mystery|Romance|Thriller'),
 
-(27320, '"Nine Lives of Tomas Katz, The', 2000, 'Comedy|Drama|Fantasy'),
+(27320, 'Nine Lives of Tomas Katz, The', 2000, 'Comedy|Drama|Fantasy'),
 
 (27328, 'Monday', 2000, 'Action|Comedy|Crime|Fantasy|Thriller'),
 
@@ -11307,7 +11307,7 @@ VALUES
 
 (27420, 'Teknolust', 2002, 'Comedy|Drama|Romance|Sci-Fi'),
 
-(27426, '"Accidental Spy, The (Dak miu mai shing)', 2001, 'Action|Comedy|Thriller'),
+(27426, 'Accidental Spy, The (Dak miu mai shing)', 2001, 'Action|Comedy|Thriller'),
 
 (27434, 'Darkness', 2002, 'Horror|Mystery'),
 
@@ -11337,7 +11337,7 @@ VALUES
 
 (27555, 'Fubar', 2002, 'Comedy'),
 
-(27563, '"Happiness of the Katakuris, The (Katakuri-ke no kôfuku)', 2001, 'Comedy|Horror|Musical'),
+(27563, 'Happiness of the Katakuris, The (Katakuri-ke no kôfuku)', 2001, 'Comedy|Horror|Musical'),
 
 (27584, 'Dead End', 2003, 'Comedy|Horror|Mystery|Thriller'),
 
@@ -11349,17 +11349,17 @@ VALUES
 
 (27611, 'Battlestar Galactica', 2003, 'Drama|Sci-Fi|War'),
 
-(27618, '"Sound of Thunder, A', 2005, 'Action|Adventure|Drama|Sci-Fi|Thriller'),
+(27618, 'Sound of Thunder, A', 2005, 'Action|Adventure|Drama|Sci-Fi|Thriller'),
 
-(27619, '"Lion King 1½, The', 2004, 'Adventure|Animation|Children|Comedy'),
+(27619, 'Lion King 1½, The', 2004, 'Adventure|Animation|Children|Comedy'),
 
 (27627, 'Oasis', 2002, 'Drama|Romance'),
 
 (27644, 'Remember Me (Ricordati di me)', 2003, 'Comedy|Drama|Romance'),
 
-(27660, '"Animatrix, The', 2003, 'Action|Animation|Drama|Sci-Fi'),
+(27660, 'Animatrix, The', 2003, 'Action|Animation|Drama|Sci-Fi'),
 
-(27664, '"Brown Bunny, The', 2003, 'Drama'),
+(27664, 'Brown Bunny, The', 2003, 'Drama'),
 
 (27667, 'Ju-on: The Curse', 2000, 'Horror'),
 
@@ -11369,7 +11369,7 @@ VALUES
 
 (27685, 'Bring It On Again', 2004, 'Comedy'),
 
-(27689, '"Crimson Rivers 2: Angels of the Apocalypse (Rivières pourpres II - Les anges de l‘apocalypse, Les)', 2004, 'Action|Crime|Thriller'),
+(27689, 'Crimson Rivers 2: Angels of the Apocalypse (Rivières pourpres II - Les anges de l‘apocalypse, Les)', 2004, 'Action|Crime|Thriller'),
 
 (27692, 'And Starring Pancho Villa as Himself', 2003, 'Action|Comedy|Drama|War'),
 
@@ -11383,19 +11383,19 @@ VALUES
 
 (27708, 'Helen of Troy', 2003, 'Action|Adventure|Drama|Romance'),
 
-(27716, '"Green Butchers, The (Grønne slagtere, De)', 2003, 'Comedy|Crime|Drama|Romance'),
+(27716, 'Green Butchers, The (Grønne slagtere, De)', 2003, 'Comedy|Crime|Drama|Romance'),
 
-(27721, '"Very Long Engagement, A (Un long dimanche de fiançailles)', 2004, 'Drama|Mystery|Romance|War'),
+(27721, 'Very Long Engagement, A (Un long dimanche de fiançailles)', 2004, 'Drama|Mystery|Romance|War'),
 
 (27722, 'Last Life in the Universe (Ruang rak noi nid mahasan)', 2003, 'Drama|Romance'),
 
 (27728, 'Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu)', 2004, 'Action|Animation|Drama|Sci-Fi|Thriller'),
 
-(27731, '"Cat Returns, The (Neko no ongaeshi)', 2002, 'Adventure|Animation|Children|Fantasy'),
+(27731, 'Cat Returns, The (Neko no ongaeshi)', 2002, 'Adventure|Animation|Children|Fantasy'),
 
-(27741, '"Twilight Samurai, The (Tasogare Seibei)', 2002, 'Drama|Romance'),
+(27741, 'Twilight Samurai, The (Tasogare Seibei)', 2002, 'Drama|Romance'),
 
-(27744, '"Facing Windows (Finestra di fronte, La)', 2003, 'Drama|Romance'),
+(27744, 'Facing Windows (Finestra di fronte, La)', 2003, 'Drama|Romance'),
 
 (27746, 'Ginger Snaps: Unleashed', 2004, 'Horror|Thriller'),
 
@@ -11417,7 +11417,7 @@ VALUES
 
 (27784, 'One Missed Call (Chakushin ari)', 2003, 'Horror|Mystery'),
 
-(27788, '"Jacket, The', 2005, 'Drama|Mystery|Sci-Fi|Thriller'),
+(27788, 'Jacket, The', 2005, 'Drama|Mystery|Sci-Fi|Thriller'),
 
 (27790, 'Millions', 2004, 'Children|Comedy|Crime|Drama|Fantasy'),
 
@@ -11427,17 +11427,17 @@ VALUES
 
 (27802, 'Infernal Affairs 2 (Mou gaan dou II)', 2003, 'Action|Crime|Drama|Thriller'),
 
-(27803, '"Sea Inside, The (Mar adentro)', 2004, 'Drama'),
+(27803, 'Sea Inside, The (Mar adentro)', 2004, 'Drama'),
 
 (27808, 'Spanglish', 2004, 'Comedy|Drama|Romance'),
 
-(27815, '"Chorus, The (Choristes, Les)', 2004, 'Drama'),
+(27815, 'Chorus, The (Choristes, Les)', 2004, 'Drama'),
 
 (27816, 'Saints and Soldiers', 2003, 'Action|Adventure|Drama|War'),
 
-(27820, '"Story of the Weeping Camel, The (Geschichte vom weinenden Kamel, Die)', 2003, 'Documentary|Drama'),
+(27820, 'Story of the Weeping Camel, The (Geschichte vom weinenden Kamel, Die)', 2003, 'Documentary|Drama'),
 
-(27821, '"Interpreter, The', 2005, 'Drama|Thriller'),
+(27821, 'Interpreter, The', 2005, 'Drama|Thriller'),
 
 (27822, 'Open Water', 2003, 'Drama|Thriller'),
 
@@ -11445,21 +11445,21 @@ VALUES
 
 (27829, 'Slasher', 2004, 'Documentary'),
 
-(27830, '"Bobby Jones, Stroke of Genius', 2004, 'Drama'),
+(27830, 'Bobby Jones, Stroke of Genius', 2004, 'Drama'),
 
 (27831, 'Layer Cake', 2004, 'Crime|Drama|Thriller'),
 
-(27834, '"Return, The (Vozvrashcheniye)', 2003, 'Drama'),
+(27834, 'Return, The (Vozvrashcheniye)', 2003, 'Drama'),
 
 (27837, 'Flight of the Phoenix', 2004, 'Action|Adventure'),
 
 (27838, 'Mean Creek', 2004, 'Drama|Thriller'),
 
-(27839, '"Ring Two, The', 2005, 'Drama|Horror|Mystery|Thriller'),
+(27839, 'Ring Two, The', 2005, 'Drama|Horror|Mystery|Thriller'),
 
-(27846, '"Corporation, The', 2003, 'Documentary'),
+(27846, 'Corporation, The', 2003, 'Documentary'),
 
-(27850, '"Yes Men, The', 2003, 'Documentary'),
+(27850, 'Yes Men, The', 2003, 'Documentary'),
 
 (27865, 'Azumi', 2003, 'Action|Adventure|Drama|Thriller'),
 
@@ -11477,7 +11477,7 @@ VALUES
 
 (27899, 'What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?)', 2004, 'Comedy|Documentary|Drama'),
 
-(27904, '"Scanner Darkly, A', 2006, 'Animation|Drama|Mystery|Sci-Fi|Thriller'),
+(27904, 'Scanner Darkly, A', 2006, 'Animation|Drama|Mystery|Sci-Fi|Thriller'),
 
 (27905, 'Casshern', 2004, 'Action|Drama|Fantasy|Sci-Fi'),
 
@@ -11493,35 +11493,35 @@ VALUES
 
 (30803, '3-Iron (Bin-jip)', 2004, 'Drama|Romance'),
 
-(30810, '"Life Aquatic with Steve Zissou, The', 2004, 'Adventure|Comedy|Fantasy'),
+(30810, 'Life Aquatic with Steve Zissou, The', 2004, 'Adventure|Comedy|Fantasy'),
 
-(30812, '"Aviator, The', 2004, 'Drama'),
+(30812, 'Aviator, The', 2004, 'Drama'),
 
-(30816, '"Phantom of the Opera, The', 2004, 'Drama|Musical|Romance'),
+(30816, 'Phantom of the Opera, The', 2004, 'Drama|Musical|Romance'),
 
 (30818, 'Beyond the Sea', 2004, 'Drama|Musical'),
 
-(30820, '"Woodsman, The', 2004, 'Drama'),
+(30820, 'Woodsman, The', 2004, 'Drama'),
 
 (30822, 'In Good Company', 2004, 'Comedy|Drama'),
 
 (30825, 'Meet the Fockers', 2004, 'Comedy'),
 
-(30846, '"Assassination of Richard Nixon, The', 2004, 'Crime|Drama|Thriller'),
+(30846, 'Assassination of Richard Nixon, The', 2004, 'Crime|Drama|Thriller'),
 
-(30848, '"Love Song for Bobby Long, A', 2004, 'Drama'),
+(30848, 'Love Song for Bobby Long, A', 2004, 'Drama'),
 
-(30850, '"Merchant of Venice, The', 2004, 'Drama'),
+(30850, 'Merchant of Venice, The', 2004, 'Drama'),
 
 (30883, 'Fat Albert', 2004, 'Comedy|Fantasy'),
 
-(30890, '"Keys to the House, The (Chiavi di casa, Le)', 2004, 'Drama'),
+(30890, 'Keys to the House, The (Chiavi di casa, Le)', 2004, 'Drama'),
 
 (30892, 'In the Realms of the Unreal', 2004, 'Animation|Documentary'),
 
 (30894, 'White Noise', 2005, 'Drama|Horror|Mystery|Sci-Fi|Thriller'),
 
-(30898, '"Upside of Anger, The', 2005, 'Comedy|Drama|Romance'),
+(30898, 'Upside of Anger, The', 2005, 'Comedy|Drama|Romance'),
 
 (30994, 'Little Miss Marker', 1980, 'Comedy|Drama'),
 
@@ -11547,11 +11547,11 @@ VALUES
 
 (31150, 'Wizards', 1977, 'Animation|Fantasy|Sci-Fi|War'),
 
-(31162, '"Life and Death of Peter Sellers, The', 2004, 'Comedy|Drama'),
+(31162, 'Life and Death of Peter Sellers, The', 2004, 'Comedy|Drama'),
 
 (31184, 'Appleseed (Appurushîdo)', 2004, 'Action|Animation|Fantasy|Sci-Fi'),
 
-(31193, '"Many Adventures of Winnie the Pooh, The', 1977, 'Animation|Children|Musical'),
+(31193, 'Many Adventures of Winnie the Pooh, The', 1977, 'Animation|Children|Musical'),
 
 (31221, 'Elektra', 2005, 'Action|Adventure|Crime|Drama'),
 
@@ -11567,9 +11567,9 @@ VALUES
 
 (31364, 'Memories of Murder (Salinui chueok)', 2003, 'Crime|Drama|Mystery|Thriller'),
 
-(31367, '"Chase, The', 1994, 'Action|Adventure|Comedy|Crime|Romance|Thriller'),
+(31367, 'Chase, The', 1994, 'Action|Adventure|Comedy|Crime|Romance|Thriller'),
 
-(31410, '"Downfall (Untergang, Der)', 2004, 'Drama|War'),
+(31410, 'Downfall (Untergang, Der)', 2004, 'Drama|War'),
 
 (31420, 'Assault on Precinct 13', 2005, 'Action|Crime|Drama|Thriller'),
 
@@ -11581,7 +11581,7 @@ VALUES
 
 (31431, 'Boogeyman', 2005, 'Drama|Horror|Mystery|Thriller'),
 
-(31433, '"Wedding Date, The', 2005, 'Comedy|Romance'),
+(31433, 'Wedding Date, The', 2005, 'Comedy|Romance'),
 
 (31435, 'Rory O‘Shea Was Here (Inside I‘m Dancing)', 2004, 'Drama'),
 
@@ -11589,9 +11589,9 @@ VALUES
 
 (31445, 'Employee of the Month', 2004, 'Comedy|Drama'),
 
-(31522, '"Marriage of Maria Braun, The (Ehe der Maria Braun, Die)', 1979, 'Drama'),
+(31522, 'Marriage of Maria Braun, The (Ehe der Maria Braun, Die)', 1979, 'Drama'),
 
-(31545, '"Trou, Le (Hole, The) (Night Watch, The)', 1960, 'Crime|Film-Noir'),
+(31545, 'Trou, Le (Hole, The) (Night Watch, The)', 1960, 'Crime|Film-Noir'),
 
 (31553, 'Double Dragon', 1994, 'Action|Adventure|Sci-Fi'),
 
@@ -11635,9 +11635,9 @@ VALUES
 
 (31909, 'Dr. Giggles', 1992, 'Comedy|Horror'),
 
-(31921, '"Seven-Per-Cent Solution, The', 1976, 'Adventure|Comedy|Crime|Drama|Mystery|Thriller'),
+(31921, 'Seven-Per-Cent Solution, The', 1976, 'Adventure|Comedy|Crime|Drama|Mystery|Thriller'),
 
-(31923, '"Three Musketeers, The', 1973, 'Action|Adventure|Comedy'),
+(31923, 'Three Musketeers, The', 1973, 'Action|Adventure|Comedy'),
 
 (31925, 'Royal Flash', 1975, 'Adventure|Comedy|Romance'),
 
@@ -11649,7 +11649,7 @@ VALUES
 
 (32011, 'Cursed', 2005, 'Horror|Thriller'),
 
-(32017, '"Pacifier, The', 2005, 'Action|Comedy'),
+(32017, 'Pacifier, The', 2005, 'Action|Comedy'),
 
 (32019, 'Be Cool', 2005, 'Comedy|Crime|Musical'),
 
@@ -11661,11 +11661,11 @@ VALUES
 
 (32058, 'Class Action', 1991, 'Drama'),
 
-(32060, '"Cat and the Canary, The', 1927, 'Horror|Mystery'),
+(32060, 'Cat and the Canary, The', 1927, 'Horror|Mystery'),
 
-(32116, '"Oh, God! You Devil', 1984, 'Comedy'),
+(32116, 'Oh, God! You Devil', 1984, 'Comedy'),
 
-(32139, '"Agony and the Ecstasy, The', 1965, 'Drama'),
+(32139, 'Agony and the Ecstasy, The', 1965, 'Drama'),
 
 (32160, 'Twentieth Century', 1934, 'Comedy'),
 
@@ -11689,13 +11689,13 @@ VALUES
 
 (32300, 'D.E.B.S.', 2004, 'Action|Comedy'),
 
-(32302, '"League of Ordinary Gentlemen, A', 2004, 'Documentary'),
+(32302, 'League of Ordinary Gentlemen, A', 2004, 'Documentary'),
 
 (32314, 'Incident at Loch Ness', 2004, 'Adventure|Comedy|Documentary'),
 
 (32371, 'Call Northside 777', 1948, 'Crime|Drama|Film-Noir'),
 
-(32387, '"Sword of Doom, The (Dai-bosatsu tôge)', 1966, 'Action|Drama'),
+(32387, 'Sword of Doom, The (Dai-bosatsu tôge)', 1966, 'Action|Drama'),
 
 (32392, '800 Bullets (800 Balas)', 2002, 'Comedy|Crime|Drama|Western'),
 
@@ -11703,21 +11703,21 @@ VALUES
 
 (32442, 'Greedy', 1994, 'Comedy'),
 
-(32456, '"Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko)', 1994, 'Animation|Comedy|Drama|Fantasy'),
+(32456, 'Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko)', 1994, 'Animation|Comedy|Drama|Fantasy'),
 
 (32460, 'Knockin‘ on Heaven‘s Door', 1997, 'Action|Comedy|Crime|Drama'),
 
 (32469, 'We‘re No Angels', 1955, 'Comedy|Crime|Drama'),
 
-(32511, '"Touch of Zen, A (Xia nu)', 1971, 'Action|Adventure'),
+(32511, 'Touch of Zen, A (Xia nu)', 1971, 'Action|Adventure'),
 
 (32515, 'Walker', 1987, 'Adventure|Drama|War|Western'),
 
 (32554, 'Memories (Memorîzu)', 1995, 'Animation|Fantasy|Sci-Fi|Thriller'),
 
-(32582, '"Wild Parrots of Telegraph Hill, The', 2003, 'Documentary'),
+(32582, 'Wild Parrots of Telegraph Hill, The', 2003, 'Documentary'),
 
-(32584, '"Ballad of Jack and Rose, The', 2005, 'Drama'),
+(32584, 'Ballad of Jack and Rose, The', 2005, 'Drama'),
 
 (32587, 'Sin City', 2005, 'Action|Crime|Film-Noir|Mystery|Thriller'),
 
@@ -11733,15 +11733,15 @@ VALUES
 
 (32632, 'Electra Glide in Blue', 1973, 'Action|Crime'),
 
-(32649, '"Special Day, A (Giornata particolare, Una)', 1977, 'Drama|War'),
+(32649, 'Special Day, A (Giornata particolare, Una)', 1977, 'Drama|War'),
 
-(32657, '"Man Who Planted Trees, The (Homme qui plantait des arbres, L‘)', 1987, 'Animation|Drama'),
+(32657, 'Man Who Planted Trees, The (Homme qui plantait des arbres, L‘)', 1987, 'Animation|Drama'),
 
 (32659, 'Tanguy', 2001, 'Comedy'),
 
 (32666, 'National Lampoon‘s Lady Killers (National Lampoon‘s Gold Diggers)', 2003, 'Comedy'),
 
-(32728, '"Little Girl Who Lives Down the Lane, The', 1976, 'Drama|Mystery|Thriller'),
+(32728, 'Little Girl Who Lives Down the Lane, The', 1976, 'Drama|Mystery|Thriller'),
 
 (32743, 'Ringu 0: Bâsudei', 2000, 'Drama|Horror|Thriller'),
 
@@ -11755,29 +11755,29 @@ VALUES
 
 (32892, 'Ivan‘s Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo)', 1962, 'Drama|War'),
 
-(32898, '"Trip to the Moon, A (Voyage dans la lune, Le)', 1902, 'Action|Adventure|Fantasy|Sci-Fi'),
+(32898, 'Trip to the Moon, A (Voyage dans la lune, Le)', 1902, 'Action|Adventure|Fantasy|Sci-Fi'),
 
-(32906, '"Ascent, The (Voskhozhdeniye)', 1977, 'Drama|War'),
+(32906, 'Ascent, The (Voskhozhdeniye)', 1977, 'Drama|War'),
 
 (32914, 'Carrie', 2002, 'Drama|Horror|Thriller'),
 
 (32917, 'Boccaccio ‘70', 1962, 'Comedy|Fantasy|Romance'),
 
-(33004, '"Hitchhiker‘s Guide to the Galaxy, The', 2005, 'Adventure|Comedy|Sci-Fi'),
+(33004, 'Hitchhiker‘s Guide to the Galaxy, The', 2005, 'Adventure|Comedy|Sci-Fi'),
 
-(33085, '"Amityville Horror, The', 2005, 'Horror|Thriller'),
+(33085, 'Amityville Horror, The', 2005, 'Horror|Thriller'),
 
 (33090, 'Mutant Aliens', 2001, 'Animation|Comedy|Sci-Fi'),
 
 (33124, 'Before the Fall (NaPolA - Elite für den Führer)', 2004, 'Drama|War'),
 
-(33126, '"Frisco Kid, The', 1979, 'Comedy|Western'),
+(33126, 'Frisco Kid, The', 1979, 'Comedy|Western'),
 
 (33132, 'State Property 2', 2005, 'Action|Crime|Drama'),
 
 (33138, 'Palindromes', 2004, 'Adventure|Comedy|Drama'),
 
-(33145, '"Lot Like Love, A', 2005, 'Comedy|Drama|Romance'),
+(33145, 'Lot Like Love, A', 2005, 'Comedy|Drama|Romance'),
 
 (33148, 'King‘s Ransom', 2005, 'Comedy|Crime'),
 
@@ -11801,9 +11801,9 @@ VALUES
 
 (33294, 'Vampire Hunter D', 1985, 'Animation|Fantasy|Horror'),
 
-(33310, '"Common Thread, A (a.k.a. Sequins) (Brodeuses)', 2004, 'Drama|Romance'),
+(33310, 'Common Thread, A (a.k.a. Sequins) (Brodeuses)', 2004, 'Drama|Romance'),
 
-(33312, '"Cocoanuts, The', 1929, 'Comedy|Musical'),
+(33312, 'Cocoanuts, The', 1929, 'Comedy|Musical'),
 
 (33421, 'Dear Wendy', 2005, 'Drama'),
 
@@ -11817,7 +11817,7 @@ VALUES
 
 (33499, 'Monster-in-Law', 2005, 'Comedy|Romance'),
 
-(33558, '"Snow Walker, The', 2003, 'Adventure|Drama'),
+(33558, 'Snow Walker, The', 2003, 'Adventure|Drama'),
 
 (33564, 'Divorce - Italian Style (Divorzio all‘italiana)', 1961, 'Comedy'),
 
@@ -11829,13 +11829,13 @@ VALUES
 
 (33644, 'Dominion: Prequel to the Exorcist', 2005, 'Horror|Thriller'),
 
-(33646, '"Longest Yard, The', 2005, 'Comedy|Drama'),
+(33646, 'Longest Yard, The', 2005, 'Comedy|Drama'),
 
 (33649, 'Saving Face', 2004, 'Comedy|Drama|Romance'),
 
 (33660, 'Cinderella Man', 2005, 'Drama|Romance'),
 
-(33669, '"Sisterhood of the Traveling Pants, The', 2005, 'Adventure|Comedy|Drama'),
+(33669, 'Sisterhood of the Traveling Pants, The', 2005, 'Adventure|Comedy|Drama'),
 
 (33672, 'Lords of Dogtown', 2005, 'Action|Comedy|Drama'),
 
@@ -11843,7 +11843,7 @@ VALUES
 
 (33679, 'Mr. & Mrs. Smith', 2005, 'Action|Adventure|Comedy|Romance'),
 
-(33681, '"Adventures of Sharkboy and Lavagirl 3-D, The', 2005, 'Action|Adventure|Children|Fantasy'),
+(33681, 'Adventures of Sharkboy and Lavagirl 3-D, The', 2005, 'Action|Adventure|Children|Fantasy'),
 
 (33683, 'High Tension (Haute tension) (Switchblade Romance)', 2003, 'Horror|Thriller'),
 
@@ -11857,7 +11857,7 @@ VALUES
 
 (33801, 'Godzilla: Final Wars (Gojira: Fainaru uôzu)', 2004, 'Action|Adventure|Fantasy|Sci-Fi'),
 
-(33815, '"Perfect Man, The', 2005, 'Comedy|Drama|Romance'),
+(33815, 'Perfect Man, The', 2005, 'Comedy|Drama|Romance'),
 
 (33826, 'Saint Ralph', 2004, 'Comedy|Drama'),
 
@@ -11871,11 +11871,11 @@ VALUES
 
 (33880, 'Me and You and Everyone We Know', 2005, 'Comedy|Drama'),
 
-(33893, '"Perfect Crime, The (Crimen Ferpecto) (Ferpect Crime)', 2004, 'Comedy|Crime|Thriller'),
+(33893, 'Perfect Crime, The (Crimen Ferpecto) (Ferpect Crime)', 2004, 'Comedy|Crime|Thriller'),
 
 (33896, '3 Extremes (Three... Extremes) (Saam gaang yi)', 2004, 'Horror'),
 
-(33903, '"Edukators, The (Die Fetten Jahre sind vorbei)', 2004, 'Comedy|Crime|Drama|Romance'),
+(33903, 'Edukators, The (Die Fetten Jahre sind vorbei)', 2004, 'Comedy|Crime|Drama|Romance'),
 
 (33966, 'Cop and ½', 1993, 'Comedy'),
 
@@ -11883,13 +11883,13 @@ VALUES
 
 (34048, 'War of the Worlds', 2005, 'Action|Adventure|Sci-Fi|Thriller'),
 
-(34072, '"March of the Penguins (Marche de l‘empereur, La)', 2005, 'Documentary'),
+(34072, 'March of the Penguins (Marche de l‘empereur, La)', 2005, 'Documentary'),
 
 (34129, 'Rebound', 2005, 'Comedy'),
 
 (34143, 'Dark Water', 2005, 'Drama|Horror|Thriller'),
 
-(34148, '"Beat That My Heart Skipped, The (battre mon coeur s‘est arrêté, De)', 2005, 'Drama'),
+(34148, 'Beat That My Heart Skipped, The (battre mon coeur s‘est arrêté, De)', 2005, 'Drama'),
 
 (34150, 'Fantastic Four', 2005, 'Action|Adventure|Sci-Fi'),
 
@@ -11903,13 +11903,13 @@ VALUES
 
 (34292, 'Hardware', 1990, 'Action|Horror|Sci-Fi'),
 
-(34312, '"Calcium Kid, The', 2004, 'Comedy'),
+(34312, 'Calcium Kid, The', 2004, 'Comedy'),
 
-(34319, '"Island, The', 2005, 'Action|Sci-Fi|Thriller'),
+(34319, 'Island, The', 2005, 'Action|Sci-Fi|Thriller'),
 
 (34321, 'Bad News Bears', 2005, 'Children|Comedy'),
 
-(34323, '"Devil‘s Rejects, The', 2005, 'Action|Crime|Horror'),
+(34323, 'Devil‘s Rejects, The', 2005, 'Action|Crime|Horror'),
 
 (34326, 'Last Days', 2005, 'Drama'),
 
@@ -11921,11 +11921,11 @@ VALUES
 
 (34336, 'Must Love Dogs', 2005, 'Comedy|Romance'),
 
-(34338, '"Aristocrats, The', 2005, 'Comedy|Documentary'),
+(34338, 'Aristocrats, The', 2005, 'Comedy|Documentary'),
 
 (34359, 'Georgy Girl', 1966, 'Comedy'),
 
-(34397, '"Order, The', 2001, 'Action|Adventure|Drama|Thriller'),
+(34397, 'Order, The', 2001, 'Action|Adventure|Drama|Thriller'),
 
 (34405, 'Serenity', 2005, 'Action|Adventure|Sci-Fi'),
 
@@ -11933,9 +11933,9 @@ VALUES
 
 (34450, 'Miracles - Mr. Canton and Lady Rose', 1989, 'Action|Comedy|Crime|Drama'),
 
-(34482, '"Browning Version, The', 1951, 'Drama'),
+(34482, 'Browning Version, The', 1951, 'Drama'),
 
-(34520, '"Dukes of Hazzard, The', 2005, 'Action|Adventure|Comedy'),
+(34520, 'Dukes of Hazzard, The', 2005, 'Action|Adventure|Comedy'),
 
 (34523, 'The Chumscrubber', 2005, 'Comedy|Drama'),
 
@@ -11943,7 +11943,7 @@ VALUES
 
 (34530, 'Deuce Bigalow: European Gigolo', 2005, 'Comedy'),
 
-(34532, '"Skeleton Key, The', 2005, 'Drama|Horror|Mystery|Thriller'),
+(34532, 'Skeleton Key, The', 2005, 'Drama|Horror|Mystery|Thriller'),
 
 (34534, 'Four Brothers', 2005, 'Action|Crime|Drama'),
 
@@ -11961,9 +11961,9 @@ VALUES
 
 (35347, 'Animal Farm', 1954, 'Animation|Drama'),
 
-(35807, '"Teahouse of the August Moon, The', 1956, 'Comedy'),
+(35807, 'Teahouse of the August Moon, The', 1956, 'Comedy'),
 
-(35836, '"40-Year-Old Virgin, The', 2005, 'Comedy|Romance'),
+(35836, '40-Year-Old Virgin, The', 2005, 'Comedy|Romance'),
 
 (35957, 'Red Eye', 2005, 'Horror|Thriller'),
 
@@ -11975,13 +11975,13 @@ VALUES
 
 (36397, 'Valiant', 2005, 'Adventure|Animation|Children|Comedy|Fantasy|War'),
 
-(36401, '"Brothers Grimm, The', 2005, 'Comedy|Fantasy|Horror|Thriller'),
+(36401, 'Brothers Grimm, The', 2005, 'Comedy|Fantasy|Horror|Thriller'),
 
-(36477, '"Baxter, The', 2005, 'Comedy|Drama|Romance'),
+(36477, 'Baxter, The', 2005, 'Comedy|Drama|Romance'),
 
-(36509, '"Cave, The', 2005, 'Action|Adventure|Horror|Mystery|Sci-Fi|Thriller'),
+(36509, 'Cave, The', 2005, 'Action|Adventure|Horror|Mystery|Sci-Fi|Thriller'),
 
-(36517, '"Constant Gardener, The', 2005, 'Drama|Thriller'),
+(36517, 'Constant Gardener, The', 2005, 'Drama|Thriller'),
 
 (36519, 'Transporter 2', 2005, 'Action|Crime|Thriller'),
 
@@ -12017,15 +12017,15 @@ VALUES
 
 (37444, 'Frankenstein 90', 1984, 'Comedy|Horror|Romance'),
 
-(37475, '"Unfinished Life, An', 2005, 'Drama'),
+(37475, 'Unfinished Life, An', 2005, 'Drama'),
 
-(37477, '"Man, The', 2005, 'Action|Comedy|Crime'),
+(37477, 'Man, The', 2005, 'Action|Comedy|Crime'),
 
 (37495, 'Survive Style 5+', 2004, 'Fantasy|Mystery|Romance|Thriller'),
 
 (37545, 'Woyzeck', 1979, 'Drama'),
 
-(37720, '"Exorcism of Emily Rose, The', 2005, 'Crime|Drama|Horror|Thriller'),
+(37720, 'Exorcism of Emily Rose, The', 2005, 'Crime|Drama|Horror|Thriller'),
 
 (37727, 'Flightplan', 2005, 'Action|Drama|Thriller'),
 
@@ -12033,11 +12033,11 @@ VALUES
 
 (37731, 'Green Street Hooligans (a.k.a. Hooligans)', 2005, 'Crime|Drama'),
 
-(37733, '"History of Violence, A', 2005, 'Action|Crime|Drama|Thriller'),
+(37733, 'History of Violence, A', 2005, 'Action|Crime|Drama|Thriller'),
 
 (37736, 'Oliver Twist', 2005, 'Drama'),
 
-(37739, '"Greatest Game Ever Played, The', 2005, 'Drama'),
+(37739, 'Greatest Game Ever Played, The', 2005, 'Drama'),
 
 (37741, 'Capote', 2005, 'Crime|Drama'),
 
@@ -12053,11 +12053,11 @@ VALUES
 
 (38061, 'Kiss Kiss Bang Bang', 2005, 'Comedy|Crime|Mystery|Thriller'),
 
-(38095, '"Bittersweet Life, A (Dalkomhan insaeng)', 2005, 'Action|Crime|Drama'),
+(38095, 'Bittersweet Life, A (Dalkomhan insaeng)', 2005, 'Action|Crime|Drama'),
 
-(38159, '"Short Film About Love, A (Krótki film o milosci)', 1988, 'Drama|Romance'),
+(38159, 'Short Film About Love, A (Krótki film o milosci)', 1988, 'Drama|Romance'),
 
-(38164, '"All This, and Heaven Too', 1940, 'Drama|Romance'),
+(38164, 'All This, and Heaven Too', 1940, 'Drama|Romance'),
 
 (38198, 'Darwin‘s Nightmare', 2004, 'Documentary'),
 
@@ -12067,11 +12067,11 @@ VALUES
 
 (38388, 'Goal! The Dream Begins (Goal!)', 2005, 'Drama'),
 
-(38583, '"Wraith, The', 1986, 'Action|Horror|Sci-Fi|Thriller'),
+(38583, 'Wraith, The', 1986, 'Action|Horror|Sci-Fi|Thriller'),
 
 (38798, 'In Her Shoes', 2005, 'Comedy|Drama'),
 
-(38886, '"Squid and the Whale, The', 2005, 'Comedy|Drama'),
+(38886, 'Squid and the Whale, The', 2005, 'Comedy|Drama'),
 
 (38992, 'Two for the Money', 2005, 'Drama'),
 
@@ -12081,21 +12081,21 @@ VALUES
 
 (39234, 'North Country', 2005, 'Drama'),
 
-(39292, '"Good Night, and Good Luck.', 2005, 'Crime|Drama'),
+(39292, 'Good Night, and Good Luck.', 2005, 'Crime|Drama'),
 
 (39307, 'Dreamer: Inspired by a True Story', 2005, 'Children|Drama'),
 
-(39381, '"Proposition, The', 2005, 'Crime|Drama|Western'),
+(39381, 'Proposition, The', 2005, 'Crime|Drama|Western'),
 
-(39400, '"Fog, The', 2005, 'Action|Horror|Mystery|Thriller'),
+(39400, 'Fog, The', 2005, 'Action|Horror|Mystery|Thriller'),
 
 (39414, 'Shopgirl', 2005, 'Comedy|Drama|Romance'),
 
 (39427, 'Stay', 2005, 'Thriller'),
 
-(39435, '"Legend of Zorro, The', 2005, 'Action|Adventure|Drama|Western'),
+(39435, 'Legend of Zorro, The', 2005, 'Action|Adventure|Drama|Western'),
 
-(39444, '"Weather Man, The', 2005, 'Comedy|Drama'),
+(39444, 'Weather Man, The', 2005, 'Comedy|Drama'),
 
 (39446, 'Saw II', 2005, 'Horror|Thriller'),
 
@@ -12105,7 +12105,7 @@ VALUES
 
 (39715, 'American Pie Presents: Band Camp (American Pie 4: Band Camp)', 2005, 'Comedy'),
 
-(39801, '"Great Yokai War, The (Yôkai daisensô)', 2005, 'Adventure|Comedy|Fantasy|Horror'),
+(39801, 'Great Yokai War, The (Yôkai daisensô)', 2005, 'Adventure|Comedy|Fantasy|Horror'),
 
 (39869, 'Manderlay', 2005, 'Drama'),
 
@@ -12121,7 +12121,7 @@ VALUES
 
 (40478, 'Night of the Lepus', 1972, 'Horror|Sci-Fi|Thriller'),
 
-(40491, '"Match Factory Girl, The (Tulitikkutehtaan tyttö)', 1990, 'Comedy|Drama'),
+(40491, 'Match Factory Girl, The (Tulitikkutehtaan tyttö)', 1990, 'Comedy|Drama'),
 
 (40578, 'Sword of the Beast (Kedamono no ken)', 1965, 'Action|Drama'),
 
@@ -12141,7 +12141,7 @@ VALUES
 
 (40723, 'Wolf Creek', 2005, 'Crime|Horror|Thriller'),
 
-(40732, '"Descent, The', 2005, 'Adventure|Drama|Horror|Thriller'),
+(40732, 'Descent, The', 2005, 'Adventure|Drama|Horror|Thriller'),
 
 (40815, 'Harry Potter and the Goblet of Fire', 2005, 'Adventure|Fantasy|Thriller|IMAX'),
 
@@ -12157,33 +12157,33 @@ VALUES
 
 (40955, 'Breakfast on Pluto', 2005, 'Comedy|Drama'),
 
-(40959, '"Ice Harvest, The', 2005, 'Action|Comedy|Crime|Thriller'),
+(40959, 'Ice Harvest, The', 2005, 'Action|Comedy|Crime|Thriller'),
 
-(40962, '"Yours, Mine and Ours', 2005, 'Comedy|Romance'),
+(40962, 'Yours, Mine and Ours', 2005, 'Comedy|Romance'),
 
-(40966, '"Libertine, The', 2004, 'Drama'),
+(40966, 'Libertine, The', 2004, 'Drama'),
 
-(41014, '"Bird with the Crystal Plumage, The (Uccello dalle piume di cristallo, L‘)', 1970, 'Crime|Horror|Mystery|Thriller'),
+(41014, 'Bird with the Crystal Plumage, The (Uccello dalle piume di cristallo, L‘)', 1970, 'Crime|Horror|Mystery|Thriller'),
 
 (41285, 'Match Point', 2005, 'Crime|Drama|Romance'),
 
 (41527, 'Paradise Now', 2005, 'Crime|Drama|Thriller|War'),
 
-(41566, '"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The', 2005, 'Adventure|Children|Fantasy'),
+(41566, 'Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The', 2005, 'Adventure|Children|Fantasy'),
 
 (41569, 'King Kong', 2005, 'Action|Adventure|Drama|Fantasy|Thriller'),
 
 (41571, 'Memoirs of a Geisha', 2005, 'Drama|Romance'),
 
-(41573, '"Family Stone, The', 2005, 'Comedy|Drama|Romance'),
+(41573, 'Family Stone, The', 2005, 'Comedy|Drama|Romance'),
 
 (41617, 'Havoc', 2005, 'Crime|Drama|Romance'),
 
 (41627, 'Samurai Rebellion (Jôi-uchi: Hairyô tsuma shimatsu)', 1967, 'Action|Drama'),
 
-(41712, '"Room for Romeo Brass, A', 1999, 'Comedy|Drama'),
+(41712, 'Room for Romeo Brass, A', 1999, 'Comedy|Drama'),
 
-(41716, '"Matador, The', 2005, 'Comedy|Drama|Thriller'),
+(41716, 'Matador, The', 2005, 'Comedy|Drama|Thriller'),
 
 (41724, 'Wal-Mart: The High Cost of Low Price', 2005, 'Documentary'),
 
@@ -12191,11 +12191,11 @@ VALUES
 
 (41828, 'Don‘t Look Now: We‘re Being Shot At (La grande vadrouille)', 1966, 'Comedy|War'),
 
-(41863, '"Three Burials of Melquiades Estrada, The', 2006, 'Adventure|Crime|Drama'),
+(41863, 'Three Burials of Melquiades Estrada, The', 2006, 'Adventure|Crime|Drama'),
 
 (41997, 'Munich', 2005, 'Action|Crime|Drama|Thriller'),
 
-(42002, '"Producers, The', 2005, 'Comedy|Musical'),
+(42002, 'Producers, The', 2005, 'Comedy|Musical'),
 
 (42004, 'Transamerica', 2005, 'Adventure|Comedy|Drama'),
 
@@ -12205,19 +12205,19 @@ VALUES
 
 (42011, 'Fun with Dick and Jane', 2005, 'Comedy|Crime'),
 
-(42013, '"Ringer, The', 2005, 'Comedy'),
+(42013, 'Ringer, The', 2005, 'Comedy'),
 
 (42015, 'Casanova', 2005, 'Action|Adventure|Comedy|Drama|Romance'),
 
 (42018, 'Mrs. Henderson Presents', 2005, 'Comedy|Drama'),
 
-(42176, '"Ear, The (Ucho)', 1970, 'Drama|Thriller'),
+(42176, 'Ear, The (Ucho)', 1970, 'Drama|Thriller'),
 
 (42191, 'Luxo Jr.', 1986, 'Animation|Children'),
 
-(42285, '"Dentist, The', 1996, 'Horror|Thriller'),
+(42285, 'Dentist, The', 1996, 'Horror|Thriller'),
 
-(42418, '"New World, The', 2005, 'Adventure|Drama|Romance'),
+(42418, 'New World, The', 2005, 'Adventure|Drama|Romance'),
 
 (42422, 'Voices of a Distant Star (Hoshi no koe)', 2003, 'Animation|Drama|Romance|Sci-Fi'),
 
@@ -12225,7 +12225,7 @@ VALUES
 
 (42559, 'Samurai Assassin (Samurai)', 1965, 'Action|Adventure|Drama'),
 
-(42602, '"Boys of Baraka, The', 2005, 'Documentary'),
+(42602, 'Boys of Baraka, The', 2005, 'Documentary'),
 
 (42632, 'Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi)', 2005, 'Crime|Drama|Mystery|Thriller'),
 
@@ -12255,13 +12255,13 @@ VALUES
 
 (42946, 'Project A (‘A‘ gai waak)', 1983, 'Action|Comedy'),
 
-(43289, '"Bird People in China, The (Chûgoku no chôjin)', 1998, 'Adventure|Comedy|Drama|Fantasy'),
+(43289, 'Bird People in China, The (Chûgoku no chôjin)', 1998, 'Adventure|Comedy|Drama|Fantasy'),
 
 (43333, 'Water', 2005, 'Drama|Romance'),
 
 (43376, 'Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage)', 2005, 'Drama|War'),
 
-(43396, '"World‘s Fastest Indian, The', 2005, 'Drama'),
+(43396, 'World‘s Fastest Indian, The', 2005, 'Drama'),
 
 (43419, 'Bandidas', 2006, 'Action|Comedy|Crime|Western'),
 
@@ -12275,7 +12275,7 @@ VALUES
 
 (43560, 'Nanny McPhee', 2005, 'Children|Comedy|Fantasy'),
 
-(43677, '"Tuskegee Airmen, The', 1995, 'Drama|War'),
+(43677, 'Tuskegee Airmen, The', 1995, 'Drama|War'),
 
 (43679, 'Final Destination 3', 2006, 'Horror|Mystery|Thriller'),
 
@@ -12285,7 +12285,7 @@ VALUES
 
 (43744, 'Imagine Me & You', 2005, 'Comedy|Drama|Romance'),
 
-(43836, '"Pink Panther, The', 2006, 'Adventure|Comedy|Crime'),
+(43836, 'Pink Panther, The', 2006, 'Adventure|Comedy|Crime'),
 
 (43869, 'Curious George', 2006, 'Adventure|Animation|Children|Comedy'),
 
@@ -12343,19 +12343,19 @@ VALUES
 
 (44301, 'Lights in the Dusk (Laitakaupungin valot)', 2006, 'Crime|Drama'),
 
-(44397, '"Hills Have Eyes, The', 2006, 'Drama|Horror|Thriller'),
+(44397, 'Hills Have Eyes, The', 2006, 'Drama|Horror|Thriller'),
 
-(44399, '"Shaggy Dog, The', 2006, 'Adventure|Children|Comedy|Fantasy'),
+(44399, 'Shaggy Dog, The', 2006, 'Adventure|Children|Comedy|Fantasy'),
 
 (44511, 'Unknown White Male', 2005, 'Documentary'),
 
-(44555, '"Lives of Others, The (Das leben der Anderen)', 2006, 'Drama|Romance|Thriller'),
+(44555, 'Lives of Others, The (Das leben der Anderen)', 2006, 'Drama|Romance|Thriller'),
 
 (44597, 'Youth of the Beast (Yaju no seishun)', 1963, 'Action|Crime|Mystery'),
 
 (44613, 'Take the Lead', 2006, 'Drama'),
 
-(44633, '"Devil and Daniel Johnston, The', 2005, 'Documentary'),
+(44633, 'Devil and Daniel Johnston, The', 2005, 'Documentary'),
 
 (44657, 'Mouchette', 1967, 'Drama'),
 
@@ -12373,7 +12373,7 @@ VALUES
 
 (44761, 'Brick', 2005, 'Crime|Drama|Film-Noir|Mystery'),
 
-(44773, '"Dead Hate the Living!, The', 2000, 'Comedy|Horror'),
+(44773, 'Dead Hate the Living!, The', 2000, 'Comedy|Horror'),
 
 (44777, 'Evil Aliens', 2005, 'Comedy|Horror|Sci-Fi'),
 
@@ -12381,7 +12381,7 @@ VALUES
 
 (44828, 'Slither', 2006, 'Comedy|Horror|Sci-Fi'),
 
-(44840, '"Benchwarmers, The', 2006, 'Comedy'),
+(44840, 'Benchwarmers, The', 2006, 'Comedy'),
 
 (44849, 'Renaissance', 2006, 'Action|Animation|Film-Noir|Sci-Fi|Thriller'),
 
@@ -12395,7 +12395,7 @@ VALUES
 
 (44931, 'Secrets of a Soul (Geheimnisse einer Seele)', 1926, 'Drama'),
 
-(44937, '"Child, The (L‘enfant)', 2005, 'Crime|Drama'),
+(44937, 'Child, The (L‘enfant)', 2005, 'Crime|Drama'),
 
 (44943, '9/11', 2002, 'Documentary'),
 
@@ -12403,11 +12403,11 @@ VALUES
 
 (44974, 'Hard Candy', 2005, 'Drama|Thriller'),
 
-(45028, '"Prairie Home Companion, A', 2006, 'Comedy|Drama|Musical'),
+(45028, 'Prairie Home Companion, A', 2006, 'Comedy|Drama|Musical'),
 
-(45062, '"Sentinel, The', 2006, 'Crime|Drama|Thriller'),
+(45062, 'Sentinel, The', 2006, 'Crime|Drama|Thriller'),
 
-(45074, '"Wild, The', 2006, 'Adventure|Animation|Children|Comedy|Fantasy'),
+(45074, 'Wild, The', 2006, 'Adventure|Animation|Children|Comedy|Fantasy'),
 
 (45081, 'Silent Hill', 2006, 'Fantasy|Horror|Thriller'),
 
@@ -12415,7 +12415,7 @@ VALUES
 
 (45175, 'Kinky Boots', 2005, 'Comedy|Drama'),
 
-(45183, '"Protector, The (a.k.a. Warrior King) (Tom yum goong)', 2005, 'Action|Comedy|Crime|Thriller'),
+(45183, 'Protector, The (a.k.a. Warrior King) (Tom yum goong)', 2005, 'Action|Comedy|Crime|Thriller'),
 
 (45186, 'Mission: Impossible III', 2006, 'Action|Adventure|Thriller'),
 
@@ -12425,7 +12425,7 @@ VALUES
 
 (45221, 'Stick It', 2006, 'Comedy'),
 
-(45361, '"American Haunting, An', 2005, 'Drama|Horror|Mystery|Thriller'),
+(45361, 'American Haunting, An', 2005, 'Drama|Horror|Mystery|Thriller'),
 
 (45382, 'Down in the Valley', 2005, 'Drama|Romance'),
 
@@ -12435,35 +12435,35 @@ VALUES
 
 (45442, 'Poseidon', 2006, 'Action|Adventure|Thriller|IMAX'),
 
-(45447, '"Da Vinci Code, The', 2006, 'Drama|Mystery|Thriller'),
+(45447, 'Da Vinci Code, The', 2006, 'Drama|Mystery|Thriller'),
 
 (45499, 'X-Men: The Last Stand', 2006, 'Action|Sci-Fi|Thriller'),
 
-(45501, '"Break-Up, The', 2006, 'Comedy|Drama|Romance'),
+(45501, 'Break-Up, The', 2006, 'Comedy|Drama|Romance'),
 
 (45503, 'Peaceful Warrior', 2006, 'Drama'),
 
 (45517, 'Cars', 2006, 'Animation|Children|Comedy'),
 
-(45635, '"Notorious Bettie Page, The', 2005, 'Drama'),
+(45635, 'Notorious Bettie Page, The', 2005, 'Drama'),
 
 (45648, 'Game 6', 2005, 'Comedy|Drama'),
 
 (45658, 'On a Clear Day', 2005, 'Drama'),
 
-(45662, '"Omen, The', 2006, 'Horror|Thriller'),
+(45662, 'Omen, The', 2006, 'Horror|Thriller'),
 
 (45666, 'Nacho Libre', 2006, 'Comedy'),
 
-(45668, '"Lake House, The', 2006, 'Drama|Fantasy|Romance'),
+(45668, 'Lake House, The', 2006, 'Drama|Fantasy|Romance'),
 
 (45672, 'Click', 2006, 'Adventure|Comedy|Drama|Fantasy|Romance'),
 
-(45720, '"Devil Wears Prada, The', 2006, 'Comedy|Drama'),
+(45720, 'Devil Wears Prada, The', 2006, 'Comedy|Drama'),
 
 (45722, 'Pirates of the Caribbean: Dead Man‘s Chest', 2006, 'Action|Adventure|Fantasy'),
 
-(45726, '"You, Me and Dupree', 2006, 'Comedy'),
+(45726, 'You, Me and Dupree', 2006, 'Comedy'),
 
 (45728, 'Clerks II', 2006, 'Comedy'),
 
@@ -12475,7 +12475,7 @@ VALUES
 
 (45928, 'Who Killed the Electric Car?', 2006, 'Documentary'),
 
-(45950, '"Inconvenient Truth, An', 2006, 'Documentary'),
+(45950, 'Inconvenient Truth, An', 2006, 'Documentary'),
 
 (45969, 'Career Opportunities', 1991, 'Comedy|Romance'),
 
@@ -12487,25 +12487,25 @@ VALUES
 
 (46322, 'Jet Li‘s Fearless (Huo Yuan Jia)', 2006, 'Action|Drama'),
 
-(46335, '"Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The)', 2006, 'Action|Crime|Drama|Thriller'),
+(46335, 'Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The)', 2006, 'Action|Crime|Drama|Thriller'),
 
 (46337, 'Garfield: A Tail of Two Kitties', 2006, 'Animation|Children|Comedy'),
 
 (46347, 'Metal: A Headbanger‘s Journey', 2005, 'Documentary'),
 
-(46367, '"Public Eye, The', 1992, 'Crime|Thriller'),
+(46367, 'Public Eye, The', 1992, 'Crime|Thriller'),
 
 (46530, 'Superman Returns', 2006, 'Action|Adventure|Sci-Fi|IMAX'),
 
-(46559, '"Road to Guantanamo, The', 2006, 'Drama|War'),
+(46559, 'Road to Guantanamo, The', 2006, 'Drama|War'),
 
 (46572, 'Edmond', 2005, 'Drama|Thriller'),
 
-(46574, '"OH in Ohio, The', 2006, 'Comedy'),
+(46574, 'OH in Ohio, The', 2006, 'Comedy'),
 
 (46578, 'Little Miss Sunshine', 2006, 'Adventure|Comedy|Drama'),
 
-(46664, '"Fallen Idol, The', 1948, 'Drama|Mystery|Thriller'),
+(46664, 'Fallen Idol, The', 1948, 'Drama|Mystery|Thriller'),
 
 (46723, 'Babel', 2006, 'Drama|Thriller'),
 
@@ -12535,19 +12535,19 @@ VALUES
 
 (47044, 'Miami Vice', 2006, 'Action|Crime|Drama|Thriller'),
 
-(47099, '"Pursuit of Happyness, The', 2006, 'Drama'),
+(47099, 'Pursuit of Happyness, The', 2006, 'Drama'),
 
 (47122, 'John Tucker Must Die', 2006, 'Comedy|Romance'),
 
-(47124, '"Ant Bully, The', 2006, 'Adventure|Animation|Children|Comedy|Fantasy|IMAX'),
+(47124, 'Ant Bully, The', 2006, 'Adventure|Animation|Children|Comedy|Fantasy|IMAX'),
 
 (47200, 'Crank', 2006, 'Action|Thriller'),
 
-(47202, '"Secret Life of Words, The', 2005, 'Drama|Romance'),
+(47202, 'Secret Life of Words, The', 2005, 'Drama|Romance'),
 
 (47254, 'Chaos', 2005, 'Action|Crime|Drama|Thriller'),
 
-(47261, '"Night Listener, The', 2006, 'Fantasy|Mystery|Thriller'),
+(47261, 'Night Listener, The', 2006, 'Fantasy|Mystery|Thriller'),
 
 (47382, 'Step Up', 2006, 'Drama|Romance'),
 
@@ -12557,7 +12557,7 @@ VALUES
 
 (47423, 'Half Nelson', 2006, 'Drama'),
 
-(47446, '"Moustache, La', 2005, 'Drama|Mystery|Thriller'),
+(47446, 'Moustache, La', 2005, 'Drama|Mystery|Thriller'),
 
 (47465, 'Tideland', 2005, 'Drama|Fantasy|Thriller'),
 
@@ -12571,7 +12571,7 @@ VALUES
 
 (47566, 'Born to Kill', 1947, 'Crime|Drama|Film-Noir'),
 
-(47610, '"Illusionist, The', 2006, 'Drama|Fantasy|Mystery|Romance'),
+(47610, 'Illusionist, The', 2006, 'Drama|Fantasy|Mystery|Romance'),
 
 (47629, 'The Queen', 2006, 'Drama'),
 
@@ -12581,27 +12581,27 @@ VALUES
 
 (47646, 'Idlewild', 2006, 'Crime|Drama|Musical'),
 
-(47721, '"Red Balloon, The (Ballon rouge, Le)', 1956, 'Children|Fantasy'),
+(47721, 'Red Balloon, The (Ballon rouge, Le)', 1956, 'Children|Fantasy'),
 
 (47725, 'Angel-A', 2005, 'Comedy|Drama|Fantasy|Romance'),
 
-(47736, '"Chump at Oxford, A', 1940, 'Comedy'),
+(47736, 'Chump at Oxford, A', 1940, 'Comedy'),
 
-(47774, '"Icicle Thief, The (Ladri di saponette)', 1989, 'Comedy|Fantasy'),
+(47774, 'Icicle Thief, The (Ladri di saponette)', 1989, 'Comedy|Fantasy'),
 
-(47793, '"Puffy Chair, The', 2006, 'Drama|Romance'),
+(47793, 'Puffy Chair, The', 2006, 'Drama|Romance'),
 
-(47810, '"Wicker Man, The', 2006, 'Horror|Mystery|Thriller'),
+(47810, 'Wicker Man, The', 2006, 'Horror|Mystery|Thriller'),
 
-(47894, '"Wind That Shakes the Barley, The', 2006, 'Drama|War'),
+(47894, 'Wind That Shakes the Barley, The', 2006, 'Drama|War'),
 
 (47937, 'Severance', 2006, 'Comedy|Horror|Thriller'),
 
 (47950, 'Hollywoodland', 2006, 'Crime|Drama|Mystery|Thriller'),
 
-(47952, '"Covenant, The', 2006, 'Action|Horror|Thriller'),
+(47952, 'Covenant, The', 2006, 'Action|Horror|Thriller'),
 
-(47970, '"Last Kiss, The', 2006, 'Comedy|Drama'),
+(47970, 'Last Kiss, The', 2006, 'Comedy|Drama'),
 
 (47978, 'SherryBaby', 2006, 'Drama'),
 
@@ -12609,25 +12609,25 @@ VALUES
 
 (47999, 'Jesus Camp', 2006, 'Documentary|Drama'),
 
-(48001, '"Bow, The (Hwal)', 2005, 'Drama|Romance'),
+(48001, 'Bow, The (Hwal)', 2005, 'Drama|Romance'),
 
-(48032, '"Tiger and the Snow, The (La tigre e la neve)', 2005, 'Comedy|Drama|Romance|War'),
+(48032, 'Tiger and the Snow, The (La tigre e la neve)', 2005, 'Comedy|Drama|Romance|War'),
 
-(48043, '"Fountain, The', 2006, 'Drama|Fantasy|Romance'),
+(48043, 'Fountain, The', 2006, 'Drama|Fantasy|Romance'),
 
 (48045, 'Fear City: A Family-Style Comedy (La cité de la peur)', 1994, 'Comedy'),
 
-(48082, '"Science of Sleep, The (La science des rêves)', 2006, 'Comedy|Drama|Fantasy|Romance'),
+(48082, 'Science of Sleep, The (La science des rêves)', 2006, 'Comedy|Drama|Fantasy|Romance'),
 
-(48142, '"Black Dahlia, The', 2006, 'Crime|Drama|Mystery|Thriller'),
+(48142, 'Black Dahlia, The', 2006, 'Crime|Drama|Mystery|Thriller'),
 
-(48150, '"Woods, The', 2006, 'Horror'),
+(48150, 'Woods, The', 2006, 'Horror'),
 
 (48161, 'Gridiron Gang', 2006, 'Drama'),
 
 (48214, 'Land of Plenty (Angst and Alienation in America)', 2004, 'Drama'),
 
-(48262, '"Bridge, The', 2006, 'Documentary'),
+(48262, 'Bridge, The', 2006, 'Documentary'),
 
 (48304, 'Apocalypto', 2006, 'Adventure|Drama|Thriller'),
 
@@ -12641,17 +12641,17 @@ VALUES
 
 (48385, 'Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan', 2006, 'Comedy'),
 
-(48394, '"Pan‘s Labyrinth (Laberinto del fauno, El)', 2006, 'Drama|Fantasy|Thriller'),
+(48394, 'Pan‘s Labyrinth (Laberinto del fauno, El)', 2006, 'Drama|Fantasy|Thriller'),
 
-(48412, '"Guardian, The', 2006, 'Action|Adventure|Drama'),
+(48412, 'Guardian, The', 2006, 'Action|Adventure|Drama'),
 
 (48414, 'Open Season', 2006, 'Adventure|Animation|Children|Comedy|IMAX'),
 
 (48416, 'School for Scoundrels', 2006, 'Comedy|Crime'),
 
-(48516, '"Departed, The', 2006, 'Crime|Drama|Thriller'),
+(48516, 'Departed, The', 2006, 'Crime|Drama|Thriller'),
 
-(48518, '"Texas Chainsaw Massacre: The Beginning, The', 2006, 'Horror|Thriller'),
+(48518, 'Texas Chainsaw Massacre: The Beginning, The', 2006, 'Horror|Thriller'),
 
 (48520, 'Employee of the Month', 2006, 'Comedy'),
 
@@ -12659,7 +12659,7 @@ VALUES
 
 (48593, 'Man of the Year', 2006, 'Comedy|Thriller'),
 
-(48596, '"Marine, The', 2006, 'Action|Drama|Thriller'),
+(48596, 'Marine, The', 2006, 'Action|Drama|Thriller'),
 
 (48598, 'Infamous', 2006, 'Drama'),
 
@@ -12673,15 +12673,15 @@ VALUES
 
 (48698, 'Deliver Us from Evil', 2006, 'Documentary'),
 
-(48738, '"Last King of Scotland, The', 2006, 'Drama|Thriller'),
+(48738, 'Last King of Scotland, The', 2006, 'Drama|Thriller'),
 
-(48741, '"U.S. vs. John Lennon, The', 2006, 'Documentary'),
+(48741, 'U.S. vs. John Lennon, The', 2006, 'Documentary'),
 
 (48744, 'Shortbus', 2006, 'Comedy|Drama|Romance'),
 
 (48774, 'Children of Men', 2006, 'Action|Adventure|Drama|Sci-Fi|Thriller'),
 
-(48780, '"Prestige, The', 2006, 'Drama|Mystery|Sci-Fi|Thriller'),
+(48780, 'Prestige, The', 2006, 'Drama|Mystery|Sci-Fi|Thriller'),
 
 (48783, 'Flags of Our Fathers', 2006, 'Drama|War'),
 
@@ -12697,11 +12697,11 @@ VALUES
 
 (48997, 'Perfume: The Story of a Murderer', 2006, 'Crime|Drama|Thriller'),
 
-(49013, '"Santa Clause 3: The Escape Clause, The', 2006, 'Comedy|Fantasy'),
+(49013, 'Santa Clause 3: The Escape Clause, The', 2006, 'Comedy|Fantasy'),
 
 (49110, 'Mom and Dad Save the World', 1992, 'Comedy|Sci-Fi'),
 
-(49130, '"Good Year, A', 2006, 'Comedy|Drama|Romance'),
+(49130, 'Good Year, A', 2006, 'Comedy|Drama|Romance'),
 
 (49132, 'Shut Up & Sing', 2006, 'Documentary'),
 
@@ -12723,7 +12723,7 @@ VALUES
 
 (49284, '10 Items or Less', 2006, 'Comedy|Drama|Romance'),
 
-(49286, '"Holiday, The', 2006, 'Comedy|Romance'),
+(49286, 'Holiday, The', 2006, 'Comedy|Romance'),
 
 (49314, 'Harsh Times', 2006, 'Action|Crime|Drama'),
 
@@ -12733,7 +12733,7 @@ VALUES
 
 (49396, 'Tenacious D in The Pick of Destiny', 2006, 'Adventure|Comedy|Musical'),
 
-(49524, '"Nativity Story, The', 2006, 'Drama'),
+(49524, 'Nativity Story, The', 2006, 'Drama'),
 
 (49530, 'Blood Diamond', 2006, 'Action|Adventure|Crime|Drama|Thriller|War'),
 
@@ -12745,15 +12745,15 @@ VALUES
 
 (49666, 'Fur: An Imaginary Portrait of Diane Arbus', 2006, 'Drama|Fantasy|Romance'),
 
-(49688, '"Dam Busters, The', 1955, 'Action|Drama|War'),
+(49688, 'Dam Busters, The', 1955, 'Action|Drama|War'),
 
 (49735, 'Another Gay Movie', 2006, 'Comedy'),
 
-(49772, '"Painted Veil, The', 2006, 'Drama|Romance'),
+(49772, 'Painted Veil, The', 2006, 'Drama|Romance'),
 
 (49793, 'We Are Marshall', 2006, 'Drama'),
 
-(49822, '"Good Shepherd, The', 2006, 'Drama|Thriller'),
+(49822, 'Good Shepherd, The', 2006, 'Drama|Thriller'),
 
 (49824, 'Dreamgirls', 2006, 'Drama|Musical'),
 
@@ -12763,7 +12763,7 @@ VALUES
 
 (49932, 'Inland Empire', 2006, 'Drama|Mystery|Thriller'),
 
-(49957, '"History Boys, The', 2006, 'Comedy|Drama'),
+(49957, 'History Boys, The', 2006, 'Comedy|Drama'),
 
 (49961, 'Notes on a Scandal', 2006, 'Drama'),
 
@@ -12771,7 +12771,7 @@ VALUES
 
 (50005, 'Curse of the Golden Flower (Man cheng jin dai huang jin jia)', 2006, 'Action|Drama'),
 
-(50064, '"Good German, The', 2006, 'Drama|Mystery|Thriller'),
+(50064, 'Good German, The', 2006, 'Drama|Mystery|Thriller'),
 
 (50068, 'Letters from Iwo Jima', 2006, 'Drama|War'),
 
@@ -12793,7 +12793,7 @@ VALUES
 
 (50442, 'Alpha Dog', 2007, 'Crime|Drama'),
 
-(50445, '"Hitcher, The', 2007, 'Action|Horror|Thriller'),
+(50445, 'Hitcher, The', 2007, 'Action|Horror|Thriller'),
 
 (50514, 'After the Wedding (Efter brylluppet)', 2006, 'Drama'),
 
@@ -12817,7 +12817,7 @@ VALUES
 
 (50798, 'Epic Movie', 2007, 'Adventure|Comedy'),
 
-(50800, '"Messengers, The', 2007, 'Drama|Horror|Thriller'),
+(50800, 'Messengers, The', 2007, 'Drama|Horror|Thriller'),
 
 (50802, 'Because I Said So', 2007, 'Comedy|Drama|Romance'),
 
@@ -12825,21 +12825,21 @@ VALUES
 
 (50806, 'Norbit', 2007, 'Comedy|Romance'),
 
-(50842, '"Boss of It All, The (Direktøren for det hele)', 2006, 'Comedy|Drama'),
+(50842, 'Boss of It All, The (Direktøren for det hele)', 2006, 'Comedy|Drama'),
 
 (50851, 'Cocaine Cowboys', 2006, 'Documentary'),
 
 (50872, 'Ratatouille', 2007, 'Animation|Children|Drama'),
 
-(50912, '"Paris, I Love You (Paris, je t‘aime)', 2006, 'Romance'),
+(50912, 'Paris, I Love You (Paris, je t‘aime)', 2006, 'Romance'),
 
-(50923, '"Astronaut Farmer, The', 2007, 'Drama'),
+(50923, 'Astronaut Farmer, The', 2007, 'Drama'),
 
-(50942, '"Wake Up, Ron Burgundy', 2004, 'Comedy'),
+(50942, 'Wake Up, Ron Burgundy', 2004, 'Comedy'),
 
 (50954, 'It‘s a Boy Girl Thing', 2006, 'Comedy|Romance'),
 
-(50999, '"Ugly Duckling and Me!, The', 2006, 'Animation|Comedy'),
+(50999, 'Ugly Duckling and Me!, The', 2006, 'Animation|Comedy'),
 
 (51024, 'The Odyssey', 1997, 'Adventure|Drama|Fantasy'),
 
@@ -12853,7 +12853,7 @@ VALUES
 
 (51084, 'Music and Lyrics', 2007, 'Comedy|Romance'),
 
-(51086, '"Number 23, The', 2007, 'Drama|Mystery|Thriller'),
+(51086, 'Number 23, The', 2007, 'Drama|Mystery|Thriller'),
 
 (51088, 'Reno 911!: Miami', 2007, 'Comedy'),
 
@@ -12887,19 +12887,19 @@ VALUES
 
 (51662, '300', 2007, 'Action|Fantasy|War|IMAX'),
 
-(51666, '"Abandoned, The', 2006, 'Horror|Mystery|Thriller'),
+(51666, 'Abandoned, The', 2006, 'Horror|Mystery|Thriller'),
 
 (51694, 'Starter for 10', 2006, 'Drama|Romance'),
 
-(51698, '"Last Mimzy, The', 2007, 'Adventure|Children|Sci-Fi'),
+(51698, 'Last Mimzy, The', 2007, 'Adventure|Children|Sci-Fi'),
 
 (51705, 'Priceless (Hors de prix)', 2006, 'Comedy|Romance'),
 
-(51709, '"Host, The (Gwoemul)', 2006, 'Comedy|Drama|Horror|Sci-Fi|Thriller'),
+(51709, 'Host, The (Gwoemul)', 2006, 'Comedy|Drama|Horror|Sci-Fi|Thriller'),
 
 (51834, 'Becoming Jane', 2007, 'Drama|Romance'),
 
-(51884, '"Namesake, The', 2006, 'Drama|Romance'),
+(51884, 'Namesake, The', 2006, 'Drama|Romance'),
 
 (51903, 'I Think I Love My Wife', 2007, 'Comedy|Drama|Romance'),
 
@@ -12913,13 +12913,13 @@ VALUES
 
 (51935, 'Shooter', 2007, 'Action|Drama|Thriller'),
 
-(51937, '"Hills Have Eyes II, The', 2007, 'Horror|Thriller'),
+(51937, 'Hills Have Eyes II, The', 2007, 'Horror|Thriller'),
 
 (51939, 'TMNT (Teenage Mutant Ninja Turtles)', 2007, 'Action|Adventure|Animation|Children|Comedy|Fantasy'),
 
 (52042, 'Black Book (Zwartboek)', 2006, 'Drama|Thriller|War'),
 
-(52241, '"Lookout, The', 2007, 'Crime|Drama|Thriller'),
+(52241, 'Lookout, The', 2007, 'Crime|Drama|Thriller'),
 
 (52245, 'Blades of Glory', 2007, 'Comedy|Romance'),
 
@@ -12927,7 +12927,7 @@ VALUES
 
 (52281, 'Grindhouse', 2007, 'Action|Crime|Horror|Sci-Fi|Thriller'),
 
-(52283, '"Reaping, The', 2007, 'Horror|Thriller'),
+(52283, 'Reaping, The', 2007, 'Horror|Thriller'),
 
 (52287, 'Meet the Robinsons', 2007, 'Action|Adventure|Animation|Children|Comedy|Sci-Fi'),
 
@@ -12937,7 +12937,7 @@ VALUES
 
 (52328, 'Sunshine', 2007, 'Adventure|Drama|Sci-Fi|Thriller'),
 
-(52375, '"Hoax, The', 2007, 'Crime|Drama'),
+(52375, 'Hoax, The', 2007, 'Crime|Drama'),
 
 (52435, 'How the Grinch Stole Christmas!', 1966, 'Animation|Comedy|Fantasy|Musical'),
 
@@ -12945,7 +12945,7 @@ VALUES
 
 (52462, 'Aqua Teen Hunger Force Colon Movie Film for Theaters', 2007, 'Action|Adventure|Animation|Comedy|Fantasy|Mystery|Sci-Fi'),
 
-(52579, '"Vie en Rose, La (Môme, La)', 2007, 'Drama|Musical'),
+(52579, 'Vie en Rose, La (Môme, La)', 2007, 'Drama|Musical'),
 
 (52604, 'Fracture', 2007, 'Crime|Drama|Mystery|Thriller'),
 
@@ -12955,7 +12955,7 @@ VALUES
 
 (52694, 'Mr. Bean‘s Holiday', 2007, 'Comedy'),
 
-(52712, '"Invisible, The', 2007, 'Crime|Drama|Fantasy|Mystery|Thriller'),
+(52712, 'Invisible, The', 2007, 'Crime|Drama|Fantasy|Mystery|Thriller'),
 
 (52715, 'Kickin It Old Skool', 2007, 'Comedy'),
 
@@ -12971,7 +12971,7 @@ VALUES
 
 (52831, 'Maniac Cop', 1988, 'Action|Crime|Horror|Thriller'),
 
-(52867, '"Ex, The', 2007, 'Comedy|Romance'),
+(52867, 'Ex, The', 2007, 'Comedy|Romance'),
 
 (52885, 'Paprika (Papurika)', 2006, 'Animation|Mystery|Sci-Fi'),
 
@@ -13001,15 +13001,15 @@ VALUES
 
 (53129, 'Mr. Brooks', 2007, 'Crime|Drama|Thriller'),
 
-(53138, '"Librarian: Return to King Solomon‘s Mines, The', 2006, 'Action|Adventure|Fantasy'),
+(53138, 'Librarian: Return to King Solomon‘s Mines, The', 2006, 'Action|Adventure|Fantasy'),
 
-(53140, '"Librarian: Quest for the Spear, The', 2004, 'Action|Adventure|Comedy|Fantasy|Romance'),
+(53140, 'Librarian: Quest for the Spear, The', 2004, 'Action|Adventure|Comedy|Fantasy|Romance'),
 
 (53143, 'Fay Grim', 2006, 'Action|Thriller'),
 
-(53161, '"I‘m a Cyborg, But That‘s OK (Saibogujiman kwenchana)', 2006, 'Comedy|Drama|Romance|Sci-Fi'),
+(53161, 'I‘m a Cyborg, But That‘s OK (Saibogujiman kwenchana)', 2006, 'Comedy|Drama|Romance|Sci-Fi'),
 
-(53280, '"Breed, The', 2006, 'Horror|Thriller'),
+(53280, 'Breed, The', 2006, 'Horror|Thriller'),
 
 (53318, 'Cashback', 2006, 'Comedy|Drama|Romance'),
 
@@ -13023,7 +13023,7 @@ VALUES
 
 (53447, 'Paranoid Park', 2007, 'Crime|Drama'),
 
-(53450, '"Legend of Sleepy Hollow, The', 1980, 'Comedy|Fantasy|Horror'),
+(53450, 'Legend of Sleepy Hollow, The', 1980, 'Comedy|Fantasy|Horror'),
 
 (53453, 'Starcrash (a.k.a. Star Crash)', 1978, 'Action|Adventure|Fantasy|Sci-Fi'),
 
@@ -13039,17 +13039,17 @@ VALUES
 
 (53550, 'Rescue Dawn', 2006, 'Action|Adventure|Drama|War'),
 
-(53574, '"TV Set, The', 2006, 'Comedy|Drama'),
+(53574, 'TV Set, The', 2006, 'Comedy|Drama'),
 
-(53578, '"Valet, The (La doublure)', 2006, 'Comedy'),
+(53578, 'Valet, The (La doublure)', 2006, 'Comedy'),
 
 (53808, 'Bring It On: All or Nothing', 2006, 'Comedy'),
 
-(53883, '"Power of Nightmares, The: The Rise of the Politics of Fear', 2004, 'Documentary'),
+(53883, 'Power of Nightmares, The: The Rise of the Politics of Fear', 2004, 'Documentary'),
 
 (53894, 'Sicko', 2007, 'Documentary|Drama'),
 
-(53921, '"Mighty Heart, A', 2007, 'Drama|Thriller'),
+(53921, 'Mighty Heart, A', 2007, 'Drama|Thriller'),
 
 (53953, '1408', 2007, 'Drama|Horror|Thriller'),
 
@@ -13079,7 +13079,7 @@ VALUES
 
 (54259, 'Stardust', 2007, 'Adventure|Comedy|Fantasy|Romance'),
 
-(54272, '"Simpsons Movie, The', 2007, 'Animation|Comedy'),
+(54272, 'Simpsons Movie, The', 2007, 'Animation|Comedy'),
 
 (54274, 'I Know Who Killed Me', 2007, 'Crime|Drama|Thriller'),
 
@@ -13087,7 +13087,7 @@ VALUES
 
 (54281, 'Charlie Bartlett', 2007, 'Comedy|Drama'),
 
-(54286, '"Bourne Ultimatum, The', 2007, 'Action|Crime|Thriller'),
+(54286, 'Bourne Ultimatum, The', 2007, 'Action|Crime|Thriller'),
 
 (54354, 'China Blue', 2005, 'Documentary'),
 
@@ -13095,25 +13095,25 @@ VALUES
 
 (54503, 'Superbad', 2007, 'Comedy'),
 
-(54617, '"Brice Man, The (Brice de Nice)', 2005, 'Comedy'),
+(54617, 'Brice Man, The (Brice de Nice)', 2005, 'Comedy'),
 
 (54648, 'Rush Hour 3', 2007, 'Action|Comedy|Crime|Thriller'),
 
-(54686, '"Last Legion, The', 2007, 'Action|Adventure|Fantasy|War'),
+(54686, 'Last Legion, The', 2007, 'Action|Adventure|Fantasy|War'),
 
 (54732, 'Balls of Fury', 2007, 'Comedy'),
 
 (54734, 'Sydney White', 2007, 'Comedy'),
 
-(54736, '"Kingdom, The', 2007, 'Action|Drama|Thriller'),
+(54736, 'Kingdom, The', 2007, 'Action|Drama|Thriller'),
 
 (54745, 'Rocket Science', 2007, 'Comedy|Drama'),
 
 (54768, 'Daddy Day Camp', 2007, 'Children|Comedy'),
 
-(54771, '"Invasion, The', 2007, 'Action|Drama|Horror|Sci-Fi|Thriller'),
+(54771, 'Invasion, The', 2007, 'Action|Drama|Horror|Sci-Fi|Thriller'),
 
-(54780, '"Nanny Diaries, The', 2007, 'Comedy|Drama|Romance'),
+(54780, 'Nanny Diaries, The', 2007, 'Comedy|Drama|Romance'),
 
 (54785, 'Halloween', 2007, 'Horror'),
 
@@ -13121,15 +13121,15 @@ VALUES
 
 (54796, '2 Days in Paris', 2007, 'Comedy|Drama|Romance'),
 
-(54881, '"King of Kong, The', 2007, 'Documentary'),
+(54881, 'King of Kong, The', 2007, 'Documentary'),
 
 (54908, 'Taxi 4', 2007, 'Action|Comedy'),
 
 (54910, 'Behind the Mask: The Rise of Leslie Vernon', 2006, 'Comedy|Horror|Thriller'),
 
-(54934, '"Brothers Solomon, The', 2007, 'Comedy'),
+(54934, 'Brothers Solomon, The', 2007, 'Comedy'),
 
-(54962, '"Nines, The', 2007, 'Drama|Mystery'),
+(54962, 'Nines, The', 2007, 'Drama|Mystery'),
 
 (54995, 'Planet Terror', 2007, 'Action|Horror|Sci-Fi'),
 
@@ -13137,7 +13137,7 @@ VALUES
 
 (54999, 'Shoot ‘Em Up', 2007, 'Action|Comedy|Crime'),
 
-(55020, '"Ten, The', 2007, 'Comedy'),
+(55020, 'Ten, The', 2007, 'Comedy'),
 
 (55036, 'Gotti', 1996, 'Crime|Drama'),
 
@@ -13147,11 +13147,11 @@ VALUES
 
 (55067, 'Requiem', 2006, 'Drama|Thriller'),
 
-(55069, '"4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile)', 2007, 'Drama'),
+(55069, '4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile)', 2007, 'Drama'),
 
 (55071, 'No End in Sight', 2007, 'Documentary'),
 
-(55080, '"Brave One, The', 2007, 'Crime|Drama|Thriller'),
+(55080, 'Brave One, The', 2007, 'Crime|Drama|Thriller'),
 
 (55094, 'In the Valley of Elah', 2007, 'Drama|Mystery'),
 
@@ -13159,11 +13159,11 @@ VALUES
 
 (55112, 'Shanghai Kiss', 2007, 'Comedy|Drama|Romance'),
 
-(55116, '"Hunting Party, The', 2007, 'Action|Adventure|Comedy|Drama|Thriller'),
+(55116, 'Hunting Party, The', 2007, 'Action|Adventure|Comedy|Drama|Thriller'),
 
 (55118, 'Eastern Promises', 2007, 'Crime|Drama|Thriller'),
 
-(55156, '"Unreasonable Man, An', 2006, 'Documentary'),
+(55156, 'Unreasonable Man, An', 2006, 'Documentary'),
 
 (55167, 'Tekkonkinkreet (Tekkon kinkurîto)', 2006, 'Action|Adventure|Animation|Crime|Fantasy'),
 
@@ -13181,17 +13181,17 @@ VALUES
 
 (55247, 'Into the Wild', 2007, 'Action|Adventure|Drama'),
 
-(55250, '"Game Plan, The', 2007, 'Comedy'),
+(55250, 'Game Plan, The', 2007, 'Comedy'),
 
-(55253, '"Lust, Caution (Se, jie)', 2007, 'Drama|Romance|Thriller|War'),
+(55253, 'Lust, Caution (Se, jie)', 2007, 'Drama|Romance|Thriller|War'),
 
-(55259, '"Seeker: The Dark Is Rising, The', 2007, 'Action|Adventure|Drama|Fantasy'),
+(55259, 'Seeker: The Dark Is Rising, The', 2007, 'Action|Adventure|Drama|Fantasy'),
 
-(55261, '"Heartbreak Kid, The', 2007, 'Comedy|Drama|Romance'),
+(55261, 'Heartbreak Kid, The', 2007, 'Comedy|Drama|Romance'),
 
 (55267, 'Dan in Real Life', 2007, 'Comedy|Drama|Romance'),
 
-(55269, '"Darjeeling Limited, The', 2007, 'Adventure|Comedy|Drama'),
+(55269, 'Darjeeling Limited, The', 2007, 'Adventure|Comedy|Drama'),
 
 (55272, 'We Own the Night', 2007, 'Crime|Drama'),
 
@@ -13207,11 +13207,11 @@ VALUES
 
 (55290, 'Gone Baby Gone', 2007, 'Crime|Drama|Mystery'),
 
-(55292, '"Comebacks, The', 2007, 'Comedy'),
+(55292, 'Comebacks, The', 2007, 'Comedy'),
 
 (55294, 'Weirdsville', 2007, 'Comedy|Crime|Drama'),
 
-(55363, '"Assassination of Jesse James by the Coward Robert Ford, The', 2007, 'Crime|Drama|Western'),
+(55363, 'Assassination of Jesse James by the Coward Robert Ford, The', 2007, 'Crime|Drama|Western'),
 
 (55391, '10th & Wolf', 2006, 'Crime|Drama|Thriller'),
 
@@ -13221,11 +13221,11 @@ VALUES
 
 (55451, 'The Jane Austen Book Club', 2007, 'Comedy|Drama|Romance'),
 
-(55492, '"Last Winter, The', 2006, 'Horror'),
+(55492, 'Last Winter, The', 2006, 'Horror'),
 
 (55553, 'Black Sheep', 2006, 'Comedy|Horror'),
 
-(55555, '"Edge of Heaven, The (Auf der anderen Seite)', 2007, 'Drama'),
+(55555, 'Edge of Heaven, The (Auf der anderen Seite)', 2007, 'Drama'),
 
 (55577, 'Saw IV', 2007, 'Crime|Horror|Thriller'),
 
@@ -13243,7 +13243,7 @@ VALUES
 
 (55805, 'Before the Devil Knows You‘re Dead', 2007, 'Crime|Drama|Thriller'),
 
-(55814, '"Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le)', 2007, 'Drama'),
+(55814, 'Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le)', 2007, 'Drama'),
 
 (55820, 'No Country for Old Men', 2007, 'Crime|Drama'),
 
@@ -13251,11 +13251,11 @@ VALUES
 
 (55844, 'Itty Bitty Titty Committee', 2007, 'Comedy|Drama|Romance'),
 
-(55854, '"Fugitive, The', 1947, 'Drama'),
+(55854, 'Fugitive, The', 1947, 'Drama'),
 
 (55872, 'August Rush', 2007, 'Drama|Musical'),
 
-(55908, '"Man from Earth, The', 2007, 'Drama|Sci-Fi'),
+(55908, 'Man from Earth, The', 2007, 'Drama|Sci-Fi'),
 
 (55946, 'Lions For Lambs', 2007, 'Drama|Thriller|War'),
 
@@ -13263,13 +13263,13 @@ VALUES
 
 (56003, 'Southland Tales', 2006, 'Comedy|Drama|Sci-Fi|Thriller'),
 
-(56012, '"Evening with Kevin Smith 2: Evening Harder, An', 2006, 'Comedy|Documentary'),
+(56012, 'Evening with Kevin Smith 2: Evening Harder, An', 2006, 'Comedy|Documentary'),
 
 (56022, 'Harrison Bergeron', 1995, 'Drama|Sci-Fi'),
 
 (56060, 'I Served the King of England (Obsluhoval jsem anglického krále)', 2006, 'Comedy|Drama|Romance|War'),
 
-(56145, '"Mist, The', 2007, 'Horror|Sci-Fi'),
+(56145, 'Mist, The', 2007, 'Horror|Sci-Fi'),
 
 (56152, 'Enchanted', 2007, 'Adventure|Animation|Children|Comedy|Fantasy|Musical|Romance'),
 
@@ -13277,7 +13277,7 @@ VALUES
 
 (56169, 'Awake', 2007, 'Drama|Thriller'),
 
-(56171, '"Golden Compass, The', 2007, 'Adventure|Children|Fantasy'),
+(56171, 'Golden Compass, The', 2007, 'Adventure|Children|Fantasy'),
 
 (56174, 'I Am Legend', 2007, 'Action|Horror|Sci-Fi|Thriller|IMAX'),
 
@@ -13289,25 +13289,25 @@ VALUES
 
 (56286, 'I‘m Not There', 2007, 'Drama'),
 
-(56333, '"Savages, The', 2007, 'Comedy|Drama'),
+(56333, 'Savages, The', 2007, 'Comedy|Drama'),
 
 (56336, 'Wrong Turn 2: Dead End', 2007, 'Action|Horror|Thriller'),
 
-(56339, '"Orphanage, The (Orfanato, El)', 2007, 'Drama|Horror|Mystery|Thriller'),
+(56339, 'Orphanage, The (Orfanato, El)', 2007, 'Drama|Horror|Mystery|Thriller'),
 
 (56367, 'Juno', 2007, 'Comedy|Drama|Romance'),
 
-(56379, '"Maxed Out: Hard Times, Easy Credit and the Era of Predatory Lenders', 2006, 'Documentary'),
+(56379, 'Maxed Out: Hard Times, Easy Credit and the Era of Predatory Lenders', 2006, 'Documentary'),
 
 (56389, 'My Blueberry Nights', 2007, 'Drama|Romance'),
 
 (56563, 'Helvetica', 2007, 'Documentary'),
 
-(56587, '"Bucket List, The', 2007, 'Comedy|Drama'),
+(56587, 'Bucket List, The', 2007, 'Comedy|Drama'),
 
-(56607, '"Kite Runner, The', 2007, 'Drama'),
+(56607, 'Kite Runner, The', 2007, 'Drama'),
 
-(56620, '"Deaths of Ian Stone, The', 2007, 'Horror|Thriller'),
+(56620, 'Deaths of Ian Stone, The', 2007, 'Horror|Thriller'),
 
 (56715, 'Wristcutters: A Love Story', 2006, 'Drama|Fantasy|Romance'),
 
@@ -13329,7 +13329,7 @@ VALUES
 
 (56908, 'Dedication', 2007, 'Comedy|Drama|Romance'),
 
-(56915, '"Water Horse: Legend of the Deep, The', 2007, 'Adventure|Children|Fantasy'),
+(56915, 'Water Horse: Legend of the Deep, The', 2007, 'Adventure|Children|Fantasy'),
 
 (56921, 'Battlestar Galactica: Razor', 2007, 'Action|Drama|Sci-Fi|Thriller'),
 
@@ -13341,7 +13341,7 @@ VALUES
 
 (57183, 'Like Stars on Earth (Taare Zameen Par)', 2007, 'Drama'),
 
-(57243, '"Band‘s Visit, The (Bikur Ha-Tizmoret)', 2007, 'Comedy|Drama'),
+(57243, 'Band‘s Visit, The (Bikur Ha-Tizmoret)', 2007, 'Comedy|Drama'),
 
 (57274, '[REC]', 2007, 'Drama|Horror|Thriller'),
 
@@ -13355,7 +13355,7 @@ VALUES
 
 (57502, 'Cat Soup (Nekojiru-so)', 2001, 'Adventure|Animation|Drama|Horror'),
 
-(57504, '"Girl Who Leapt Through Time, The (Toki o kakeru shôjo)', 2006, 'Animation|Comedy|Drama|Romance|Sci-Fi'),
+(57504, 'Girl Who Leapt Through Time, The (Toki o kakeru shôjo)', 2006, 'Animation|Comedy|Drama|Romance|Sci-Fi'),
 
 (57522, 'First Sunday', 2008, 'Comedy|Crime'),
 
@@ -13367,7 +13367,7 @@ VALUES
 
 (57536, 'Strange Wilderness', 2008, 'Comedy'),
 
-(57637, '"Signal, The', 2007, 'Horror|Sci-Fi|Thriller'),
+(57637, 'Signal, The', 2007, 'Horror|Sci-Fi|Thriller'),
 
 (57640, 'Hellboy II: The Golden Army', 2008, 'Action|Adventure|Fantasy|Sci-Fi'),
 
@@ -13383,17 +13383,17 @@ VALUES
 
 (58025, 'Jumper', 2008, 'Action|Adventure|Drama|Sci-Fi|Thriller'),
 
-(58047, '"Definitely, Maybe', 2008, 'Comedy|Drama|Romance'),
+(58047, 'Definitely, Maybe', 2008, 'Comedy|Drama|Romance'),
 
-(58078, '"Air I Breathe, The', 2007, 'Crime|Drama|Romance|Thriller'),
+(58078, 'Air I Breathe, The', 2007, 'Crime|Drama|Romance|Thriller'),
 
 (58103, 'Vantage Point', 2008, 'Action|Drama|Thriller'),
 
-(58105, '"Spiderwick Chronicles, The', 2008, 'Adventure|Children|Drama|Fantasy|IMAX'),
+(58105, 'Spiderwick Chronicles, The', 2008, 'Adventure|Children|Drama|Fantasy|IMAX'),
 
 (58107, 'Step Up 2 the Streets', 2008, 'Drama|Musical|Romance'),
 
-(58154, '"Other Boleyn Girl, The', 2008, 'Drama|Romance'),
+(58154, 'Other Boleyn Girl, The', 2008, 'Drama|Romance'),
 
 (58156, 'Semi-Pro', 2008, 'Comedy'),
 
@@ -13405,9 +13405,9 @@ VALUES
 
 (58291, 'College Road Trip', 2008, 'Comedy'),
 
-(58293, '"10,000 BC', 2008, 'Adventure|Romance|Thriller'),
+(58293, '10,000 BC', 2008, 'Adventure|Romance|Thriller'),
 
-(58295, '"Bank Job, The', 2008, 'Action|Crime|Thriller'),
+(58295, 'Bank Job, The', 2008, 'Action|Crime|Thriller'),
 
 (58297, 'Doomsday', 2008, 'Action|Drama|Sci-Fi|Thriller'),
 
@@ -13415,13 +13415,13 @@ VALUES
 
 (58301, 'Funny Games U.S.', 2007, 'Drama|Thriller'),
 
-(58303, '"Counterfeiters, The (Die Fälscher)', 2007, 'Crime|Drama|War'),
+(58303, 'Counterfeiters, The (Die Fälscher)', 2007, 'Crime|Drama|War'),
 
 (58306, 'Mongol', 2007, 'Drama|War'),
 
 (58309, 'War Dance', 2007, 'Documentary'),
 
-(58315, '"Love Guru, The', 2008, 'Comedy'),
+(58315, 'Love Guru, The', 2008, 'Comedy'),
 
 (58332, 'Diary of the Dead', 2007, 'Horror|Sci-Fi'),
 
@@ -13437,9 +13437,9 @@ VALUES
 
 (58492, 'Snow Angels', 2007, 'Drama'),
 
-(58554, '"Class, The (Klass)', 2007, 'Drama'),
+(58554, 'Class, The (Klass)', 2007, 'Drama'),
 
-(58559, '"Dark Knight, The', 2008, 'Action|Crime|Drama|IMAX'),
+(58559, 'Dark Knight, The', 2008, 'Action|Crime|Drama|IMAX'),
 
 (58627, 'Never Back Down', 2008, 'Action'),
 
@@ -13451,7 +13451,7 @@ VALUES
 
 (58806, 'Smart People', 2008, 'Comedy|Drama|Romance'),
 
-(58826, '"Shepherd: Border Patrol, The', 2008, 'Action|Crime|Thriller'),
+(58826, 'Shepherd: Border Patrol, The', 2008, 'Action|Crime|Thriller'),
 
 (58839, 'Leatherheads', 2008, 'Comedy|Drama|Romance'),
 
@@ -13467,7 +13467,7 @@ VALUES
 
 (58972, 'Nim‘s Island', 2008, 'Adventure|Comedy|Fantasy'),
 
-(58975, '"Ruins, The', 2008, 'Horror|Thriller'),
+(58975, 'Ruins, The', 2008, 'Horror|Thriller'),
 
 (58998, 'Forgetting Sarah Marshall', 2008, 'Comedy|Romance'),
 
@@ -13475,7 +13475,7 @@ VALUES
 
 (59016, 'Street Kings', 2008, 'Crime|Drama|Thriller'),
 
-(59018, '"Visitor, The', 2007, 'Drama|Romance'),
+(59018, 'Visitor, The', 2007, 'Drama|Romance'),
 
 (59022, 'Harold & Kumar Escape from Guantanamo Bay', 2008, 'Adventure|Comedy'),
 
@@ -13483,7 +13483,7 @@ VALUES
 
 (59037, 'Speed Racer', 2008, 'Action|Children|Sci-Fi|IMAX'),
 
-(59103, '"Forbidden Kingdom, The', 2008, 'Action|Adventure|Comedy|Fantasy'),
+(59103, 'Forbidden Kingdom, The', 2008, 'Action|Adventure|Comedy|Fantasy'),
 
 (59118, 'Happy-Go-Lucky', 2008, 'Comedy|Drama'),
 
@@ -13513,7 +13513,7 @@ VALUES
 
 (59369, 'Taken', 2008, 'Action|Crime|Drama|Thriller'),
 
-(59387, '"Fall, The', 2006, 'Adventure|Drama|Fantasy'),
+(59387, 'Fall, The', 2006, 'Adventure|Drama|Fantasy'),
 
 (59421, 'What Happens in Vegas...', 2008, 'Comedy|Romance'),
 
@@ -13521,11 +13521,11 @@ VALUES
 
 (59440, 'Bella', 2006, 'Drama|Romance'),
 
-(59501, '"Chronicles of Narnia: Prince Caspian, The', 2008, 'Adventure|Children|Fantasy'),
+(59501, 'Chronicles of Narnia: Prince Caspian, The', 2008, 'Adventure|Children|Fantasy'),
 
 (59549, 'Shelter', 2007, 'Drama|Romance'),
 
-(59604, '"Girl Next Door, The', 2007, 'Crime|Drama|Horror|Thriller'),
+(59604, 'Girl Next Door, The', 2007, 'Crime|Drama|Horror|Thriller'),
 
 (59615, 'Indiana Jones and the Kingdom of the Crystal Skull', 2008, 'Action|Adventure|Comedy|Sci-Fi'),
 
@@ -13533,9 +13533,9 @@ VALUES
 
 (59725, 'Sex and the City', 2008, 'Comedy|Romance'),
 
-(59727, '"Strangers, The', 2008, 'Horror|Thriller'),
+(59727, 'Strangers, The', 2008, 'Horror|Thriller'),
 
-(59731, '"Bigger, Stronger, Faster*', 2008, 'Documentary'),
+(59731, 'Bigger, Stronger, Faster*', 2008, 'Documentary'),
 
 (59738, 'All the Boys Love Mandy Lane', 2006, 'Horror|Mystery|Thriller'),
 
@@ -13549,7 +13549,7 @@ VALUES
 
 (59915, 'Stuck', 2007, 'Horror|Thriller'),
 
-(59947, '"Protector, The', 1985, 'Action|Comedy|Drama|Thriller'),
+(59947, 'Protector, The', 1985, 'Action|Comedy|Drama|Thriller'),
 
 (59985, 'Chaos Theory', 2007, 'Comedy|Drama|Romance'),
 
@@ -13557,11 +13557,11 @@ VALUES
 
 (60030, 'Spiral', 2007, 'Drama|Horror|Thriller'),
 
-(60037, '"Happening, The', 2008, 'Drama|Sci-Fi|Thriller'),
+(60037, 'Happening, The', 2008, 'Drama|Sci-Fi|Thriller'),
 
-(60040, '"Incredible Hulk, The', 2008, 'Action|Sci-Fi'),
+(60040, 'Incredible Hulk, The', 2008, 'Action|Sci-Fi'),
 
-(60046, '"Children of Huang Shi, The', 2008, 'Drama|War'),
+(60046, 'Children of Huang Shi, The', 2008, 'Drama|War'),
 
 (60069, 'WALL·E', 2008, 'Adventure|Animation|Children|Romance|Sci-Fi'),
 
@@ -13581,7 +13581,7 @@ VALUES
 
 (60291, 'Gonzo: The Life and Work of Dr. Hunter S. Thompson', 2008, 'Documentary'),
 
-(60293, '"Wackness, The', 2008, 'Comedy|Drama|Romance'),
+(60293, 'Wackness, The', 2008, 'Comedy|Drama|Romance'),
 
 (60303, 'Strange Circus (Kimyô na sâkasu)', 2005, 'Horror|Mystery|Thriller'),
 
@@ -13599,13 +13599,13 @@ VALUES
 
 (60471, 'Rogue', 2007, 'Action|Adventure|Horror|Sci-Fi|Thriller'),
 
-(60487, '"It‘s the Great Pumpkin, Charlie Brown', 1966, 'Animation|Children|Comedy'),
+(60487, 'It‘s the Great Pumpkin, Charlie Brown', 1966, 'Animation|Children|Comedy'),
 
 (60514, 'Journey to the Center of the Earth', 2008, 'Action|Adventure|Sci-Fi'),
 
 (60516, 'Meet Dave', 2008, 'Adventure|Children|Comedy|Romance|Sci-Fi'),
 
-(60522, '"Machine Girl, The (Kataude mashin gâru)', 2008, 'Action|Comedy|Fantasy|Horror|Thriller'),
+(60522, 'Machine Girl, The (Kataude mashin gâru)', 2008, 'Action|Comedy|Fantasy|Horror|Thriller'),
 
 (60538, 'Shrooms', 2007, 'Horror|Thriller'),
 
@@ -13623,27 +13623,27 @@ VALUES
 
 (60756, 'Step Brothers', 2008, 'Comedy'),
 
-(60760, '"X-Files: I Want to Believe, The', 2008, 'Drama|Mystery|Sci-Fi|Thriller'),
+(60760, 'X-Files: I Want to Believe, The', 2008, 'Drama|Mystery|Sci-Fi|Thriller'),
 
 (60766, 'Man on Wire', 2008, 'Documentary'),
 
-(60803, '"Little Drummer Boy, The', 1968, 'Animation|Children|Musical'),
+(60803, 'Little Drummer Boy, The', 1968, 'Animation|Children|Musical'),
 
 (60818, 'Hogfather (Terry Pratchett‘s Hogfather)', 2006, 'Adventure|Fantasy|Thriller'),
 
 (60832, 'Pathology', 2008, 'Crime|Horror|Thriller'),
 
-(60857, '"Tracey Fragments, The', 2007, 'Drama'),
+(60857, 'Tracey Fragments, The', 2007, 'Drama'),
 
-(60885, '"Zone, The (La Zona)', 2007, 'Drama|Thriller'),
+(60885, 'Zone, The (La Zona)', 2007, 'Drama|Thriller'),
 
-(60894, '"Edge of Love, The', 2008, 'Drama|Romance|War'),
+(60894, 'Edge of Love, The', 2008, 'Drama|Romance|War'),
 
 (60904, 'Heart of a Dog (Sobachye serdtse)', 1988, 'Comedy|Drama|Sci-Fi'),
 
-(60937, '"Mummy: Tomb of the Dragon Emperor, The', 2008, 'Action|Adventure|Fantasy|Thriller'),
+(60937, 'Mummy: Tomb of the Dragon Emperor, The', 2008, 'Action|Adventure|Fantasy|Thriller'),
 
-(60941, '"Midnight Meat Train, The', 2008, 'Horror|Mystery|Thriller'),
+(60941, 'Midnight Meat Train, The', 2008, 'Horror|Mystery|Thriller'),
 
 (60943, 'Frozen River', 2008, 'Drama'),
 
@@ -13651,13 +13651,13 @@ VALUES
 
 (60979, 'Batman: Gotham Knight', 2008, 'Action|Animation|Crime'),
 
-(61011, '"Walker, The', 2007, 'Drama|Mystery'),
+(61011, 'Walker, The', 2007, 'Drama|Mystery'),
 
 (61024, 'Pineapple Express', 2008, 'Action|Comedy|Crime'),
 
 (61026, 'Red Cliff (Chi bi)', 2008, 'Action|Adventure|Drama|War'),
 
-(61071, '"Sisterhood of the Traveling Pants 2, The', 2008, 'Adventure|Comedy|Drama|Romance'),
+(61071, 'Sisterhood of the Traveling Pants 2, The', 2008, 'Adventure|Comedy|Drama|Romance'),
 
 (61073, 'Hell Ride', 2008, 'Action|Drama|Thriller'),
 
@@ -13679,9 +13679,9 @@ VALUES
 
 (61248, 'Death Race', 2008, 'Action|Adventure|Sci-Fi|Thriller'),
 
-(61250, '"House Bunny, The', 2008, 'Comedy'),
+(61250, 'House Bunny, The', 2008, 'Comedy'),
 
-(61255, '"Rocker, The', 2008, 'Comedy'),
+(61255, 'Rocker, The', 2008, 'Comedy'),
 
 (61257, 'I.O.U.S.A. (a.k.a. IOUSA)', 2008, 'Documentary'),
 
@@ -13699,9 +13699,9 @@ VALUES
 
 (61352, 'Traitor', 2008, 'Crime|Drama|Thriller'),
 
-(61394, '"Onion Movie, The', 2008, 'Comedy'),
+(61394, 'Onion Movie, The', 2008, 'Comedy'),
 
-(61401, '"Spirit, The', 2008, 'Action|Comedy|Fantasy|Thriller'),
+(61401, 'Spirit, The', 2008, 'Action|Comedy|Fantasy|Thriller'),
 
 (61406, 'John Adams', 2008, 'Drama'),
 
@@ -13717,7 +13717,7 @@ VALUES
 
 (61729, 'Ghost Town', 2008, 'Comedy|Fantasy|Romance'),
 
-(61818, '"Crow, The: Wicked Prayer', 2005, 'Action|Adventure|Fantasy|Thriller'),
+(61818, 'Crow, The: Wicked Prayer', 2005, 'Action|Adventure|Fantasy|Thriller'),
 
 (61986, 'Appaloosa', 2008, 'Western'),
 
@@ -13729,11 +13729,11 @@ VALUES
 
 (62155, 'Nick and Norah‘s Infinite Playlist', 2008, 'Comedy|Drama|Romance'),
 
-(62208, '"Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto)', 1954, 'Drama'),
+(62208, 'Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto)', 1954, 'Drama'),
 
 (62250, 'Gomorrah (Gomorra)', 2008, 'Crime|Drama'),
 
-(62293, '"Duchess, The', 2008, 'Drama|Romance'),
+(62293, 'Duchess, The', 2008, 'Drama|Romance'),
 
 (62299, 'Alone in the Dark II', 2008, 'Action|Horror'),
 
@@ -13745,7 +13745,7 @@ VALUES
 
 (62376, 'City of Ember', 2008, 'Adventure|Children|Sci-Fi'),
 
-(62383, '"20,000 Leagues Under the Sea', 1916, 'Action|Adventure|Sci-Fi'),
+(62383, '20,000 Leagues Under the Sea', 1916, 'Action|Adventure|Sci-Fi'),
 
 (62394, 'Max Payne', 2008, 'Action|Crime|Drama|Thriller'),
 
@@ -13755,21 +13755,21 @@ VALUES
 
 (62439, 'My Best Friend‘s Girl', 2008, 'Comedy|Romance'),
 
-(62511, '"Synecdoche, New York', 2008, 'Comedy|Drama'),
+(62511, 'Synecdoche, New York', 2008, 'Comedy|Drama'),
 
-(62553, '"Secret Life of Bees, The', 2008, 'Drama'),
+(62553, 'Secret Life of Bees, The', 2008, 'Drama'),
 
-(62586, '"American Carol, An', 2008, 'Comedy|Fantasy'),
+(62586, 'American Carol, An', 2008, 'Comedy|Fantasy'),
 
-(62644, '"Wave, The (Welle, Die)', 2008, 'Drama'),
+(62644, 'Wave, The (Welle, Die)', 2008, 'Drama'),
 
 (62662, 'Tokyo-Ga', 1985, 'Documentary'),
 
-(62718, '"Angus, Thongs and Perfect Snogging', 2008, 'Comedy|Romance'),
+(62718, 'Angus, Thongs and Perfect Snogging', 2008, 'Comedy|Romance'),
 
 (62792, 'Pride and Glory', 2008, 'Crime|Drama'),
 
-(62799, '"Express, The', 2008, 'Drama'),
+(62799, 'Express, The', 2008, 'Drama'),
 
 (62834, 'Babylon 5: The Legend of the Rangers: To Live and Die in Starlight', 2002, 'Sci-Fi'),
 
@@ -13787,7 +13787,7 @@ VALUES
 
 (63062, 'Changeling', 2008, 'Crime|Drama|Mystery'),
 
-(63072, '"Road, The', 2009, 'Adventure|Drama|Thriller'),
+(63072, 'Road, The', 2009, 'Adventure|Drama|Thriller'),
 
 (63082, 'Slumdog Millionaire', 2008, 'Crime|Drama|Romance'),
 
@@ -13819,7 +13819,7 @@ VALUES
 
 (63768, 'Tattooed Life (Irezumi ichidai)', 1965, 'Crime|Drama'),
 
-(63808, '"Class, The (Entre les murs)', 2008, 'Drama'),
+(63808, 'Class, The (Entre les murs)', 2008, 'Drama'),
 
 (63826, 'Splinter', 2008, 'Action|Horror|Thriller'),
 
@@ -13831,13 +13831,13 @@ VALUES
 
 (63992, 'Twilight', 2008, 'Drama|Fantasy|Romance|Thriller'),
 
-(64010, '"Children, The', 2008, 'Horror'),
+(64010, 'Children, The', 2008, 'Horror'),
 
 (64030, 'Transporter 3', 2008, 'Action|Adventure|Crime|Thriller'),
 
 (64032, 'Four Christmases', 2008, 'Comedy'),
 
-(64034, '"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The)', 2008, 'Drama|War'),
+(64034, 'Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The)', 2008, 'Drama|War'),
 
 (64114, 'Fireproof', 2008, 'Drama|Romance'),
 
@@ -13851,11 +13851,11 @@ VALUES
 
 (64249, 'Shrek the Halls', 2007, 'Adventure|Animation|Comedy|Fantasy'),
 
-(64278, '"Pervert‘s Guide to Cinema, The', 2006, 'Documentary'),
+(64278, 'Pervert‘s Guide to Cinema, The', 2006, 'Documentary'),
 
 (64285, 'Wallace and Gromit in ‘A Matter of Loaf and Death‘', 2008, 'Animation|Comedy'),
 
-(64497, '"Day the Earth Stood Still, The', 2008, 'Drama|Sci-Fi|Thriller|IMAX'),
+(64497, 'Day the Earth Stood Still, The', 2008, 'Drama|Sci-Fi|Thriller|IMAX'),
 
 (64499, 'Che: Part One', 2008, 'Drama|War'),
 
@@ -13867,15 +13867,15 @@ VALUES
 
 (64620, 'Frost/Nixon', 2008, 'Drama'),
 
-(64622, '"Reader, The', 2008, 'Drama|Romance'),
+(64622, 'Reader, The', 2008, 'Drama|Romance'),
 
 (64695, 'Sword of the Stranger (Sutorejia: Mukô hadan)', 2007, 'Action|Adventure|Animation'),
 
 (64716, 'Seven Pounds', 2008, 'Drama'),
 
-(64839, '"Wrestler, The', 2008, 'Drama'),
+(64839, 'Wrestler, The', 2008, 'Drama'),
 
-(64957, '"Curious Case of Benjamin Button, The', 2008, 'Drama|Fantasy|Mystery|Romance'),
+(64957, 'Curious Case of Benjamin Button, The', 2008, 'Drama|Fantasy|Mystery|Romance'),
 
 (64969, 'Yes Man', 2008, 'Comedy'),
 
@@ -13909,17 +13909,17 @@ VALUES
 
 (65261, 'Ponyo (Gake no ue no Ponyo)', 2008, 'Adventure|Animation|Children|Fantasy'),
 
-(65350, '"General Died at Dawn, The', 1936, 'Adventure|Crime|Thriller'),
+(65350, 'General Died at Dawn, The', 1936, 'Adventure|Crime|Thriller'),
 
 (65359, 'Earthsea (Legend of Earthsea)', 2004, 'Adventure|Drama|Fantasy'),
 
 (65514, 'Ip Man', 2008, 'Action|Drama|War'),
 
-(65577, '"Tale of Despereaux, The', 2008, 'Adventure|Animation|Children|Comedy|Fantasy'),
+(65577, 'Tale of Despereaux, The', 2008, 'Adventure|Animation|Children|Comedy|Fantasy'),
 
 (65585, 'Bride Wars', 2009, 'Comedy|Romance'),
 
-(65588, '"Gamers, The: Dorkness Rising', 2008, 'Action|Adventure|Comedy|Fantasy'),
+(65588, 'Gamers, The: Dorkness Rising', 2008, 'Action|Adventure|Comedy|Fantasy'),
 
 (65596, 'Mesrine: Killer Instinct (L‘instinct de mort)', 2008, 'Action|Crime|Drama|Thriller'),
 
@@ -13927,7 +13927,7 @@ VALUES
 
 (65631, 'Battle in Seattle', 2007, 'Action|Drama'),
 
-(65642, '"Timecrimes (Cronocrímenes, Los)', 2007, 'Sci-Fi|Thriller'),
+(65642, 'Timecrimes (Cronocrímenes, Los)', 2007, 'Sci-Fi|Thriller'),
 
 (65651, 'Fire and Ice', 2008, 'Adventure|Fantasy'),
 
@@ -13943,7 +13943,7 @@ VALUES
 
 (65810, 'Notorious', 2009, 'Drama|Musical'),
 
-(65882, '"Uninvited, The', 2009, 'Drama|Horror|Mystery|Thriller'),
+(65882, 'Uninvited, The', 2009, 'Drama|Horror|Mystery|Thriller'),
 
 (65982, 'Outlander', 2008, 'Action|Adventure|Sci-Fi'),
 
@@ -13953,7 +13953,7 @@ VALUES
 
 (66171, 'Push', 2009, 'Sci-Fi|Thriller'),
 
-(66198, '"International, The', 2009, 'Drama|Thriller'),
+(66198, 'International, The', 2009, 'Drama|Thriller'),
 
 (66203, 'He‘s Just Not That Into You', 2009, 'Comedy|Drama|Romance'),
 
@@ -13963,7 +13963,7 @@ VALUES
 
 (66310, 'Frontière(s)', 2007, 'Drama|Horror|Thriller'),
 
-(66320, '"11th Hour, The', 2007, 'Documentary'),
+(66320, '11th Hour, The', 2007, 'Documentary'),
 
 (66335, 'Afro Samurai: Resurrection', 2009, 'Animation'),
 
@@ -13979,31 +13979,31 @@ VALUES
 
 (66665, 'Away We Go', 2009, 'Comedy|Drama|Romance'),
 
-(66744, '"Divo, Il', 2008, 'Drama'),
+(66744, 'Divo, Il', 2008, 'Drama'),
 
 (66783, 'Friday the 13th', 2009, 'Horror'),
 
-(66785, '"Good, the Bad, the Weird, The (Joheunnom nabbeunnom isanghannom)', 2008, 'Action|Adventure|Comedy|Western'),
+(66785, 'Good, the Bad, the Weird, The (Joheunnom nabbeunnom isanghannom)', 2008, 'Action|Adventure|Comedy|Western'),
 
-(66798, '"Pink Panther 2, The', 2009, 'Adventure|Comedy|Mystery'),
+(66798, 'Pink Panther 2, The', 2009, 'Adventure|Comedy|Mystery'),
 
 (66915, 'Rock-A-Doodle', 1991, 'Adventure|Animation|Children|Musical'),
 
 (66934, 'Dr. Horrible‘s Sing-Along Blog', 2008, 'Comedy|Drama|Musical|Sci-Fi'),
 
-(66943, '"Cottage, The', 2008, 'Comedy|Crime|Horror|Thriller'),
+(66943, 'Cottage, The', 2008, 'Comedy|Crime|Horror|Thriller'),
 
-(67087, '"I Love You, Man', 2009, 'Comedy'),
+(67087, 'I Love You, Man', 2009, 'Comedy'),
 
 (67168, 'Dance of the Dead', 2008, 'Adventure|Comedy|Horror'),
 
-(67186, '"Haunting in Connecticut, The', 2009, 'Horror|Thriller'),
+(67186, 'Haunting in Connecticut, The', 2009, 'Horror|Thriller'),
 
 (67193, 'Duplicity', 2009, 'Crime|Romance|Thriller'),
 
 (67197, 'Knowing', 2009, 'Action|Drama|Mystery|Sci-Fi|Thriller'),
 
-(67255, '"Girl with the Dragon Tattoo, The (Män som hatar kvinnor)', 2009, 'Crime|Drama|Mystery|Thriller'),
+(67255, 'Girl with the Dragon Tattoo, The (Män som hatar kvinnor)', 2009, 'Crime|Drama|Mystery|Thriller'),
 
 (67267, 'Sunshine Cleaning', 2008, 'Comedy|Drama'),
 
@@ -14013,7 +14013,7 @@ VALUES
 
 (67408, 'Monsters vs. Aliens', 2009, 'Animation|Sci-Fi|IMAX'),
 
-(67508, '"Baader Meinhof Komplex, Der', 2008, 'Action|Crime|Drama|Thriller'),
+(67508, 'Baader Meinhof Komplex, Der', 2008, 'Action|Crime|Drama|Thriller'),
 
 (67534, 'Big Stan', 2007, 'Comedy'),
 
@@ -14031,7 +14031,7 @@ VALUES
 
 (67888, 'Man on the Flying Trapeze', 1935, 'Comedy'),
 
-(67923, '"Fast & Furious (Fast and the Furious 4, The)', 2009, 'Action|Crime|Drama|Thriller'),
+(67923, 'Fast & Furious (Fast and the Furious 4, The)', 2009, 'Action|Crime|Drama|Thriller'),
 
 (67997, 'In the Loop', 2009, 'Comedy'),
 
@@ -14043,13 +14043,13 @@ VALUES
 
 (68159, 'State of Play', 2009, 'Crime|Drama|Thriller'),
 
-(68194, '"Damned United, The', 2009, 'Drama'),
+(68194, 'Damned United, The', 2009, 'Drama'),
 
 (68205, 'Crank: High Voltage', 2009, 'Action|Comedy|Crime'),
 
 (68237, 'Moon', 2009, 'Drama|Mystery|Sci-Fi|Thriller'),
 
-(68269, '"Young Victoria, The', 2009, 'Drama|Romance'),
+(68269, 'Young Victoria, The', 2009, 'Drama|Romance'),
 
 (68319, 'X-Men Origins: Wolverine', 2009, 'Action|Sci-Fi|Thriller'),
 
@@ -14057,7 +14057,7 @@ VALUES
 
 (68358, 'Star Trek', 2009, 'Action|Adventure|Sci-Fi|IMAX'),
 
-(68444, '"Great Buck Howard, The', 2008, 'Comedy'),
+(68444, 'Great Buck Howard, The', 2008, 'Comedy'),
 
 (68480, 'Flatfoot on the Nile (Piedone d‘Egitto)', 1980, 'Action|Comedy|Crime'),
 
@@ -14085,13 +14085,13 @@ VALUES
 
 (68835, 'Were the World Mine', 2008, 'Adventure|Fantasy|Musical|Romance'),
 
-(68848, '"Brothers Bloom, The', 2008, 'Adventure|Comedy|Crime|Romance'),
+(68848, 'Brothers Bloom, The', 2008, 'Adventure|Comedy|Crime|Romance'),
 
 (68872, 'Paisan (Paisà)', 1946, 'Drama|War'),
 
 (68886, 'I Do: How to Get Married and Stay Single (Prête-moi ta main)', 2006, 'Comedy|Romance'),
 
-(68932, '"Soloist, The', 2009, 'Drama|Musical'),
+(68932, 'Soloist, The', 2009, 'Drama|Musical'),
 
 (68945, 'Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei)', 1997, 'Action|Animation|Mystery|Sci-Fi'),
 
@@ -14105,7 +14105,7 @@ VALUES
 
 (69118, 'In the Electric Mist', 2009, 'Drama|Mystery'),
 
-(69122, '"Hangover, The', 2009, 'Comedy|Crime'),
+(69122, 'Hangover, The', 2009, 'Comedy|Crime'),
 
 (69131, 'Killshot', 2008, 'Action|Crime|Drama|Thriller'),
 
@@ -14127,23 +14127,23 @@ VALUES
 
 (69304, 'Imagine That', 2009, 'Comedy|Drama|Fantasy'),
 
-(69306, '"Taking of Pelham 1 2 3, The', 2009, 'Crime|Drama|Thriller'),
+(69306, 'Taking of Pelham 1 2 3, The', 2009, 'Crime|Drama|Thriller'),
 
-(69394, '"Stoning of Soraya M., The', 2008, 'Crime|Drama'),
+(69394, 'Stoning of Soraya M., The', 2008, 'Crime|Drama'),
 
-(69406, '"Proposal, The', 2009, 'Comedy|Romance'),
+(69406, 'Proposal, The', 2009, 'Comedy|Romance'),
 
 (69436, 'Year One', 2009, 'Adventure|Comedy'),
 
-(69453, '"Land That Time Forgot, The', 1975, 'Adventure|Sci-Fi'),
+(69453, 'Land That Time Forgot, The', 1975, 'Adventure|Sci-Fi'),
 
 (69469, 'Garfield‘s Pet Force', 2009, 'Animation'),
 
-(69481, '"Hurt Locker, The', 2008, 'Action|Drama|Thriller|War'),
+(69481, 'Hurt Locker, The', 2008, 'Action|Drama|Thriller|War'),
 
 (69495, 'Breakfast with Scot', 2007, 'Drama|Romance'),
 
-(69516, '"Limits of Control, The', 2009, 'Crime|Drama|Film-Noir'),
+(69516, 'Limits of Control, The', 2009, 'Crime|Drama|Film-Noir'),
 
 (69524, 'Raiders of the Lost Ark: The Adaptation', 1989, 'Action|Adventure|Thriller'),
 
@@ -14173,7 +14173,7 @@ VALUES
 
 (69784, 'Brüno (Bruno)', 2009, 'Comedy'),
 
-(69805, '"Librarian, The: The Curse of the Judas Chalice', 2008, 'Action|Adventure|Fantasy'),
+(69805, 'Librarian, The: The Curse of the Judas Chalice', 2008, 'Action|Adventure|Fantasy'),
 
 (69844, 'Harry Potter and the Half-Blood Prince', 2009, 'Adventure|Fantasy|Mystery|Romance|IMAX'),
 
@@ -14183,7 +14183,7 @@ VALUES
 
 (69904, 'Open Water 2: Adrift', 2006, 'Drama|Thriller'),
 
-(69951, '"Imaginarium of Doctor Parnassus, The', 2009, 'Drama|Fantasy'),
+(69951, 'Imaginarium of Doctor Parnassus, The', 2009, 'Drama|Fantasy'),
 
 (69953, '9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn)', 2008, 'Documentary'),
 
@@ -14193,11 +14193,11 @@ VALUES
 
 (70159, 'Orphan', 2009, 'Drama|Horror|Mystery|Thriller'),
 
-(70183, '"Ugly Truth, The', 2009, 'Comedy|Drama|Romance'),
+(70183, 'Ugly Truth, The', 2009, 'Comedy|Drama|Romance'),
 
-(70206, '"Collector, The', 2009, 'Crime|Horror|Thriller'),
+(70206, 'Collector, The', 2009, 'Crime|Horror|Thriller'),
 
-(70208, '"Perfect Getaway, A', 2009, 'Horror|Thriller'),
+(70208, 'Perfect Getaway, A', 2009, 'Horror|Thriller'),
 
 (70286, 'District 9', 2009, 'Mystery|Sci-Fi|Thriller'),
 
@@ -14221,17 +14221,17 @@ VALUES
 
 (70533, 'Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekijôban: Jo)', 2007, 'Action|Animation|Sci-Fi'),
 
-(70545, '"Deal, The', 2008, 'Comedy'),
+(70545, 'Deal, The', 2008, 'Comedy'),
 
-(70565, '"Goods: Live Hard, Sell Hard, The', 2009, 'Comedy'),
+(70565, 'Goods: Live Hard, Sell Hard, The', 2009, 'Comedy'),
 
-(70599, '"Time Traveler‘s Wife, The', 2009, 'Drama|Romance|Sci-Fi'),
+(70599, 'Time Traveler‘s Wife, The', 2009, 'Drama|Romance|Sci-Fi'),
 
 (70637, 'I Can‘t Think Straight', 2007, 'Drama|Romance'),
 
 (70641, 'Miss March', 2009, 'Comedy'),
 
-(70663, '"I Love You, Beth Cooper', 2009, 'Comedy|Romance'),
+(70663, 'I Love You, Beth Cooper', 2009, 'Comedy|Romance'),
 
 (70687, 'Paper Heart', 2009, 'Comedy|Documentary|Drama|Romance'),
 
@@ -14255,33 +14255,33 @@ VALUES
 
 (70994, 'Halloween II', 2009, 'Horror|Thriller'),
 
-(71033, '"Secret in Their Eyes, The (El secreto de sus ojos)', 2009, 'Crime|Drama|Mystery|Romance|Thriller'),
+(71033, 'Secret in Their Eyes, The (El secreto de sus ojos)', 2009, 'Crime|Drama|Mystery|Romance|Thriller'),
 
 (71057, '9', 2009, 'Adventure|Animation|Sci-Fi'),
 
 (71106, 'Frequently Asked Questions About Time Travel', 2009, 'Comedy|Sci-Fi'),
 
-(71108, '"White Ribbon, The (Das weiße Band)', 2009, 'Drama|Mystery'),
+(71108, 'White Ribbon, The (Das weiße Band)', 2009, 'Drama|Mystery'),
 
 (71129, 'Green Lantern: First Flight', 2009, 'Action|Adventure|Animation|Fantasy|Sci-Fi'),
 
-(71131, '"Most Hated Family in America, The', 2007, 'Documentary'),
+(71131, 'Most Hated Family in America, The', 2007, 'Documentary'),
 
 (71135, 'Pandorum', 2009, 'Horror|Sci-Fi|Thriller'),
 
 (71147, 'Death of a Cyclist (Muerte de un ciclista)', 1955, 'Drama'),
 
-(71156, '"Men Who Stare at Goats, The', 2009, 'Action|Comedy|Drama'),
+(71156, 'Men Who Stare at Goats, The', 2009, 'Action|Comedy|Drama'),
 
-(71160, '"Hunt For Gollum, The', 2009, 'Action|Adventure|Fantasy'),
+(71160, 'Hunt For Gollum, The', 2009, 'Action|Adventure|Fantasy'),
 
 (71205, 'Jennifer‘s Body', 2009, 'Comedy|Horror|Sci-Fi|Thriller'),
 
-(71211, '"Informant!, The', 2009, 'Comedy|Crime|Drama|Thriller'),
+(71211, 'Informant!, The', 2009, 'Comedy|Crime|Drama|Thriller'),
 
 (71248, 'Extract', 2009, 'Comedy'),
 
-(71252, '"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The)', 2009, 'Horror|Thriller'),
+(71252, 'Final Destination, The (Final Destination 4) (Final Destination in 3-D, The)', 2009, 'Horror|Thriller'),
 
 (71254, 'Gamer', 2009, 'Action|Sci-Fi|Thriller'),
 
@@ -14289,7 +14289,7 @@ VALUES
 
 (71268, 'Tyler Perry‘s I Can Do Bad All by Myself', 2009, 'Comedy|Drama'),
 
-(71282, '"Food, Inc.', 2008, 'Documentary'),
+(71282, 'Food, Inc.', 2008, 'Documentary'),
 
 (71302, 'Attack of the 50 Foot Woman', 1958, 'Comedy|Sci-Fi'),
 
@@ -14305,11 +14305,11 @@ VALUES
 
 (71438, 'Still Walking (Aruitemo aruitemo)', 2008, 'Drama'),
 
-(71453, '"Blood of the Beasts (Sang des bêtes, Le)', 1949, 'Documentary|Drama'),
+(71453, 'Blood of the Beasts (Sang des bêtes, Le)', 1949, 'Documentary|Drama'),
 
-(71462, '"Cove, The', 2009, 'Documentary'),
+(71462, 'Cove, The', 2009, 'Documentary'),
 
-(71464, '"Serious Man, A', 2009, 'Comedy|Drama'),
+(71464, 'Serious Man, A', 2009, 'Comedy|Drama'),
 
 (71466, 'City Island', 2009, 'Comedy|Drama'),
 
@@ -14317,13 +14317,13 @@ VALUES
 
 (71484, 'Metropia', 2009, 'Animation|Sci-Fi'),
 
-(71494, '"Haunted World of El Superbeasto, The', 2009, 'Action|Animation|Comedy|Horror|Thriller'),
+(71494, 'Haunted World of El Superbeasto, The', 2009, 'Action|Animation|Comedy|Horror|Thriller'),
 
 (71500, 'Trick ‘r Treat', 2007, 'Comedy|Horror|Thriller'),
 
 (71518, 'Whip It', 2009, 'Comedy|Drama'),
 
-(71520, '"Invention of Lying, The', 2009, 'Comedy'),
+(71520, 'Invention of Lying, The', 2009, 'Comedy'),
 
 (71530, 'Surrogates', 2009, 'Action|Sci-Fi|Thriller'),
 
@@ -14331,7 +14331,7 @@ VALUES
 
 (71550, 'Assassination of a High School President', 2008, 'Comedy|Drama|Mystery'),
 
-(71579, '"Education, An', 2009, 'Drama|Romance'),
+(71579, 'Education, An', 2009, 'Drama|Romance'),
 
 (71619, 'Coco Before Chanel (Coco avant Chanel)', 2009, 'Drama'),
 
@@ -14345,19 +14345,19 @@ VALUES
 
 (71810, 'Legionnaire', 1998, 'Action|Adventure|Drama|War'),
 
-(71823, '"New York, I Love You', 2009, 'Drama|Romance'),
+(71823, 'New York, I Love You', 2009, 'Drama|Romance'),
 
 (71838, 'Law Abiding Citizen', 2009, 'Drama|Thriller'),
 
-(71867, '"Misfortunates, The (De helaasheid der dingen)', 2009, 'Drama'),
+(71867, 'Misfortunates, The (De helaasheid der dingen)', 2009, 'Drama'),
 
 (71899, 'Mary and Max', 2009, 'Animation|Comedy|Drama'),
 
 (71902, 'Spread', 2009, 'Drama|Romance'),
 
-(71910, '"Tournament, The', 2009, 'Action'),
+(71910, 'Tournament, The', 2009, 'Action'),
 
-(71970, '"Princess and the Pirate, The', 1944, 'Adventure|Comedy|Romance'),
+(71970, 'Princess and the Pirate, The', 1944, 'Adventure|Comedy|Romance'),
 
 (71999, 'Aelita: The Queen of Mars (Aelita)', 1924, 'Action|Adventure|Drama|Fantasy|Romance|Sci-Fi|Thriller'),
 
@@ -14371,7 +14371,7 @@ VALUES
 
 (72165, 'Cirque du Freak: The Vampire‘s Assistant', 2009, 'Action|Adventure|Comedy|Fantasy|Horror|Thriller'),
 
-(72167, '"Boondock Saints II: All Saints Day, The', 2009, 'Action|Crime|Drama|Thriller'),
+(72167, 'Boondock Saints II: All Saints Day, The', 2009, 'Action|Crime|Drama|Thriller'),
 
 (72171, 'Black Dynamite', 2009, 'Action|Comedy'),
 
@@ -14381,11 +14381,11 @@ VALUES
 
 (72226, 'Fantastic Mr. Fox', 2009, 'Adventure|Animation|Children|Comedy|Crime'),
 
-(72294, '"Christmas Carol, A', 2009, 'Animation|Children|Drama|Fantasy|IMAX'),
+(72294, 'Christmas Carol, A', 2009, 'Animation|Children|Drama|Fantasy|IMAX'),
 
 (72308, 'Battlestar Galactica: The Plan', 2009, 'Action|Adventure|Drama|Sci-Fi'),
 
-(72330, '"Private Lives of Pippa Lee, The', 2009, 'Drama'),
+(72330, 'Private Lives of Pippa Lee, The', 2009, 'Drama'),
 
 (72356, 'Partly Cloudy', 2009, 'Animation|Children|Comedy|Fantasy'),
 
@@ -14395,17 +14395,17 @@ VALUES
 
 (72405, 'Bad Lieutenant: Port of Call New Orleans', 2009, 'Crime|Drama'),
 
-(72407, '"Twilight Saga: New Moon, The', 2009, 'Drama|Fantasy|Horror|Romance|Thriller'),
+(72407, 'Twilight Saga: New Moon, The', 2009, 'Drama|Fantasy|Horror|Romance|Thriller'),
 
 (72424, 'Derailed', 2002, 'Action|Thriller'),
 
-(72479, '"Messenger, The', 2009, 'Drama|Romance|War'),
+(72479, 'Messenger, The', 2009, 'Drama|Romance|War'),
 
 (72489, 'Ninja Assassin', 2009, 'Action|Crime|Drama|Thriller'),
 
 (72554, 'Cell 211 (Celda 211)', 2009, 'Action|Drama'),
 
-(72591, '"Patriot, The', 1998, 'Action|Thriller'),
+(72591, 'Patriot, The', 1998, 'Action|Thriller'),
 
 (72601, 'Teenage Mutant Ninja Turtles: Turtles Forever', 2009, 'Action|Adventure|Animation|Comedy|Thriller'),
 
@@ -14415,7 +14415,7 @@ VALUES
 
 (72624, 'Garage', 2007, 'Drama'),
 
-(72641, '"Blind Side, The', 2009, 'Drama'),
+(72641, 'Blind Side, The', 2009, 'Drama'),
 
 (72692, 'Mickey‘s Once Upon a Christmas', 1999, 'Animation|Comedy|Fantasy'),
 
@@ -14427,15 +14427,15 @@ VALUES
 
 (72714, 'Earthlings', 2006, 'Documentary'),
 
-(72720, '"Single Man, A', 2009, 'Drama'),
+(72720, 'Single Man, A', 2009, 'Drama'),
 
-(72731, '"Lovely Bones, The', 2009, 'Crime|Drama|Fantasy|Horror|Thriller'),
+(72731, 'Lovely Bones, The', 2009, 'Crime|Drama|Fantasy|Horror|Thriller'),
 
 (72733, 'Invictus', 2009, 'Drama'),
 
-(72737, '"Princess and the Frog, The', 2009, 'Animation|Children|Fantasy|Musical|Romance'),
+(72737, 'Princess and the Frog, The', 2009, 'Animation|Children|Fantasy|Musical|Romance'),
 
-(72874, '"Peacekeeper, The', 1997, 'Action'),
+(72874, 'Peacekeeper, The', 1997, 'Action'),
 
 (72919, 'Did You Hear About the Morgans?', 2009, 'Comedy|Crime|Drama|Romance'),
 
@@ -14467,15 +14467,15 @@ VALUES
 
 (73319, 'Leap Year', 2010, 'Comedy|Romance'),
 
-(73321, '"Book of Eli, The', 2010, 'Action|Adventure|Drama'),
+(73321, 'Book of Eli, The', 2010, 'Action|Adventure|Drama'),
 
-(73323, '"Girl Who Kicked the Hornet‘s Nest, The (Luftslottet som sprängdes)', 2009, 'Action|Crime|Mystery'),
+(73323, 'Girl Who Kicked the Hornet‘s Nest, The (Luftslottet som sprängdes)', 2009, 'Action|Crime|Mystery'),
 
-(73344, '"Prophet, A (Un Prophète)', 2009, 'Crime|Drama'),
+(73344, 'Prophet, A (Un Prophète)', 2009, 'Crime|Drama'),
 
 (73386, 'Staten Island', 2009, 'Crime|Drama'),
 
-(73431, '"Maiden Heist, The', 2009, 'Comedy|Crime'),
+(73431, 'Maiden Heist, The', 2009, 'Comedy|Crime'),
 
 (73488, 'Blood: The Last Vampire', 2009, 'Action|Horror|Thriller'),
 
@@ -14489,19 +14489,19 @@ VALUES
 
 (73676, 'Robin-B-Hood (Bo bui gai wak)', 2006, 'Action|Comedy|Drama'),
 
-(73681, '"Concert, Le', 2009, 'Comedy|Drama'),
+(73681, 'Concert, Le', 2009, 'Comedy|Drama'),
 
 (73741, 'Ninja', 2009, 'Action|Crime|Drama|Thriller'),
 
 (73804, 'Asterix at the Olympic Games (Astérix aux jeux olympiques)', 2008, 'Adventure|Children|Comedy|Fantasy'),
 
-(73808, '"Chaser, The (Chugyeogja)', 2008, 'Crime|Drama|Thriller'),
+(73808, 'Chaser, The (Chugyeogja)', 2008, 'Crime|Drama|Thriller'),
 
 (73822, 'Meantime', 1984, 'Comedy|Drama'),
 
-(73854, '"Rudolph, the Red-Nosed Reindeer', 1964, 'Adventure|Animation|Children|Fantasy|Musical'),
+(73854, 'Rudolph, the Red-Nosed Reindeer', 1964, 'Adventure|Animation|Children|Fantasy|Musical'),
 
-(73858, '"Dennis the Menace Christmas, A', 2007, 'Comedy'),
+(73858, 'Dennis the Menace Christmas, A', 2007, 'Comedy'),
 
 (73876, 'Undisputed II: Last Man Standing', 2006, 'Action|Crime|Drama'),
 
@@ -14517,7 +14517,7 @@ VALUES
 
 (74154, 'When in Rome', 2010, 'Comedy|Romance'),
 
-(74226, '"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El)', 1992, 'Documentary|Drama'),
+(74226, 'Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El)', 1992, 'Documentary|Drama'),
 
 (74228, 'Triangle', 2009, 'Drama|Horror|Mystery|Thriller'),
 
@@ -14527,29 +14527,29 @@ VALUES
 
 (74324, 'Temple Grandin', 2010, 'Drama'),
 
-(74342, '"Captain Newman, M.D.', 1963, 'Comedy|Drama|War'),
+(74342, 'Captain Newman, M.D.', 1963, 'Comedy|Drama|War'),
 
-(74370, '"House of the Devil, The', 2009, 'Horror|Thriller'),
+(74370, 'House of the Devil, The', 2009, 'Horror|Thriller'),
 
 (74450, 'Valentine‘s Day', 2010, 'Comedy|Romance'),
 
-(74452, '"Wolfman, The', 2010, 'Horror|Thriller'),
+(74452, 'Wolfman, The', 2010, 'Horror|Thriller'),
 
 (74458, 'Shutter Island', 2010, 'Drama|Mystery|Thriller'),
 
 (74508, 'Persuasion', 2007, 'Drama|Romance'),
 
-(74510, '"Girl Who Played with Fire, The (Flickan som lekte med elden)', 2009, 'Action|Crime|Drama|Mystery|Thriller'),
+(74510, 'Girl Who Played with Fire, The (Flickan som lekte med elden)', 2009, 'Action|Crime|Drama|Mystery|Thriller'),
 
 (74530, 'Percy Jackson & the Olympians: The Lightning Thief', 2010, 'Adventure|Fantasy'),
 
 (74532, 'Cop Out', 2010, 'Action|Comedy|Crime'),
 
-(74545, '"Ghost Writer, The', 2010, 'Drama|Mystery|Thriller'),
+(74545, 'Ghost Writer, The', 2010, 'Drama|Mystery|Thriller'),
 
-(74553, '"Secret of Kells, The', 2009, 'Animation|Fantasy'),
+(74553, 'Secret of Kells, The', 2009, 'Animation|Fantasy'),
 
-(74580, '"Spy Next Door, The', 2010, 'Action|Children|Comedy'),
+(74580, 'Spy Next Door, The', 2010, 'Action|Children|Comedy'),
 
 (74624, 'Agora', 2009, 'Adventure|Drama|Romance'),
 
@@ -14557,11 +14557,11 @@ VALUES
 
 (74668, 'District 13: Ultimatum (Banlieue 13 - Ultimatum)', 2009, 'Action|Sci-Fi'),
 
-(74677, '"Yes Men Fix the World, The', 2009, 'Documentary'),
+(74677, 'Yes Men Fix the World, The', 2009, 'Documentary'),
 
 (74683, 'Mike Bassett: England Manager', 2001, 'Comedy'),
 
-(74685, '"Crazies, The', 2010, 'Action|Drama|Horror|Sci-Fi|Thriller'),
+(74685, 'Crazies, The', 2010, 'Action|Drama|Horror|Sci-Fi|Thriller'),
 
 (74688, 'Dear John', 2010, 'Drama|Romance|War'),
 
@@ -14573,11 +14573,11 @@ VALUES
 
 (74750, '[REC]²', 2009, 'Horror|Thriller'),
 
-(74754, '"Room, The', 2003, 'Comedy|Drama|Romance'),
+(74754, 'Room, The', 2003, 'Comedy|Drama|Romance'),
 
 (74789, 'Alice in Wonderland', 2010, 'Adventure|Fantasy|IMAX'),
 
-(74791, '"Town Called Panic, A (Panique au village)', 2009, 'Animation'),
+(74791, 'Town Called Panic, A (Panique au village)', 2009, 'Animation'),
 
 (74795, 'Green Zone', 2010, 'Action|Drama|Thriller|War'),
 
@@ -14593,7 +14593,7 @@ VALUES
 
 (75341, 'Remember Me', 2010, 'Drama|Romance'),
 
-(75389, '"Burrowers, The', 2008, 'Horror|Thriller|Western'),
+(75389, 'Burrowers, The', 2008, 'Horror|Thriller|Western'),
 
 (75395, 'Frozen', 2010, 'Drama|Horror|Thriller'),
 
@@ -14603,7 +14603,7 @@ VALUES
 
 (75803, 'Our Family Wedding', 2010, 'Comedy'),
 
-(75805, '"Bounty Hunter, The', 2010, 'Action|Comedy|Romance'),
+(75805, 'Bounty Hunter, The', 2010, 'Action|Comedy|Romance'),
 
 (75813, 'Leaves of Grass', 2009, 'Comedy|Crime|Drama|Thriller'),
 
@@ -14617,7 +14617,7 @@ VALUES
 
 (76054, 'Oceans (Océans)', 2009, 'Documentary|Drama'),
 
-(76060, '"Slammin‘ Salmon, The', 2009, 'Comedy'),
+(76060, 'Slammin‘ Salmon, The', 2009, 'Comedy'),
 
 (76077, 'Hot Tub Time Machine', 2010, 'Comedy|Sci-Fi'),
 
@@ -14625,7 +14625,7 @@ VALUES
 
 (76093, 'How to Train Your Dragon', 2010, 'Adventure|Animation|Children|Fantasy|IMAX'),
 
-(76143, '"Bone Man, The (Der Knochenmann)', 2009, 'Crime|Thriller'),
+(76143, 'Bone Man, The (Der Knochenmann)', 2009, 'Crime|Thriller'),
 
 (76173, 'Micmacs (Micmacs à tire-larigot)', 2009, 'Comedy|Crime'),
 
@@ -14635,7 +14635,7 @@ VALUES
 
 (76293, 'Date Night', 2010, 'Action|Comedy|Romance'),
 
-(76301, '"Emperor‘s New Groove 2: Kronk‘s New Groove, The', 2005, 'Animation|Children|Comedy|Romance'),
+(76301, 'Emperor‘s New Groove 2: Kronk‘s New Groove, The', 2005, 'Animation|Children|Comedy|Romance'),
 
 (76738, 'Steam of Life (Miesten vuoro)', 2010, 'Documentary'),
 
@@ -14643,7 +14643,7 @@ VALUES
 
 (76751, 'American Drug War: The Last White Hope', 2007, 'Crime|Documentary'),
 
-(76763, '"Runaways, The', 2010, 'Drama|Musical'),
+(76763, 'Runaways, The', 2010, 'Drama|Musical'),
 
 (77177, 'Wild China', 2008, 'Documentary'),
 
@@ -14653,17 +14653,17 @@ VALUES
 
 (77206, 'Diary of a Wimpy Kid', 2010, 'Children|Comedy'),
 
-(77233, '"Union: The Business Behind Getting High, The', 2007, 'Comedy|Documentary'),
+(77233, 'Union: The Business Behind Getting High, The', 2007, 'Comedy|Documentary'),
 
 (77266, 'Disgrace', 2008, 'Drama'),
 
-(77364, '"Losers, The', 2010, 'Action|Adventure|Drama|Mystery|Thriller'),
+(77364, 'Losers, The', 2010, 'Action|Adventure|Drama|Mystery|Thriller'),
 
-(77414, '"Last Song, The', 2010, 'Drama|Romance'),
+(77414, 'Last Song, The', 2010, 'Drama|Romance'),
 
 (77421, 'Cyrus', 2010, 'Comedy|Drama|Romance'),
 
-(77427, '"Human Centipede, The (First Sequence)', 2009, 'Horror'),
+(77427, 'Human Centipede, The (First Sequence)', 2009, 'Horror'),
 
 (77455, 'Exit Through the Gift Shop', 2010, 'Comedy|Documentary'),
 
@@ -14673,11 +14673,11 @@ VALUES
 
 (77688, 'Three Men and a Cradle (3 hommes et un couffin)', 1985, 'Comedy'),
 
-(77709, '"Sky Crawlers, The (Sukai kurora)', 2008, 'Adventure|Animation|Drama'),
+(77709, 'Sky Crawlers, The (Sukai kurora)', 2008, 'Adventure|Animation|Drama'),
 
 (77795, 'Cargo', 2009, 'Sci-Fi'),
 
-(77798, '"Nightmare on Elm Street, A', 2010, 'Fantasy|Horror|Thriller'),
+(77798, 'Nightmare on Elm Street, A', 2010, 'Fantasy|Horror|Thriller'),
 
 (77800, 'Four Lions', 2010, 'Comedy|Drama'),
 
@@ -14717,7 +14717,7 @@ VALUES
 
 (78218, 'Unthinkable', 2010, 'Drama|Thriller'),
 
-(78264, '"Back-up Plan, The', 2010, 'Comedy|Romance'),
+(78264, 'Back-up Plan, The', 2010, 'Comedy|Romance'),
 
 (78266, 'Splice', 2009, 'Horror|Sci-Fi|Thriller'),
 
@@ -14727,7 +14727,7 @@ VALUES
 
 (78467, 'Jonah Hex', 2010, 'Action|Drama|Thriller|Western'),
 
-(78469, '"A-Team, The', 2010, 'Action|Comedy|Thriller'),
+(78469, 'A-Team, The', 2010, 'Action|Comedy|Thriller'),
 
 (78499, 'Toy Story 3', 2010, 'Adventure|Animation|Children|Comedy|Fantasy|IMAX'),
 
@@ -14735,7 +14735,7 @@ VALUES
 
 (78574, 'Winter‘s Bone', 2010, 'Drama|Thriller'),
 
-(78620, '"Scalphunters, The', 1968, 'Comedy|Western'),
+(78620, 'Scalphunters, The', 1968, 'Comedy|Western'),
 
 (78626, 'Barking Dogs Never Bite (Flandersui gae)', 2000, 'Comedy|Horror'),
 
@@ -14745,11 +14745,11 @@ VALUES
 
 (78746, 'Best Worst Movie', 2009, 'Documentary'),
 
-(78772, '"Twilight Saga: Eclipse, The', 2010, 'Fantasy|Romance|Thriller|IMAX'),
+(78772, 'Twilight Saga: Eclipse, The', 2010, 'Fantasy|Romance|Thriller|IMAX'),
 
 (78836, 'Enter the Void', 2009, 'Drama'),
 
-(78893, '"Last Airbender, The', 2010, 'Action|Adventure|Fantasy'),
+(78893, 'Last Airbender, The', 2010, 'Action|Adventure|Fantasy'),
 
 (78959, 'Endgame', 2009, 'Drama'),
 
@@ -14767,15 +14767,15 @@ VALUES
 
 (79134, 'Grown Ups', 2010, 'Comedy'),
 
-(79139, '"Sorcerer‘s Apprentice, The', 2010, 'Action|Adventure|Children|Comedy|Fantasy'),
+(79139, 'Sorcerer‘s Apprentice, The', 2010, 'Action|Adventure|Children|Comedy|Fantasy'),
 
 (79185, 'Knight and Day', 2010, 'Action|Comedy|Romance'),
 
-(79224, '"Karate Kid, The', 2010, 'Action|Children|Drama'),
+(79224, 'Karate Kid, The', 2010, 'Action|Children|Drama'),
 
-(79242, '"Kids Are All Right, The', 2010, 'Comedy|Drama'),
+(79242, 'Kids Are All Right, The', 2010, 'Comedy|Drama'),
 
-(79251, '"Serbian Film, A (Srpski film)', 2010, 'Horror|Thriller'),
+(79251, 'Serbian Film, A (Srpski film)', 2010, 'Horror|Thriller'),
 
 (79259, 'Cherrybomb', 2009, 'Drama|Thriller'),
 
@@ -14783,7 +14783,7 @@ VALUES
 
 (79293, 'Salt', 2010, 'Action|Thriller'),
 
-(79299, '"No. 1 Ladies‘ Detective Agency, The', 2008, 'Comedy|Crime|Mystery'),
+(79299, 'No. 1 Ladies‘ Detective Agency, The', 2008, 'Comedy|Crime|Mystery'),
 
 (79333, 'Watch Out for the Automobile (Beregis avtomobilya)', 1966, 'Comedy|Crime|Romance'),
 
@@ -14799,15 +14799,15 @@ VALUES
 
 (79572, 'Ramona and Beezus', 2010, 'Children|Comedy'),
 
-(79590, '"Rebound, The', 2009, 'Comedy|Romance'),
+(79590, 'Rebound, The', 2009, 'Comedy|Romance'),
 
-(79592, '"Other Guys, The', 2010, 'Action|Comedy'),
+(79592, 'Other Guys, The', 2010, 'Action|Comedy'),
 
-(79677, '"Two Escobars, The', 2010, 'Crime|Documentary'),
+(79677, 'Two Escobars, The', 2010, 'Crime|Documentary'),
 
 (79684, 'Paper Man', 2009, 'Comedy|Drama'),
 
-(79695, '"Expendables, The', 2010, 'Action|Adventure|Thriller'),
+(79695, 'Expendables, The', 2010, 'Action|Adventure|Thriller'),
 
 (79702, 'Scott Pilgrim vs. the World', 2010, 'Action|Comedy|Fantasy|Musical|Romance'),
 
@@ -14817,25 +14817,25 @@ VALUES
 
 (79879, 'Piranha (Piranha 3D)', 2010, 'Action|Horror|Thriller'),
 
-(79895, '"Extraordinary Adventures of Adèle Blanc-Sec, The', 2010, 'Action|Adventure|Fantasy|Mystery'),
+(79895, 'Extraordinary Adventures of Adèle Blanc-Sec, The', 2010, 'Action|Adventure|Fantasy|Mystery'),
 
 (79897, 'Get Low', 2009, 'Comedy|Drama|Mystery'),
 
-(79946, '"Joneses, The', 2009, 'Comedy|Drama'),
+(79946, 'Joneses, The', 2009, 'Comedy|Drama'),
 
 (80083, 'Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese)', 1989, 'Action|Adventure|Animation|Fantasy|Sci-Fi'),
 
-(80094, '"Last Exorcism, The', 2010, 'Horror|Thriller'),
+(80094, 'Last Exorcism, The', 2010, 'Horror|Thriller'),
 
 (80124, 'Sisters (Syostry)', 2001, 'Action|Crime|Drama'),
 
-(80126, '"American, The', 2010, 'Drama|Thriller'),
+(80126, 'American, The', 2010, 'Drama|Thriller'),
 
 (80139, 'Jackass 2.5', 2007, 'Comedy|Documentary'),
 
-(80162, '"Horde, The (La Horde)', 2009, 'Action|Horror|Thriller'),
+(80162, 'Horde, The (La Horde)', 2009, 'Action|Horror|Thriller'),
 
-(80166, '"Switch, The', 2010, 'Comedy|Romance'),
+(80166, 'Switch, The', 2010, 'Comedy|Romance'),
 
 (80219, 'Machete', 2010, 'Action|Adventure|Comedy|Crime|Thriller'),
 
@@ -14845,11 +14845,11 @@ VALUES
 
 (80454, 'Princess (Prinsessa)', 2010, 'Drama'),
 
-(80463, '"Social Network, The', 2010, 'Drama'),
+(80463, 'Social Network, The', 2010, 'Drama'),
 
-(80478, '"Man Vanishes, A (Ningen Johatsu)', 1967, 'Documentary|Drama|Mystery'),
+(80478, 'Man Vanishes, A (Ningen Johatsu)', 1967, 'Documentary|Drama|Mystery'),
 
-(80489, '"Town, The', 2010, 'Crime|Drama|Thriller'),
+(80489, 'Town, The', 2010, 'Crime|Drama|Thriller'),
 
 (80549, 'Easy A', 2010, 'Comedy|Romance'),
 
@@ -14859,7 +14859,7 @@ VALUES
 
 (80572, 'I‘m Still Here', 2010, 'Comedy|Drama'),
 
-(80584, '"Patrik Age 1.5 (Patrik 1,5)', 2008, 'Comedy|Drama|Romance'),
+(80584, 'Patrik Age 1.5 (Patrik 1,5)', 2008, 'Comedy|Drama|Romance'),
 
 (80586, 'Flipped', 2010, 'Comedy|Drama|Romance'),
 
@@ -14897,7 +14897,7 @@ VALUES
 
 (80969, 'Never Let Me Go', 2010, 'Drama|Romance|Sci-Fi'),
 
-(81018, '"Illusionist, The (L‘illusionniste)', 2010, 'Animation'),
+(81018, 'Illusionist, The (L‘illusionniste)', 2010, 'Animation'),
 
 (81087, 'Luck by Chance', 2009, 'Drama'),
 
@@ -14941,27 +14941,27 @@ VALUES
 
 (81786, 'Certified Copy (Copie conforme)', 2010, 'Drama'),
 
-(81788, '"Next Three Days, The', 2010, 'Crime|Drama|Romance|Thriller'),
+(81788, 'Next Three Days, The', 2010, 'Crime|Drama|Romance|Thriller'),
 
 (81791, 'Somewhere', 2010, 'Drama'),
 
 (81819, 'Biutiful', 2010, 'Drama'),
 
-(81831, '"First Beautiful Thing, The (La prima cosa bella)', 2010, 'Comedy|Drama'),
+(81831, 'First Beautiful Thing, The (La prima cosa bella)', 2010, 'Comedy|Drama'),
 
 (81834, 'Harry Potter and the Deathly Hallows: Part 1', 2010, 'Action|Adventure|Fantasy|IMAX'),
 
-(81845, '"King‘s Speech, The', 2010, 'Drama'),
+(81845, 'King‘s Speech, The', 2010, 'Drama'),
 
 (81847, 'Tangled', 2010, 'Animation|Children|Comedy|Fantasy|Musical|Romance|IMAX'),
 
-(81910, '"Art of the Steal, The', 2009, 'Documentary'),
+(81910, 'Art of the Steal, The', 2009, 'Documentary'),
 
-(81932, '"Fighter, The', 2010, 'Drama'),
+(81932, 'Fighter, The', 2010, 'Drama'),
 
-(81949, '"Romantics, The', 2010, 'Comedy|Drama|Romance'),
+(81949, 'Romantics, The', 2010, 'Comedy|Drama|Romance'),
 
-(82041, '"Loved Ones, The', 2009, 'Horror'),
+(82041, 'Loved Ones, The', 2009, 'Horror'),
 
 (82053, 'Casino Jack', 2010, 'Comedy|Crime'),
 
@@ -14975,9 +14975,9 @@ VALUES
 
 (82167, 'Love and Other Drugs', 2010, 'Comedy|Drama|Romance'),
 
-(82169, '"Chronicles of Narnia: The Voyage of the Dawn Treader, The', 2010, 'Adventure|Children|Fantasy'),
+(82169, 'Chronicles of Narnia: The Voyage of the Dawn Treader, The', 2010, 'Adventure|Children|Fantasy'),
 
-(82202, '"Tourist, The', 2010, 'Drama|Thriller'),
+(82202, 'Tourist, The', 2010, 'Drama|Thriller'),
 
 (82242, 'Rare Exports: A Christmas Tale (Rare Exports)', 2010, 'Action|Comedy'),
 
@@ -14993,9 +14993,9 @@ VALUES
 
 (82527, 'Barney‘s Version', 2010, 'Drama'),
 
-(82534, '"Company Men, The', 2010, 'Drama'),
+(82534, 'Company Men, The', 2010, 'Drama'),
 
-(82641, '"One-Armed Swordsman, The (Dubei dao)', 1967, 'Action|Drama'),
+(82641, 'One-Armed Swordsman, The (Dubei dao)', 1967, 'Action|Drama'),
 
 (82667, 'I Saw the Devil (Akmareul boatda)', 2010, 'Crime|Thriller'),
 
@@ -15017,7 +15017,7 @@ VALUES
 
 (83086, 'Burlesque', 2010, 'Drama|Musical|Romance'),
 
-(83132, '"Secret World of Arrietty, The (Kari-gurashi no Arietti)', 2010, 'Animation|Children|Fantasy'),
+(83132, 'Secret World of Arrietty, The (Kari-gurashi no Arietti)', 2010, 'Animation|Children|Fantasy'),
 
 (83134, 'Tucker & Dale vs Evil', 2010, 'Comedy|Horror'),
 
@@ -15025,11 +15025,11 @@ VALUES
 
 (83270, 'Made in Dagenham', 2010, 'Comedy|Drama'),
 
-(83349, '"Green Hornet, The', 2011, 'Action|Comedy|Crime|Fantasy|Thriller|IMAX'),
+(83349, 'Green Hornet, The', 2011, 'Action|Comedy|Crime|Fantasy|Thriller|IMAX'),
 
-(83369, '"Way Back, The', 2010, 'Drama'),
+(83369, 'Way Back, The', 2010, 'Drama'),
 
-(83374, '"Warrior‘s Way, The', 2010, 'Action|Fantasy|Western'),
+(83374, 'Warrior‘s Way, The', 2010, 'Action|Fantasy|Western'),
 
 (83480, 'Season of the Witch', 2011, 'Adventure|Drama|Fantasy'),
 
@@ -15043,11 +15043,11 @@ VALUES
 
 (83827, 'Marwencol', 2010, 'Documentary'),
 
-(83910, '"Dilemma, The', 2011, 'Comedy|Drama'),
+(83910, 'Dilemma, The', 2011, 'Comedy|Drama'),
 
 (83969, 'Down Argentine Way', 1940, 'Comedy|Drama|Romance'),
 
-(83976, '"Trip, The', 2010, 'Comedy|Drama'),
+(83976, 'Trip, The', 2010, 'Comedy|Drama'),
 
 (84152, 'Limitless', 2011, 'Sci-Fi|Thriller'),
 
@@ -15065,7 +15065,7 @@ VALUES
 
 (84374, 'No Strings Attached', 2011, 'Comedy|Romance'),
 
-(84392, '"Lincoln Lawyer, The', 2011, 'Crime|Drama|Thriller'),
+(84392, 'Lincoln Lawyer, The', 2011, 'Crime|Drama|Thriller'),
 
 (84414, 'All-Star Superman', 2011, 'Action|Adventure|Animation|Sci-Fi'),
 
@@ -15087,7 +15087,7 @@ VALUES
 
 (84772, 'Paul', 2011, 'Adventure|Comedy|Sci-Fi'),
 
-(84799, '"Asphyx, The', 1973, 'Horror|Sci-Fi'),
+(84799, 'Asphyx, The', 1973, 'Horror|Sci-Fi'),
 
 (84844, 'Brother 2 (Brat 2)', 2000, 'Crime|Drama'),
 
@@ -15101,13 +15101,13 @@ VALUES
 
 (84952, 'Confessions (Kokuhaku)', 2010, 'Drama|Horror'),
 
-(84954, '"Adjustment Bureau, The', 2011, 'Romance|Sci-Fi|Thriller'),
+(84954, 'Adjustment Bureau, The', 2011, 'Romance|Sci-Fi|Thriller'),
 
-(85020, '"Mechanic, The', 2011, 'Action|Drama|Thriller'),
+(85020, 'Mechanic, The', 2011, 'Action|Drama|Thriller'),
 
 (85022, 'Hall Pass', 2011, 'Comedy'),
 
-(85025, '"Eagle, The', 2011, 'Adventure|Drama'),
+(85025, 'Eagle, The', 2011, 'Adventure|Drama'),
 
 (85056, 'I Am Number Four', 2011, 'Action|Sci-Fi|Thriller|IMAX'),
 
@@ -15115,7 +15115,7 @@ VALUES
 
 (85179, 'Summer Wars (Samâ wôzu)', 2009, 'Adventure|Animation|Comedy|Sci-Fi'),
 
-(85213, '"Sunset Limited, The', 2011, 'Drama'),
+(85213, 'Sunset Limited, The', 2011, 'Drama'),
 
 (85259, 'Winnie the Pooh and the Honey Tree', 1966, 'Animation|Children'),
 
@@ -15137,11 +15137,11 @@ VALUES
 
 (85397, 'Red Riding Hood', 2011, 'Fantasy|Horror|Mystery|Thriller'),
 
-(85399, '"Big Mommas: Like Father, Like Son', 2011, 'Comedy'),
+(85399, 'Big Mommas: Like Father, Like Son', 2011, 'Comedy'),
 
 (85401, 'Super', 2010, 'Action|Comedy|Drama'),
 
-(85412, '"Troll Hunter, The (Trolljegeren)', 2010, 'Fantasy|Horror'),
+(85412, 'Troll Hunter, The (Trolljegeren)', 2010, 'Fantasy|Horror'),
 
 (85414, 'Source Code', 2011, 'Action|Drama|Mystery|Sci-Fi|Thriller'),
 
@@ -15217,7 +15217,7 @@ VALUES
 
 (86628, 'Kill the Irishman', 2011, 'Action|Crime'),
 
-(86644, '"Fast Five (Fast and the Furious 5, The)', 2011, 'Action|Crime|Drama|Thriller|IMAX'),
+(86644, 'Fast Five (Fast and the Furious 5, The)', 2011, 'Action|Crime|Drama|Thriller|IMAX'),
 
 (86668, 'Louis Theroux: Law & Disorder', 2008, 'Documentary'),
 
@@ -15241,15 +15241,15 @@ VALUES
 
 (86892, 'The Man from Nowhere', 2010, 'Action|Crime|Thriller'),
 
-(86898, '"Tree of Life, The', 2011, 'Drama'),
+(86898, 'Tree of Life, The', 2011, 'Drama'),
 
-(86911, '"Hangover Part II, The', 2011, 'Comedy'),
+(86911, 'Hangover Part II, The', 2011, 'Comedy'),
 
 (86922, 'Nothing to Declare (Rien à déclarer)', 2010, 'Comedy'),
 
 (86960, 'Across the Hall', 2009, 'Thriller'),
 
-(87028, '"Roommate, The', 2011, 'Drama|Thriller'),
+(87028, 'Roommate, The', 2011, 'Drama|Thriller'),
 
 (87192, 'Attack the Block', 2011, 'Action|Comedy|Sci-Fi'),
 
@@ -15313,21 +15313,21 @@ VALUES
 
 (88140, 'Captain America: The First Avenger', 2011, 'Action|Adventure|Sci-Fi|Thriller|War'),
 
-(88163, '"Crazy, Stupid, Love.', 2011, 'Comedy|Drama|Romance'),
+(88163, 'Crazy, Stupid, Love.', 2011, 'Comedy|Drama|Romance'),
 
 (88179, 'One Day', 2011, 'Drama|Romance'),
 
-(88235, '"Guard, The', 2011, 'Comedy|Crime'),
+(88235, 'Guard, The', 2011, 'Comedy|Crime'),
 
 (88267, 'Winnie the Pooh', 2011, 'Animation|Children|Comedy'),
 
-(88272, '"Woman, The', 2011, 'Horror'),
+(88272, 'Woman, The', 2011, 'Horror'),
 
-(88327, '"New One-Armed Swordsman, The (Xin du bi dao)', 1971, 'Action|Drama|War'),
+(88327, 'New One-Armed Swordsman, The (Xin du bi dao)', 1971, 'Action|Drama|War'),
 
 (88345, 'Mike‘s New Car', 2002, 'Animation|Comedy'),
 
-(88356, '"Smurfs, The', 2011, 'Animation|Children|Comedy'),
+(88356, 'Smurfs, The', 2011, 'Animation|Children|Comedy'),
 
 (88405, 'Friends with Benefits', 2011, 'Comedy|Romance'),
 
@@ -15335,7 +15335,7 @@ VALUES
 
 (88515, 'Blitz', 2011, 'Action|Crime|Thriller'),
 
-(88593, '"Yellow Sea, The (a.k.a. The Murderer) (Hwanghae)', 2010, 'Crime|Drama|Thriller'),
+(88593, 'Yellow Sea, The (a.k.a. The Murderer) (Hwanghae)', 2010, 'Crime|Drama|Thriller'),
 
 (88672, 'Our Idiot Brother', 2011, 'Comedy'),
 
@@ -15347,9 +15347,9 @@ VALUES
 
 (88746, 'Terri', 2011, 'Comedy'),
 
-(88785, '"Change-Up, The', 2011, 'Comedy'),
+(88785, 'Change-Up, The', 2011, 'Comedy'),
 
-(88810, '"Help, The', 2011, 'Drama'),
+(88810, 'Help, The', 2011, 'Drama'),
 
 (88812, '30 Minutes or Less', 2011, 'Action|Comedy|Crime'),
 
@@ -15357,7 +15357,7 @@ VALUES
 
 (88932, 'Final Destination 5', 2011, 'Horror|Thriller|IMAX'),
 
-(88954, '"Very Harold & Kumar 3D Christmas, A', 2011, 'Comedy'),
+(88954, 'Very Harold & Kumar 3D Christmas, A', 2011, 'Comedy'),
 
 (89028, 'Don‘t Be Afraid of the Dark', 2010, 'Horror|Thriller'),
 
@@ -15369,13 +15369,13 @@ VALUES
 
 (89072, 'Stake Land', 2010, 'Horror'),
 
-(89085, '"Debt, The', 2011, 'Drama|Thriller'),
+(89085, 'Debt, The', 2011, 'Drama|Thriller'),
 
 (89087, 'Colombiana', 2011, 'Action|Adventure|Drama|Thriller'),
 
 (89090, 'Bill Cunningham New York', 2011, 'Documentary'),
 
-(89118, '"Skin I Live In, The (La piel que habito)', 2011, 'Drama'),
+(89118, 'Skin I Live In, The (La piel que habito)', 2011, 'Drama'),
 
 (89190, 'Conan the Barbarian', 2011, 'Action|Adventure|Fantasy'),
 
@@ -15383,7 +15383,7 @@ VALUES
 
 (89281, 'Birdemic: Shock and Terror', 2010, 'Romance|Thriller'),
 
-(89305, '"Inbetweeners Movie, The', 2011, 'Adventure|Comedy'),
+(89305, 'Inbetweeners Movie, The', 2011, 'Adventure|Comedy'),
 
 (89343, 'Red State', 2011, 'Action|Crime|Horror|Thriller'),
 
@@ -15405,17 +15405,17 @@ VALUES
 
 (89678, 'Northanger Abbey', 2007, 'Drama|Romance'),
 
-(89745, '"Avengers, The', 2012, 'Action|Adventure|Sci-Fi|IMAX'),
+(89745, 'Avengers, The', 2012, 'Action|Adventure|Sci-Fi|IMAX'),
 
 (89753, 'Tinker Tailor Soldier Spy', 2011, 'Drama|Film-Noir|Thriller'),
 
-(89759, '"Separation, A (Jodaeiye Nader az Simin)', 2011, 'Drama'),
+(89759, 'Separation, A (Jodaeiye Nader az Simin)', 2011, 'Drama'),
 
-(89761, '"Dangerous Method, A', 2011, 'Drama|Thriller'),
+(89761, 'Dangerous Method, A', 2011, 'Drama|Thriller'),
 
 (89774, 'Warrior', 2011, 'Drama'),
 
-(89804, '"Ides of March, The', 2011, 'Drama'),
+(89804, 'Ides of March, The', 2011, 'Drama'),
 
 (89837, 'Kill List', 2011, 'Horror|Mystery|Thriller'),
 
@@ -15443,7 +15443,7 @@ VALUES
 
 (90343, 'Footloose', 2011, 'Comedy|Drama|Musical'),
 
-(90345, '"Thing, The', 2011, 'Horror|Mystery|Sci-Fi|Thriller'),
+(90345, 'Thing, The', 2011, 'Horror|Mystery|Sci-Fi|Thriller'),
 
 (90353, 'Beautiful Boy', 2010, 'Drama'),
 
@@ -15455,7 +15455,7 @@ VALUES
 
 (90384, 'Behind Enemy Lines II: Axis of Evil', 2006, 'Action|Thriller|War'),
 
-(90403, '"Three Musketeers, The', 2011, 'Action|Adventure'),
+(90403, 'Three Musketeers, The', 2011, 'Action|Adventure'),
 
 (90405, 'In Time', 2011, 'Crime|Sci-Fi|Thriller'),
 
@@ -15491,9 +15491,9 @@ VALUES
 
 (90719, 'J. Edgar', 2011, 'Drama'),
 
-(90738, '"Double, The', 2011, 'Action|Crime|Drama|Mystery|Thriller'),
+(90738, 'Double, The', 2011, 'Action|Crime|Drama|Mystery|Thriller'),
 
-(90746, '"Adventures of Tintin, The', 2011, 'Action|Animation|Mystery|IMAX'),
+(90746, 'Adventures of Tintin, The', 2011, 'Action|Animation|Mystery|IMAX'),
 
 (90769, 'Starsuckers', 2009, 'Documentary'),
 
@@ -15509,19 +15509,19 @@ VALUES
 
 (90943, 'Into the Abyss', 2011, 'Documentary'),
 
-(90945, '"Sign of Four, The', 1987, 'Adventure|Crime|Drama'),
+(90945, 'Sign of Four, The', 1987, 'Adventure|Crime|Drama'),
 
-(91077, '"Descendants, The', 2011, 'Comedy|Drama'),
+(91077, 'Descendants, The', 2011, 'Comedy|Drama'),
 
 (91079, 'Like Crazy', 2011, 'Drama|Romance'),
 
-(91094, '"Muppets, The', 2011, 'Children|Comedy|Musical'),
+(91094, 'Muppets, The', 2011, 'Children|Comedy|Musical'),
 
-(91104, '"Twilight Saga: Breaking Dawn - Part 1, The', 2011, 'Adventure|Drama|Fantasy|Romance'),
+(91104, 'Twilight Saga: Breaking Dawn - Part 1, The', 2011, 'Adventure|Drama|Fantasy|Romance'),
 
 (91126, 'War Horse', 2011, 'Drama|War'),
 
-(91128, '"Rum Diary, The', 2011, 'Comedy|Drama|Thriller'),
+(91128, 'Rum Diary, The', 2011, 'Comedy|Drama|Thriller'),
 
 (91233, 'Lifted', 2006, 'Animation|Comedy|Sci-Fi'),
 
@@ -15531,7 +15531,7 @@ VALUES
 
 (91273, 'Bunraku', 2010, 'Action|Drama|Fantasy'),
 
-(91323, '"Sitter, The', 2011, 'Comedy'),
+(91323, 'Sitter, The', 2011, 'Comedy'),
 
 (91325, 'Extremely Loud and Incredibly Close', 2011, 'Drama'),
 
@@ -15549,15 +15549,15 @@ VALUES
 
 (91483, 'Bullet to the Head', 2012, 'Action|Crime|Film-Noir'),
 
-(91485, '"Expendables 2, The', 2012, 'Action|Adventure'),
+(91485, 'Expendables 2, The', 2012, 'Action|Adventure'),
 
-(91488, '"Snowman, The', 1982, 'Animation|Children|Musical'),
+(91488, 'Snowman, The', 1982, 'Animation|Children|Musical'),
 
 (91500, 'The Hunger Games', 2012, 'Action|Adventure|Drama|Sci-Fi|Thriller'),
 
-(91529, '"Dark Knight Rises, The', 2012, 'Action|Adventure|Crime|IMAX'),
+(91529, 'Dark Knight Rises, The', 2012, 'Action|Adventure|Crime|IMAX'),
 
-(91535, '"Bourne Legacy, The', 2012, 'Action|Adventure|Drama|Thriller|IMAX'),
+(91535, 'Bourne Legacy, The', 2012, 'Action|Adventure|Drama|Thriller|IMAX'),
 
 (91542, 'Sherlock Holmes: A Game of Shadows', 2011, 'Action|Adventure|Comedy|Crime|Mystery|Thriller'),
 
@@ -15571,9 +15571,9 @@ VALUES
 
 (91653, 'We Bought a Zoo', 2011, 'Comedy|Drama'),
 
-(91658, '"Girl with the Dragon Tattoo, The', 2011, 'Drama|Thriller'),
+(91658, 'Girl with the Dragon Tattoo, The', 2011, 'Drama|Thriller'),
 
-(91660, '"Darkest Hour, The', 2011, 'Action|Horror|Sci-Fi|Thriller'),
+(91660, 'Darkest Hour, The', 2011, 'Action|Horror|Sci-Fi|Thriller'),
 
 (91666, 'Last Holiday', 1950, 'Comedy|Drama|Romance'),
 
@@ -15587,21 +15587,21 @@ VALUES
 
 (91842, 'Contraband', 2012, 'Action|Crime|Drama|Thriller'),
 
-(91860, '"Way South, The (De weg naar het zuiden)', 1981, 'Documentary'),
+(91860, 'Way South, The (De weg naar het zuiden)', 1981, 'Documentary'),
 
 (91869, 'Being Elmo: A Puppeteer‘s Journey', 2011, 'Documentary'),
 
 (91873, 'Joyful Noise', 2012, 'Comedy|Musical'),
 
-(91890, '"Iron Lady, The', 2011, 'Drama'),
+(91890, 'Iron Lady, The', 2011, 'Drama'),
 
 (91935, 'Albatross', 2011, 'Drama'),
 
-(91947, '"Revenant, The', 2009, 'Comedy|Horror'),
+(91947, 'Revenant, The', 2009, 'Comedy|Horror'),
 
 (91974, 'Underworld: Awakening', 2012, 'Action|Fantasy|Horror|IMAX'),
 
-(91976, '"Grey, The', 2012, 'Action|Drama'),
+(91976, 'Grey, The', 2012, 'Action|Drama'),
 
 (91978, 'Man on a Ledge', 2012, 'Crime|Thriller'),
 
@@ -15611,7 +15611,7 @@ VALUES
 
 (92046, 'Contact High', 2009, 'Comedy'),
 
-(92048, '"Whistleblower, The', 2010, 'Drama|Thriller'),
+(92048, 'Whistleblower, The', 2010, 'Drama|Thriller'),
 
 (92094, 'Einstein and Eddington', 2008, 'Drama'),
 
@@ -15621,13 +15621,13 @@ VALUES
 
 (92234, 'Red Tails', 2012, 'Action|Adventure|Drama|War'),
 
-(92243, '"Flowers of War, The (Jin líng shí san chai)', 2011, 'Drama|War'),
+(92243, 'Flowers of War, The (Jin líng shí san chai)', 2011, 'Drama|War'),
 
 (92259, 'Intouchables', 2011, 'Comedy|Drama'),
 
 (92264, 'One for the Money', 2012, 'Action|Comedy|Crime'),
 
-(92309, '"Innkeepers, The', 2011, 'Horror|Thriller'),
+(92309, 'Innkeepers, The', 2011, 'Horror|Thriller'),
 
 (92348, 'Puss in Boots (Nagagutsu o haita neko)', 1969, 'Adventure|Animation|Children|Comedy|Fantasy|Romance'),
 
@@ -15635,11 +15635,11 @@ VALUES
 
 (92420, 'Chronicle', 2012, 'Action|Sci-Fi|Thriller'),
 
-(92422, '"Woman in Black, The', 2012, 'Drama|Horror|Thriller'),
+(92422, 'Woman in Black, The', 2012, 'Drama|Horror|Thriller'),
 
 (92427, 'Woman in Love (Rubbeldiekatz)', 2011, 'Comedy'),
 
-(92439, '"Art of Getting By, The', 2011, 'Drama|Romance'),
+(92439, 'Art of Getting By, The', 2011, 'Drama|Romance'),
 
 (92475, 'All Watched Over by Machines of Loving Grace', 2011, 'Documentary'),
 
@@ -15647,7 +15647,7 @@ VALUES
 
 (92507, 'Safe House', 2012, 'Action|Crime|Mystery|Thriller'),
 
-(92509, '"Vow, The', 2012, 'Drama|Romance'),
+(92509, 'Vow, The', 2012, 'Drama|Romance'),
 
 (92535, 'Louis C.K.: Live at the Beacon Theater', 2011, 'Comedy'),
 
@@ -15655,7 +15655,7 @@ VALUES
 
 (92643, 'Monsieur Lazhar', 2011, 'Children|Comedy|Drama'),
 
-(92665, '"For a Good Time, Call...', 2012, 'Comedy|Drama|Romance'),
+(92665, 'For a Good Time, Call...', 2012, 'Comedy|Drama|Romance'),
 
 (92674, 'Janie Jones', 2010, 'Drama|Musical'),
 
@@ -15665,23 +15665,23 @@ VALUES
 
 (92730, 'Rollo and the Woods Sprite (Rölli ja metsänhenki)', 2001, 'Children|Fantasy'),
 
-(92760, '"Atomic Brain, The', 1963, 'Horror|Sci-Fi'),
+(92760, 'Atomic Brain, The', 1963, 'Horror|Sci-Fi'),
 
 (92938, 'Ghost Rider: Spirit of Vengeance', 2012, 'Action|Fantasy|Thriller'),
 
 (92954, 'Prayers for Bobby', 2009, 'Drama'),
 
-(93006, '"Very Potter Musical, A', 2009, 'Comedy|Musical'),
+(93006, 'Very Potter Musical, A', 2009, 'Comedy|Musical'),
 
-(93008, '"Very Potter Sequel, A', 2010, 'Comedy|Musical'),
+(93008, 'Very Potter Sequel, A', 2010, 'Comedy|Musical'),
 
 (93022, 'Miss Nobody', 2010, 'Comedy|Crime'),
 
-(93040, '"Civil War, The', 1990, 'Documentary|War'),
+(93040, 'Civil War, The', 1990, 'Documentary|War'),
 
 (93114, 'Ro.Go.Pa.G.', 1963, 'Comedy|Drama'),
 
-(93134, '"Women on the 6th Floor, The (Les Femmes du 6ème Étage)', 2010, 'Comedy'),
+(93134, 'Women on the 6th Floor, The (Les Femmes du 6ème Étage)', 2010, 'Comedy'),
 
 (93139, 'Mega Shark vs. Crocosaurus', 2010, 'Action|Adventure|Horror'),
 
@@ -15695,7 +15695,7 @@ VALUES
 
 (93272, 'Dr. Seuss‘ The Lorax', 2012, 'Animation|Fantasy|Musical|IMAX'),
 
-(93287, '"Big Year, The', 2011, 'Comedy'),
+(93287, 'Big Year, The', 2011, 'Comedy'),
 
 (93297, 'Act of Valor', 2012, 'Action|Thriller|War'),
 
@@ -15707,15 +15707,15 @@ VALUES
 
 (93443, 'Goon', 2011, 'Comedy|Drama'),
 
-(93502, '"Ledge, The', 2011, 'Drama|Thriller'),
+(93502, 'Ledge, The', 2011, 'Drama|Thriller'),
 
 (93510, '21 Jump Street', 2012, 'Action|Comedy|Crime'),
 
-(93512, '"Jeff, Who Lives at Home', 2012, 'Comedy|Drama'),
+(93512, 'Jeff, Who Lives at Home', 2012, 'Comedy|Drama'),
 
 (93563, 'Lockout', 2012, 'Action|Sci-Fi|Thriller'),
 
-(93598, '"Snowtown (Snowtown Murders, The)', 2011, 'Crime|Drama|Thriller'),
+(93598, 'Snowtown (Snowtown Murders, The)', 2011, 'Crime|Drama|Thriller'),
 
 (93610, 'Space Battleship Yamato', 2010, 'Action|Adventure|Drama'),
 
@@ -15737,23 +15737,23 @@ VALUES
 
 (93838, 'The Raid: Redemption', 2011, 'Action|Crime'),
 
-(93840, '"Cabin in the Woods, The', 2012, 'Comedy|Horror|Sci-Fi|Thriller'),
+(93840, 'Cabin in the Woods, The', 2012, 'Comedy|Horror|Sci-Fi|Thriller'),
 
 (93855, 'God Bless America', 2011, 'Comedy|Drama'),
 
-(93980, '"Three Stooges, The', 2012, 'Comedy'),
+(93980, 'Three Stooges, The', 2012, 'Comedy'),
 
-(93982, '"Raven, The', 2012, 'Mystery|Thriller'),
+(93982, 'Raven, The', 2012, 'Mystery|Thriller'),
 
 (93988, 'North & South', 2004, 'Drama|Romance'),
 
-(94011, '"Big Bang, The', 2011, 'Action|Thriller'),
+(94011, 'Big Bang, The', 2011, 'Action|Thriller'),
 
 (94015, 'Mirror Mirror', 2012, 'Adventure|Comedy|Fantasy'),
 
 (94018, 'Battleship', 2012, 'Action|Sci-Fi|Thriller|IMAX'),
 
-(94070, '"Best Exotic Marigold Hotel, The', 2011, 'Comedy|Drama'),
+(94070, 'Best Exotic Marigold Hotel, The', 2011, 'Comedy|Drama'),
 
 (94122, 'Comic-Con Episode IV: A Fan‘s Hope', 2011, 'Documentary'),
 
@@ -15763,13 +15763,13 @@ VALUES
 
 (94160, 'Dante‘s Inferno: An Animated Epic', 2010, 'Action|Animation|Fantasy'),
 
-(94262, '"Atomic Submarine, The', 1959, 'Sci-Fi|Thriller'),
+(94262, 'Atomic Submarine, The', 1959, 'Sci-Fi|Thriller'),
 
-(94266, '"Five-Year Engagement, The', 2012, 'Comedy|Romance'),
+(94266, 'Five-Year Engagement, The', 2012, 'Comedy|Romance'),
 
 (94323, 'Think Like a Man', 2012, 'Comedy'),
 
-(94325, '"Lucky One, The', 2012, 'Drama'),
+(94325, 'Lucky One, The', 2012, 'Drama'),
 
 (94405, 'Safe', 2012, 'Action|Crime|Thriller'),
 
@@ -15777,11 +15777,11 @@ VALUES
 
 (94494, '96 Minutes', 2011, 'Drama|Thriller'),
 
-(94503, '"Decoy Bride, The', 2011, 'Comedy|Romance'),
+(94503, 'Decoy Bride, The', 2011, 'Comedy|Romance'),
 
 (94661, 'Rocket Singh: Salesman of the Year', 2009, 'Comedy|Drama'),
 
-(94677, '"Dictator, The', 2012, 'Comedy'),
+(94677, 'Dictator, The', 2012, 'Comedy'),
 
 (94735, 'Walking with Monsters', 2005, 'Documentary'),
 
@@ -15793,11 +15793,11 @@ VALUES
 
 (94810, 'Eva', 2011, 'Drama|Fantasy|Sci-Fi'),
 
-(94833, '"Pirates! Band of Misfits, The', 2012, 'Adventure|Animation|Children|Comedy'),
+(94833, 'Pirates! Band of Misfits, The', 2012, 'Adventure|Animation|Children|Comedy'),
 
 (94864, 'Prometheus', 2012, 'Action|Horror|Sci-Fi|IMAX'),
 
-(94867, '"Pact, The', 2012, 'Horror|Mystery|Thriller'),
+(94867, 'Pact, The', 2012, 'Horror|Mystery|Thriller'),
 
 (94896, 'Bernie', 2011, 'Comedy|Crime|Drama'),
 
@@ -15813,7 +15813,7 @@ VALUES
 
 (95004, 'Superman/Doomsday', 2007, 'Action|Animation'),
 
-(95067, '"Thousand Words, A', 2012, 'Comedy|Drama'),
+(95067, 'Thousand Words, A', 2012, 'Comedy|Drama'),
 
 (95088, 'Safety Not Guaranteed', 2012, 'Comedy|Drama'),
 
@@ -15873,7 +15873,7 @@ VALUES
 
 (95508, 'Cleanskin', 2012, 'Crime|Drama|Thriller'),
 
-(95510, '"Amazing Spider-Man, The', 2012, 'Action|Adventure|Sci-Fi|IMAX'),
+(95510, 'Amazing Spider-Man, The', 2012, 'Action|Adventure|Sci-Fi|IMAX'),
 
 (95519, 'Dragon Ball Z: Bojack Unbound (Doragon bôru Z 9: Ginga girigiri!! Butchigiri no sugoi yatsu)', 1993, 'Action|Adventure|Animation|Fantasy'),
 
@@ -15883,7 +15883,7 @@ VALUES
 
 (95583, 'Savages', 2012, 'Crime|Drama|Thriller'),
 
-(95624, '"Firm, The', 2009, 'Drama'),
+(95624, 'Firm, The', 2009, 'Drama'),
 
 (95633, 'Spirit Camp', 2009, 'Horror'),
 
@@ -15893,9 +15893,9 @@ VALUES
 
 (95717, 'Treasure Island', 2012, 'Adventure'),
 
-(95720, '"Watch, The', 2012, 'Comedy|Sci-Fi'),
+(95720, 'Watch, The', 2012, 'Comedy|Sci-Fi'),
 
-(95738, '"Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper', 1995, 'Children|Musical|Mystery'),
+(95738, 'Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper', 1995, 'Children|Musical|Mystery'),
 
 (95744, '2 Days in New York', 2012, 'Comedy'),
 
@@ -15907,7 +15907,7 @@ VALUES
 
 (95796, 'Anaconda: The Offspring', 2008, 'Action|Horror|Sci-Fi|Thriller'),
 
-(95839, '"Christmas Carol, A', 1999, 'Drama|Fantasy'),
+(95839, 'Christmas Carol, A', 1999, 'Drama|Fantasy'),
 
 (95843, 'Goodbye Charlie', 1964, 'Comedy|Fantasy|Romance'),
 
@@ -15917,9 +15917,9 @@ VALUES
 
 (95875, 'Total Recall', 2012, 'Action|Sci-Fi|Thriller'),
 
-(95939, '"Angels‘ Share, The', 2012, 'Comedy|Drama'),
+(95939, 'Angels‘ Share, The', 2012, 'Comedy|Drama'),
 
-(95949, '"Immature, The (Immaturi)', 2011, 'Comedy'),
+(95949, 'Immature, The (Immaturi)', 2011, 'Comedy'),
 
 (95965, 'Dragon Ball Z: Bardock - The Father of Goku (Doragon bôru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi)', 1990, 'Action|Adventure|Animation'),
 
@@ -15933,13 +15933,13 @@ VALUES
 
 (96084, 'Hands Over the City (Le mani sulla città)', 1963, 'Drama'),
 
-(96110, '"Campaign, The', 2012, 'Comedy'),
+(96110, 'Campaign, The', 2012, 'Comedy'),
 
 (96114, 'Brake', 2012, 'Crime|Thriller'),
 
 (96121, 'Hope Springs', 2012, 'Comedy|Drama'),
 
-(96150, '"Queen of Versailles, The', 2012, 'Documentary'),
+(96150, 'Queen of Versailles, The', 2012, 'Documentary'),
 
 (96281, 'ParaNorman', 2012, 'Adventure|Animation|Comedy'),
 
@@ -15951,7 +15951,7 @@ VALUES
 
 (96417, 'Premium Rush', 2012, 'Action|Thriller'),
 
-(96430, '"Odd Life of Timothy Green, The', 2012, 'Comedy|Drama|Fantasy'),
+(96430, 'Odd Life of Timothy Green, The', 2012, 'Comedy|Drama|Fantasy'),
 
 (96432, 'Lawless', 2012, 'Crime|Drama'),
 
@@ -15969,7 +15969,7 @@ VALUES
 
 (96563, 'Paradise Lost 3: Purgatory', 2011, 'Documentary'),
 
-(96567, '"Words, The', 2012, 'Drama|Romance'),
+(96567, 'Words, The', 2012, 'Drama|Romance'),
 
 (96588, 'Pitch Perfect', 2012, 'Comedy|Musical'),
 
@@ -15987,7 +15987,7 @@ VALUES
 
 (96726, 'Lola Versus', 2012, 'Comedy|Romance'),
 
-(96728, '"Master, The', 2012, 'Drama'),
+(96728, 'Master, The', 2012, 'Drama'),
 
 (96737, 'Dredd', 2012, 'Action|Sci-Fi'),
 
@@ -15995,9 +15995,9 @@ VALUES
 
 (96815, 'V/H/S', 2012, 'Horror|Thriller'),
 
-(96821, '"Perks of Being a Wallflower, The', 2012, 'Drama|Romance'),
+(96821, 'Perks of Being a Wallflower, The', 2012, 'Drama|Romance'),
 
-(96829, '"Hunt, The (Jagten)', 2012, 'Drama'),
+(96829, 'Hunt, The (Jagten)', 2012, 'Drama'),
 
 (96832, 'Holy Motors', 2012, 'Drama|Fantasy|Musical|Mystery|Sci-Fi'),
 
@@ -16009,7 +16009,7 @@ VALUES
 
 (96945, 'Love Lasts Three Years (L‘amour dure trois ans)', 2011, 'Comedy|Drama|Romance'),
 
-(96964, '"Tall Man, The', 2012, 'Crime|Drama|Mystery'),
+(96964, 'Tall Man, The', 2012, 'Crime|Drama|Mystery'),
 
 (96975, 'LOL', 2012, 'Comedy|Drama|Romance'),
 
@@ -16021,7 +16021,7 @@ VALUES
 
 (97188, 'Sinister', 2012, 'Horror|Thriller'),
 
-(97194, '"Thing: Terror Takes Shape, The', 1998, 'Documentary'),
+(97194, 'Thing: Terror Takes Shape, The', 1998, 'Documentary'),
 
 (97225, 'Hotel Transylvania', 2012, 'Animation|Children|Comedy'),
 
@@ -16057,9 +16057,9 @@ VALUES
 
 (97860, 'Killing Them Softly', 2012, 'Crime|Drama|Thriller'),
 
-(97866, '"Imposter, The', 2012, 'Documentary'),
+(97866, 'Imposter, The', 2012, 'Documentary'),
 
-(97870, '"Sessions, The (Surrogate, The)', 2012, 'Drama'),
+(97870, 'Sessions, The (Surrogate, The)', 2012, 'Drama'),
 
 (97904, 'Smashed', 2012, 'Comedy|Drama'),
 
@@ -16073,9 +16073,9 @@ VALUES
 
 (97938, 'Life of Pi', 2012, 'Adventure|Drama|IMAX'),
 
-(97950, '"Man with the Iron Fists, The', 2012, 'Action|Adventure|Crime'),
+(97950, 'Man with the Iron Fists, The', 2012, 'Action|Adventure|Crime'),
 
-(97988, '"Bay, The', 2012, 'Horror|Sci-Fi|Thriller'),
+(97988, 'Bay, The', 2012, 'Horror|Sci-Fi|Thriller'),
 
 (98061, 'Himizu', 2011, 'Children|Crime|Drama'),
 
@@ -16083,7 +16083,7 @@ VALUES
 
 (98122, 'Indie Game: The Movie', 2012, 'Documentary'),
 
-(98124, '"Batman: The Dark Knight Returns, Part 1', 2012, 'Action|Animation|Sci-Fi'),
+(98124, 'Batman: The Dark Knight Returns, Part 1', 2012, 'Action|Animation|Sci-Fi'),
 
 (98154, 'Lincoln', 2012, 'Drama|War'),
 
@@ -16091,7 +16091,7 @@ VALUES
 
 (98175, 'Vamps', 2012, 'Comedy|Horror|Romance'),
 
-(98203, '"Twilight Saga: Breaking Dawn - Part 2, The', 2012, 'Adventure|Drama|Fantasy|Romance|IMAX'),
+(98203, 'Twilight Saga: Breaking Dawn - Part 2, The', 2012, 'Adventure|Drama|Fantasy|Romance|IMAX'),
 
 (98230, '10 Years', 2011, 'Comedy|Drama|Romance'),
 
@@ -16099,7 +16099,7 @@ VALUES
 
 (98243, 'Rise of the Guardians', 2012, 'Adventure|Animation|Children|Fantasy|IMAX'),
 
-(98279, '"Fantastic Fear of Everything, A', 2012, 'Comedy'),
+(98279, 'Fantastic Fear of Everything, A', 2012, 'Comedy'),
 
 (98296, 'Deadfall', 2012, 'Crime|Drama|Thriller'),
 
@@ -16107,7 +16107,7 @@ VALUES
 
 (98491, 'Paperman', 2012, 'Animation|Comedy|Romance'),
 
-(98499, '"Fearless Hyena, The (Xiao quan guai zhao)', 1979, 'Action|Comedy'),
+(98499, 'Fearless Hyena, The (Xiao quan guai zhao)', 1979, 'Action|Comedy'),
 
 (98503, 'Half a Loaf of Kung Fu (Dian zhi gong fu gan chian chan)', 1980, 'Action|Comedy'),
 
@@ -16121,11 +16121,11 @@ VALUES
 
 (98633, 'My Lucky Stars (Fuk sing go jiu)', 1985, 'Action|Comedy'),
 
-(98697, '"Money Money Money (L‘aventure, c‘est l‘aventure)', 1972, 'Adventure|Comedy'),
+(98697, 'Money Money Money (L‘aventure, c‘est l‘aventure)', 1972, 'Adventure|Comedy'),
 
-(98799, '"Liar‘s Autobiography: The Untrue Story of Monty Python‘s Graham Chapman, A', 2012, 'Animation|Comedy'),
+(98799, 'Liar‘s Autobiography: The Untrue Story of Monty Python‘s Graham Chapman, A', 2012, 'Animation|Comedy'),
 
-(98809, '"Hobbit: An Unexpected Journey, The', 2012, 'Adventure|Fantasy|IMAX'),
+(98809, 'Hobbit: An Unexpected Journey, The', 2012, 'Adventure|Fantasy|IMAX'),
 
 (98836, 'Hyde Park on Hudson', 2012, 'Comedy|Drama'),
 
@@ -16141,7 +16141,7 @@ VALUES
 
 (99087, 'Playing for Keeps', 2012, 'Comedy|Romance'),
 
-(99106, '"Guilt Trip, The', 2012, 'Comedy'),
+(99106, 'Guilt Trip, The', 2012, 'Comedy'),
 
 (99112, 'Jack Reacher', 2012, 'Action|Crime|Thriller'),
 
@@ -16153,9 +16153,9 @@ VALUES
 
 (99130, 'Ice Cream Man', 1995, 'Comedy|Horror'),
 
-(99145, '"Impossible, The (Imposible, Lo)', 2012, 'Drama|Thriller'),
+(99145, 'Impossible, The (Imposible, Lo)', 2012, 'Drama|Thriller'),
 
-(99149, '"Misérables, Les', 2012, 'Drama|Musical|Romance|IMAX'),
+(99149, 'Misérables, Les', 2012, 'Drama|Musical|Romance|IMAX'),
 
 (99191, 'Campfire Tales', 1997, 'Horror'),
 
@@ -16163,7 +16163,7 @@ VALUES
 
 (99437, 'John Dies at the End', 2012, 'Comedy|Fantasy|Horror'),
 
-(99532, '"Misérables, Les', 2000, 'Drama|Romance'),
+(99532, 'Misérables, Les', 2000, 'Drama|Romance'),
 
 (99574, 'Promised Land', 2012, 'Drama'),
 
@@ -16175,17 +16175,17 @@ VALUES
 
 (99728, 'Gangster Squad', 2013, 'Action|Crime|Drama'),
 
-(99750, '"Iceman, The', 2012, 'Crime|Drama|Thriller'),
+(99750, 'Iceman, The', 2012, 'Crime|Drama|Thriller'),
 
 (99764, 'It‘s Such a Beautiful Day', 2012, 'Animation|Comedy|Drama|Fantasy|Sci-Fi'),
 
-(99813, '"Batman: The Dark Knight Returns, Part 2', 2013, 'Action|Animation'),
+(99813, 'Batman: The Dark Knight Returns, Part 2', 2013, 'Action|Animation'),
 
 (99846, 'Everything or Nothing: The Untold Story of 007', 2012, 'Documentary'),
 
 (99853, 'Codependent Lesbian Space Alien Seeks Same', 2011, 'Comedy|Romance|Sci-Fi'),
 
-(99910, '"Last Stand, The', 2013, 'Action|Crime|Thriller'),
+(99910, 'Last Stand, The', 2013, 'Action|Crime|Thriller'),
 
 (99917, 'Upstream Color', 2013, 'Romance|Sci-Fi|Thriller'),
 
@@ -16197,7 +16197,7 @@ VALUES
 
 (100083, 'Movie 43', 2013, 'Comedy'),
 
-(100106, '"Pervert‘s Guide to Ideology, The', 2012, 'Documentary'),
+(100106, 'Pervert‘s Guide to Ideology, The', 2012, 'Documentary'),
 
 (100159, 'Sightseers', 2012, 'Comedy'),
 
@@ -16211,7 +16211,7 @@ VALUES
 
 (100302, 'Upside Down', 2012, 'Drama|Romance|Sci-Fi'),
 
-(100304, '"Liability, The', 2012, 'Action|Thriller'),
+(100304, 'Liability, The', 2012, 'Action|Thriller'),
 
 (100306, 'Angst', 1983, 'Drama|Horror'),
 
@@ -16221,11 +16221,11 @@ VALUES
 
 (100390, 'Identity Thief', 2013, 'Comedy|Crime'),
 
-(100397, '"ABCs of Death, The', 2012, 'Horror'),
+(100397, 'ABCs of Death, The', 2012, 'Horror'),
 
 (100487, 'Beautiful Creatures', 2013, 'Drama|Fantasy|Romance'),
 
-(100498, '"Good Day to Die Hard, A', 2013, 'Action|Crime|Thriller|IMAX'),
+(100498, 'Good Day to Die Hard, A', 2013, 'Action|Crime|Thriller|IMAX'),
 
 (100507, '21 and Over', 2013, 'Comedy'),
 
@@ -16233,7 +16233,7 @@ VALUES
 
 (100553, 'Frozen Planet', 2011, 'Documentary'),
 
-(100556, '"Act of Killing, The', 2012, 'Documentary'),
+(100556, 'Act of Killing, The', 2012, 'Documentary'),
 
 (100579, 'Universal Soldier: Day of Reckoning', 2012, 'Action|Sci-Fi|Thriller'),
 
@@ -16255,9 +16255,9 @@ VALUES
 
 (101070, 'Wadjda', 2012, 'Drama'),
 
-(101072, '"Unintentional Kidnapping of Mrs. Elfriede Ott, The (Die Unabsichtliche Entführung der Frau Elfriede Ott)', 2010, 'Comedy'),
+(101072, 'Unintentional Kidnapping of Mrs. Elfriede Ott, The (Die Unabsichtliche Entführung der Frau Elfriede Ott)', 2010, 'Comedy'),
 
-(101074, '"Legend of Sleepy Hollow, The', 1949, 'Animation|Comedy|Horror|Musical'),
+(101074, 'Legend of Sleepy Hollow, The', 1949, 'Animation|Comedy|Horror|Musical'),
 
 (101076, 'G.I. Joe: Retaliation', 2013, 'Action|Adventure|Sci-Fi|Thriller|IMAX'),
 
@@ -16265,25 +16265,25 @@ VALUES
 
 (101112, 'Oz the Great and Powerful', 2013, 'Action|Adventure|Fantasy|IMAX'),
 
-(101142, '"Croods, The', 2013, 'Adventure|Animation|Comedy'),
+(101142, 'Croods, The', 2013, 'Adventure|Animation|Comedy'),
 
-(101283, '"Incredible Burt Wonderstone, The', 2013, 'Comedy'),
+(101283, 'Incredible Burt Wonderstone, The', 2013, 'Comedy'),
 
-(101360, '"Call, The', 2013, 'Drama|Thriller'),
+(101360, 'Call, The', 2013, 'Drama|Thriller'),
 
 (101362, 'Olympus Has Fallen', 2013, 'Action|Thriller'),
 
-(101415, '"First Time, The', 2012, 'Comedy|Drama|Romance'),
+(101415, 'First Time, The', 2012, 'Comedy|Drama|Romance'),
 
 (101423, 'Mezzo Forte', 1998, 'Action|Animation|Comedy'),
 
-(101525, '"Place Beyond the Pines, The', 2012, 'Crime|Drama'),
+(101525, 'Place Beyond the Pines, The', 2012, 'Crime|Drama'),
 
-(101529, '"Brass Teapot, The', 2012, 'Comedy|Fantasy|Thriller'),
+(101529, 'Brass Teapot, The', 2012, 'Comedy|Fantasy|Thriller'),
 
 (101531, 'Phil Spector', 2013, 'Drama'),
 
-(101577, '"Host, The', 2013, 'Action|Adventure|Romance'),
+(101577, 'Host, The', 2013, 'Action|Adventure|Romance'),
 
 (101612, 'Admission', 2013, 'Comedy|Romance'),
 
@@ -16291,7 +16291,7 @@ VALUES
 
 (101741, 'Trance', 2013, 'Crime|Thriller'),
 
-(101765, '"Perfect Plan, A (Plan parfait, Un)', 2012, 'Adventure|Comedy|Romance'),
+(101765, 'Perfect Plan, A (Plan parfait, Un)', 2012, 'Adventure|Comedy|Romance'),
 
 (101864, 'Oblivion', 2013, 'Action|Adventure|Sci-Fi|IMAX'),
 
@@ -16303,7 +16303,7 @@ VALUES
 
 (101973, 'Disconnect', 2012, 'Drama|Thriller'),
 
-(102007, '"Invincible Iron Man, The', 2007, 'Animation'),
+(102007, 'Invincible Iron Man, The', 2007, 'Animation'),
 
 (102025, 'Yongary: Monster from the Deep', 1967, 'Children|Horror|Sci-Fi'),
 
@@ -16317,13 +16317,13 @@ VALUES
 
 (102084, 'Justice League: Doom', 2012, 'Action|Animation|Fantasy'),
 
-(102088, '"Grandmaster, The (Yi dai zong shi)', 2013, 'Action|Drama|IMAX'),
+(102088, 'Grandmaster, The (Yi dai zong shi)', 2013, 'Action|Drama|IMAX'),
 
 (102123, 'This Is the End', 2013, 'Action|Comedy'),
 
 (102125, 'Iron Man 3', 2013, 'Action|Sci-Fi|Thriller|IMAX'),
 
-(102165, '"English Teacher, The', 2013, 'Comedy|Drama'),
+(102165, 'English Teacher, The', 2013, 'Comedy|Drama'),
 
 (102194, 'Mud', 2012, 'Adventure|Crime|Drama'),
 
@@ -16335,11 +16335,11 @@ VALUES
 
 (102378, 'Syrup', 2013, 'Comedy|Drama'),
 
-(102407, '"Great Gatsby, The', 2013, 'Drama'),
+(102407, 'Great Gatsby, The', 2013, 'Drama'),
 
 (102445, 'Star Trek Into Darkness', 2013, 'Action|Adventure|Sci-Fi|IMAX'),
 
-(102481, '"Internship, The', 2013, 'Comedy'),
+(102481, 'Internship, The', 2013, 'Comedy'),
 
 (102590, 'Darkon', 2006, 'Documentary|Fantasy'),
 
@@ -16349,9 +16349,9 @@ VALUES
 
 (102684, 'Only God Forgives', 2013, 'Drama|Thriller'),
 
-(102686, '"Hangover Part III, The', 2013, 'Comedy'),
+(102686, 'Hangover Part III, The', 2013, 'Comedy'),
 
-(102716, '"Fast & Furious 6 (Fast and the Furious 6, The)', 2013, 'Action|Crime|Thriller|IMAX'),
+(102716, 'Fast & Furious 6 (Fast and the Furious 6, The)', 2013, 'Action|Crime|Thriller|IMAX'),
 
 (102720, 'Epic', 2013, 'Adventure|Animation|Fantasy'),
 
@@ -16359,7 +16359,7 @@ VALUES
 
 (102742, 'Tie Xi Qu: West of the Tracks (Tiexi qu)', 2003, 'Documentary'),
 
-(102747, '"Rink, The', 1916, 'Comedy'),
+(102747, 'Rink, The', 1916, 'Comedy'),
 
 (102749, 'Captain America II: Death Too Soon', 1979, 'Action|Crime'),
 
@@ -16367,7 +16367,7 @@ VALUES
 
 (102800, 'Frances Ha', 2012, 'Comedy|Drama'),
 
-(102802, '"Lords of Salem, The', 2012, 'Horror|Thriller'),
+(102802, 'Lords of Salem, The', 2012, 'Horror|Thriller'),
 
 (102819, 'Behind the Candelabra', 2013, 'Drama'),
 
@@ -16381,21 +16381,21 @@ VALUES
 
 (102984, 'Inhuman Resources (Redd Inc.)', 2012, 'Horror|Thriller'),
 
-(102993, '"Way, Way Back, The', 2013, 'Comedy|Drama'),
+(102993, 'Way, Way Back, The', 2013, 'Comedy|Drama'),
 
 (103027, 'Much Ado About Nothing', 2012, 'Comedy|Drama|Romance'),
 
 (103042, 'Man of Steel', 2013, 'Action|Adventure|Fantasy|Sci-Fi|IMAX'),
 
-(103048, '"Kings of Summer, The', 2013, 'Comedy'),
+(103048, 'Kings of Summer, The', 2013, 'Comedy'),
 
-(103075, '"Purge, The', 2013, 'Crime|Horror|Thriller'),
+(103075, 'Purge, The', 2013, 'Crime|Horror|Thriller'),
 
 (103085, 'Rapture-Palooza', 2013, 'Comedy|Fantasy'),
 
 (103107, '20 Feet from Stardom (Twenty Feet from Stardom)', 2013, 'Documentary'),
 
-(103137, '"Bling Ring, The', 2013, 'Crime|Drama'),
+(103137, 'Bling Ring, The', 2013, 'Crime|Drama'),
 
 (103141, 'Monsters University', 2013, 'Adventure|Animation|Comedy'),
 
@@ -16411,7 +16411,7 @@ VALUES
 
 (103233, 'LEGO Batman: The Movie - DC Heroes Unite', 2013, 'Action|Adventure|Animation'),
 
-(103235, '"Best Offer, The (Migliore offerta, La)', 2013, 'Thriller'),
+(103235, 'Best Offer, The (Migliore offerta, La)', 2013, 'Thriller'),
 
 (103245, 'Adam and Eve (National Lampoon‘s Adam & Eve)', 2005, 'Comedy|Drama|Romance'),
 
@@ -16423,23 +16423,23 @@ VALUES
 
 (103339, 'White House Down', 2013, 'Action|Drama|Thriller|IMAX'),
 
-(103341, '"World‘s End, The', 2013, 'Action|Comedy|Sci-Fi'),
+(103341, 'World‘s End, The', 2013, 'Action|Comedy|Sci-Fi'),
 
 (103366, 'Redemption (Hummingbird)', 2013, 'Action|Crime|Thriller'),
 
-(103372, '"Heat, The', 2013, 'Action|Comedy|Crime'),
+(103372, 'Heat, The', 2013, 'Action|Comedy|Crime'),
 
-(103384, '"Lone Ranger, The', 2013, 'Action|Adventure|Western|IMAX'),
+(103384, 'Lone Ranger, The', 2013, 'Action|Adventure|Western|IMAX'),
 
 (103449, 'Passion', 2012, 'Crime|Drama|Mystery|Thriller'),
 
 (103483, 'V/H/S/2', 2013, 'Horror|Thriller'),
 
-(103502, '"Knot, The', 2012, 'Comedy|Romance'),
+(103502, 'Knot, The', 2012, 'Comedy|Romance'),
 
 (103539, 'The Spectacular Now', 2013, 'Comedy|Drama|Romance'),
 
-(103543, '"Lifeguard, The', 2013, 'Comedy|Drama'),
+(103543, 'Lifeguard, The', 2013, 'Comedy|Drama'),
 
 (103596, 'Sharknado', 2013, 'Sci-Fi'),
 
@@ -16453,13 +16453,13 @@ VALUES
 
 (103655, 'R.I.P.D.', 2013, 'Action|Comedy|Fantasy'),
 
-(103685, '"Field in England, A', 2013, 'Drama|Fantasy|Thriller|War'),
+(103685, 'Field in England, A', 2013, 'Drama|Fantasy|Thriller|War'),
 
-(103688, '"Conjuring, The', 2013, 'Horror|Thriller'),
+(103688, 'Conjuring, The', 2013, 'Horror|Thriller'),
 
 (103755, 'Turbo', 2013, 'Adventure|Animation|Children|Comedy|Fantasy'),
 
-(103772, '"Wolverine, The', 2013, 'Action|Adventure|Fantasy|Sci-Fi'),
+(103772, 'Wolverine, The', 2013, 'Action|Adventure|Fantasy|Sci-Fi'),
 
 (103801, 'Drinking Buddies', 2013, 'Comedy|Drama|Romance'),
 
@@ -16473,7 +16473,7 @@ VALUES
 
 (103980, 'Blue Jasmine', 2013, 'Drama'),
 
-(103984, '"Great Beauty, The (Grande Bellezza, La)', 2013, 'Comedy|Drama'),
+(103984, 'Great Beauty, The (Grande Bellezza, La)', 2013, 'Comedy|Drama'),
 
 (104017, '3 dev adam (Three Giant Men)', 1973, 'Action|Adventure|Sci-Fi'),
 
@@ -16481,7 +16481,7 @@ VALUES
 
 (104074, 'Percy Jackson: Sea of Monsters', 2013, 'Adventure|Children|Fantasy'),
 
-(104076, '"Smurfs 2, The', 2013, 'Animation|Children|Comedy'),
+(104076, 'Smurfs 2, The', 2013, 'Animation|Children|Comedy'),
 
 (104078, 'Alan Partridge: Alpha Papa', 2013, 'Comedy'),
 
@@ -16501,7 +16501,7 @@ VALUES
 
 (104272, 'Blackfish', 2013, 'Documentary'),
 
-(104283, '"Wind Rises, The (Kaze tachinu)', 2013, 'Animation|Drama|Romance'),
+(104283, 'Wind Rises, The (Kaze tachinu)', 2013, 'Animation|Drama|Romance'),
 
 (104303, 'Jobs', 2013, 'Drama'),
 
@@ -16519,7 +16519,7 @@ VALUES
 
 (104760, 'Getaway', 2013, 'Action|Crime'),
 
-(104780, '"Mystery of the Third Planet, The (Tayna tretey planety)', 1981, 'Adventure|Animation|Sci-Fi'),
+(104780, 'Mystery of the Third Planet, The (Tayna tretey planety)', 1981, 'Adventure|Animation|Sci-Fi'),
 
 (104837, 'Rage of Honor', 1987, 'Action|Crime'),
 
@@ -16527,7 +16527,7 @@ VALUES
 
 (104863, 'What If', 2013, 'Comedy|Drama|Romance'),
 
-(104875, '"History of Future Folk, The', 2012, 'Adventure|Comedy|Musical|Sci-Fi'),
+(104875, 'History of Future Folk, The', 2012, 'Adventure|Comedy|Musical|Sci-Fi'),
 
 (104879, 'Prisoners', 2013, 'Drama|Mystery|Thriller'),
 
@@ -16537,13 +16537,13 @@ VALUES
 
 (104913, 'Rush', 2013, 'Action|Drama'),
 
-(104925, '"Family, The', 2013, 'Action|Comedy|Crime'),
+(104925, 'Family, The', 2013, 'Action|Comedy|Crime'),
 
 (104944, 'Short Term 12', 2013, 'Drama'),
 
 (105020, 'Collision Course', 1989, 'Action|Comedy|Thriller'),
 
-(105037, '"To Do List, The', 2013, 'Comedy'),
+(105037, 'To Do List, The', 2013, 'Comedy'),
 
 (105121, 'Inescapable', 2012, 'Action|Drama|War'),
 
@@ -16555,7 +16555,7 @@ VALUES
 
 (105246, 'Mood Indigo (L‘écume des jours)', 2013, 'Drama|Fantasy'),
 
-(105250, '"Century of the Self, The', 2002, 'Documentary'),
+(105250, 'Century of the Self, The', 2002, 'Documentary'),
 
 (105254, 'Crystal Fairy & the Magical Cactus and 2012', 2013, 'Adventure|Comedy'),
 
@@ -16569,7 +16569,7 @@ VALUES
 
 (105504, 'Captain Phillips', 2013, 'Adventure|Drama|Thriller|IMAX'),
 
-(105540, '"All Dogs Christmas Carol, An', 1998, 'Animation|Children|Comedy|Musical'),
+(105540, 'All Dogs Christmas Carol, An', 1998, 'Animation|Children|Comedy|Musical'),
 
 (105585, 'Machete Kills (Machete 2)', 2013, 'Action|Crime|Thriller'),
 
@@ -16577,17 +16577,17 @@ VALUES
 
 (105653, 'Escape Plan', 2013, 'Action|Mystery|Thriller'),
 
-(105720, '"Thief of Paris, The (Le voleur)', 1967, 'Comedy|Crime|Drama'),
+(105720, 'Thief of Paris, The (Le voleur)', 1967, 'Comedy|Crime|Drama'),
 
 (105731, 'Carrie', 2013, 'Drama|Horror'),
 
 (105746, 'UnHung Hero', 2013, 'Documentary'),
 
-(105755, '"Counselor, The', 2013, 'Crime|Drama|Thriller'),
+(105755, 'Counselor, The', 2013, 'Crime|Drama|Thriller'),
 
 (105801, 'Escape From Tomorrow', 2013, 'Drama|Fantasy|Horror'),
 
-(105835, '"Double, The', 2013, 'Comedy|Drama|Thriller'),
+(105835, 'Double, The', 2013, 'Comedy|Drama|Thriller'),
 
 (105844, '12 Years a Slave', 2013, 'Drama'),
 
@@ -16601,17 +16601,17 @@ VALUES
 
 (106100, 'Dallas Buyers Club', 2013, 'Drama'),
 
-(106144, '"Selfish Giant, The', 2013, 'Drama'),
+(106144, 'Selfish Giant, The', 2013, 'Drama'),
 
 (106330, 'Last Vegas', 2013, 'Comedy|Drama|Romance'),
 
 (106438, 'Philomena', 2013, 'Comedy|Drama'),
 
-(106441, '"Book Thief, The', 2013, 'Children|Drama|War'),
+(106441, 'Book Thief, The', 2013, 'Children|Drama|War'),
 
 (106487, 'The Hunger Games: Catching Fire', 2013, 'Action|Adventure|Sci-Fi|IMAX'),
 
-(106489, '"Hobbit: The Desolation of Smaug, The', 2013, 'Adventure|Fantasy|IMAX'),
+(106489, 'Hobbit: The Desolation of Smaug, The', 2013, 'Adventure|Fantasy|IMAX'),
 
 (106491, '47 Ronin', 2013, 'Action|Adventure|Fantasy'),
 
@@ -16621,7 +16621,7 @@ VALUES
 
 (106594, 'Red Flag', 2012, 'Comedy|Drama|Romance'),
 
-(106642, '"Day of the Doctor, The', 2013, 'Adventure|Drama|Sci-Fi'),
+(106642, 'Day of the Doctor, The', 2013, 'Adventure|Drama|Sci-Fi'),
 
 (106648, 'Guilty of Romance (Koi no tsumi)', 2011, 'Crime|Drama|Horror'),
 
@@ -16629,7 +16629,7 @@ VALUES
 
 (106766, 'Inside Llewyn Davis', 2013, 'Drama'),
 
-(106782, '"Wolf of Wall Street, The', 2013, 'Comedy|Crime|Drama'),
+(106782, 'Wolf of Wall Street, The', 2013, 'Comedy|Crime|Drama'),
 
 (106785, 'Homefront', 2013, 'Action|Crime|Thriller'),
 
@@ -16643,13 +16643,13 @@ VALUES
 
 (106916, 'American Hustle', 2013, 'Crime|Drama'),
 
-(106918, '"Secret Life of Walter Mitty, The', 2013, 'Adventure|Comedy|Drama'),
+(106918, 'Secret Life of Walter Mitty, The', 2013, 'Adventure|Comedy|Drama'),
 
 (106920, 'Her', 2013, 'Drama|Romance|Sci-Fi'),
 
 (106927, 'RoboGeisha (Robo-geisha)', 2009, 'Action|Comedy|Sci-Fi'),
 
-(107013, '"Christmas Carol, A', 1977, 'Drama|Fantasy'),
+(107013, 'Christmas Carol, A', 1977, 'Drama|Fantasy'),
 
 (107069, 'Lone Survivor', 2013, 'Action|Drama|Thriller|War'),
 
@@ -16669,17 +16669,17 @@ VALUES
 
 (107410, 'Guest from the Future (Gostya iz buduschego)', 1985, 'Adventure|Drama|Sci-Fi'),
 
-(107412, '"Kidnapping, Caucasian Style (Kavkazskaya plennitsa)', 1967, 'Comedy|Romance'),
+(107412, 'Kidnapping, Caucasian Style (Kavkazskaya plennitsa)', 1967, 'Comedy|Romance'),
 
 (107436, 'Haunter', 2013, 'Horror|Mystery|Thriller'),
 
 (107447, 'Wrong Cops', 2013, 'Comedy|Crime'),
 
-(107449, '"Muppet Christmas: Letters to Santa, A', 2008, 'Children|Comedy'),
+(107449, 'Muppet Christmas: Letters to Santa, A', 2008, 'Children|Comedy'),
 
 (107462, 'Ninja: Shadow of a Tear', 2013, 'Action|Crime|Thriller'),
 
-(107565, '"Fuck You, Goethe (Fack Ju Göhte)', 2013, 'Comedy'),
+(107565, 'Fuck You, Goethe (Fack Ju Göhte)', 2013, 'Comedy'),
 
 (107630, 'High School', 2010, 'Comedy'),
 
@@ -16721,7 +16721,7 @@ VALUES
 
 (108601, 'Drift', 2013, 'Drama'),
 
-(108689, '"I, Frankenstein', 2014, 'Action|Fantasy|Sci-Fi|IMAX'),
+(108689, 'I, Frankenstein', 2014, 'Action|Fantasy|Sci-Fi|IMAX'),
 
 (108715, 'Better Living Through Chemistry', 2014, 'Comedy|Drama'),
 
@@ -16731,13 +16731,13 @@ VALUES
 
 (108795, 'Wonder Woman', 2009, 'Action|Adventure|Animation|Fantasy'),
 
-(108928, '"Monuments Men, The', 2014, 'Action|Drama|War'),
+(108928, 'Monuments Men, The', 2014, 'Action|Drama|War'),
 
 (108932, 'The Lego Movie', 2014, 'Action|Adventure|Animation|Children|Comedy|Fantasy'),
 
 (108945, 'RoboCop', 2014, 'Action|Crime|Sci-Fi|IMAX'),
 
-(108949, '"Art of the Steal, The', 2013, 'Crime'),
+(108949, 'Art of the Steal, The', 2013, 'Crime'),
 
 (108981, 'Nymphomaniac: Volume II', 2013, 'Drama|Mystery'),
 
@@ -16747,7 +16747,7 @@ VALUES
 
 (109183, 'Date and Switch', 2014, 'Comedy'),
 
-(109187, '"Zero Theorem, The', 2013, 'Drama|Fantasy|Sci-Fi'),
+(109187, 'Zero Theorem, The', 2013, 'Drama|Fantasy|Sci-Fi'),
 
 (109191, 'Winter‘s Tale', 2014, 'Drama|Fantasy|Mystery'),
 
@@ -16763,9 +16763,9 @@ VALUES
 
 (109372, 'About Last Night', 2014, 'Comedy|Romance'),
 
-(109374, '"Grand Budapest Hotel, The', 2014, 'Comedy|Drama'),
+(109374, 'Grand Budapest Hotel, The', 2014, 'Comedy|Drama'),
 
-(109383, '"Oversimplification of Her Beauty, An', 2012, 'Animation|Comedy|Drama|Romance'),
+(109383, 'Oversimplification of Her Beauty, An', 2012, 'Animation|Comedy|Drama|Romance'),
 
 (109416, 'Bring It On: Fight to the Finish', 2009, 'Comedy'),
 
@@ -16781,13 +16781,13 @@ VALUES
 
 (109596, 'Wrinkles (Arrugas)', 2011, 'Animation|Drama'),
 
-(109633, '"Garden of Words, The (Koto no ha no niwa)', 2013, 'Animation|Romance'),
+(109633, 'Garden of Words, The (Koto no ha no niwa)', 2013, 'Animation|Romance'),
 
 (109673, '300: Rise of an Empire', 2014, 'Action|Drama|War|IMAX'),
 
 (109687, 'Particle Fever', 2013, 'Documentary'),
 
-(109723, '"Bag Man, The', 2014, 'Crime|Drama|Thriller'),
+(109723, 'Bag Man, The', 2014, 'Crime|Drama|Thriller'),
 
 (109846, 'Mr. Peabody & Sherman', 2014, 'Adventure|Animation|Comedy'),
 
@@ -16813,7 +16813,7 @@ VALUES
 
 (110127, 'Noah', 2014, 'Adventure|Drama|IMAX'),
 
-(110130, '"Nut Job, The', 2014, 'Adventure|Animation|Children|Comedy'),
+(110130, 'Nut Job, The', 2014, 'Adventure|Animation|Children|Comedy'),
 
 (110281, 'King of Comedy (Hei kek ji wong)', 1999, 'Comedy|Drama|Romance'),
 
@@ -16825,11 +16825,11 @@ VALUES
 
 (110350, 'Free to Play', 2014, 'Documentary'),
 
-(110387, '"Unknown Known, The', 2013, 'Documentary'),
+(110387, 'Unknown Known, The', 2013, 'Documentary'),
 
 (110501, 'The Raid 2: Berandal', 2014, 'Action|Crime|Thriller'),
 
-(110541, '"Brain Smasher... A Love Story (Bouncer and the Lady, The)', 1993, 'Action|Comedy'),
+(110541, 'Brain Smasher... A Love Story (Bouncer and the Lady, The)', 1993, 'Action|Comedy'),
 
 (110553, 'The Amazing Spider-Man 2', 2014, 'Action|Sci-Fi|IMAX'),
 
@@ -16843,7 +16843,7 @@ VALUES
 
 (110655, 'Rio 2', 2014, 'Adventure|Animation|Children|Comedy'),
 
-(110669, '"Honest Liar, An', 2014, 'Comedy|Documentary'),
+(110669, 'Honest Liar, An', 2014, 'Comedy|Documentary'),
 
 (110718, 'Fading Gigolo', 2013, 'Comedy'),
 
@@ -16851,9 +16851,9 @@ VALUES
 
 (110746, 'Hatchet III', 2013, 'Comedy|Horror'),
 
-(110771, '"Other Woman, The', 2014, 'Comedy|Romance'),
+(110771, 'Other Woman, The', 2014, 'Comedy|Romance'),
 
-(110773, '"Haunted House 2, A', 2014, 'Comedy|Horror'),
+(110773, 'Haunted House 2, A', 2014, 'Comedy|Horror'),
 
 (110781, 'Mulan II', 2004, 'Action|Animation|Children|Comedy|Musical'),
 
@@ -16891,7 +16891,7 @@ VALUES
 
 (111680, 'At Middleton', 2013, 'Comedy|Romance'),
 
-(111732, '"Dance of Reality, The (Danza de la realidad, La)', 2013, 'Drama|Fantasy'),
+(111732, 'Dance of Reality, The (Danza de la realidad, La)', 2013, 'Drama|Fantasy'),
 
 (111743, 'A Million Ways to Die in the West', 2014, 'Comedy|Western'),
 
@@ -16919,7 +16919,7 @@ VALUES
 
 (112138, '22 Jump Street', 2014, 'Action|Comedy|Crime'),
 
-(112171, '"Equalizer, The', 2014, 'Action|Crime|Thriller'),
+(112171, 'Equalizer, The', 2014, 'Action|Crime|Thriller'),
 
 (112175, 'How to Train Your Dragon 2', 2014, 'Action|Adventure|Animation'),
 
@@ -16933,7 +16933,7 @@ VALUES
 
 (112326, 'Nick Fury: Agent of S.H.I.E.L.D.', 1998, 'Action|Sci-Fi'),
 
-(112334, '"Internet‘s Own Boy: The Story of Aaron Swartz, The', 2014, 'Documentary'),
+(112334, 'Internet‘s Own Boy: The Story of Aaron Swartz, The', 2014, 'Documentary'),
 
 (112370, 'Transformers: Age of Extinction', 2014, 'Action|Adventure|Sci-Fi'),
 
@@ -16949,13 +16949,13 @@ VALUES
 
 (112512, 'Colourful (Karafuru)', 2010, 'Animation|Drama|Fantasy|Mystery'),
 
-(112515, '"Babadook, The', 2014, 'Drama|Horror|Thriller'),
+(112515, 'Babadook, The', 2014, 'Drama|Horror|Thriller'),
 
 (112552, 'Whiplash', 2014, 'Drama'),
 
 (112556, 'Gone Girl', 2014, 'Drama|Thriller'),
 
-(112580, '"Angriest Man in Brooklyn, The', 2014, 'Comedy|Drama'),
+(112580, 'Angriest Man in Brooklyn, The', 2014, 'Comedy|Drama'),
 
 (112623, 'Dawn of the Planet of the Apes', 2014, 'Sci-Fi'),
 
@@ -16967,11 +16967,11 @@ VALUES
 
 (112804, 'I Origins', 2014, 'Drama|Sci-Fi'),
 
-(112818, '"Purge: Anarchy, The', 2014, 'Action|Horror|Thriller'),
+(112818, 'Purge: Anarchy, The', 2014, 'Action|Horror|Thriller'),
 
 (112852, 'Guardians of the Galaxy', 2014, 'Action|Adventure|Sci-Fi'),
 
-(112868, '"Signal, The', 2014, 'Sci-Fi|Thriller'),
+(112868, 'Signal, The', 2014, 'Sci-Fi|Thriller'),
 
 (112897, 'The Expendables 3', 2014, 'Action|Adventure'),
 
@@ -16995,7 +16995,7 @@ VALUES
 
 (113280, 'White Frog', 2012, 'Drama'),
 
-(113313, '"Den, The', 2013, 'Horror|Thriller'),
+(113313, 'Den, The', 2013, 'Horror|Thriller'),
 
 (113345, 'Jupiter Ascending', 2015, 'Action|Adventure|Sci-Fi'),
 
@@ -17003,35 +17003,35 @@ VALUES
 
 (113350, 'I‘ll Follow You Down', 2013, 'Drama|Mystery|Sci-Fi'),
 
-(113374, '"Old Lady and the Pigeons, The (La vieille dame et les pigeons)', 1997, 'Animation|Comedy'),
+(113374, 'Old Lady and the Pigeons, The (La vieille dame et les pigeons)', 1997, 'Animation|Comedy'),
 
-(113378, '"Giver, The', 2014, 'Drama|Sci-Fi'),
+(113378, 'Giver, The', 2014, 'Drama|Sci-Fi'),
 
-(113394, '"Pretty One, The', 2013, 'Comedy|Drama'),
+(113394, 'Pretty One, The', 2013, 'Comedy|Drama'),
 
 (113416, 'Revenge of the Green Dragons', 2014, 'Action|Crime|Drama'),
 
 (113453, 'Let‘s Be Cops', 2014, 'Comedy|Crime'),
 
-(113532, '"Inbetweeners 2, The', 2014, 'Comedy'),
+(113532, 'Inbetweeners 2, The', 2014, 'Comedy'),
 
-(113565, '"Sacrament, The', 2013, 'Horror|Thriller'),
+(113565, 'Sacrament, The', 2013, 'Horror|Thriller'),
 
 (113573, 'Sin City: A Dame to Kill For', 2014, 'Action|Crime|Thriller'),
 
 (113604, 'If I Stay', 2014, 'Drama'),
 
-(113705, '"Two Days, One Night (Deux jours, une nuit)', 2014, 'Drama'),
+(113705, 'Two Days, One Night (Deux jours, une nuit)', 2014, 'Drama'),
 
 (113741, 'Coherence', 2013, 'Drama|Mystery|Sci-Fi|Thriller'),
 
-(113780, '"As Above, So Below', 2014, 'Horror|Thriller'),
+(113780, 'As Above, So Below', 2014, 'Horror|Thriller'),
 
-(113829, '"One I Love, The', 2014, 'Comedy|Drama|Romance'),
+(113829, 'One I Love, The', 2014, 'Comedy|Drama|Romance'),
 
 (113849, 'Headshot', 2011, 'Crime|Drama|Thriller'),
 
-(113862, '"Guest, The', 2014, 'Thriller'),
+(113862, 'Guest, The', 2014, 'Thriller'),
 
 (114028, 'Pride', 2014, 'Comedy|Drama'),
 
@@ -17039,17 +17039,17 @@ VALUES
 
 (114060, 'The Drop', 2014, 'Crime|Drama|Thriller'),
 
-(114066, '"20,000 Days on Earth', 2014, 'Documentary|Drama|Musical'),
+(114066, '20,000 Days on Earth', 2014, 'Documentary|Drama|Musical'),
 
 (114074, 'The Skeleton Twins', 2014, 'Drama'),
 
 (114126, 'Beautiful Losers', 2008, 'Documentary'),
 
-(114180, '"Maze Runner, The', 2014, 'Action|Mystery|Sci-Fi'),
+(114180, 'Maze Runner, The', 2014, 'Action|Mystery|Sci-Fi'),
 
 (114184, 'Camp X-Ray', 2014, 'Drama'),
 
-(114246, '"Walk Among the Tombstones, A', 2014, 'Action|Crime|Mystery|Thriller'),
+(114246, 'Walk Among the Tombstones, A', 2014, 'Action|Crime|Mystery|Thriller'),
 
 (114265, 'Laggies', 2014, 'Comedy|Romance'),
 
@@ -17059,7 +17059,7 @@ VALUES
 
 (114494, 'Who Am I (Kein System Ist Sicher)', 2014, 'Thriller'),
 
-(114554, '"Tale of Princess Kaguya, The (Kaguyahime no monogatari)', 2013, 'Animation|Drama|Fantasy'),
+(114554, 'Tale of Princess Kaguya, The (Kaguyahime no monogatari)', 2013, 'Animation|Drama|Fantasy'),
 
 (114601, 'This Is Where I Leave You', 2014, 'Comedy|Drama'),
 
@@ -17083,7 +17083,7 @@ VALUES
 
 (114847, 'Autómata (Automata)', 2014, 'Sci-Fi|Thriller'),
 
-(114925, '"Captive, The', 2014, 'Crime|Drama|Thriller'),
+(114925, 'Captive, The', 2014, 'Crime|Drama|Thriller'),
 
 (114935, 'Predestination', 2014, 'Action|Mystery|Sci-Fi|Thriller'),
 
@@ -17097,17 +17097,17 @@ VALUES
 
 (115151, 'Plastic', 2014, 'Action|Crime'),
 
-(115170, '"Judge, The', 2014, 'Drama'),
+(115170, 'Judge, The', 2014, 'Drama'),
 
-(115203, '"Culture High, The', 2014, 'Documentary'),
+(115203, 'Culture High, The', 2014, 'Documentary'),
 
 (115210, 'Fury', 2014, 'Action|Drama|War'),
 
-(115216, '"Salvation, The', 2014, 'Drama|Western'),
+(115216, 'Salvation, The', 2014, 'Drama|Western'),
 
 (115231, 'St. Vincent', 2014, 'Comedy'),
 
-(115502, '"Rewrite, The', 2014, 'Comedy|Romance'),
+(115502, 'Rewrite, The', 2014, 'Comedy|Romance'),
 
 (115569, 'Nightcrawler', 2014, 'Crime|Drama|Thriller'),
 
@@ -17115,7 +17115,7 @@ VALUES
 
 (115664, 'The Book of Life', 2014, 'Adventure|Animation|Romance'),
 
-(115667, '"Love, Rosie', 2014, 'Comedy|Romance'),
+(115667, 'Love, Rosie', 2014, 'Comedy|Romance'),
 
 (115680, 'Time Lapse', 2014, 'Crime|Drama|Sci-Fi|Thriller'),
 
@@ -17127,7 +17127,7 @@ VALUES
 
 (115828, 'Copenhagen', 2014, 'Adventure|Drama|Romance'),
 
-(115877, '"Simpsons: The Longest Daycare, The', 2012, 'Animation|Comedy'),
+(115877, 'Simpsons: The Longest Daycare, The', 2012, 'Animation|Comedy'),
 
 (115969, 'Generation War', 2013, 'Drama|War'),
 
@@ -17269,7 +17269,7 @@ VALUES
 
 (118862, 'Closer to the Moon', 2013, 'Comedy|Drama'),
 
-(118880, '"Girl Walks Home Alone at Night, A', 2014, 'Horror|Romance|Thriller'),
+(118880, 'Girl Walks Home Alone at Night, A', 2014, 'Horror|Romance|Thriller'),
 
 (118888, 'Dave Chappelle: For What it‘s Worth', 2004, 'Comedy'),
 
@@ -17287,7 +17287,7 @@ VALUES
 
 (118997, 'Into the Woods', 2014, 'Children|Comedy|Fantasy|Musical'),
 
-(119068, '"Men, Women & Children', 2014, 'Comedy|Drama'),
+(119068, 'Men, Women & Children', 2014, 'Comedy|Drama'),
 
 (119141, 'The Interview', 2014, 'Action|Comedy'),
 
@@ -17433,7 +17433,7 @@ VALUES
 
 (124273, 'Kevin Smith: Too Fat For 40', 2010, 'Comedy'),
 
-(124404, '"Snowflake, the White Gorilla', 2011, 'Adventure|Animation|Children|Comedy'),
+(124404, 'Snowflake, the White Gorilla', 2011, 'Adventure|Animation|Children|Comedy'),
 
 (124484, 'Kenny & Company', 1976, 'Comedy|Drama'),
 
@@ -17469,7 +17469,7 @@ VALUES
 
 (126548, 'The DUFF', 2015, 'Comedy'),
 
-(126577, '"Daddy, I‘m A Zombie', 2012, 'Animation|Comedy|Fantasy'),
+(126577, 'Daddy, I‘m A Zombie', 2012, 'Animation|Comedy|Fantasy'),
 
 (126921, 'The Fox and the Hound 2', 2006, 'Adventure|Animation|Children|Comedy'),
 
@@ -17497,11 +17497,11 @@ VALUES
 
 (127152, 'Going Clear: Scientology and the Prison of Belief', 2015, 'Documentary'),
 
-(127164, '"What Happened, Miss Simone?', 2015, 'Documentary'),
+(127164, 'What Happened, Miss Simone?', 2015, 'Documentary'),
 
 (127172, 'A Story of Children and Film', 2013, 'Documentary'),
 
-(127180, '"Story of Film: An Odyssey, The', 2011, 'Documentary'),
+(127180, 'Story of Film: An Odyssey, The', 2011, 'Documentary'),
 
 (127184, 'Eden', 2014, 'Drama'),
 
@@ -17571,7 +17571,7 @@ VALUES
 
 (128914, 'Tom Segura: Completely Normal', 2014, 'Comedy'),
 
-(128944, '"Honey, We Shrunk Ourselves', 1997, 'Action|Adventure|Children|Comedy|Sci-Fi'),
+(128944, 'Honey, We Shrunk Ourselves', 1997, 'Action|Adventure|Children|Comedy|Sci-Fi'),
 
 (128968, 'Stitch! The Movie', 2003, 'Animation|Children|Comedy'),
 
@@ -17599,7 +17599,7 @@ VALUES
 
 (129657, 'Tracers', 2015, 'Action'),
 
-(129659, '"McFarland, USA', 2015, 'Drama'),
+(129659, 'McFarland, USA', 2015, 'Drama'),
 
 (129737, 'Unfinished Business', 2015, 'Comedy'),
 
@@ -17635,7 +17635,7 @@ VALUES
 
 (130576, 'Midnight Special', 2015, 'Drama|Sci-Fi'),
 
-(130578, '"Gunman, The', 2015, 'Action|Thriller'),
+(130578, 'Gunman, The', 2015, 'Action|Thriller'),
 
 (130634, 'Furious 7', 2015, 'Action|Crime|Thriller'),
 
@@ -18053,9 +18053,9 @@ VALUES
 
 (140359, 'Doctor Who: The Waters of Mars', 2009, 'Adventure|Children|Sci-Fi'),
 
-(140481, '"Family Guy Presents: Something, Something, Something, Dark Side', 2009, 'Animation|Comedy|Sci-Fi'),
+(140481, 'Family Guy Presents: Something, Something, Something, Dark Side', 2009, 'Animation|Comedy|Sci-Fi'),
 
-(140523, '"Visit, The', 2015, 'Comedy|Horror'),
+(140523, 'Visit, The', 2015, 'Comedy|Horror'),
 
 (140525, 'Secret in Their Eyes', 2015, 'Crime|Drama|Mystery'),
 
@@ -18175,7 +18175,7 @@ VALUES
 
 (142598, 'Last Shift', 2014, 'Horror'),
 
-(142602, '"F*ck You, Goethe 2', 2015, 'Comedy'),
+(142602, 'F*ck You, Goethe 2', 2015, 'Comedy'),
 
 (142831, 'Garam Masala', 2005, 'Comedy'),
 
@@ -18213,7 +18213,7 @@ VALUES
 
 (143559, 'L.A. Slasher', 2015, 'Comedy|Crime|Fantasy'),
 
-(143859, '"Hail, Caesar!', 2016, 'Comedy'),
+(143859, 'Hail, Caesar!', 2016, 'Comedy'),
 
 (143896, 'How To Change The World', 2015, 'Documentary'),
 
@@ -18227,7 +18227,7 @@ VALUES
 
 (144352, 'Unforgiven', 2013, 'Action|Crime|Drama'),
 
-(144478, '"Sex, Drugs & Taxation', 2013, 'Comedy|Drama'),
+(144478, 'Sex, Drugs & Taxation', 2013, 'Comedy|Drama'),
 
 (144522, 'Sky High', 2003, 'Action|Horror|Thriller'),
 
@@ -18259,7 +18259,7 @@ VALUES
 
 (145839, 'Concussion', 2015, 'Drama'),
 
-(145935, '"Peanuts Movie, The', 2015, 'Adventure|Animation|Children|Comedy'),
+(145935, 'Peanuts Movie, The', 2015, 'Adventure|Animation|Children|Comedy'),
 
 (145951, 'Bloodsport: The Dark Kumite', 1999, 'Action|Thriller'),
 
@@ -18311,7 +18311,7 @@ VALUES
 
 (147372, 'Doctor Who: Last Christmas', 2014, 'Adventure|Drama|Fantasy|Sci-Fi'),
 
-(147374, '"Doctor Who: The Doctor, the Widow and the Wardrobe', 2011, 'Adventure|Drama'),
+(147374, 'Doctor Who: The Doctor, the Widow and the Wardrobe', 2011, 'Adventure|Drama'),
 
 (147376, 'Doctor Who: A Christmas Carol', 2010, 'Sci-Fi'),
 
@@ -18343,7 +18343,7 @@ VALUES
 
 (148592, 'Just Jim', 2015, 'Comedy'),
 
-(148626, '"Big Short, The', 2015, 'Drama'),
+(148626, 'Big Short, The', 2015, 'Drama'),
 
 (148632, 'Applesauce', 2015, 'Comedy'),
 
@@ -18795,7 +18795,7 @@ VALUES
 
 (163809, 'Over the Garden Wall', 2013, 'Adventure|Animation|Drama'),
 
-(163925, '"Wings, Legs and Tails', 1986, 'Animation|Comedy'),
+(163925, 'Wings, Legs and Tails', 1986, 'Animation|Comedy'),
 
 (163937, 'Blair Witch', 2016, 'Horror|Thriller'),
 
@@ -18929,7 +18929,7 @@ VALUES
 
 (167790, 'The Good Boy', 2016, 'Children|Comedy|Drama'),
 
-(167854, '"Dana Carvey: Straight White Male, 60', 2016, 'Comedy'),
+(167854, 'Dana Carvey: Straight White Male, 60', 2016, 'Comedy'),
 
 (168026, 'Marvel One-Shot: Agent Carter', 2013, 'Action|Adventure|Fantasy|Sci-Fi'),
 
@@ -19045,7 +19045,7 @@ VALUES
 
 (171023, 'The Hero', 2017, 'Drama'),
 
-(171251, '"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press', 2017, 'Documentary'),
+(171251, 'Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press', 2017, 'Documentary'),
 
 (171495, 'Cosmo', NULL, 'NULL'),
 
@@ -19131,7 +19131,7 @@ VALUES
 
 (173253, 'Vir Das: Abroad Understanding', 2017, 'Comedy'),
 
-(173255, '"Norm Macdonald: Hitler‘s Dog, Gossip & Trickery', 2017, 'Comedy'),
+(173255, 'Norm Macdonald: Hitler‘s Dog, Gossip & Trickery', 2017, 'Comedy'),
 
 (173291, 'Valerian and the City of a Thousand Planets', 2017, 'Action|Adventure|Sci-Fi'),
 
@@ -19171,7 +19171,7 @@ VALUES
 
 (174551, 'Obsession', 1965, 'Comedy'),
 
-(174681, '"Oh, Hello: On Broadway', 2017, 'Comedy'),
+(174681, 'Oh, Hello: On Broadway', 2017, 'Comedy'),
 
 (174727, 'Good Time', 2017, 'Crime|Drama'),
 
@@ -19191,7 +19191,7 @@ VALUES
 
 (175387, 'On the Trail of the Bremen Town Musicians', 1973, 'Adventure|Animation|Children'),
 
-(175397, '"In the blue sea, in the white foam.', 1984, 'Animation|Children|Fantasy'),
+(175397, 'In the blue sea, in the white foam.', 1984, 'Animation|Children|Fantasy'),
 
 (175401, 'Wolf and Calf', 1984, 'Animation'),
 
@@ -19255,7 +19255,7 @@ VALUES
 
 (177285, 'Sword Art Online The Movie: Ordinal Scale', 2017, 'Action|Adventure|Animation|Fantasy|Sci-Fi'),
 
-(177593, '"Three Billboards Outside Ebbing, Missouri', 2017, 'Crime|Drama'),
+(177593, 'Three Billboards Outside Ebbing, Missouri', 2017, 'Crime|Drama'),
 
 (177615, 'Lady Bird', 2017, 'Comedy'),
 
@@ -19263,11 +19263,11 @@ VALUES
 
 (177765, 'Coco', 2017, 'Adventure|Animation|Children'),
 
-(177939, '"The Night Is Short, Walk on Girl', 2017, 'Animation|Romance'),
+(177939, 'The Night Is Short, Walk on Girl', 2017, 'Animation|Romance'),
 
-(178061, '"I, Tonya', 2017, 'Drama'),
+(178061, 'I, Tonya', 2017, 'Drama'),
 
-(178111, '"Fireworks, Should We See It from the Side or the Bottom?', 2017, 'Animation'),
+(178111, 'Fireworks, Should We See It from the Side or the Bottom?', 2017, 'Animation'),
 
 (178129, 'Adventures in Plymptoons!', 2011, 'Documentary'),
 
@@ -19305,7 +19305,7 @@ VALUES
 
 (179813, 'LBJ', 2017, 'Drama'),
 
-(179815, '"Roman J. Israel, Esq.', 2017, 'Drama|Thriller'),
+(179815, 'Roman J. Israel, Esq.', 2017, 'Drama|Thriller'),
 
 (179817, 'Darkest Hour', 2017, 'Drama|War'),
 
@@ -19415,7 +19415,7 @@ VALUES
 
 (184987, 'A Wrinkle in Time', 2018, 'Adventure|Children|Fantasy|Sci-Fi'),
 
-(184997, '"Love, Simon', 2018, 'Comedy|Drama'),
+(184997, 'Love, Simon', 2018, 'Comedy|Drama'),
 
 (185029, 'A Quiet Place', 2018, 'Drama|Horror|Thriller'),
 
@@ -19425,7 +19425,7 @@ VALUES
 
 (185135, 'Sherlock - A Study in Pink', 2010, 'Crime'),
 
-(185435, '"Game Over, Man!', 2018, 'Action|Comedy'),
+(185435, 'Game Over, Man!', 2018, 'Action|Comedy'),
 
 (185473, 'Blockers', 2018, 'Comedy'),
 

@@ -31,6 +31,7 @@ def parse_line(s):
         title = s[:year_start-1]
         
     title = title.replace("'", "‘")
+    title = title.replace("\"", "")
     if title[-1] == " ":
         title = title[:-1]
     return [id, title, year, genres]
