@@ -38,7 +38,7 @@ echo --------------------------------------------------
 sqlite3 movies_rating.db -box -echo " SELECT movies.title AS Movie, movies.year AS YEAR_, COUNT(movies.title) AS COUNT_, AVG(ratings.rating) AS AVG_ FROM movies INNER JOIN ratings ON movies.id = ratings.movie_id GROUP BY movie_id ORDER BY movies.year, movies.title LIMIT 20;"
 echo " "
 
-echo 7. Определить самый распространенный жанр фильма и количество фильмов в этом жанре.
+echo 8. Определить самый распространенный жанр фильма и количество фильмов в этом жанре.
 echo --------------------------------------------------
 sqlite3 movies_rating.db -box -echo "CREATE VIEW Meow as WITH t(id,gen, rest) AS (SELECT id, null, genres FROM movies UNION ALL SELECT id, CASE WHEN instr(rest,'|') = 0 THEN rest ELSE substr(rest,1,instr(rest,'|')-1) END, CASE WHEN instr(rest,'|')=0 THEN NULL ELSE substr(rest,instr(rest,'|')+1) END FROM t WHERE rest is not NULL ORDER BY id) SELECT gen AS 'Genres', count(id) AS 'Number'  FROM t WHERE gen IS NOT NULL GROUP BY gen; SELECT Genres AS 'The Most Popular Genres', max(Number) AS 'Movies count' FROM Meow; DROP VIEW Meow;"
 echo " "
