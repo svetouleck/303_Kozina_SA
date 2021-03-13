@@ -1,0 +1,186 @@
+1. Составить список фильмов, имеющих хотя бы одну оценку. Список фильмов отсортировать по году выпуска и по названиям. В списке оставить первые 10 фильмов.
+--------------------------------------------------
+SELECT movies.title AS 'Movie', movies.year AS 'Year', COUNT(*) AS 'Ratings count' FROM movies INNER JOIN ratings ON movies.id = ratings.movie_id WHERE movies.year IS NOT NULL  GROUP BY movies.id ORDER BY movies.year, movies.title  LIMIT 10;
+┌───────────────────────────────────────────────────────────────┬──────┬───────────────┐
+│                             Movie                             │ Year │ Ratings count │
+├───────────────────────────────────────────────────────────────┼──────┼───────────────┤
+│ Trip to the Moon, A (Voyage dans la lune, Le)                 │ 1902 │ 1             │
+│ Snow White                                                    │ 1916 │ 1             │
+│ Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das) │ 1920 │ 2             │
+│ Nosferatu (Nosferatu, eine Symphonie des Grauens)             │ 1922 │ 2             │
+│ Battleship Potemkin                                           │ 1925 │ 2             │
+│ By the Law                                                    │ 1926 │ 1             │
+│ Faust                                                         │ 1926 │ 1             │
+│ Secrets of a Soul (Geheimnisse einer Seele)                   │ 1926 │ 1             │
+│ Metropolis                                                    │ 1927 │ 4             │
+│ Ring, The                                                     │ 1927 │ 1             │
+└───────────────────────────────────────────────────────────────┴──────┴───────────────┘
+ 
+2. Вывести список всех пользователей, фамилии (не имена!) которых начинаются на букву 'A'. Полученный список отсортировать по дате регистрации. В списке оставить первых 5 пользователей.
+--------------------------------------------------
+SELECT name AS 'User', register_date AS 'Date' FROM users WHERE instr(name, ' A') <> 0 ORDER BY register_date LIMIT 5;
+┌────────────────────┬────────────┐
+│        User        │    Date    │
+├────────────────────┼────────────┤
+│ Callie Abshire     │ 2005-01-02 │
+│ Jena Abernathy     │ 2006-06-10 │
+│ Deron Altenwerth   │ 2007-05-16 │
+│ Lilliana Abernathy │ 2007-10-25 │
+│ Quinton Anderson   │ 2008-04-04 │
+└────────────────────┴────────────┘
+ 
+3. Написать запрос, возвращающий информацию о рейтингах в более читаемом формате: имя и фамилия эксперта, название фильма, год выпуска, оценка и дата оценки в формате ГГГГ-ММ-ДД. Отсортировать данные по имени эксперта, затем названию фильма и оценке. В списке оставить первые 50 записей.
+--------------------------------------------------
+SELECT users.name AS 'Expert', movies.title AS 'Movie', movies.year AS 'Year', ratings.rating AS Rating, DATE(ratings.timestamp,'unixepoch') AS 'Ratings Date' FROM ratings INNER JOIN users ON ratings.user_id = users.id INNER JOIN movies ON ratings.movie_id = movies.id ORDER BY users.name, movies.title, ratings.rating LIMIT 50;
+┌────────────────┬──────────────────────────────────────────────────────────────────────────┬──────┬────────┬──────────────┐
+│     Expert     │                                  Movie                                   │ Year │ Rating │ Ratings Date │
+├────────────────┼──────────────────────────────────────────────────────────────────────────┼──────┼────────┼──────────────┤
+│ Abel Stark     │ 101 Dalmatians                                                           │ 1996 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Adventures of Pinocchio, The                                             │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Barb Wire                                                                │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Bed of Roses                                                             │ 1996 │ 5.0    │ 1996-12-17   │
+│ Abel Stark     │ Broken Arrow                                                             │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Cable Guy, The                                                           │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Craft, The                                                               │ 1996 │ 5.0    │ 1996-12-17   │
+│ Abel Stark     │ Don‘t Be a Menace to South Central While Drinking Your Juice in the Hood │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Eraser                                                                   │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Executive Decision                                                       │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Father of the Bride Part II                                              │ 1995 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Grumpier Old Men                                                         │ 1995 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Heat                                                                     │ 1995 │ 5.0    │ 1996-12-17   │
+│ Abel Stark     │ Hunchback of Notre Dame, The                                             │ 1996 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Independence Day (a.k.a. ID4)                                            │ 1996 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Juror, The                                                               │ 1996 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Leaving Las Vegas                                                        │ 1995 │ 5.0    │ 1996-12-17   │
+│ Abel Stark     │ Long Kiss Goodnight, The                                                 │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Mission: Impossible                                                      │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Ransom                                                                   │ 1996 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Rock, The                                                                │ 1996 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Screamers                                                                │ 1995 │ 2.0    │ 1996-12-17   │
+│ Abel Stark     │ Spy Hard                                                                 │ 1996 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Sudden Death                                                             │ 1995 │ 2.0    │ 1996-12-17   │
+│ Abel Stark     │ Things to Do in Denver When You‘re Dead                                  │ 1995 │ 3.0    │ 1996-12-17   │
+│ Abel Stark     │ Toy Story                                                                │ 1995 │ 5.0    │ 1996-12-17   │
+│ Abel Stark     │ Trainspotting                                                            │ 1996 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Twelve Monkeys (a.k.a. 12 Monkeys)                                       │ 1995 │ 4.0    │ 1996-12-17   │
+│ Abel Stark     │ Willy Wonka & the Chocolate Factory                                      │ 1971 │ 4.0    │ 1996-12-17   │
+│ Abelardo Kunze │ Arrival                                                                  │ 2016 │ 5.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Avengers, The                                                            │ 2012 │ 2.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Big Hero 6                                                               │ 2014 │ 4.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Brave                                                                    │ 2012 │ 4.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Coraline                                                                 │ 2009 │ 4.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Doctor Strange                                                           │ 2016 │ 4.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Finding Nemo                                                             │ 2003 │ 5.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Frozen                                                                   │ 2013 │ 4.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Gandhi                                                                   │ 1982 │ 4.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Hidden Figures                                                           │ 2016 │ 4.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Hugo                                                                     │ 2011 │ 4.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Inception                                                                │ 2010 │ 3.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Incredibles, The                                                         │ 2004 │ 4.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Inside Out                                                               │ 2015 │ 5.0    │ 2017-06-24   │
+│ Abelardo Kunze │ King‘s Speech, The                                                       │ 2010 │ 4.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Kubo and the Two Strings                                                 │ 2016 │ 5.0    │ 2017-06-24   │
+│ Abelardo Kunze │ La La Land                                                               │ 2016 │ 4.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Lion King, The                                                           │ 1994 │ 5.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Moana                                                                    │ 2016 │ 3.0    │ 2017-06-24   │
+│ Abelardo Kunze │ Mrs. Doubtfire                                                           │ 1993 │ 4.5    │ 2017-06-24   │
+│ Abelardo Kunze │ Paperman                                                                 │ 2012 │ 5.0    │ 2017-06-24   │
+└────────────────┴──────────────────────────────────────────────────────────────────────────┴──────┴────────┴──────────────┘
+ 
+4. Вывести список фильмов с указанием тегов, которые были им присвоены пользователями. Сортировать по году выпуска, затем по названию фильма, затем по тегу. В списке оставить первые 40 записей.
+--------------------------------------------------
+SELECT movies.title AS 'Movie', movies.year AS 'Year', tags.tag FROM tags INNER JOIN movies ON tags.movie_id = movies.id WHERE movies.year IS NOT NULL  ORDER BY movies.year, movies.title, tags.tag LIMIT 40;
+┌───────────────────────────────────────────────────────────┬──────┬───────────────────────┐
+│                           Movie                           │ Year │          tag          │
+├───────────────────────────────────────────────────────────┼──────┼───────────────────────┤
+│ Kid, The                                                  │ 1921 │ orphans               │
+│ Nosferatu (Nosferatu, eine Symphonie des Grauens)         │ 1922 │ vampires              │
+│ Our Hospitality                                           │ 1923 │ In Netflix queue      │
+│ Safety Last!                                              │ 1923 │ Clock                 │
+│ Greed                                                     │ 1924 │ gold                  │
+│ Gold Rush, The                                            │ 1925 │ mining                │
+│ Faust                                                     │ 1926 │ In Netflix queue      │
+│ College                                                   │ 1927 │ In Netflix queue      │
+│ Circus, The                                               │ 1928 │ big top               │
+│ Circus, The                                               │ 1928 │ circus                │
+│ Passion of Joan of Arc, The (Passion de Jeanne d‘Arc, La) │ 1928 │ saint                 │
+│ Andalusian Dog, An (Chien andalou, Un)                    │ 1929 │ mindfuck              │
+│ Andalusian Dog, An (Chien andalou, Un)                    │ 1929 │ surreal               │
+│ Andalusian Dog, An (Chien andalou, Un)                    │ 1929 │ surrealism            │
+│ Blue Angel, The (Blaue Engel, Der)                        │ 1930 │ nightclub             │
+│ Blue Angel, The (Blaue Engel, Der)                        │ 1930 │ singers               │
+│ Divorcee, The                                             │ 1930 │ divorce               │
+│ City Lights                                               │ 1931 │ blind                 │
+│ Frankenstein                                              │ 1931 │ In Netflix queue      │
+│ M                                                         │ 1931 │ atmospheric           │
+│ M                                                         │ 1931 │ chilly                │
+│ M                                                         │ 1931 │ creepy                │
+│ M                                                         │ 1931 │ menacing              │
+│ M                                                         │ 1931 │ mental illness        │
+│ M                                                         │ 1931 │ oninous               │
+│ M                                                         │ 1931 │ serial killer         │
+│ Maltese Falcon, The (a.k.a. Dangerous Female)             │ 1931 │ heist                 │
+│ Farewell to Arms, A                                       │ 1932 │ Hemingway             │
+│ Freaks                                                    │ 1932 │ circus                │
+│ Horse Feathers                                            │ 1932 │ Marx brothers         │
+│ Flying Down to Rio                                        │ 1933 │ Astaire and Rogers    │
+│ Invisible Man, The                                        │ 1933 │ invisibility          │
+│ Gay Divorcee, The                                         │ 1934 │ divorce               │
+│ It Happened One Night                                     │ 1934 │ Screwball             │
+│ Thin Man, The                                             │ 1934 │ Nick and Nora Charles │
+│ Twentieth Century                                         │ 1934 │ In Netflix queue      │
+│ 39 Steps, The                                             │ 1935 │ fugitive              │
+│ Alice Adams                                               │ 1935 │ class                 │
+│ Captain Blood                                             │ 1935 │ swashbuckler          │
+│ Mutiny on the Bounty                                      │ 1935 │ ships                 │
+└───────────────────────────────────────────────────────────┴──────┴───────────────────────┘
+ 
+5. Вывести список самых свежих фильмов. В список должны войти все фильмы последнего года выпуска, имеющиеся в базе данных. Запрос должен быть универсальным, не зависящим от исходных данных (нужный год выпуска должен определяться в запросе, а не жестко задаваться).
+--------------------------------------------------
+SELECT movies.title AS 'Movie', movies.year AS 'Year' FROM movies WHERE year = (SELECT MAX(year) FROM movies)
+┌────────────────────────────────────┬──────┐
+│               Movie                │ Year │
+├────────────────────────────────────┼──────┤
+│ Avengers: Infinity War - Part I    │ 2018 │
+│ Annihilation                       │ 2018 │
+│ The Commuter                       │ 2018 │
+│ Insidious: The Last Key            │ 2018 │
+│ Game Night                         │ 2018 │
+│ Maze Runner: The Death Cure        │ 2018 │
+│ Isle of Dogs                       │ 2018 │
+│ The Clapper                        │ 2018 │
+│ Tom Segura: Disgraceful            │ 2018 │
+│ When We First Met                  │ 2018 │
+│ The Cloverfield Paradox            │ 2018 │
+│ Tomb Raider                        │ 2018 │
+│ Fred Armisen: Standup for Drummers │ 2018 │
+│ Death Wish                         │ 2018 │
+│ A Wrinkle in Time                  │ 2018 │
+│ Love, Simon                        │ 2018 │
+│ A Quiet Place                      │ 2018 │
+│ Alpha                              │ 2018 │
+│ I Kill Giants                      │ 2018 │
+│ Game Over, Man!                    │ 2018 │
+│ Blockers                           │ 2018 │
+│ Pacific Rim: Uprising              │ 2018 │
+│ Rampage                            │ 2018 │
+│ Jurassic World: Fallen Kingdom     │ 2018 │
+│ Incredibles 2                      │ 2018 │
+│ Deadpool 2                         │ 2018 │
+│ Solo: A Star Wars Story            │ 2018 │
+│ Won‘t You Be My Neighbor?          │ 2018 │
+│ Sorry to Bother You                │ 2018 │
+│ Ant-Man and the Wasp               │ 2018 │
+│ Dogman                             │ 2018 │
+│ Mamma Mia: Here We Go Again!       │ 2018 │
+│ Tag                                │ 2018 │
+│ The Man Who Killed Don Quixote     │ 2018 │
+│ Boundaries                         │ 2018 │
+│ Spiral                             │ 2018 │
+│ Mission: Impossible - Fallout      │ 2018 │
+│ SuperFly                           │ 2018 │
+│ BlacKkKlansman                     │ 2018 │
+│ The Darkest Minds                  │ 2018 │
+│ Bungo Stray Dogs: Dead Apple       │ 2018 │
+└────────────────────────────────────┴──────┘
+ 

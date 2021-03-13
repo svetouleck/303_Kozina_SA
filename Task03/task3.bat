@@ -8,7 +8,7 @@ echo --------------------------------------------------
 sqlite3 movies_rating.db -box -echo " SELECT movies.title AS 'Movie', movies.year AS 'Year', COUNT(*) AS 'Ratings count' FROM movies INNER JOIN ratings ON movies.id = ratings.movie_id WHERE movies.year IS NOT NULL  GROUP BY movies.id ORDER BY movies.year, movies.title  LIMIT 10;"
 echo " "
 
-echo 2. Вывести список всех пользователей, фамилии (не имена!) которых начинаются на букву 'A'. Полученный список отсортировать по дате регистрации. В списке оставить первых 5 пользователей.
+echo "2. Вывести список всех пользователей, фамилии (не имена!) которых начинаются на букву 'A'. Полученный список отсортировать по дате регистрации. В списке оставить первых 5 пользователей."
 echo --------------------------------------------------
 sqlite3 movies_rating.db -box -echo " SELECT name AS 'User', register_date AS 'Date' FROM users WHERE instr(name, ' A') <> 0 ORDER BY register_date LIMIT 5;"
 echo " "
@@ -23,7 +23,7 @@ echo --------------------------------------------------
 sqlite3 movies_rating.db -box -echo " SELECT movies.title AS 'Movie', movies.year AS 'Year', tags.tag FROM tags INNER JOIN movies ON tags.movie_id = movies.id WHERE movies.year IS NOT NULL  ORDER BY movies.year, movies.title, tags.tag LIMIT 40;"
 echo " "
 
-echo 5. Вывести список самых свежих фильмов. В список должны войти все фильмы последнего года выпуска, имеющиеся в базе данных. Запрос должен быть универсальным, не зависящим от исходных данных (нужный год выпуска должен определяться в запросе, а не жестко задаваться).
+echo "5. Вывести список самых свежих фильмов. В список должны войти все фильмы последнего года выпуска, имеющиеся в базе данных. Запрос должен быть универсальным, не зависящим от исходных данных (нужный год выпуска должен определяться в запросе, а не жестко задаваться)."
 echo --------------------------------------------------
 sqlite3 movies_rating.db -box -echo " SELECT movies.title AS 'Movie', movies.year AS 'Year' FROM movies WHERE year = (SELECT MAX(year) FROM movies)"
 echo " "

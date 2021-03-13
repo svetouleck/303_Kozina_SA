@@ -5,12 +5,42 @@ import re
 
 def parse_line(s):
     #выделение id
-    id_end = re.match(r'\d*', s).end()
-    id = s[:id_end]
+    ind = s.find(",")
+    id = s[:ind]
+    s = s[ind+1:]
+    
+    #выделение genres
+    ind = s.rfind(",")
+    genres = s[ind+1:]
+    s = s[:ind]
+    if genres == '(no genres listed)':
+        genres = "NULL"
+    
+    title="NULL"
+    year = "NULL"
+    
+    if re.search(r'[(]\d\d\d\d[)]',s) is None:
+        title_end = s.rfind(",")
+        title = s[: title_end]
+    else:
+        #выделение year
+        year_end = re.search(r'[(]\d\d\d\d[)]',s).end()
+        year_start = re.search(r'[(]\d\d\d\d[)]',s).start()
+        year = s[year_start+1:year_end-1]
+        #выделение title 
+        title = s[:year_start-1]
+        
+    title = title.replace("'", "‘")
+    title = title.replace("\"", "")
+    if title[-1] == " ":
+        title = title[:-1]
+    return [id, title, year, genres]
+    """
     #выделение year
     year = "NULL"
     title = "NULL"
     genres = "NULL"
+    
     if re.search(r'[(]\d\d\d\d[)]',s) is None:
         if re.search(r'(no genres listed)', s) is None:
             title_end = s.rfind(",")
@@ -27,12 +57,10 @@ def parse_line(s):
         genres = s[year_end+1:]
         #выделение title 
         title = s[id_end+1:year_start-1]
-
-    title = title.replace("'", "‘")
-    if title[-1] == " ":
-        title = title[:-1]
+        
+    
     return [id, title, year, genres]
-
+"""
 
 
 with open("db_init.sql", "w", encoding="utf-8") as fout:
@@ -57,7 +85,7 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
           file=fout)
     
     
-    
+  
     # парсинг файла movies.csv и заполнение таблицы movies
     print("INSERT INTO movies (id, title, year, genres)\n", file=fout)
     print(f"VALUES ", file=fout)
@@ -68,15 +96,12 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
         for i in range(len(file)):
             #data.append(parse_line(row[:-1]))
             item = parse_line(file[i][:-1])
-            item[1] = item[1].replace("\"", "")
-            item[3] = item[3].replace(",", "")
             if i != len(file)-1:
                 print(f"({item[0]}, '{item[1]}', {item[2]}, '{item[3]}'),\n", file=fout)
             else:
                 print(f"({item[0]}, '{item[1]}', {item[2]}, '{item[3]}');\n", file=fout) 
                 
-                
-                
+             
     # парсинг файла ratings.csv и заполнение таблицы ratings
     print("INSERT INTO ratings (id, user_id, movie_id, rating, timestamp)\n", file=fout)
     print(f"VALUES", end=" ", file=fout)
@@ -123,6 +148,5 @@ with open("db_init.sql", "w", encoding="utf-8") as fout:
                 print(f"( {item[0]}, '{item[1]}', '{item[2]}', '{item[3]}', '{item[4]}', '{item[5]}'),\n", file=fout)
             else:
                 print(f"( {item[0]}, '{item[1]}', '{item[2]}', '{item[3]}', '{item[4]}', '{item[5]}');\n", file=fout) 
-                
-                
+                      
                 
