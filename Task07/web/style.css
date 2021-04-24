@@ -74,11 +74,11 @@ select{
 
 #content{
     /*border: 1px solid white;*/
-    height: 70%;
+    height: 73%;
     width: 93%;
-    display: flex;
+    /*display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: flex-start;*/
     overflow: auto;
     margin-bottom: 10px;
     
@@ -86,7 +86,7 @@ select{
 
 .input-table{
     /*border: 1px solid white;*/
-    height: 100%;
+    
     width: 100%;
 
     font-weight: 500;
@@ -100,15 +100,21 @@ select{
 
 td{
     padding-left: 10px;
+    max-height: 10px;
+
     /*background: blue;*/
 }
+
 
 tr{
     background: rgba(196, 196, 196, 0.06);
     box-shadow: 0px 1.73647px 60.8236px rgba(0, 0, 0, 0.25);
     border-radius: 8.68236px;
-    height: 10px;
     width: 100%;
+}
+
+tr:first-child{
+    background-color: #181818;
 }
 
 #content::-webkit-scrollbar{

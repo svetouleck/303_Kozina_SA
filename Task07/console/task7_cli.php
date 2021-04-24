@@ -19,63 +19,40 @@ $query_base = "SELECT master.id AS 'master_id',
     ON service.id_service_unique = service_unique.id \n";
 
 
-$mode = 10;
+$query = $query_base . " ORDER BY 'master', 'date'";
+ $statement = $pdo->query($query);
+$rows = $statement->fetchAll();
+draw_table($rows);
+$statement->closeCursor();
 
-while ($mode != 0){
+$query_master_id = "SELECT id AS 'master_id',
+    last_name || ' ' || name || ' ' || patronymic AS 'master'
+    FROM master";
+
+$statement = $pdo->query($query_master_id);
+$masters_id = $statement->fetchAll();
+draw_table($masters_id);
+$statement->closeCursor();                    
+
+$check_id = readline("id мастера: ");
+
+if (!id_validation($check_id, $masters_id)) {
+    echo "\n Мастера с таким id в базе данных нет \n";
+ } else {
+
     echo "\n";
-    echo "Выберите операцию: \n";
-    echo "1. Вывести всю информацию об оказанных услугах \n";
-    echo "2. Вывести информацию об услугах конкретного мастера \n";
-    echo "0. Выход \n";
-    echo "\n";
-
-    $mode = readline();
-
-    switch ($mode){
-        case 1:
-            $query = $query_base . " ORDER BY 'master', 'date'";
-            $statement = $pdo->query($query);
-            $rows = $statement->fetchAll();
-            draw_table($rows);
-            $statement->closeCursor();
-            break;
-
-        case 2:
-            $query_master_id = "SELECT id AS 'master_id',
-                                        last_name || ' ' || name || ' ' || patronymic AS 'master'
-                                FROM master";
-
-            $statement = $pdo->query($query_master_id);
-            $masters_id = $statement->fetchAll();
-            draw_table($masters_id);
-            $statement->closeCursor();                    
-
-            $check_id = readline("id мастера: ");
-
-            if (!id_validation($check_id, $masters_id)) {
-                echo "\n Мастера с таким id в базе данных нет \n";
-                break;
-            }
-
-            echo "\n";
-            $master_query = $query_base . "WHERE master.id = :check_id
-                                      ORDER BY 'master', 'date' ";
+    $master_query = $query_base . "WHERE master.id = :check_id
+                                   ORDER BY 'master', 'date' ";
             
-            $statement = $pdo->prepare($master_query);
-            $statement->execute(['check_id' => $check_id]);
-            $rows = $statement->fetchAll();
+    $statement = $pdo->prepare($master_query);
+    $statement->execute(['check_id' => $check_id]);
+    $rows = $statement->fetchAll();
 
-            if (!empty($rows))
-                draw_table($rows);
-            else echo "Информации об оказанных услугах этого мастера у нас нет \n";
-            $statement->closeCursor();
-            break;
-
-        default:
-            break;
-
+    if (!empty($rows))
+        draw_table($rows);
+    else echo "Информации об оказанных услугах этого мастера у нас нет \n\n";
+         $statement->closeCursor();
     }
-}
 
 
 function draw_table($table) {

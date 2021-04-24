@@ -1,7 +1,7 @@
 <?php
 $pdo = new PDO('sqlite:../database/vehicle_inspection.db');
 
-$query_base = "SELECT master.id AS 'master_id',
+$query_base = "SELECT master.id AS 'id',
                  master.last_name || ' ' || master.name || ' ' || master.patronymic AS 'master',
                  work_accounting.date AS 'date',
                  service_unique.name AS 'service_name',
@@ -43,7 +43,7 @@ switch ($mode){
 
 function masters_id($pdo){
 
-    $query_master_id = "SELECT id AS 'master_id',
+    $query_master_id = "SELECT id AS 'id',
         last_name || ' ' || name || ' ' || patronymic AS 'master'
         FROM master";
 
@@ -52,7 +52,7 @@ function masters_id($pdo){
     $masters_id = $statement->fetchAll();
 
     foreach ($masters_id as $rows){
-        print_r($rows['master_id'] . "|". $rows['master'] . "\n");
+        print_r($rows['id'] . "|". $rows['master'] . "\n");
     }
 
     $statement->closeCursor();
@@ -60,7 +60,7 @@ function masters_id($pdo){
 
 function showDataBase($pdo, $query_base){
     
-    $query = $query_base . " ORDER BY 'master', 'date'";
+    $query = $query_base . " ORDER BY master, date";
     $statement = $pdo->query($query);
     $table = $statement->fetchAll();
     //print_r($rows);
@@ -71,7 +71,12 @@ function showDataBase($pdo, $query_base){
     for ($i = 0; $i < $columns_count*2; $i+=2){
         $columns_names[$i/2] = array_keys($table[0])[$i];
     }
-    //print_r($columns_names);
+    $item = '';
+        foreach ($columns_names as $column){
+            //print_r($column);
+            $item = $item . " | " . $column;
+        }
+        print_r($item . "\n");
 
     foreach ($table as $rows){
         $item = '';
@@ -89,7 +94,7 @@ function showDataBase($pdo, $query_base){
 function masters_by_id($pdo, $query_base, $check_id){
 
     $master_query = $query_base . "WHERE master.id = :check_id
-                                  ORDER BY 'master', 'date' ";
+                                  ORDER BY master, date ";
 
     $statement = $pdo->prepare($master_query);
     $statement->execute(['check_id' => $check_id]);
@@ -103,6 +108,13 @@ function masters_by_id($pdo, $query_base, $check_id){
         for ($i = 0; $i < $columns_count*2; $i+=2){
             $columns_names[$i/2] = array_keys($table[0])[$i];
         }
+
+        $item = '';
+        foreach ($columns_names as $column){
+            //print_r($column);
+            $item = $item . " | " . $column;
+        }
+        print_r($item . "\n");
 
         foreach ($table as $rows){
             $item = '';

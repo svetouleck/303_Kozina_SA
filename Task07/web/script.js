@@ -1,6 +1,6 @@
 
 function ready() {
-    fetch('index.php?mode=masters_id')
+    fetch('back.php?mode=masters_id')
                 .then((response) => {
                     return response.text();
                 })
@@ -21,7 +21,7 @@ function getByMasterId(){
     let id = document.getElementById('master').value;
     //console.log(id);
 
-    fetch('index.php?mode=getByMastersId', {
+    fetch('back.php?mode=getByMastersId', {
                         method: 'POST',
                         body: id,
                 })
@@ -78,7 +78,7 @@ function ShowTable(dataByTable){
         let row = `<td>${dataByTable[i][1]}</td>\n`;
 
         for (j = 2; j < dataByTable[i].length; j++){
-            row += `<td id='x'>${dataByTable[i][j]}</td>\n`;
+            row += `<td id='x'> <label>${dataByTable[i][j]}</label></td>\n`;
         }
         tableBlock += `<tr scope="row"> ${row} </tr>`;
     }
