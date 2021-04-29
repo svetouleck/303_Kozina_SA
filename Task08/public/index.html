@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel='stylesheet' href='style.css'>
+    
+</head>
+<body>
+    <div class="content">
+        <div class="person-info">
+            <label> 1. Personal Information </label><br>
+            <input type='text' id='name' placeholder='Name*'><br>
+            <input type='text' id='last-name' placeholder='Last name*'><br> 
+            <input type='text' id='patronymic' placeholder='Patronymic'><br>
+            <div class="gender">
+                <p><input type="radio" name='gender' id="male" checked>Male</p>
+                <p><input type="radio" name='gender' id="female">Female</p>
+            </div>
+            <select id = "specialization">
+                <option value='all'>Specialization*</option>
+            </select><br>
+            <input type='text' id='percent' placeholder='percent of profit*'><br>
+        </div>
+        <div class="work-info">
+            <label > 2. Work Skills </label><br>
+            <div id="lists">
+                
+            </div><br>
+            <label onclick='addServiceChoice()'>add item</label>
+        </div>
+        <input type='button' value='register' onclick="submitData()">
+    </div>
+    <script src='script.js'> </script>
+</body>
+</html>
