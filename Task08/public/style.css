@@ -7,11 +7,23 @@ body{
     margin: 0;
 
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
 }
 
-.content{
+#menu{
+    width: 29%;
+}
+
+#menu-on{
+    transform: rotate(-90deg);
+}
+
+#menu-off{
+    transform: rotate(90deg);
+}
+
+#content{
     width: 64%;
     height: 86%;
 
@@ -30,4 +42,11 @@ body{
 
 .work-info{
     /*border: 1px solid white;*/
+}
+
+
+
+.period:focus{
+    border: 1px solid blue;
+
 }

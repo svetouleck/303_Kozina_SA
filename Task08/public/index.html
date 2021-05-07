@@ -10,29 +10,11 @@
     
 </head>
 <body>
-    <div class="content">
-        <div class="person-info">
-            <label> 1. Personal Information </label><br>
-            <input type='text' id='name' placeholder='Name*'><br>
-            <input type='text' id='last-name' placeholder='Last name*'><br> 
-            <input type='text' id='patronymic' placeholder='Patronymic'><br>
-            <div class="gender">
-                <p><input type="radio" name='gender' id="male" checked>Male</p>
-                <p><input type="radio" name='gender' id="female">Female</p>
-            </div>
-            <select id = "specialization">
-                <option value='all'>Specialization*</option>
-            </select><br>
-            <input type='text' id='percent' placeholder='percent of profit*'><br>
-        </div>
-        <div class="work-info">
-            <label > 2. Work Skills </label><br>
-            <div id="lists">
-                
-            </div><br>
-            <label onclick='addServiceChoice()'>add item</label>
-        </div>
-        <input type='button' value='register' onclick="submitData()">
+    <div id="menu">
+        <img id='menu-on' src="list-img.png"> 
+    </div>
+    <div id="content" data-scrollbar>
+        
     </div>
     <script src='script.js'> </script>
 </body>
