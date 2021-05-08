@@ -19,34 +19,34 @@ function masterForm(){
         `
     }
     let block = `
-    <div class="person-info">
-            <label> 1. Personal Information </label><hr><br>
-            <input type='text' id='name' placeholder='Name*'><br>
-            <input type='text' id='last-name' placeholder='Last name*'><br> 
-            <input type='text' id='patronymic' placeholder='Patronymic'><br>
-            <div class="gender">
-                <p><input type="radio" name='gender' id="male" checked>Male</p>
-                <p><input type="radio" name='gender' id="female">Female</p>
-            </div>
-            <select id = "specialization">
-                <option value='all'>Specialization*</option>
-            </select><br>
-            <input type='number' id='percent' placeholder='percent of profit*'><br>
-        </div>
-        <div class="shedule">
-            <label>2. Schedule information<hr></label>
-            <div id="week">
-                ${weekBlock}
-            </div>
-        </div>
-        <div class="work-info">
-            <label > 3. Work Skills </label><hr><br>
-            <div id="lists">
-                
+        <div class='person-info'>
+                <label class='rl'> 1. Personal Information </label><hr><br>
+                <input type='text' id='name' placeholder='Name*'><br>
+                <input type='text' id='last-name' placeholder='Last name*'><br> 
+                <input type='text' id='patronymic' placeholder='Patronymic'><br>
+                <div class="gender">
+                    <p><input type="radio" name='gender' id="male" checked>Male</p>
+                    <p><input type="radio" name='gender' id="female">Female</p>
+                </div>
+                <select id = "specialization">
+                    <option value='all'>Specialization*</option>
+                </select><br>
+                <input type='number' id='percent' placeholder='percent of profit*'><br>
             </div><br>
-            <label id='add'>add item</label>
-        </div>
-        <input type='button' id='btn' value='register'">
+            <div class="shedule">
+                <label class='rl'>2. Schedule information</label><hr><br>
+                <div id="week">
+                    ${weekBlock}
+                </div>
+            </div><br>
+            <div class="work-info">
+                <label class='rl'> 3. Work Skills </label><hr><br>
+                <div id="lists">
+                    
+                </div><br>
+                <label id='add'>add item</label>
+            </div><br>
+            <input type='button' id='btn' value='register'">
     `
     document.getElementById("content").innerHTML = block;
     document.addEventListener("DOMContentLoaded", evaluateLists);
@@ -215,8 +215,8 @@ function masterForm(){
                         return response.text();
                     })
                     .then((data) => {
-                        //console.log(data);
-                        //parseService(data);
+                        alert("Информация успешно внесена в БД!")
+            
                     });
 
 
@@ -378,8 +378,7 @@ function preEntryForm() {
                 return response.text();
             })
             .then((data) => {
-                //console.log(data);
-                //evaluatePeriods(data['periods']);
+                alert("Информация успешно внесена в БД!")
             });
     }
 
