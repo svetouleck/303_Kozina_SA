@@ -39,7 +39,8 @@ $sql = $pdo->prepare("SELECT work_schedule.id AS id,
                          work_schedule.end_time AS end_time
                       FROM work_schedule INNER JOIN week_days
                       ON work_schedule.id_day = week_days.id
-                      WHERE id_master = ?");
+                      WHERE id_master = ?
+                      ORDER BY week_days.id");
 $sql->execute([$master_id]);
 $result = $sql->fetchAll();
 
