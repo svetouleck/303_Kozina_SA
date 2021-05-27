@@ -71,9 +71,17 @@ session_start();
             <div class="form-group ">
                 <select name="day" class="form-control" required>
                   <option value="" disabled selected> День недели </option>
-                  <?php foreach ($week_days as $day) { ?>
-                  <option value='<?=$day['id']?>'> <?=$day['day']?></option>
-                  <?php } ?>
+                  <?php foreach ($week_days as $day) { 
+                      $k = 0;
+                      foreach ($result as $value){
+                        if ($value['day'] == $day['day']) $k++;
+                        
+                      }
+                      if ($k==0){
+                        ?>
+                      <option value='<?=$day['id']?>'> <?=$day['day']?></option>
+                      <?php } } ?>
+ 
                 </select>
             </div>
 
